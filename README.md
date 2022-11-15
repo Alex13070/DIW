@@ -1,2 +1,2 @@
 # DIW
-Pa diw
+Repositorio para el código de DIW
