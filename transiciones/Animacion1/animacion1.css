@@ -30,18 +30,18 @@ h3{
     justify-content: center;
     background-color: cornflowerblue;
     border-radius: 50%;
-    animation: mover 3s alternate infinite;
+    animation: mover 3s  infinite;
 }
 
 @keyframes mover {
     0%{
-        transform: translate(0%);
-        background-color: #fdfe40;
-        background-image: linear-gradient(90deg, #fdfe40 0%, #121112 100%);
+        transform: translate(0%, 0%);
+        background-color: #FF3CAC;
+        background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
 
     }
     25%{
-        transform: translate(0%,0%);
+        transform: translate(100%,0%);
         background-color: #FF9A8B;
         background-image: linear-gradient(90deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%);
 
@@ -57,7 +57,7 @@ h3{
         background-color: black;
     }
     100%{
-        transform: translate(100%,0%);
+        transform: translate(0%,0%);
         background-color: #FF3CAC;
         background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
 
