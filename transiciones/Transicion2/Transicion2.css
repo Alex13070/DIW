@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+div{
+    width: 80%;
+    height: 100%;
+}
+  
+h3{
+    color: white;
+}
+
+#t2{
+    margin-top: 10%;
+    border: none;
+    width: 400px;
+    height: 400px;
+    background: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition-property: border-radius , transform;
+    transition-duration: 2s;
+    transition: all 2s;
+}
+
+
+#t2:hover {
+    border-radius: 50%;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    transform: translate(700px)
+}
