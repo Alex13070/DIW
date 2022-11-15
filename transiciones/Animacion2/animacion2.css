@@ -30,16 +30,6 @@ body{
     animation: animate 4s linear infinite;
 }
 
-@keyframes animate{
-    0%{
-        transform: rotate(0deg);
-    }
-
-    100%{
-        transform: rotate(360deg);
-    }
-}
-
 .container .anillo::before{
     content: '';
     position: absolute;
@@ -80,16 +70,6 @@ body{
     0 0 50px #93ff2d;
 }
 
-@keyframes animate2{
-    0%{
-        transform: rotate(360deg);
-    }
-
-    100%{
-        transform: rotate(0deg);
-    }
-}
-
 .container .anillo:nth-child(3){
     animation: animate2 4s linear infinite;
     animation-delay: -3s;
@@ -109,7 +89,7 @@ body{
     width: 15px;
     height: 15px;
     background: #e41cf8;
-    box-shadow: 0 0 0 5px #e41cf833,
+    box-shadow: 0 0 0 5px #e41cf833, 
     0 0 0 10px #e41cf822,
     0 0 0 10px #e41cf811,
     0 0 20px #e41cf8,
@@ -124,3 +104,23 @@ body{
     bottom: -80px;
     letter-spacing: 0.15em;
 }
+
+@keyframes animate2{
+    0%{
+        transform: rotate(360deg);
+    }
+
+    100%{
+        transform: rotate(0deg);
+    }
+} 
+
+@keyframes animate{
+    0%{
+        transform: rotate(0deg);
+    }
+
+    100%{
+        transform: rotate(360deg);
+    }
+} 
