@@ -1,0 +1,48 @@
+.contenedor{
+    border: 1px solid black;
+    width: 100%;
+    background: lightgray;
+    height: 200px;
+}
+
+.logo img{
+    width: 15%;
+    aspect-ratio: 3/2;
+    object-fit: contain;
+    mix-blend-mode: color-burn;
+}
+
+.search-bar{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+input{
+    margin: 0 0 0 5px;
+}
+
+input.src{
+    /*padding: 9px 10px 9px 26px; Esto para la transicion*/
+    padding: 9px 10px 9px 32px;
+    outline: none;
+    font-size: 18px;
+    border-radius: 40px;
+    color: #444;
+    border: 3px solid rgba(0, 0, 0, 1.5);
+    background: #fff url("/img/search-icon.png") no-repeat 9px center;
+    /*width: 1px; Transicion*/
+    width: 30vw;
+    transition: all .5s;
+}
+
+/*
+input.src:hover{
+    width: 180px;
+    background-color: #fff;
+    border-color: #8c10b3;
+    box-shadow: 0 0 5px #6dcff680;
+}
+
+*/
