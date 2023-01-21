@@ -1,21 +1,30 @@
-.contenedor{
-    border: 1px solid black;
-    width: 100%;
+nav{
+    width: 99vw;
     background: lightgray;
-    height: 200px;
+    height: 15vh;
+}
+
+.logo,.carro{
+    width: 20vw;
 }
 
 .logo img{
-    width: 15%;
+    margin-top: 1vh;
+    width: 13vw;
+    height: 13vh;
     aspect-ratio: 3/2;
     object-fit: contain;
-    mix-blend-mode: color-burn;
+    /*mix-blend-mode: color-burn;*/
 }
 
+
+/*
+* Barra buscadora
+*/
 .search-bar{
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 7.5vh;
+    left: 30vw;
     transform: translate(-50%,-50%);
 }
 
@@ -44,5 +53,4 @@ input.src:hover{
     border-color: #8c10b3;
     box-shadow: 0 0 5px #6dcff680;
 }
-
 */
