@@ -1,7 +1,16 @@
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+}
+
 nav{
-    width: 99vw;
+    display: flex;
+    justify-content: space-between;
+    min-width: 100vw;
     background: lightgray;
-    height: 15vh;
+    min-height: 10vh;
 }
 
 .logo,.carro{
@@ -11,46 +20,111 @@ nav{
 .logo img{
     margin-top: 1vh;
     width: 13vw;
-    height: 13vh;
-    aspect-ratio: 3/2;
+    height: 8vh;
     object-fit: contain;
-    /*mix-blend-mode: color-burn;*/
 }
 
 
 /*
 * Barra buscadora
 */
-.search-bar{
+.form{
+    left: -70%;
+    width: 35vw;
+    position: relative;
+}
+
+.form .fa-search{
+
     position: absolute;
-    top: 7.5vh;
-    left: 30vw;
-    transform: translate(-50%,-50%);
+    top:20px;
+    left: 20px;
+    color: #9ca3af;
+
 }
 
-input{
-    margin: 0 0 0 5px;
+.form span{
+
+    position: absolute;
+    right: 17px;
+    top: 13px;
+    padding: 2px;
+    border-left: 1px solid #d1d5db;
+
 }
 
-input.src{
-    /*padding: 9px 10px 9px 26px; Esto para la transicion*/
-    padding: 9px 10px 9px 32px;
-    outline: none;
-    font-size: 18px;
-    border-radius: 40px;
-    color: #444;
-    border: 3px solid rgba(0, 0, 0, 1.5);
-    background: #fff url("/img/search-icon.png") no-repeat 9px center;
-    /*width: 1px; Transicion*/
-    width: 30vw;
-    transition: all .5s;
+.left-pan{ 
+    padding-left: 7px;
 }
 
-/*
-input.src:hover{
-    width: 180px;
-    background-color: #fff;
-    border-color: #8c10b3;
-    box-shadow: 0 0 5px #6dcff680;
+.left-pan i{
+   padding-left: 10px;
 }
-*/
+
+.form-input{
+    
+    height: 55px;
+    text-indent: 33px;
+    border-radius: 10px;
+}
+
+.form-input:focus{
+
+    box-shadow: none;
+    border:none;
+}
+
+.carro img{
+    margin-left: 5vw;
+    margin-top: 1vh;
+    width: 13vw;
+    height: 8vh;
+    object-fit: contain;
+    mix-blend-mode: lighten;
+}
+
+
+@media (max-width: 768px){
+    nav{
+        display: grid;
+        
+    }
+    .form{
+        margin-top: 2vh;
+        margin-left: 88vw;
+    }
+    .carro img{
+        margin-left: -2%;
+    }
+}
+
+@media (max-width: 655px){
+    nav{
+        display: grid;
+        
+    }
+    .form{
+        margin-top: 2vh;
+        margin-left: 120vw;
+        width: 50vw;
+    }
+    .carro img{
+        margin-left: -2%;
+    }
+}
+
+
+@media (max-width: 457px){
+    nav{
+        display: grid;
+        
+    }
+    .form{
+        margin-top: 2vh;
+        margin-left: 140vw;
+        width: 60vw;
+    }
+    .carro img{
+        margin-left: -2%;
+    }
+}
