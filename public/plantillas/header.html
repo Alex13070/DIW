@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../css/barra-buscadora.css">
+    <link rel="stylesheet" href="../css/header.css">
+    <link rel="stylesheet" href="../css/bootstrap.css">
+</head>
+
+<body>
+
+    <header>
+        <nav class="topnav" id="myTopnav">
+            <div class="nav-item align-left">
+                <div class="centrar-nav">
+                    <a href="#home" class="active"><img class="logo" src="../img/logoEditado.png" alt="logo"></a>
+                </div>
+            </div>
+
+            <div class="nav-item centro">
+                <div class="centrar-nav ">
+                    <div class="caja-buscador">
+                        <form action="hola.php" method="get" class="buscador">
+                            <input id="search" type="search" placeholder="Escriba el producto que quiere buscar" autofocus required />
+                            <button class="buscador-enviar" type="submit"><i class="fa fa-search text-white icono-buscar"></i></button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <div class="nav-item align-left">
+                <div class="centrar-nav">
+                    <a href="#news"><i class="fas fa-shopping-cart"></i></a>
+                </div>
+            </div>
+
+            <div class="nav-item align-right">
+                <div class="centrar-nav">
+                    <a href="#about">Registrate</a>
+                </div>
+            </div>
+
+            <div class="nav-item align-right">
+                <div class="centrar-nav">
+                    <a href="#about">Inicia sesión</a>
+                </div>
+            </div>
+
+            <div class="icon nav-item">
+                <div class="centrar-nav">
+                    <button class="boton-menu-responsive" onclick="javascript:responsiveHeader()"><i class="fa fa-bars"></i></button>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    
+
+    <script src="../js/fontAwesome.js"></script>
+    <script src="../js/script.js"></script>
+
+</body>
+
+</html>

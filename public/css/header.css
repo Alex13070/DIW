@@ -1,0 +1,146 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.topnav .nav-item {
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav div.align-left:hover div:hover a,
+.topnav div.align-left:hover,
+.topnav div.align-right:hover div:hover a,
+.topnav div.align-right:hover,
+.topnav div.icon:hover,
+.topnav div.icon:hover div:hover button {
+    background-color: #ddd;
+    color: black;
+}
+
+
+.topnav .icon {
+    display: none;
+}
+
+@media screen and (max-width: 800px) {
+    .topnav div:not(:first-child) {
+        display: none;
+    }
+
+    .topnav div.icon {
+        float: right;
+        display: block;
+    }
+
+    .align-right {
+        float: none !important;
+    }
+
+    .topnav.responsive .barra-buscadora {
+        position: relative;
+    }
+
+    .topnav.responsive .icon {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+
+    .topnav.responsive .nav-item, .topnav.responsive .barra-buscadora{
+        float: none;
+        display: block;
+        text-align: left;
+    }
+
+    .barra-buscadora {
+        left: 0vw !important;
+        text-align: center;  
+        width: 100% !important;    
+    }
+
+    .caja-buscador {
+        width: 90vw !important;
+    }
+
+    .centro {
+        position: relative !important;
+        left: 0% !important;
+        right: 0 !important;
+    }
+
+}
+
+.boton-menu-responsive {
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+    color: white;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+.nav-item > div > a {
+    padding: 0px 15px 0px 15px;
+    text-decoration: none;
+    color: white;
+}
+
+.nav-item,
+.nav-item>a {
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+}
+
+.centrar-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+}
+
+.icon {
+    padding: 0px;
+    height: 60px;
+    width: 60px;
+}
+
+.align-right {
+    float: right;
+}
+
+.align-left {
+    float: left;
+}
+
+.barra-buscadora {
+    position: fixed;
+    left: 35vw;
+    right: 35vw;
+    text-align: center;  
+    width: 30vw;        
+}
+
+.caja-buscador {
+    text-align: left !important;
+    width: 40vw;
+}
+
+.centro {
+    left: 20%;
+    position: absolute;
+    right: 20%;
+}
+
