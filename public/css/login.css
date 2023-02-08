@@ -1,0 +1,47 @@
+:root {
+    --bg-color: rgb(250, 250, 254);
+}
+
+body{
+    background-color: var(--bg-color);
+}
+.container{
+    margin-top: 22vh;
+}
+.campo{
+    padding-bottom: 2vh;
+    text-align: right;
+}
+.barra{
+    display: flex;
+    justify-content:center;
+    margin-top: 1vh;
+}
+hr{
+    width: 100vw;
+    z-index: 1;
+}
+h3{
+    text-align: center;
+}
+h5{
+    position: absolute;
+    background-color: var(--bg-color);
+    padding: 5px;
+    z-index: 2;
+    margin-top: -2px;
+}
+input{
+    padding-left: 10px;
+    border-radius: 5px;
+    border: .2px solid ;
+    width: 100%;
+}
+@media screen and (max-width: 767px) {
+    .campo{
+        text-align: left;
+    }
+    label{
+        padding-bottom: 1vh;
+    }
+}
