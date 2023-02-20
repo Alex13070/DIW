@@ -1,0 +1,1296 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 6,
+    "credits_remaining": 94,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "amazon_domain": "amazon.es",
+    "asin": "B0B8HG8W8Y",
+    "include_summarization_attributes": "false",
+    "language": "es_ES",
+    "include_a_plus_body": "false",
+    "currency": "eur",
+    "include_html": "false",
+    "output": "json"
+  },
+  "request_metadata": {
+    "created_at": "2023-02-19T23:02:07.883Z",
+    "processed_at": "2023-02-19T23:02:13.741Z",
+    "total_time_taken": 5.86,
+    "amazon_url": "https://www.amazon.es/dp/B0B8HG8W8Y?th=1&psc=1&language=es_ES"
+  },
+  "product": {
+    "title": "OPPO Reno8 Pro 5G - Teléfono Móvil Libre, 8GB+256GB, Cámara 50+8+2+32MP, Smartphone Android, Batería 4500mAh, Carga Rápida 80W, Dual SIM - Verde Reno 8 Pro Verde",
+    "search_alias": {
+      "title": "Electrónica",
+      "value": "electronics"
+    },
+    "title_excluding_variant_name": "OPPO Reno8 Pro 5G - Teléfono Móvil Libre, 8GB+256GB, Cámara 50+8+2+32MP, Smartphone Android, Batería 4500mAh, Carga Rápida 80W, Dual SIM - Verde",
+    "keywords": "OPPO,Reno8,Pro,5G,-,Teléfono,Móvil,Libre,,8GB+256GB,,Cámara,50+8+2+32MP,,Smartphone,Android,,Batería,4500mAh,,Carga,Rápida,80W,,Dual,SIM,-,Verde",
+    "keywords_list": [
+      "OPPO",
+      "Reno8",
+      "Teléfono",
+      "Móvil",
+      "Libre",
+      "8GB+256GB",
+      "Cámara",
+      "50+8+2+32MP",
+      "Smartphone",
+      "Android",
+      "Batería",
+      "4500mAh",
+      "Carga",
+      "Rápida",
+      "Dual",
+      "Verde"
+    ],
+    "asin": "B0B8HG8W8Y",
+    "parent_asin": "B0BSKMVDJX",
+    "link": "https://www.amazon.es/OPPO-Reno8-Pro-5G-Smartphone/dp/B0B8HG8W8Y",
+    "brand": "OPPO",
+    "protection_plans": [
+      {
+        "asin": "B08X95NWXH",
+        "title": "2 años seguro de daño accidental",
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 98.65,
+          "raw": "€98,65"
+        }
+      },
+      {
+        "asin": "B0B1JPWPTX",
+        "title": "3 años seguro de daño accidental",
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 143,
+          "raw": "€143,00"
+        }
+      }
+    ],
+    "sell_on_amazon": true,
+    "variants": [
+      {
+        "asin": "B0B8HC38BQ",
+        "title": "Reno 8 Pro Negro",
+        "is_current_product": false,
+        "link": "https://www.amazon.es/dp/B0B8HC38BQ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Nombre de estilo",
+            "value": "Reno 8 Pro"
+          },
+          {
+            "name": "Color",
+            "value": "Negro"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51lkIyKrykL._AC_SL1200_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51lkIyKrykL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/61XTFP0cN-L._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/51iPGu2kU7L._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71oKjyMgv9L._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61NDfKkbRhL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61GKgp73bLL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71wS1QOo9BL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/71UV0JTLmtL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT08",
+            "link": "https://m.media-amazon.com/images/I/51cELjLtkcL._AC_SL1200_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0B8HDWKTQ",
+        "title": "Reno 8 Dorado",
+        "is_current_product": false,
+        "link": "https://www.amazon.es/dp/B0B8HDWKTQ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Nombre de estilo",
+            "value": "Reno 8"
+          },
+          {
+            "name": "Color",
+            "value": "Dorado"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51+Ygnv7YRL._AC_SL1200_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51+Ygnv7YRL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/61E3h6cQ8LL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/51URoUyMB4L._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61S7ZTwmsxL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71joiBKt1cL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/51VwFO4cNKL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71SO568CcnL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/71LYZedmNhL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT08",
+            "link": "https://m.media-amazon.com/images/I/511CO+O7W+L._AC_SL1200_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0B1QJXRSF",
+        "title": "Reno 8 Lite Negro",
+        "is_current_product": false,
+        "link": "https://www.amazon.es/dp/B0B1QJXRSF?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Nombre de estilo",
+            "value": "Reno 8 Lite"
+          },
+          {
+            "name": "Color",
+            "value": "Negro"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/513Zmfg7hzL._AC_SL1200_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/513Zmfg7hzL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/61zwR1fi+YL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/51I2tDXFKGL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61luV9P6HEL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61PwVXCJh5L._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61NA2WrBCfL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61Ghj6BjSoL._AC_SL1200_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0B1QJRW5R",
+        "title": "Reno 8 Lite Rainbow",
+        "is_current_product": false,
+        "link": "https://www.amazon.es/dp/B0B1QJRW5R?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Nombre de estilo",
+            "value": "Reno 8 Lite"
+          },
+          {
+            "name": "Color",
+            "value": "Rainbow"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/512+poMLXRL._AC_SL1200_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/512+poMLXRL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/61mMe75ZyNL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/51IDC9dtLsL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61xfwB7wC5L._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61i8A80U4OL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61ki72PoFnL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61CUdn4xoML._AC_SL1200_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0B8HG8W8Y",
+        "title": "Reno 8 Pro Verde",
+        "is_current_product": true,
+        "link": "https://www.amazon.es/dp/B0B8HG8W8Y?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Nombre de estilo",
+            "value": "Reno 8 Pro"
+          },
+          {
+            "name": "Color",
+            "value": "Verde"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51rCZCDW2rL._AC_SL1200_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51rCZCDW2rL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/51nUxNV+MIL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/51DWKX3KhRL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71ju9YS8ZCL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61pl7DAEkVL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/617wQZSB-JL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71lcfHrXxhL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/71xs20f5+sL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT08",
+            "link": "https://m.media-amazon.com/images/I/51VeRNWEzBL._AC_SL1200_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0B8HCT1JZ",
+        "title": "Reno 8 Negro",
+        "is_current_product": false,
+        "link": "https://www.amazon.es/dp/B0B8HCT1JZ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Nombre de estilo",
+            "value": "Reno 8"
+          },
+          {
+            "name": "Color",
+            "value": "Negro"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51qYxt87IOL._AC_SL1200_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51qYxt87IOL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/61+ZLKD4SCL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/51O02rRQ-DL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61S7ZTwmsxL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71joiBKt1cL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/51VwFO4cNKL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/71SO568CcnL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/71LYZedmNhL._AC_SL1200_.jpg"
+          },
+          {
+            "variant": "PT08",
+            "link": "https://m.media-amazon.com/images/I/51fc+vpB49L._AC_SL1200_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B0B8HC38BQ,B0B8HDWKTQ,B0B1QJXRSF,B0B1QJRW5R,B0B8HG8W8Y,B0B8HCT1JZ",
+    "categories": [
+      {
+        "name": "Electrónica",
+        "link": "https://www.amazon.es/Electr%C3%B3nica/b/ref=dp_bc_aui_C_1?ie=UTF8&node=599370031",
+        "category_id": "599370031"
+      },
+      {
+        "name": "Comunicación móvil y accesorios",
+        "link": "https://www.amazon.es/comunicacion-movil-accesorios/b/ref=dp_bc_aui_C_2?ie=UTF8&node=665492031",
+        "category_id": "665492031"
+      },
+      {
+        "name": "Móviles",
+        "link": "https://www.amazon.es/b/ref=dp_bc_aui_C_3?ie=UTF8&node=17425698031",
+        "category_id": "17425698031"
+      },
+      {
+        "name": "Móviles y smartphones libres",
+        "link": "https://www.amazon.es/moviles-smartphones-libres/b/ref=dp_bc_aui_C_4?ie=UTF8&node=934197031",
+        "category_id": "934197031"
+      }
+    ],
+    "categories_flat": "Electrónica > Comunicación móvil y accesorios > Móviles > Móviles y smartphones libres",
+    "delivery_message": "Entrega GRATIS:   jueves, 23 de feb.               Entrega GRATIS:   jueves, 23 de feb.",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visita la Store de OPPO",
+      "link": "https://www.amazon.es/stores/OPPOStore/page/810DD4AE-8334-4A50-8194-360F7AEEF8AA?ref_=ast_bln"
+    },
+    "amazons_choice": {
+      "keywords": "oppo reno 8 pro",
+      "link": "https://www.amazon.es/s/ref=choice_dp_b?keywords=oppo%20reno%208%20pro"
+    },
+    "rating": 5,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 97,
+        "count": 18
+      },
+      "four_star": {
+        "percentage": 3,
+        "count": 0
+      },
+      "three_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "two_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "one_star": {
+        "percentage": 0,
+        "count": 0
+      }
+    },
+    "ratings_total": 19,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/51rCZCDW2rL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/51rCZCDW2rL._AC_SL1200_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51nUxNV+MIL._AC_SL1200_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51DWKX3KhRL._AC_SL1200_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71ju9YS8ZCL._AC_SL1200_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61pl7DAEkVL._AC_SL1200_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/617wQZSB-JL._AC_SL1200_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71lcfHrXxhL._AC_SL1200_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71xs20f5+sL._AC_SL1200_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51VeRNWEzBL._AC_SL1200_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 9,
+    "images_flat": "https://m.media-amazon.com/images/I/51rCZCDW2rL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/51nUxNV+MIL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/51DWKX3KhRL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/71ju9YS8ZCL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/61pl7DAEkVL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/617wQZSB-JL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/71lcfHrXxhL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/71xs20f5+sL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/51VeRNWEzBL._AC_SL1200_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 15,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/0b7d5f0d-3f95-4cfd-80b9-311e3a52c7bc/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/518WZDGUW0L.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "OPPO Reno 8 Pro 5G"
+      }
+    ],
+    "videos_count": 1,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/0b7d5f0d-3f95-4cfd-80b9-311e3a52c7bc/default.jobtemplate.mp4.480.mp4",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Gracias a su pantalla AMOLED de 6,7\" y su resolución FHD+, OPPO Reno8 PRO 5G te permitirá disfrutar de todos los colores de la forma más fluida gracias a sus 120Hz de tasa de refresco.",
+      "El OPPO Reno8 Pro está dotado con MariSilicon X, un chip de procesado de imagen desarrollado en los laboratorios de OPPO capaz de darte los mejores resultados de fotografía y vídeo que siempre soñaste. Además, cuenta con una enorme batería de 4500mAh que junto a su impresionante carga rápida de 80W SUPERVOOC, garantiza que tendrás tu teléfono siempre listo.",
+      "Saca el mayor partido a tus fotos y vídeos con la mejor inteligencia artificial (IA) que te da OPPO para que puedas obtener no solo unos resultados de altísima calidad si no los resultados más originales. Consigue capturar la noche de la forma más realista y sorprendente en vídeo 4K Ultra Nocturno.",
+      "Los mejores resultados en foto y vídeo. Gran cámara trasera de 50MP con flash ultra potente gracias a su aro de luz incorporado. La cámara frontal de 32MP garantiza que no te perterás ni un detalle en tus selfies, capta hasta un 60% más de luz.",
+      "El nuevo OPPO Reno8 Pro 5G es un teléfono de diseño unibody, ultra delgado y super ligero. Lo puedes encontrar en dos colores. El negro, clásico y elegante. Y el verde, que le da un toque atrevido e innovador."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "El nuevo OPPO Reno8 Pro 5G es un teléfono de diseño unibody, ultra delgado y super ligero. Lo puedes encontrar en dos colores. El negro, clásico y elegante. Y el verde, que le da un toque atrevido e innovador. Los mejores resultados en foto y vídeo. Gran cámara trasera de 50MP con flash ultra potente gracias a su aro de luz incorporado. La cámara frontal de 32MP garantiza que no te perterás ni un detalle en tus selfies, capta hasta un 60% más de luz. Saca el mayor partido a tus fotos y vídeos con la mejor inteligencia artificial (IA) que te da OPPO para que puedas obtener no solo unos resultados de altísima calidad si no los resultados más originales. Consigue capturar la noche de la forma más realista y sorprendente en vídeo 4K Ultra Nocturno. El OPPO Reno8 Pro está dotado con MariSilicon X, un chip de procesado de imagen desarrollado en los laboratorios de OPPO capaz de darte los mejores resultados de fotografía y vídeo que siempre soñaste. Además, cuenta con una enorme batería de 4500mAh que junto a su impresionante carga rápida de 80W SUPERVOOC, garantiza que tendrás tu teléfono siempre listo. Gracias a su pantalla AMOLED de 6,7\" y su resolución FHD+, OPPO Reno8 PRO 5G te permitirá disfrutar de todos los colores de la forma más fluida gracias a sus 120Hz de tasa de refresco.",
+    "attributes": [
+      {
+        "name": "Marca",
+        "value": "OPPO"
+      },
+      {
+        "name": "Nombre del modelo",
+        "value": "Reno 8 Pro"
+      },
+      {
+        "name": "Operador de servicios inalámbricos",
+        "value": "Todas las empresas de transportes"
+      },
+      {
+        "name": "Sistema operativo",
+        "value": "Color Os 12.1, Android 12.0"
+      },
+      {
+        "name": "Tecnología de móvil",
+        "value": "5G"
+      },
+      {
+        "name": "Capacidad de almacenamiento de memoria",
+        "value": "256 GB"
+      },
+      {
+        "name": "Color",
+        "value": "Verde"
+      },
+      {
+        "name": "Tamaño de pantalla",
+        "value": "6.7 Pulgadas"
+      },
+      {
+        "name": "Tamaño de memoria RAM instalada",
+        "value": "8 GB"
+      },
+      {
+        "name": "Número de ranuras para tarjetas SIM",
+        "value": "Dual SIM"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R2X45NESBJUVTL",
+        "title": "Elegante, ligero y super completo. Carga super Top",
+        "body": "Tengo este smartphone más de una semana y en este tiempo que lo estoy utilizando como teléfono personal y principal, la experiencia no puede ser más positiva .  1º -El diseño: es un acierto :Ese color verde es muy bonito , diferente y a la misma vez elegante, se nota la calidad de construcción , con materiales premium con cristal y recubierto de Corning Gorilla Glass 5 y Metal .  Lo único que aun no me convence o lo veo raro, es lo grande que han puesto el módulo donde van los sensores de la cámara , lo veo más estético que de utilidad real o por necesidad física por el tamaño de sensor fotográfico.  2º- El peso: es super ligero para el tamaño de pantalla que tiene y el tamaño de batería. Se nota super cómodo para llevarlo en el bolsillo, o estar usando durante un tiempo prolongado.  3º- La pantalla Amoled Full HD + y de 10 bits : Se nota que es de la gama alta sin llegar a ser top como su modelo estrella , pero tiene una gran nitidez , calidad. Lo único que echo en falta es algo más de brillo y el poder tener bajar los Hz hasta 0 automáticamente , sin llegar a ser o 60 HZ o 120 .  La función always on display no está mal del todo, pero le falta algo más de funciones y personalización. Que por lo que he leído en la nueva actualización a Android 12 mejorara .  4º- Procesador : MediaTek Dimensity 8100-MAX , Es el 1º smartphone que tengo con esta marca de procesador, pero de momento va muy fluido y rápido . Es un plus que tenga 8 gigas de RAM tipo LPDDR 5 y 256 gigas de memoria interna tipo UFS3.1 que es super rápida.  5º- Batería : 4.500 mAh + Carga Super BOOC 80W . Carga de 0 al 100 % en unos 35 minutos, super top . Y se nota mucho la rapidez y la comodidad. Además a pesar de tener esa carga tan rápida, va diseñado para aguantar el doble de ciclos sin degradarse a menos del 80% .  6º- Cámaras principales: EL principal sensor y el más importante es de 50 megapíxeles y la verdad hace muy buenas fotos y de calidad. Y más aún que incluye el chip diseñado específicamente para las fotos y videos. De noche es donde se nota que es de gran calidad y de nitidez. Porque es donde fallan la mayoría de Smartphone del mercado.  El gran angular está bien pero no sobresale en comparación con la competencia. Donde si veo un fallo importante es incorporar un sensor macro de 2 megapíxeles como en las gamas medias que no sirve de utilidad, por la calidad de las fotos. Y le falta un estabilizador óptico, y más aún en la gama de precio donde se mueve en el sector.  Lo que si veo un fallo importante es que no incluya IP68 para poder sumergirlo en el agua y mas por el precio que tiene.Leer más",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Tengo este smartphone más de una semana y en este tiempo que lo estoy utilizando como teléfono personal y principal, la experiencia no puede ser más positiva .<br><br>1º -El diseño: es un acierto :Ese color verde es muy bonito , diferente y a la misma vez elegante, se nota la calidad de construcción , con materiales premium con cristal y recubierto de Corning Gorilla Glass 5 y Metal .<br><br>Lo único que aun no me convence o lo veo raro, es lo grande que han puesto el módulo donde van los sensores de la cámara , lo veo más estético que de utilidad real o por necesidad física por el tamaño de sensor fotográfico.<br><br>2º- El peso: es super ligero para el tamaño de pantalla que tiene y el tamaño de batería. Se nota super cómodo para llevarlo en el bolsillo, o estar usando durante un tiempo prolongado.<br><br>3º- La pantalla Amoled Full HD + y de 10 bits : Se nota que es de la gama alta sin llegar a ser top como su modelo estrella , pero tiene una gran nitidez , calidad. Lo único que echo en falta es algo más de brillo y el poder tener bajar los Hz hasta 0 automáticamente , sin llegar a ser o 60 HZ o 120 .<br><br>La función always on display no está mal del todo, pero le falta algo más de funciones y personalización. Que por lo que he leído en la nueva actualización a Android 12 mejorara .<br><br>4º- Procesador : MediaTek Dimensity 8100-MAX , Es el 1º smartphone que tengo con esta marca de procesador, pero de momento va muy fluido y rápido . Es un plus que tenga 8 gigas de RAM tipo LPDDR 5 y 256 gigas de memoria interna tipo UFS3.1 que es super rápida.<br><br>5º- Batería : 4.500 mAh + Carga Super BOOC 80W . Carga de 0 al 100 % en unos 35 minutos, super top . Y se nota mucho la rapidez y la comodidad. Además a pesar de tener esa carga tan rápida, va diseñado para aguantar el doble de ciclos sin degradarse a menos del 80% .<br><br>6º- Cámaras principales: EL principal sensor y el más importante es de 50 megapíxeles y la verdad hace muy buenas fotos y de calidad. Y más aún que incluye el chip diseñado específicamente para las fotos y videos. De noche es donde se nota que es de gran calidad y de nitidez. Porque es donde fallan la mayoría de Smartphone del mercado.<br><br>El gran angular está bien pero no sobresale en comparación con la competencia. Donde si veo un fallo importante es incorporar un sensor macro de 2 megapíxeles como en las gamas medias que no sirve de utilidad, por la calidad de las fotos. Y le falta un estabilizador óptico, y más aún en la gama de precio donde se mueve en el sector.<br><br>Lo que si veo un fallo importante es que no incluya IP68 para poder sumergirlo en el agua y mas por el precio que tiene.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Alternar entre texto completo de la reseña\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leer más&quot;, &quot;collapse_prompt&quot;:&quot;Leer menos&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leer más</span></a></div></div>",
+        "link": "https://www.amazon.es/gp/customer-reviews/R2X45NESBJUVTL/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0B8HG8W8Y",
+        "rating": 5,
+        "date": {
+          "raw": "Revisado en España 🇪🇸 el 18 de septiembre de 2022",
+          "utc": "2022-09-18T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "José Ramón G.",
+          "link": "https://www.amazon.es/gp/profile/amzn1.account.AHJK5A7D6GOFQMLOCB6PFQWKXUVA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHJK5A7D6GOFQMLOCB6PFQWKXUVA",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/b81a8a77-6fda-45cb-8208-e5e523edd75b._CR0,0,3456,3456_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 4,
+        "review_country": "es",
+        "is_global_review": false
+      },
+      {
+        "id": "RW2QQAPT0F8TX",
+        "title": "Gran terminal con algún pero...",
+        "body": "Primera impresión: OPPO sigue reinventándose para situarse como la opción más deseada de los consumidores españoles. El diseño del terminal me recuerda a una popular marca que todo el mundo conoce pionera en dispositivos móviles. El traer un cable aparte pegado a la caja, me resulta un poco extraño, podrían haber cuidado un poco más el packaging, es como si se les hubiese olvidado meter ese cable en la caja. Este pequeño detalle resta un poco de puntos a la marca, cuando podrían haber rediseñado la caja o incluso ver la manera de aunar dos cables en uno. Lo que más me ha gustado: Facilidad de traslado de datos entre viejo y nuevo dispositivo, rápido y con instrucciones claras. El peso del terminal se ha mejorado bastante con respecto a modelos anteriores La calidad de la pantalla es excepcional, colores brillantes y claros. Veo de forma más clara el correo, WhatsApp, noticias y sin necesidad de aumentar la letra. Adaptación óptima a la mano. Tenía mis reticencias al diseño de las cámaras al sobre salir, pero sin duda igual hasta le dan un extra de apoyo en la mano para evitar caídas. La cámara de fotos es IMPRESIONANTE. Al tener un blog de viajes es algo que busco en un terminal móvil, que haga fotos casi parecidas a las de una cámara profesional sin necesidad de edición, de una forma fácil y sencilla. Es algo que me ha impresionado enormemente de este terminal. La rapidez de la carga del terminal es algo que se agradece, que cuando vas con prisa en pocos minutos tengas un nivel de batería que te permita utilizar el móvil sin problema con una carga óptima, aunque no sea total para todo el día. La fluidez del terminal es muy buena y la tasa de refresco espectacular. El terminal no se calienta en ningún momento, lo que hace de OPPO una marca que cuida los detalles para la satisfacción de sus clientes. A mejorar: La batería, pese a ser de mayor capacidad, tiene una misma duración en días para mí, llevándolo en ahorro de energía, 2 días, es algo que me ha sorprendido negativamente, parece que no está bien optimizada con el terminal, algo que seguramente solventarán en las posibles actualizaciones del terminal.Leer más",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Primera impresión: OPPO sigue reinventándose para situarse como la opción más deseada de los consumidores españoles. El diseño del terminal me recuerda a una popular marca que todo el mundo conoce pionera en dispositivos móviles. El traer un cable aparte pegado a la caja, me resulta un poco extraño, podrían haber cuidado un poco más el packaging, es como si se les hubiese olvidado meter ese cable en la caja. Este pequeño detalle resta un poco de puntos a la marca, cuando podrían haber rediseñado la caja o incluso ver la manera de aunar dos cables en uno. Lo que más me ha gustado: Facilidad de traslado de datos entre viejo y nuevo dispositivo, rápido y con instrucciones claras. El peso del terminal se ha mejorado bastante con respecto a modelos anteriores La calidad de la pantalla es excepcional, colores brillantes y claros. Veo de forma más clara el correo, WhatsApp, noticias y sin necesidad de aumentar la letra. Adaptación óptima a la mano. Tenía mis reticencias al diseño de las cámaras al sobre salir, pero sin duda igual hasta le dan un extra de apoyo en la mano para evitar caídas. La cámara de fotos es IMPRESIONANTE. Al tener un blog de viajes es algo que busco en un terminal móvil, que haga fotos casi parecidas a las de una cámara profesional sin necesidad de edición, de una forma fácil y sencilla. Es algo que me ha impresionado enormemente de este terminal. La rapidez de la carga del terminal es algo que se agradece, que cuando vas con prisa en pocos minutos tengas un nivel de batería que te permita utilizar el móvil sin problema con una carga óptima, aunque no sea total para todo el día. La fluidez del terminal es muy buena y la tasa de refresco espectacular. El terminal no se calienta en ningún momento, lo que hace de OPPO una marca que cuida los detalles para la satisfacción de sus clientes. A mejorar: La batería, pese a ser de mayor capacidad, tiene una misma duración en días para mí, llevándolo en ahorro de energía, 2 días, es algo que me ha sorprendido negativamente, parece que no está bien optimizada con el terminal, algo que seguramente solventarán en las posibles actualizaciones del terminal.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Alternar entre texto completo de la reseña\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leer más&quot;, &quot;collapse_prompt&quot;:&quot;Leer menos&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leer más</span></a></div></div>",
+        "link": "https://www.amazon.es/gp/customer-reviews/RW2QQAPT0F8TX/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0B8HG8W8Y",
+        "rating": 5,
+        "date": {
+          "raw": "Revisado en España 🇪🇸 el 17 de octubre de 2022",
+          "utc": "2022-10-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "David GG",
+          "link": "https://www.amazon.es/gp/profile/amzn1.account.AEJYQWHMOPCNULC2DNAHFYNEPNAQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEJYQWHMOPCNULC2DNAHFYNEPNAQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "es",
+        "is_global_review": false
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 2,
+        "hard_maximum": true
+      },
+      "secondary_buybox": {
+        "offer_id": "Y6a%2BW0kW9W7Y8pXjDYbKqgImNnKQyho4gT5c2pt2Y1JFdFinmSqdVbIwLs7jLlQyoGpZpv5mB6iif%2FkgSVY1UonuOW5ba9gMSyLdTxai3pe9krI1IKipwvqcwFzpATZsZW1NaoQkU%2BEDLQ0f0eop3tin2cZPGp8UfGlh67WVoBCrPLByIfHqGQ%3D%3D",
+        "caption": "Ahorrar con De segunda mano – Bueno",
+        "availability": {
+          "raw": "Entrega GRATIS el jueves, 23 de febrero. Ver detalles"
+        }
+      },
+      "offer_id": "yhzMGdavq2ByaInkr8R7Zil+MSoPVOlC78BQa85CyIcpgLhARo0dX+r5DbjsX3gQnMoNlu5ViHnYooWY6f0UYHpHu0Ef1N5i/SWUKv29vaoPvy3ESMBeldVrPd0ruHZnc/iNwzkT1e2vIiP7rjWTAQ==",
+      "mixed_offers_count": 2,
+      "mixed_offers_from": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 624.67,
+        "raw": "€624,67"
+      },
+      "is_prime": true,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "En stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "1p",
+        "standard_delivery": {
+          "date": "jueves, 23 de febrero",
+          "name": "GRATIS"
+        },
+        "fastest_delivery": {
+          "date": "maana, 21 de febrero",
+          "name": "entrega ms rpida maana, 21 de febrero. Haz el pedido en 21 horas 13 mins. Ver detalles"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 679,
+        "raw": "€679,00"
+      },
+      "rrp": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 799,
+        "raw": "€799,00"
+      },
+      "shipping": {
+        "raw": "GRATIS"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Marca",
+        "value": "‎OPPO"
+      },
+      {
+        "name": "Fabricante",
+        "value": "‎mcr infoelectronic"
+      },
+      {
+        "name": "Modelo",
+        "value": "‎CPH2357"
+      },
+      {
+        "name": "Nombre del modelo",
+        "value": "‎Reno 8 Pro"
+      },
+      {
+        "name": "Año del modelo",
+        "value": "‎2022"
+      },
+      {
+        "name": "Dimensiones del producto",
+        "value": "‎16.12 x 7.42 x 0.73 cm; 183 gramos"
+      },
+      {
+        "name": "Pilas",
+        "value": "‎1 Litio Ion necesaria"
+      },
+      {
+        "name": "Número de modelo del producto",
+        "value": "‎CPH2357"
+      },
+      {
+        "name": "Número de producto",
+        "value": "‎CPH2357"
+      },
+      {
+        "name": "Capacidad de la memoria RAM",
+        "value": "‎8 GB"
+      },
+      {
+        "name": "Capacidad de la memoria",
+        "value": "‎256 GB"
+      },
+      {
+        "name": "Capacidad de la memoria flash instalada",
+        "value": "‎256 GB"
+      },
+      {
+        "name": "Capacidad de la memoria RAM instalada",
+        "value": "‎8 GB"
+      },
+      {
+        "name": "Capacidad de almacenamiento digital",
+        "value": "‎8 GB"
+      },
+      {
+        "name": "Sistema operativo",
+        "value": "‎Color Os 12.1, Android 12.0"
+      },
+      {
+        "name": "Fabricante del procesador",
+        "value": "‎MediaTek Dimensity 8100 MAX"
+      },
+      {
+        "name": "Resolución del escáner",
+        "value": "‎1080 x 2412"
+      },
+      {
+        "name": "Otras características",
+        "value": "‎cámara_frontal, camera, flash"
+      },
+      {
+        "name": "Componentes incluidos",
+        "value": "‎Reno8 Pro, 1x Cable USB-C, 1x Cargador 80W SuperVooc"
+      },
+      {
+        "name": "Número de productos",
+        "value": "‎1"
+      },
+      {
+        "name": "Tecnología de pantalla",
+        "value": "‎AMOLED"
+      },
+      {
+        "name": "Tamaño de la pantalla",
+        "value": "‎6.7 Pulgadas"
+      },
+      {
+        "name": "Tipo de pantalla",
+        "value": "‎AMOLED"
+      },
+      {
+        "name": "Resolución máxima",
+        "value": "‎2412 x 1080 Píxeles"
+      },
+      {
+        "name": "Resolución del sensor óptico",
+        "value": "‎32 MP"
+      },
+      {
+        "name": "Pilas / baterías incluidas",
+        "value": "‎Sí"
+      },
+      {
+        "name": "Pilas / baterías necesarias",
+        "value": "‎Sí"
+      },
+      {
+        "name": "Carga eléctrica de la batería",
+        "value": "‎4500 Modificador desconocido"
+      },
+      {
+        "name": "Composición de la pila de la batería",
+        "value": "‎Litio Ion"
+      },
+      {
+        "name": "Potencia nominal de la batería",
+        "value": "‎4500 Modificador desconocido"
+      },
+      {
+        "name": "Tecnología GSM",
+        "value": "‎5G"
+      },
+      {
+        "name": "Frecuencia de actualización",
+        "value": "‎120 Hz"
+      },
+      {
+        "name": "Entrada de interfaz humana",
+        "value": "‎Pantalla táctil"
+      },
+      {
+        "name": "Factor de forma",
+        "value": "‎Barra"
+      },
+      {
+        "name": "Peso del producto",
+        "value": "‎183 g"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0B8HG8W8Y"
+      },
+      {
+        "name": "Valoración media de los clientes",
+        "value": "5,0 de 5 estrellas       19 valoraciones          5,0 de 5 estrellas"
+      },
+      {
+        "name": "Clasificación en los más vendidos de Amazon",
+        "value": "nº8,798 en Electrónica"
+      },
+      {
+        "name": "Producto en Amazon.es desde",
+        "value": "31 agosto 2022"
+      },
+      {
+        "name": "Marca",
+        "value": "OPPO"
+      },
+      {
+        "name": "Nombre del modelo",
+        "value": "Reno 8 Pro"
+      },
+      {
+        "name": "Operador de servicios inalámbricos",
+        "value": "Todas las empresas de transportes"
+      },
+      {
+        "name": "Sistema operativo",
+        "value": "Color Os 12.1, Android 12.0"
+      },
+      {
+        "name": "Tecnología de móvil",
+        "value": "5G"
+      },
+      {
+        "name": "Capacidad de almacenamiento de memoria",
+        "value": "256 GB"
+      },
+      {
+        "name": "Color",
+        "value": "Verde"
+      },
+      {
+        "name": "Tamaño de pantalla",
+        "value": "6.7 Pulgadas"
+      },
+      {
+        "name": "Tamaño de memoria RAM instalada",
+        "value": "8 GB"
+      },
+      {
+        "name": "Número de ranuras para tarjetas SIM",
+        "value": "Dual SIM"
+      }
+    ],
+    "specifications_flat": "Número de ranuras para tarjetas SIM: Dual SIM. Tamaño de memoria RAM instalada: 8 GB. Tamaño de pantalla: 6.7 Pulgadas. Color: Verde. Capacidad de almacenamiento de memoria: 256 GB. Tecnología de móvil: 5G. Sistema operativo: Color Os 12.1, Android 12.0. Operador de servicios inalámbricos: Todas las empresas de transportes. Nombre del modelo: Reno 8 Pro. Marca: OPPO. Producto en Amazon.es desde: 31 agosto 2022. Clasificación en los más vendidos de Amazon: nº8,798 en Electrónica. Valoración media de los clientes: 5,0 de 5 estrellas       19 valoraciones          5,0 de 5 estrellas. ASIN: B0B8HG8W8Y. Peso del producto: ‎183 g. Factor de forma: ‎Barra. Entrada de interfaz humana: ‎Pantalla táctil. Frecuencia de actualización: ‎120 Hz. Tecnología GSM: ‎5G. Potencia nominal de la batería: ‎4500 Modificador desconocido. Composición de la pila de la batería: ‎Litio Ion. Carga eléctrica de la batería: ‎4500 Modificador desconocido. Pilas / baterías necesarias: ‎Sí. Pilas / baterías incluidas: ‎Sí. Resolución del sensor óptico: ‎32 MP. Resolución máxima: ‎2412 x 1080 Píxeles. Tipo de pantalla: ‎AMOLED. Tamaño de la pantalla: ‎6.7 Pulgadas. Tecnología de pantalla: ‎AMOLED. Número de productos: ‎1. Componentes incluidos: ‎Reno8 Pro, 1x Cable USB-C, 1x Cargador 80W SuperVooc. Otras características: ‎cámara_frontal, camera, flash. Resolución del escáner: ‎1080 x 2412. Fabricante del procesador: ‎MediaTek Dimensity 8100 MAX. Sistema operativo: ‎Color Os 12.1, Android 12.0. Capacidad de almacenamiento digital: ‎8 GB. Capacidad de la memoria RAM instalada: ‎8 GB. Capacidad de la memoria flash instalada: ‎256 GB. Capacidad de la memoria: ‎256 GB. Capacidad de la memoria RAM: ‎8 GB. Número de producto: ‎CPH2357. Número de modelo del producto: ‎CPH2357. Pilas: ‎1 Litio Ion necesaria. Dimensiones del producto: ‎16.12 x 7.42 x 0.73 cm; 183 gramos. Año del modelo: ‎2022. Nombre del modelo: ‎Reno 8 Pro. Modelo: ‎CPH2357. Fabricante: ‎mcr infoelectronic. Marca: ‎OPPO.",
+    "bestsellers_rank": [
+      {
+        "category": "Electrónica",
+        "rank": 8798,
+        "link": "https://www.amazon.es/gp/bestsellers/electronics/ref=pd_zg_ts_electronics"
+      },
+      {
+        "category": "Móviles y smartphones libres",
+        "rank": 1174,
+        "link": "https://www.amazon.es/gp/bestsellers/electronics/934197031/ref=pd_zg_hrsr_electronics"
+      }
+    ],
+    "color": "Verde",
+    "first_available": {
+      "raw": "31 agosto 2022",
+      "utc": "2022-08-31T00:00:00.000Z"
+    },
+    "dimensions": "‎16.12 x 7.42 x 0.73 cm; 183 gramos",
+    "model_number": "‎CPH2357",
+    "bestsellers_rank_flat": "Category: Electrónica | Rank: 8798, Category: Móviles y smartphones libres | Rank: 1174",
+    "whats_in_the_box": [
+      "Reno8 Pro, 1x Cable USB-C, 1x Cargador 80W SuperVooc (Carga rápida), 1x Herramienta extracción SIM, 1x Guía de uso rápido, 1x Tarjeta de garantía, USB 3.1 Type-C"
+    ]
+  },
+  "brand_store": {
+    "id": "810DD4AE-8334-4A50-8194-360F7AEEF8AA",
+    "link": "https://www.amazon.es/stores/OPPOStore/page/810DD4AE-8334-4A50-8194-360F7AEEF8AA"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "€",
+      "currency": "EUR",
+      "value": 685.95,
+      "raw": "685,95 €"
+    },
+    "products": [
+      {
+        "asin": "B0B8HG8W8Y",
+        "title": "OPPO Find X3 Pro 5G - Teléfono Móvil libre, 12GB+256GB, Cámara 50+50+13+3 MP, Smartphone Android, Batería 4500mAh, Carga Rápida 65W, Dual SIM, Cable USB extra - Azul",
+        "link": "https://www.amazon.es/dp/B0B8HG8W8Y",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 679,
+          "raw": "679,00 €"
+        }
+      },
+      {
+        "asin": "B0B5BYYSTM",
+        "title": "ivoler Funda para OPPO Reno8 Pro 5G / OPPO Reno 8 Pro 5G (No para OPPO Reno 8 5G), Carcasa Protectora Antigolpes Transparente",
+        "link": "https://www.amazon.es/dp/B0B5BYYSTM",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71WgW3IPg9L._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 6.95,
+          "raw": "6,95 €"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B082DJTBNF",
+    "link": "https://www.amazon.es/dp/B082DJTBNF/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=75b65522-7ddb-4f36-8083-8ef11ec19fb0&pf_rd_r=0VNN279R19GM3G5XF74N&pd_rd_wg=Rxx25&pd_rd_i=B082DJTBNF&pd_rd_w=qcztt&content-id=amzn1.sym.75b65522-7ddb-4f36-8083-8ef11ec19fb0&pd_rd_r=982e74d6-aeb4-43c7-87a3-c6291ece78dd",
+    "title": "Apple iPhone 11 Pro, 256GB, Gris Espacial (Reacondicionado)",
+    "rating": 4,
+    "ratings_total": 2327,
+    "image": "https://m.media-amazon.com/images/I/71ys3vjOEhL._SS100_.jpg",
+    "price": {
+      "currency": "EUR",
+      "value": 499.99,
+      "symbol": "€",
+      "raw": "EUR 499,99"
+    }
+  },
+  "compare_with_similar": [
+    {
+      "asin": "B0B8HG8W8Y",
+      "image": "https://m.media-amazon.com/images/I/51rCZCDW2rL._AC_SS450_.jpg",
+      "title": "OPPO Reno8 Pro 5G - Teléfono Móvil Libre, 8GB+256GB, Cámara 50+8+2+32MP, Smartphone Android, Batería 4500mAh, Carga Rápida 80W, Dual SIM - Verde",
+      "rating": 5,
+      "ratings_total": 19,
+      "link": "https://www.amazon.es/dp/B0B8HG8W8Y"
+    },
+    {
+      "asin": "B0B2DLRK9W",
+      "image": "https://m.media-amazon.com/images/I/71MUuPhpjOL._AC_SS450_.jpg",
+      "title": "OPPO Find X3 Pro 5G - Teléfono Móvil libre, 12GB+256GB, Cámara 50+50+13+3 MP, Smartphone Android, Batería 4500mAh, Carga Rápida 65W, Dual SIM, Cable USB extra - Azul",
+      "rating": 4.5,
+      "ratings_total": 63,
+      "link": "https://www.amazon.es/dp/B0B2DLRK9W"
+    },
+    {
+      "asin": "B09DPDGQQ8",
+      "image": "https://m.media-amazon.com/images/I/31kSv6qXGCL._AC_SS450_.jpg",
+      "title": "OPPO Reno 6 Pro 5G - Teléfono Móvil libre, 12GB+256GB, Cámara 50+16+13+2 MP, Smartphone Android, Batería 4500mAh, Carga Rápida 65W, Dual SIM - Plata",
+      "rating": 4.5,
+      "ratings_total": 92,
+      "link": "https://www.amazon.es/dp/B09DPDGQQ8"
+    },
+    {
+      "asin": "B0B3526N7P",
+      "image": "https://m.media-amazon.com/images/I/41DoXovxF6L._AC_SS450_.jpg",
+      "title": "OPPO OPPO Reno 8 Lite 16,3 cm (6.4\") SIM doble Android 11 5G USB Tipo C 8 GB 128 GB 4500 mAh Multicolor",
+      "rating": 5,
+      "ratings_total": 2,
+      "link": "https://www.amazon.es/dp/B0B3526N7P"
+    }
+  ],
+  "sponsored_products": [
+    {
+      "title": "Google Pixel 7: smartphone 5G Android libre con objetivo gran angular y batería de 24 horas de duración, 128GB, Nieve",
+      "asin": "B0BDJFKY7B",
+      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxMjYwNDU4MDEyNDQwNjk5OjE2NzY4NDc3Mjg6c3BfZGV0YWlsOjIwMDgyNTUwNDg0Njk4Ojo6Og&url=%2Fdp%2FB0BDJFKY7B%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0BDJFKY7B%26pd_rd_w%3DNFBqQ%26content-id%3Damzn1.sym.5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_p%3D5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/614Gij3tGwL._AC_UF640,640_SR640,640_.jpg",
+      "rating": 4.5,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 589,
+        "raw": "€589,00"
+      }
+    },
+    {
+      "title": "Blackview Móvil Resistente, BV7100 Movil Todoterreno 13000mAh,10+128GB(SD 1TB) Carga Rápida 33W,6.58'' FHD+ 12MP/8MP Telefono Movil Android 12 4G Doble SIM/NFC/OTG/GPS",
+      "asin": "B0B76BG2Z1",
+      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxMjYwNDU4MDEyNDQwNjk5OjE2NzY4NDc3Mjg6c3BfZGV0YWlsOjIwMDgyODc1Nzc5MTk4Ojo6Og&url=%2Fdp%2FB0B76BG2Z1%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0B76BG2Z1%26pd_rd_w%3DNFBqQ%26content-id%3Damzn1.sym.5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_p%3D5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/71-UCiRvXqL._AC_UF640,640_SR640,640_.jpg",
+      "rating": 4.5,
+      "ratings_total": 112,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 237.99,
+        "raw": "€237,99"
+      }
+    },
+    {
+      "title": "Teléfonos móviles para Mayores con Teclas Grandes, Artfone C1 Senior, fácil de Usar Celular para Ancianos con botón SOS, Cámara, Negro",
+      "asin": "B07DZXJ4C7",
+      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxMjYwNDU4MDEyNDQwNjk5OjE2NzY4NDc3Mjg6c3BfZGV0YWlsOjIwMDM5MDc5ODcyNjAyOjo6Og&url=%2Fdp%2FB07DZXJ4C7%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB07DZXJ4C7%26pd_rd_w%3DNFBqQ%26content-id%3Damzn1.sym.5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_p%3D5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/61ywagUG86L._AC_UF640,640_SR640,640_.jpg",
+      "rating": 4,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 32.99,
+        "raw": "€32,99"
+      }
+    },
+    {
+      "title": "VIVO Y76 Smartphone 5G, 8 GB + 256 GB, Teléfono móvil Libres, Batería de 4100 mAh, Android 11, Cámara Principal de 50 MP, Carga rápida de 44 W, Dual SIM",
+      "asin": "B09RGZXHL3",
+      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxMjYwNDU4MDEyNDQwNjk5OjE2NzY4NDc3Mjg6c3BfZGV0YWlsOjIwMDQwMDQ3OTk0Mzk4Ojo6Og&url=%2Fdp%2FB09RGZXHL3%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09RGZXHL3%26pd_rd_w%3DNFBqQ%26content-id%3Damzn1.sym.5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_p%3D5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/717ISDYrF3L._AC_UF640,640_SR640,640_.jpg",
+      "rating": 4.5,
+      "ratings_total": 23,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 359,
+        "raw": "€359,00"
+      }
+    },
+    {
+      "title": "UMIDIGI Móvil Resistente, Bison 2 Android 12 móvil y Smartphone Libre 6+128GB(256GB Expandible) 6150mAh, 6.5\" HD+, Cámara 48MP+24MP,Movil NFC/Face ID/GPS/OTG",
+      "asin": "B0BC3XKN3L",
+      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxMjYwNDU4MDEyNDQwNjk5OjE2NzY4NDc3Mjg6c3BfZGV0YWlsOjIwMDkwMDg5NDE3NTk4Ojo6Og&url=%2Fdp%2FB0BC3XKN3L%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0BC3XKN3L%26pd_rd_w%3DNFBqQ%26content-id%3Damzn1.sym.5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_p%3D5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw%26smid%3DA3LLAX7EGFGYVJ",
+      "image": "https://m.media-amazon.com/images/I/81h3kGKH8QL._AC_UF640,640_SR640,640_.jpg",
+      "rating": 4,
+      "ratings_total": 134,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 219.99,
+        "raw": "€219,99"
+      }
+    },
+    {
+      "title": "UMIDIGI Bison Pro Móvil Resistente, 8GB+128GB Android 11 IP68/IP69K Impermeable Antigolpes Teléfono Móvil Libre, 6.3\" FHD Cámara 48MP Batería 5000mAh Smartphone Libre",
+      "asin": "B09DY7XHMG",
+      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxMjYwNDU4MDEyNDQwNjk5OjE2NzY4NDc3Mjg6c3BfZGV0YWlsOjIwMDk1NTgwMjgxNjk4Ojo6Og&url=%2Fdp%2FB09DY7XHMG%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09DY7XHMG%26pd_rd_w%3DNFBqQ%26content-id%3Damzn1.sym.5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_p%3D5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/81UXBtW1deL._AC_UF640,640_SR640,640_.jpg",
+      "rating": 3.5,
+      "ratings_total": 185,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 239.99,
+        "raw": "€239,99"
+      }
+    },
+    {
+      "title": "OSCAL C80 Moviles Baratos y Buenos, 8+128GB Smartphone Android 12 Go, Cámara 50+8MP, 6.5'' Pantalla HD+ 90Hz, 5180mAh Batería, 18W Carga Rápida, Telefono Movil 4G Dual SIM, Fingerprint, Face ID",
+      "asin": "B0BD87WXSX",
+      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxMjYwNDU4MDEyNDQwNjk5OjE2NzY4NDc3Mjg6c3BfZGV0YWlsOjIwMTEyMDczNDE2Mjk4Ojo6Og&url=%2Fdp%2FB0BD87WXSX%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0BD87WXSX%26pd_rd_w%3DNFBqQ%26content-id%3Damzn1.sym.5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_p%3D5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/71lQ4EsFniL._AC_UF640,640_SR640,640_.jpg",
+      "rating": 4,
+      "ratings_total": 185,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 146.99,
+        "raw": "€146,99"
+      }
+    },
+    {
+      "title": "DOOGEE S51 [2023] Movil Resistente, Android 12 Smartphone Barato, 4GB+64GB (512GB SD) 12MP Doble Cámara, 5180mAh Batería Telefono Movil Todoterreno 6\" HD Pulgadas, IP68 IP69K/NFC/GPS/WIFI-Negro",
+      "asin": "B0B41YN4ZR",
+      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxMjYwNDU4MDEyNDQwNjk5OjE2NzY4NDc3Mjg6c3BfZGV0YWlsOjIwMDk1OTYxOTA5Mjk4Ojo6Og&url=%2Fdp%2FB0B41YN4ZR%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB0B41YN4ZR%26pd_rd_w%3DNFBqQ%26content-id%3Damzn1.sym.5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_p%3D5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/61S68O95nmL._AC_UF640,640_SR640,640_.jpg",
+      "rating": 4.5,
+      "ratings_total": 95,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 135.99,
+        "raw": "€135,99"
+      }
+    },
+    {
+      "title": "DOOGEE S41 Pro Movil Resistente Agua y Golpes, 6300mAh Batería, Android 12, 7GB +1TB Ampiable, Telefono Movil Libre 4G, Triple Cámara de 13MP, 5.5 Pulgadas Moviles Antigolpes, NFC/Face ID/GPS, Negro",
+      "asin": "B0BN2ZQ2YJ",
+      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxMjYwNDU4MDEyNDQwNjk5OjE2NzY4NDc3Mjg6c3BfZGV0YWlsOjIwMTA0MTk1ODczMDk4Ojo6Og&url=%2Fdp%2FB0BN2ZQ2YJ%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB0BN2ZQ2YJ%26pd_rd_w%3DNFBqQ%26content-id%3Damzn1.sym.5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_p%3D5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/714mNqF9DZL._AC_UF640,640_SR640,640_.jpg",
+      "rating": 4.5,
+      "ratings_total": 86,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 127.49,
+        "raw": "€127,49"
+      }
+    },
+    {
+      "title": "OSCAL C80 Android 12 4G Smartphone Libre, 8GB+128GB, 50MP+8MP Dual Cámara, 6.5\" 90Hz HD+ Display, Móvil Doble SIM, Diseño Delgado, 5180mAh Carga Rápida, Desbloqueo Facial Huella Dactilar GPS Azul",
+      "asin": "B0BG3RNFC6",
+      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxMjYwNDU4MDEyNDQwNjk5OjE2NzY4NDc3Mjg6c3BfZGV0YWlsOjIwMDkxMDE1MjUzNzk4Ojo6Og&url=%2Fdp%2FB0BG3RNFC6%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB0BG3RNFC6%26pd_rd_w%3DNFBqQ%26content-id%3Damzn1.sym.5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_p%3D5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/516whSaERgL._AC_UF640,640_SR640,640_.jpg",
+      "rating": 4,
+      "ratings_total": 114,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 144.49,
+        "raw": "€144,49"
+      }
+    },
+    {
+      "title": "Google Pixel 7: smartphone 5G Android libre con objetivo gran angular y batería de 24 horas de duración, 128GB, Nieve",
+      "asin": "B0BDJFKY7B",
+      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTc2MDEzNDI3NDQyOTYxOjE2NzY4NDc3Mjg6c3BfZGV0YWlsMjoyMDA4MjU1MDQ4NDY5ODo6Ojo&url=%2Fdp%2FB0BDJFKY7B%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0BDJFKY7B%26pd_rd_w%3DYUnBB%26content-id%3Damzn1.sym.65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_p%3D65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/614Gij3tGwL._AC_UF640,640_SR640,640_.jpg",
+      "rating": 4.5,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 589,
+        "raw": "€589,00"
+      }
+    },
+    {
+      "title": "UMIDIGI Móvil Resistente, Bison 2 Android 12 móvil y Smartphone Libre 6+128GB(256GB Expandible) 6150mAh, 6.5\" HD+, Cámara 48MP+24MP,Movil NFC/Face ID/GPS/OTG",
+      "asin": "B0BC3XKN3L",
+      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTc2MDEzNDI3NDQyOTYxOjE2NzY4NDc3Mjg6c3BfZGV0YWlsMjoyMDA5MDA4OTQxNzU5ODo6Ojo&url=%2Fdp%2FB0BC3XKN3L%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0BC3XKN3L%26pd_rd_w%3DYUnBB%26content-id%3Damzn1.sym.65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_p%3D65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy%26smid%3DA3LLAX7EGFGYVJ",
+      "image": "https://m.media-amazon.com/images/I/81h3kGKH8QL._AC_UF640,640_SR640,640_.jpg",
+      "rating": 4,
+      "ratings_total": 134,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 219.99,
+        "raw": "€219,99"
+      }
+    },
+    {
+      "title": "Blackview Móvil Resistente, BV7100 Movil Todoterreno 13000mAh,10+128GB(SD 1TB) Carga Rápida 33W,6.58'' FHD+ 12MP/8MP Telefono Movil Android 12 4G Doble SIM/NFC/OTG/GPS",
+      "asin": "B0B76BG2Z1",
+      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTc2MDEzNDI3NDQyOTYxOjE2NzY4NDc3Mjg6c3BfZGV0YWlsMjoyMDA4Mjg3NTc3OTE5ODo6Ojo&url=%2Fdp%2FB0B76BG2Z1%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0B76BG2Z1%26pd_rd_w%3DYUnBB%26content-id%3Damzn1.sym.65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_p%3D65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/71-UCiRvXqL._AC_UF640,640_SR640,640_.jpg",
+      "rating": 4.5,
+      "ratings_total": 112,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 237.99,
+        "raw": "€237,99"
+      }
+    },
+    {
+      "title": "OSCAL C80 Android 12 4G Smartphone Libre, 8GB+128GB, 50MP+8MP Dual Cámara, 6.5\" 90Hz HD+ Display, Móvil Doble SIM, Diseño Delgado, 5180mAh Carga Rápida, Desbloqueo Facial Huella Dactilar GPS Azul",
+      "asin": "B0BG3RNFC6",
+      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTc2MDEzNDI3NDQyOTYxOjE2NzY4NDc3Mjg6c3BfZGV0YWlsMjoyMDA5MTAxNTI1Mzc5ODo6Ojo&url=%2Fdp%2FB0BG3RNFC6%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0BG3RNFC6%26pd_rd_w%3DYUnBB%26content-id%3Damzn1.sym.65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_p%3D65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/516whSaERgL._AC_UF640,640_SR640,640_.jpg",
+      "rating": 4,
+      "ratings_total": 114,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 144.49,
+        "raw": "€144,49"
+      }
+    },
+    {
+      "title": "UMIDIGI Bison Pro Móvil Resistente, 8GB+128GB Android 11 IP68/IP69K Impermeable Antigolpes Teléfono Móvil Libre, 6.3\" FHD Cámara 48MP Batería 5000mAh Smartphone Libre",
+      "asin": "B09DY7XHMG",
+      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTc2MDEzNDI3NDQyOTYxOjE2NzY4NDc3Mjg6c3BfZGV0YWlsMjoyMDA5NTU4MDI4MTY5ODo6Ojo&url=%2Fdp%2FB09DY7XHMG%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB09DY7XHMG%26pd_rd_w%3DYUnBB%26content-id%3Damzn1.sym.65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_p%3D65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/81UXBtW1deL._AC_UF640,640_SR640,640_.jpg",
+      "rating": 3.5,
+      "ratings_total": 185,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 239.99,
+        "raw": "€239,99"
+      }
+    },
+    {
+      "title": "Google Pixel 6a: smartphone 5G Android libre con cámara de 12 megapíxeles y batería de 24 horas de duración, de color Salvia",
+      "asin": "B0B4DMCF5W",
+      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTc2MDEzNDI3NDQyOTYxOjE2NzY4NDc3Mjg6c3BfZGV0YWlsMjoyMDA2MjUzNTA5ODY5ODo6Ojo&url=%2Fdp%2FB0B4DMCF5W%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0B4DMCF5W%26pd_rd_w%3DYUnBB%26content-id%3Damzn1.sym.65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_p%3D65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/61QsVTa7IAL._AC_UF640,640_SR640,640_.jpg",
+      "rating": 4,
+      "ratings_total": 907,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 359,
+        "raw": "€359,00"
+      }
+    },
+    {
+      "title": "Movil Libre OUKITEL C21, Android 10 Dual SIM Telefono, 20MP AI Selfie + 16MP Cuatro Cámaras, FHD + Pantalla Completa 6.4 '', Octa-Core 4GB+64GB, Desbloqueo Facial, Huella Digital, Tipo-C GPS Negro",
+      "asin": "B08HHHKPHL",
+      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTc2MDEzNDI3NDQyOTYxOjE2NzY4NDc3Mjg6c3BfZGV0YWlsMjoyMDEwMTEzNjgzNjk5ODo6Ojo&url=%2Fdp%2FB08HHHKPHL%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB08HHHKPHL%26pd_rd_w%3DYUnBB%26content-id%3Damzn1.sym.65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_p%3D65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41+WTnVOi0L._AC_UF640,640_SR640,640_.jpg",
+      "rating": 4,
+      "ratings_total": 26,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 140.24,
+        "raw": "€140,24"
+      }
+    },
+    {
+      "title": "Ulefone Power Armor 14 Pro (8GB RAM) Android 12 Smartphone Resistente, Batería 10000mAh, 128GB ROM, 6,52'' Vidrio Gorilla 20MP+16MP Cámara, IP68 Impermeable Móvil Antigolpes, Carga Inalámbrica NFC",
+      "asin": "B0BG1SYX34",
+      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTc2MDEzNDI3NDQyOTYxOjE2NzY4NDc3Mjg6c3BfZGV0YWlsMjoyMDEwODU0MDE4Mjg5ODo6Ojo&url=%2Fdp%2FB0BG1SYX34%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB0BG1SYX34%26pd_rd_w%3DYUnBB%26content-id%3Damzn1.sym.65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_p%3D65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy%26smid%3DA2QSDYEG7GBYQI",
+      "image": "https://m.media-amazon.com/images/I/61e1hMl23YL._AC_UF640,640_SR640,640_.jpg",
+      "rating": 4.5,
+      "ratings_total": 10,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 246.49,
+        "raw": "€246,49"
+      }
+    },
+    {
+      "title": "Ulefone Power Armor 17 Pro Smartphone Resistente, 108MP Triple Cámara (Visión Nocturna), 8GB+256GB, 6.58'' 120Hz FHD+, IP68 Móvil Antigolpes Android 12, 3 Ranura para Tarjetas, Carga Inalámbrica NFC",
+      "asin": "B0BL6BQFD9",
+      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTc2MDEzNDI3NDQyOTYxOjE2NzY4NDc3Mjg6c3BfZGV0YWlsMjoyMDEwMTQ1OTM1MjA5ODo6Ojo&url=%2Fdp%2FB0BL6BQFD9%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB0BL6BQFD9%26pd_rd_w%3DYUnBB%26content-id%3Damzn1.sym.65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_p%3D65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/615-CUhK7eL._AC_UF640,640_SR640,640_.jpg",
+      "rating": 4.5,
+      "ratings_total": 12,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 369.99,
+        "raw": "€369,99"
+      }
+    },
+    {
+      "title": "DOOGEE S97 Pro Smartphone Resistente con Telémetro Láser, Helio G95 8GB+128GB,Teléfono Móviles Antigolpes Android 11,Batería 8500mAh,IP68 Impermeable,Cámara Cuatro 48MP,Carga Inalámbrica NFC Rojo",
+      "asin": "B099MJ232N",
+      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTc2MDEzNDI3NDQyOTYxOjE2NzY4NDc3Mjg6c3BfZGV0YWlsMjoyMDA0OTUyMTY4MzE5ODo6Ojo&url=%2Fdp%2FB099MJ232N%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB099MJ232N%26pd_rd_w%3DYUnBB%26content-id%3Damzn1.sym.65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_p%3D65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51KOv4NxNXS._AC_UF640,640_SR640,640_.jpg",
+      "rating": 4,
+      "ratings_total": 125,
+      "is_prime": true,
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 299.99,
+        "raw": "€299,99"
+      }
+    }
+  ]
+}

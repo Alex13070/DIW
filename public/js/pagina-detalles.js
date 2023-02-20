@@ -2,6 +2,7 @@ const settings = {
     loop: true,
 
     speed: 200,
+    effect: 'fade',
     
     pagination: {
         el: ".swiper-pagination",

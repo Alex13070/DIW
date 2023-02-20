@@ -1,0 +1,3075 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 7,
+    "credits_remaining": 93,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "search",
+    "amazon_domain": "amazon.es",
+    "search_term": "zapatos",
+    "max_page": "1",
+    "exclude_sponsored": "true",
+    "currency": "eur",
+    "page": "1",
+    "include_html": "false",
+    "output": "json",
+    "sort_by": "average_review"
+  },
+  "request_metadata": {
+    "created_at": "2023-02-20T02:15:35.034Z",
+    "processed_at": "2023-02-20T02:15:45.847Z",
+    "total_time_taken": 10.81,
+    "pages": [
+      {
+        "created_at": "2023-02-20T02:15:35.034Z",
+        "processed_at": "2023-02-20T02:15:45.847Z",
+        "total_time_taken": 10.81,
+        "page": "1",
+        "amazon_url": "https://www.amazon.es/s/?k=zapatos&ref=nb_sb_noss_2&page=1&s=review-rank"
+      }
+    ]
+  },
+  "search_results": [
+    {
+      "position": 1,
+      "title": "Cole Haan Original Grand Wingtip Oxford, Zapatos de Cordones Hombre",
+      "asin": "B01N07FP43",
+      "link": "https://www.amazon.es/Cole-Haan-Original-Cordones-Woodbury/dp/B01N07FP43/ref=sr_1_46?keywords=zapatos&qid=1676859336&sr=8-46",
+      "brand": "Cole Haan",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/7168wr6vYFL._AC_UL320_.jpg",
+      "is_prime": true,
+      "rating": 4.7,
+      "ratings_total": 1238,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 164.95,
+          "raw": "€164,95",
+          "name": "164,95 €",
+          "asin": "B01N07FP43",
+          "link": "https://www.amazon.es/Cole-Haan-Original-Cordones-Woodbury/dp/B01N07FP43/ref=sr_1_46?keywords=zapatos&qid=1676859336&sr=8-46"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 164.95,
+        "raw": "€164,95",
+        "name": "164,95 €",
+        "asin": "B01N07FP43",
+        "link": "https://www.amazon.es/Cole-Haan-Original-Cordones-Woodbury/dp/B01N07FP43/ref=sr_1_46?keywords=zapatos&qid=1676859336&sr=8-46"
+      },
+      "page": "1",
+      "position_overall": 46
+    },
+    {
+      "position": 2,
+      "title": "Cole Haan Zerogrand Wing Oxford, Hombre",
+      "asin": "B01BGSG5TO",
+      "link": "https://www.amazon.es/Cole-Haan-Hombre-Zerogrand-Oxford/dp/B01BGSG5TO/ref=sr_1_36?keywords=zapatos&qid=1676859336&sr=8-36",
+      "brand": "Cole Haan",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71yftCibe8L._AC_UL320_.jpg",
+      "is_prime": true,
+      "rating": 4.7,
+      "ratings_total": 3465,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 198.53,
+          "raw": "€198,53",
+          "name": "198,53 €",
+          "asin": "B01BGSG5TO",
+          "link": "https://www.amazon.es/Cole-Haan-Hombre-Zerogrand-Oxford/dp/B01BGSG5TO/ref=sr_1_36?keywords=zapatos&qid=1676859336&sr=8-36"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 198.53,
+        "raw": "€198,53",
+        "name": "198,53 €",
+        "asin": "B01BGSG5TO",
+        "link": "https://www.amazon.es/Cole-Haan-Hombre-Zerogrand-Oxford/dp/B01BGSG5TO/ref=sr_1_36?keywords=zapatos&qid=1676859336&sr=8-36"
+      },
+      "page": "1",
+      "position_overall": 36
+    },
+    {
+      "position": 3,
+      "title": "Hey Dude Paul, Moc Toe Shoes Hombre",
+      "asin": "B08S9MKSR7",
+      "link": "https://www.amazon.es/Hey-Dude-Paul-Mocasines-Ecosostenible/dp/B08S9MKSR7/ref=sr_1_3?keywords=zapatos&qid=1676859336&sr=8-3",
+      "brand": "Hey Dude",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/81zma5wb6VL._AC_UL320_.jpg",
+      "rating": 4.8,
+      "ratings_total": 2138,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 79.95,
+          "raw": "€79,95",
+          "name": "79,95 €",
+          "asin": "B08S9MKSR7",
+          "link": "https://www.amazon.es/Hey-Dude-Paul-Mocasines-Ecosostenible/dp/B08S9MKSR7/ref=sr_1_3?keywords=zapatos&qid=1676859336&sr=8-3"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 79.95,
+        "raw": "€79,95",
+        "name": "79,95 €",
+        "asin": "B08S9MKSR7",
+        "link": "https://www.amazon.es/Hey-Dude-Paul-Mocasines-Ecosostenible/dp/B08S9MKSR7/ref=sr_1_3?keywords=zapatos&qid=1676859336&sr=8-3"
+      },
+      "page": "1",
+      "position_overall": 3
+    },
+    {
+      "position": 4,
+      "title": "GARMONT T8 bífida Tactical Boot - Coyote.",
+      "asin": "B073ZLBVGL",
+      "link": "https://www.amazon.es/Garmont-T8-b%C3%ADfida-Tactical-Boot-Coyote/dp/B073ZLBVGL/ref=sr_1_4?keywords=zapatos&qid=1676859336&sr=8-4",
+      "brand": "GARMONT",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/41yBgWbsIsL._AC_UL320_.jpg",
+      "rating": 4.8,
+      "ratings_total": 1073,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 311.05,
+          "raw": "€311,05",
+          "name": "311,05 €",
+          "asin": "B073ZLBVGL",
+          "link": "https://www.amazon.es/Garmont-T8-b%C3%ADfida-Tactical-Boot-Coyote/dp/B073ZLBVGL/ref=sr_1_4?keywords=zapatos&qid=1676859336&sr=8-4"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 311.05,
+        "raw": "€311,05",
+        "name": "311,05 €",
+        "asin": "B073ZLBVGL",
+        "link": "https://www.amazon.es/Garmont-T8-b%C3%ADfida-Tactical-Boot-Coyote/dp/B073ZLBVGL/ref=sr_1_4?keywords=zapatos&qid=1676859336&sr=8-4"
+      },
+      "page": "1",
+      "position_overall": 4
+    },
+    {
+      "position": 5,
+      "title": "HUK Rogue Wave-Botas de Pesca Y Cubierta de Alto Rendimiento, Zapatos Hombre",
+      "asin": "B08BM8BTVC",
+      "link": "https://www.amazon.es/HUK-Rogue-cubierta-rendimiento-musgoso/dp/B08BM8BTVC/ref=sr_1_5?keywords=zapatos&qid=1676859336&sr=8-5",
+      "brand": "HUK",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61rljPtD56L._AC_UL320_.jpg",
+      "rating": 4.8,
+      "ratings_total": 484,
+      "page": "1",
+      "position_overall": 5
+    },
+    {
+      "position": 7,
+      "title": "Emerica Pilar, Zapatos de Skate Hombre",
+      "asin": "B0838B9WPB",
+      "link": "https://www.amazon.es/Emerica-Pillar-Zapatos-Hombre-Blanco/dp/B0838B9WPB/ref=sr_1_7?keywords=zapatos&qid=1676859336&sr=8-7",
+      "brand": "Emerica",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/711ZDSd6QvL._AC_UL320_.jpg",
+      "rating": 4.9,
+      "ratings_total": 56,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 73.6,
+          "raw": "€73,60",
+          "name": "73,60 €",
+          "asin": "B0838B9WPB",
+          "link": "https://www.amazon.es/Emerica-Pillar-Zapatos-Hombre-Blanco/dp/B0838B9WPB/ref=sr_1_7?keywords=zapatos&qid=1676859336&sr=8-7"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 73.6,
+        "raw": "€73,60",
+        "name": "73,60 €",
+        "asin": "B0838B9WPB",
+        "link": "https://www.amazon.es/Emerica-Pillar-Zapatos-Hombre-Blanco/dp/B0838B9WPB/ref=sr_1_7?keywords=zapatos&qid=1676859336&sr=8-7"
+      },
+      "page": "1",
+      "position_overall": 7
+    },
+    {
+      "position": 8,
+      "title": "Skechers 210101 Grau, Zapatos Casuales Hombre",
+      "asin": "B08DF5PN3C",
+      "link": "https://www.amazon.es/Skechers-210101-Zapatos-Casuales-Hombre/dp/B08DF5PN3C/ref=sr_1_8?keywords=zapatos&qid=1676859336&sr=8-8",
+      "brand": "Skechers",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/81UQc9xQizL._AC_UL320_.jpg",
+      "is_prime": true,
+      "rating": 4.8,
+      "ratings_total": 259,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 56.97,
+          "raw": "€56,97",
+          "name": "56,97 €",
+          "asin": "B08DF5PN3C",
+          "link": "https://www.amazon.es/Skechers-210101-Zapatos-Casuales-Hombre/dp/B08DF5PN3C/ref=sr_1_8?keywords=zapatos&qid=1676859336&sr=8-8"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 56.97,
+        "raw": "€56,97",
+        "name": "56,97 €",
+        "asin": "B08DF5PN3C",
+        "link": "https://www.amazon.es/Skechers-210101-Zapatos-Casuales-Hombre/dp/B08DF5PN3C/ref=sr_1_8?keywords=zapatos&qid=1676859336&sr=8-8"
+      },
+      "page": "1",
+      "position_overall": 8
+    },
+    {
+      "position": 9,
+      "title": "Asics JB Elite V",
+      "asin": "B089SV8SCG",
+      "link": "https://www.amazon.es/ASICS-Zapatos-lucha-hombre-Blanco/dp/B089SV8SCG/ref=sr_1_9?keywords=zapatos&qid=1676859336&sr=8-9",
+      "brand": "Asics",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/51yHGg-xrYS._AC_UL320_.jpg",
+      "rating": 4.8,
+      "ratings_total": 229,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 287.06,
+          "raw": "€287,06",
+          "name": "287,06 €",
+          "asin": "B089SV8SCG",
+          "link": "https://www.amazon.es/ASICS-Zapatos-lucha-hombre-Blanco/dp/B089SV8SCG/ref=sr_1_9?keywords=zapatos&qid=1676859336&sr=8-9"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 287.06,
+        "raw": "€287,06",
+        "name": "287,06 €",
+        "asin": "B089SV8SCG",
+        "link": "https://www.amazon.es/ASICS-Zapatos-lucha-hombre-Blanco/dp/B089SV8SCG/ref=sr_1_9?keywords=zapatos&qid=1676859336&sr=8-9"
+      },
+      "page": "1",
+      "position_overall": 9
+    },
+    {
+      "position": 10,
+      "title": "La Sportiva Mythos Climbing Shoe - Men's - Mythos Hombre",
+      "asin": "B00E0J7LN6",
+      "link": "https://www.amazon.es/Sportiva-Mythos-Zapatos-Escalada-Hombre/dp/B00E0J7LN6/ref=sr_1_10?keywords=zapatos&qid=1676859336&sr=8-10",
+      "brand": "La Sportiva",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71JWugNDRiL._AC_UL320_.jpg",
+      "rating": 4.8,
+      "ratings_total": 204,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 139.66,
+          "raw": "€139,66",
+          "name": "139,66 €",
+          "asin": "B00E0J7LN6",
+          "link": "https://www.amazon.es/Sportiva-Mythos-Zapatos-Escalada-Hombre/dp/B00E0J7LN6/ref=sr_1_10?keywords=zapatos&qid=1676859336&sr=8-10"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 139.66,
+        "raw": "€139,66",
+        "name": "139,66 €",
+        "asin": "B00E0J7LN6",
+        "link": "https://www.amazon.es/Sportiva-Mythos-Zapatos-Escalada-Hombre/dp/B00E0J7LN6/ref=sr_1_10?keywords=zapatos&qid=1676859336&sr=8-10"
+      },
+      "page": "1",
+      "position_overall": 10
+    },
+    {
+      "position": 11,
+      "title": "HUK Zapato Rogue Wave para hombre | Botas de pesca y cubierta de alto rendimiento, gris, 13",
+      "asin": "B09FS1P5DR",
+      "link": "https://www.amazon.es/HUK-Zapato-hombre-cubierta-rendimiento/dp/B09FS1P5DR/ref=sr_1_11?keywords=zapatos&qid=1676859336&sr=8-11",
+      "brand": "HUK",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/81WW-mf87WL._AC_UL320_.jpg",
+      "rating": 4.9,
+      "ratings_total": 50,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 312.48,
+          "raw": "€312,48",
+          "name": "312,48 €",
+          "asin": "B09FS1P5DR",
+          "link": "https://www.amazon.es/HUK-Zapato-hombre-cubierta-rendimiento/dp/B09FS1P5DR/ref=sr_1_11?keywords=zapatos&qid=1676859336&sr=8-11"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 312.48,
+        "raw": "€312,48",
+        "name": "312,48 €",
+        "asin": "B09FS1P5DR",
+        "link": "https://www.amazon.es/HUK-Zapato-hombre-cubierta-rendimiento/dp/B09FS1P5DR/ref=sr_1_11?keywords=zapatos&qid=1676859336&sr=8-11"
+      },
+      "page": "1",
+      "position_overall": 11
+    },
+    {
+      "position": 12,
+      "title": "Zapatos Hombres Sneakers PREMIATA Mick 5356 Cuero Tejido Azul",
+      "asin": "B097ZDY56T",
+      "link": "https://www.amazon.es/Zapatos-Hombres-Sneakers-PREMIATA-Tejido/dp/B097ZDY56T/ref=sr_1_12?keywords=zapatos&qid=1676859336&sr=8-12",
+      "brand": "PREMIATA",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/51g4oiz1m0S._AC_UL320_.jpg",
+      "rating": 4.9,
+      "ratings_total": 47,
+      "page": "1",
+      "position_overall": 12
+    },
+    {
+      "position": 13,
+      "title": "NIKE Sports Shoes Hombre",
+      "asin": "B08CZMVR4X",
+      "link": "https://www.amazon.es/Nike-321819-410_44-Zapatos-Deportivos-Hombre/dp/B08CZMVR4X/ref=sr_1_13?keywords=zapatos&qid=1676859336&sr=8-13",
+      "brand": "NIKE",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/714RsvHeQQL._AC_UL320_.jpg",
+      "rating": 4.7,
+      "ratings_total": 46,
+      "page": "1",
+      "position_overall": 13
+    },
+    {
+      "position": 14,
+      "title": "ARIAT Hilo 360, Zapatillas Hombre",
+      "asin": "B09NJ4YH53",
+      "link": "https://www.amazon.es/ARIAT-Mens-Hilo-Casual-Zapatos/dp/B09NJ4YH53/ref=sr_1_14?keywords=zapatos&qid=1676859336&sr=8-14",
+      "brand": "ARIAT",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/516kOYiRm4L._AC_UL320_.jpg",
+      "rating": 4.9,
+      "ratings_total": 40,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 178.86,
+          "raw": "€178,86",
+          "name": "178,86 €",
+          "asin": "B09NJ4YH53",
+          "link": "https://www.amazon.es/ARIAT-Mens-Hilo-Casual-Zapatos/dp/B09NJ4YH53/ref=sr_1_14?keywords=zapatos&qid=1676859336&sr=8-14"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 178.86,
+        "raw": "€178,86",
+        "name": "178,86 €",
+        "asin": "B09NJ4YH53",
+        "link": "https://www.amazon.es/ARIAT-Mens-Hilo-Casual-Zapatos/dp/B09NJ4YH53/ref=sr_1_14?keywords=zapatos&qid=1676859336&sr=8-14"
+      },
+      "page": "1",
+      "position_overall": 14
+    },
+    {
+      "position": 15,
+      "title": "Hey Dude Wally Braided, Mocasín Hombre",
+      "asin": "B08T1VZGP2",
+      "link": "https://www.amazon.es/Hey-Dude-Wally-Braided-Mocasines/dp/B08T1VZGP2/ref=sr_1_15?keywords=zapatos&qid=1676859336&sr=8-15",
+      "brand": "Hey Dude",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/81pVlxSFuZL._AC_UL320_.jpg",
+      "is_prime": true,
+      "rating": 4.8,
+      "ratings_total": 94,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 67.81,
+          "raw": "€67,81",
+          "name": "67,81 €",
+          "asin": "B08T1VZGP2",
+          "link": "https://www.amazon.es/Hey-Dude-Wally-Braided-Mocasines/dp/B08T1VZGP2/ref=sr_1_15?keywords=zapatos&qid=1676859336&sr=8-15"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 67.81,
+        "raw": "€67,81",
+        "name": "67,81 €",
+        "asin": "B08T1VZGP2",
+        "link": "https://www.amazon.es/Hey-Dude-Wally-Braided-Mocasines/dp/B08T1VZGP2/ref=sr_1_15?keywords=zapatos&qid=1676859336&sr=8-15"
+      },
+      "page": "1",
+      "position_overall": 15
+    },
+    {
+      "position": 16,
+      "title": "adidas F5 TF, Botas de fútbol Hombre",
+      "asin": "B00KS0Z1D8",
+      "link": "https://www.amazon.es/Adidas-F5-Tf-Zapatos-43-3333333333333/dp/B00KS0Z1D8/ref=sr_1_16?keywords=zapatos&qid=1676859336&sr=8-16",
+      "brand": "adidas",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/81xyxMUHIRL._AC_UL320_.jpg",
+      "rating": 4.9,
+      "ratings_total": 39,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 34.79,
+          "raw": "€34,79",
+          "name": "34,79 €",
+          "asin": "B00KS0Z1D8",
+          "link": "https://www.amazon.es/Adidas-F5-Tf-Zapatos-43-3333333333333/dp/B00KS0Z1D8/ref=sr_1_16?keywords=zapatos&qid=1676859336&sr=8-16"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 34.79,
+        "raw": "€34,79",
+        "name": "34,79 €",
+        "asin": "B00KS0Z1D8",
+        "link": "https://www.amazon.es/Adidas-F5-Tf-Zapatos-43-3333333333333/dp/B00KS0Z1D8/ref=sr_1_16?keywords=zapatos&qid=1676859336&sr=8-16"
+      },
+      "page": "1",
+      "position_overall": 16
+    },
+    {
+      "position": 17,
+      "title": "Lloyd Hombre Zapatos con Cordones DRAGAN, de Caballero Calzado de Negocios",
+      "asin": "B08PBM9F62",
+      "link": "https://www.amazon.es/LLOYD-Cordones-DRAGAN-Caballero-Negocios/dp/B08PBM9F62/ref=sr_1_17?keywords=zapatos&qid=1676859336&sr=8-17",
+      "brand": "Lloyd",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61Fy0KX6CIL._AC_UL320_.jpg",
+      "rating": 4.9,
+      "ratings_total": 39,
+      "page": "1",
+      "position_overall": 17
+    },
+    {
+      "position": 18,
+      "title": "Hey Dude Welsh Grip, Boat Shoes Hombre",
+      "asin": "B08QVDH66Q",
+      "link": "https://www.amazon.es/Hey-Dude-Welsh-Grip-viscoel%C3%A1stica/dp/B08QVDH66Q/ref=sr_1_18?keywords=zapatos&qid=1676859336&sr=8-18",
+      "brand": "Hey Dude",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61JNUUCmAFL._AC_UL320_.jpg",
+      "is_prime": true,
+      "rating": 4.8,
+      "ratings_total": 89,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 79.99,
+          "raw": "€79,99",
+          "name": "79,99 €",
+          "asin": "B08QVDH66Q",
+          "link": "https://www.amazon.es/Hey-Dude-Welsh-Grip-viscoel%C3%A1stica/dp/B08QVDH66Q/ref=sr_1_18?keywords=zapatos&qid=1676859336&sr=8-18"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 79.99,
+        "raw": "€79,99",
+        "name": "79,99 €",
+        "asin": "B08QVDH66Q",
+        "link": "https://www.amazon.es/Hey-Dude-Welsh-Grip-viscoel%C3%A1stica/dp/B08QVDH66Q/ref=sr_1_18?keywords=zapatos&qid=1676859336&sr=8-18"
+      },
+      "page": "1",
+      "position_overall": 18
+    },
+    {
+      "position": 19,
+      "title": "Sperry Authentic Original Tassel, Botas Hombre",
+      "asin": "B08DQVM7MR",
+      "link": "https://www.amazon.es/Sperry-Zapatos-aut%C3%A9nticos-originales-Tostado/dp/B08DQVM7MR/ref=sr_1_19?keywords=zapatos&qid=1676859336&sr=8-19",
+      "brand": "Sperry",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/81jl1goTcGS._AC_UL320_.jpg",
+      "rating": 4.8,
+      "ratings_total": 88,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 192.1,
+          "raw": "€192,10",
+          "name": "192,10 €",
+          "asin": "B08DQVM7MR",
+          "link": "https://www.amazon.es/Sperry-Zapatos-aut%C3%A9nticos-originales-Tostado/dp/B08DQVM7MR/ref=sr_1_19?keywords=zapatos&qid=1676859336&sr=8-19"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 192.1,
+        "raw": "€192,10",
+        "name": "192,10 €",
+        "asin": "B08DQVM7MR",
+        "link": "https://www.amazon.es/Sperry-Zapatos-aut%C3%A9nticos-originales-Tostado/dp/B08DQVM7MR/ref=sr_1_19?keywords=zapatos&qid=1676859336&sr=8-19"
+      },
+      "page": "1",
+      "position_overall": 19
+    },
+    {
+      "position": 20,
+      "title": "Asics Gel-Netburner Ballistic, Zapatillas de Voleibol Hombre",
+      "asin": "B071NWZTP7",
+      "link": "https://www.amazon.es/Asics-Gel-Netburner-Ballistic-Voleibol-Directoire/dp/B071NWZTP7/ref=sr_1_20?keywords=zapatos&qid=1676859336&sr=8-20",
+      "brand": "Asics",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/81nKHu6blYL._AC_UL320_.jpg",
+      "rating": 4.8,
+      "ratings_total": 86,
+      "page": "1",
+      "position_overall": 20
+    },
+    {
+      "position": 21,
+      "title": "Merrell Moab 3, Zapatillas de Senderismo Hombre",
+      "asin": "B098KJWPHD",
+      "link": "https://www.amazon.es/Merrell-Zapato-Senderismo-Hombre-Granite/dp/B098KJWPHD/ref=sr_1_21_mod_primary_new?keywords=zapatos&qid=1676859336&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-21",
+      "brand": "Merrell",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/81HgHo4iViL._AC_UL320_.jpg",
+      "rating": 4.8,
+      "ratings_total": 73,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 101.42,
+          "raw": "€101,42",
+          "name": "101,42 €"
+        },
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 108.26,
+          "raw": "€108,26",
+          "name": "108,26 €"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 101.42,
+        "raw": "€101,42",
+        "name": "101,42 €"
+      },
+      "page": "1",
+      "position_overall": 21
+    },
+    {
+      "position": 22,
+      "title": "Haix Botas Militares de cuero hombre, color negro, talla",
+      "asin": "B003ZI03X8",
+      "link": "https://www.amazon.es/Zapato-Bota-fuego-Flash-tama%C3%B1o/dp/B003ZI03X8/ref=sr_1_22?keywords=zapatos&qid=1676859336&sr=8-22",
+      "brand": "Haix",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61jst+NEXqL._AC_UL320_.jpg",
+      "rating": 4.9,
+      "ratings_total": 35,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 283.4,
+          "raw": "€283,40",
+          "name": "283,40 €",
+          "asin": "B003ZI03X8",
+          "link": "https://www.amazon.es/Zapato-Bota-fuego-Flash-tama%C3%B1o/dp/B003ZI03X8/ref=sr_1_22?keywords=zapatos&qid=1676859336&sr=8-22"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 283.4,
+        "raw": "€283,40",
+        "name": "283,40 €",
+        "asin": "B003ZI03X8",
+        "link": "https://www.amazon.es/Zapato-Bota-fuego-Flash-tama%C3%B1o/dp/B003ZI03X8/ref=sr_1_22?keywords=zapatos&qid=1676859336&sr=8-22"
+      },
+      "page": "1",
+      "position_overall": 22
+    },
+    {
+      "position": 23,
+      "title": "La Sportiva Solution White/Yellow, Zapatos de escalada Unisex niños",
+      "asin": "B078SLK5GQ",
+      "link": "https://www.amazon.es/Sportiva-Solution-Zapatos-Escalada-White/dp/B078SLK5GQ/ref=sr_1_23?keywords=zapatos&qid=1676859336&sr=8-23",
+      "brand": "La Sportiva",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71Im7W3didL._AC_UL320_.jpg",
+      "rating": 4.8,
+      "ratings_total": 71,
+      "page": "1",
+      "position_overall": 23
+    },
+    {
+      "position": 24,
+      "title": "Dolomite Zapato Cinquantaquattro Duffle, Zapatillas Deportivas Unisex Adulto",
+      "asin": "B083T63TB5",
+      "link": "https://www.amazon.es/DOLOMITE-Zapato-Cinquantaquattro-Duffle-Gunmetal/dp/B083T63TB5/ref=sr_1_24?keywords=zapatos&qid=1676859336&sr=8-24",
+      "brand": "Dolomite",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/6121kZwR2xL._AC_UL320_.jpg",
+      "rating": 4.8,
+      "ratings_total": 70,
+      "page": "1",
+      "position_overall": 24
+    },
+    {
+      "position": 25,
+      "title": "Dolomite Zapato Cinquantaquattro Daily Unisex Adulto",
+      "asin": "B071F28PMJ",
+      "link": "https://www.amazon.es/Dolomite-Zapato-cinquantaquattro-daily-7613317733184/dp/B071F28PMJ/ref=sr_1_25?keywords=zapatos&qid=1676859336&sr=8-25",
+      "brand": "Dolomite",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61ZwbvIZt8L._AC_UL320_.jpg",
+      "rating": 4.8,
+      "ratings_total": 69,
+      "page": "1",
+      "position_overall": 25
+    },
+    {
+      "position": 26,
+      "title": "Hey Dude Welsh Grip, Náuticos Hombre",
+      "asin": "B07VNYD2LG",
+      "link": "https://www.amazon.es/Hey-Dude-Hombres-Wally-Carb%C3%B3n/dp/B07VNYD2LG/ref=sr_1_26?keywords=zapatos&qid=1676859336&sr=8-26",
+      "brand": "Hey Dude",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/811rCxIO-yL._AC_UL320_.jpg",
+      "is_prime": true,
+      "rating": 4.7,
+      "ratings_total": 40621,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 67.81,
+          "raw": "€67,81",
+          "name": "67,81 €",
+          "asin": "B07VNYD2LG",
+          "link": "https://www.amazon.es/Hey-Dude-Hombres-Wally-Carb%C3%B3n/dp/B07VNYD2LG/ref=sr_1_26?keywords=zapatos&qid=1676859336&sr=8-26"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 67.81,
+        "raw": "€67,81",
+        "name": "67,81 €",
+        "asin": "B07VNYD2LG",
+        "link": "https://www.amazon.es/Hey-Dude-Hombres-Wally-Carb%C3%B3n/dp/B07VNYD2LG/ref=sr_1_26?keywords=zapatos&qid=1676859336&sr=8-26"
+      },
+      "page": "1",
+      "position_overall": 26
+    },
+    {
+      "position": 28,
+      "title": "UGG Scuff Slippers, Pantuflas Hombre",
+      "asin": "B08LP5YZ33",
+      "link": "https://www.amazon.es/UGG-Scuff-Hombres-Zapatos-Zapatilla/dp/B08LP5YZ33/ref=sr_1_28?keywords=zapatos&qid=1676859336&sr=8-28",
+      "brand": "UGG",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71Di7cwQfaL._AC_UL320_.jpg",
+      "rating": 4.7,
+      "ratings_total": 10428,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 81,
+          "raw": "€81,00",
+          "name": "81,00 €",
+          "asin": "B08LP5YZ33",
+          "link": "https://www.amazon.es/UGG-Scuff-Hombres-Zapatos-Zapatilla/dp/B08LP5YZ33/ref=sr_1_28?keywords=zapatos&qid=1676859336&sr=8-28"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 81,
+        "raw": "€81,00",
+        "name": "81,00 €",
+        "asin": "B08LP5YZ33",
+        "link": "https://www.amazon.es/UGG-Scuff-Hombres-Zapatos-Zapatilla/dp/B08LP5YZ33/ref=sr_1_28?keywords=zapatos&qid=1676859336&sr=8-28"
+      },
+      "page": "1",
+      "position_overall": 28
+    },
+    {
+      "position": 29,
+      "title": "adidas Continental 80, Zapatillas Hombre",
+      "asin": "B0B96B2VQY",
+      "link": "https://www.amazon.es/adidas-Zapato-skate-diario-hombre/dp/B0B96B2VQY/ref=sr_1_29?keywords=zapatos&qid=1676859336&sr=8-29",
+      "brand": "adidas",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/41pjeWOFkxL._AC_UL320_.jpg",
+      "rating": 4.7,
+      "ratings_total": 8589,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 169,
+          "raw": "€169,00",
+          "name": "169,00 €",
+          "asin": "B0B96B2VQY",
+          "link": "https://www.amazon.es/adidas-Zapato-skate-diario-hombre/dp/B0B96B2VQY/ref=sr_1_29?keywords=zapatos&qid=1676859336&sr=8-29"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 169,
+        "raw": "€169,00",
+        "name": "169,00 €",
+        "asin": "B0B96B2VQY",
+        "link": "https://www.amazon.es/adidas-Zapato-skate-diario-hombre/dp/B0B96B2VQY/ref=sr_1_29?keywords=zapatos&qid=1676859336&sr=8-29"
+      },
+      "page": "1",
+      "position_overall": 29
+    },
+    {
+      "position": 30,
+      "title": "Dude Shoes Wally Sox, Mocasín Hombre",
+      "asin": "B06XH54SW5",
+      "link": "https://www.amazon.es/Dude-Shoes-Wally-Sox-Blue/dp/B06XH54SW5/ref=sr_1_30?keywords=zapatos&qid=1676859336&sr=8-30",
+      "brand": "Dude Shoes",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/81XY10DL7nL._AC_UL320_.jpg",
+      "rating": 4.7,
+      "ratings_total": 7954,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 72.16,
+          "raw": "€72,16",
+          "name": "72,16 €",
+          "asin": "B06XH54SW5",
+          "link": "https://www.amazon.es/Dude-Shoes-Wally-Sox-Blue/dp/B06XH54SW5/ref=sr_1_30?keywords=zapatos&qid=1676859336&sr=8-30"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 72.16,
+        "raw": "€72,16",
+        "name": "72,16 €",
+        "asin": "B06XH54SW5",
+        "link": "https://www.amazon.es/Dude-Shoes-Wally-Sox-Blue/dp/B06XH54SW5/ref=sr_1_30?keywords=zapatos&qid=1676859336&sr=8-30"
+      },
+      "page": "1",
+      "position_overall": 30
+    },
+    {
+      "position": 31,
+      "title": "Hey Dude Wally Hawk, Mocasín Hombre",
+      "asin": "B08MGVN5KZ",
+      "link": "https://www.amazon.es/Hey-Dude-Wally-Sox-Mocasines/dp/B08MGVN5KZ/ref=sr_1_31?keywords=zapatos&qid=1676859336&sr=8-31",
+      "brand": "Hey Dude",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/812wDO8QrAL._AC_UL320_.jpg",
+      "is_prime": true,
+      "rating": 4.7,
+      "ratings_total": 4142,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 61.81,
+          "raw": "€61,81",
+          "name": "61,81 €",
+          "asin": "B08MGVN5KZ",
+          "link": "https://www.amazon.es/Hey-Dude-Wally-Sox-Mocasines/dp/B08MGVN5KZ/ref=sr_1_31?keywords=zapatos&qid=1676859336&sr=8-31"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 61.81,
+        "raw": "€61,81",
+        "name": "61,81 €",
+        "asin": "B08MGVN5KZ",
+        "link": "https://www.amazon.es/Hey-Dude-Wally-Sox-Mocasines/dp/B08MGVN5KZ/ref=sr_1_31?keywords=zapatos&qid=1676859336&sr=8-31"
+      },
+      "page": "1",
+      "position_overall": 31
+    },
+    {
+      "position": 32,
+      "title": "Footjoy Zapatos de golf FJ para hombre",
+      "asin": "B01LG6FCFE",
+      "link": "https://www.amazon.es/FootJoy-FJ-Originals-zapatos-golf/dp/B01LG6FCFE/ref=sr_1_32?keywords=zapatos&qid=1676859336&sr=8-32",
+      "brand": "Footjoy",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71BhHHJ42TL._AC_UL320_.jpg",
+      "rating": 4.7,
+      "ratings_total": 3998,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 192.17,
+          "raw": "€192,17",
+          "name": "192,17 €",
+          "asin": "B01LG6FCFE",
+          "link": "https://www.amazon.es/FootJoy-FJ-Originals-zapatos-golf/dp/B01LG6FCFE/ref=sr_1_32?keywords=zapatos&qid=1676859336&sr=8-32"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 192.17,
+        "raw": "€192,17",
+        "name": "192,17 €",
+        "asin": "B01LG6FCFE",
+        "link": "https://www.amazon.es/FootJoy-FJ-Originals-zapatos-golf/dp/B01LG6FCFE/ref=sr_1_32?keywords=zapatos&qid=1676859336&sr=8-32"
+      },
+      "page": "1",
+      "position_overall": 32
+    },
+    {
+      "position": 33,
+      "title": "adidas Samba Classic Leather Soccer zapatos (Toddler/Little Kid/Big Kid),negro/Running blanco,11.5 M US Little Kid",
+      "asin": "B00099E79C",
+      "link": "https://www.amazon.es/adidas-Classic-Leather-Zapatos-Toddler/dp/B00099E79C/ref=sr_1_33?keywords=zapatos&qid=1676859336&sr=8-33",
+      "brand": "adidas",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71OSAClUEEL._AC_UL320_.jpg",
+      "rating": 4.7,
+      "ratings_total": 3951,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 179.68,
+          "raw": "€179,68",
+          "name": "179,68 €",
+          "asin": "B00099E79C",
+          "link": "https://www.amazon.es/adidas-Classic-Leather-Zapatos-Toddler/dp/B00099E79C/ref=sr_1_33?keywords=zapatos&qid=1676859336&sr=8-33"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 179.68,
+        "raw": "€179,68",
+        "name": "179,68 €",
+        "asin": "B00099E79C",
+        "link": "https://www.amazon.es/adidas-Classic-Leather-Zapatos-Toddler/dp/B00099E79C/ref=sr_1_33?keywords=zapatos&qid=1676859336&sr=8-33"
+      },
+      "page": "1",
+      "position_overall": 33
+    },
+    {
+      "position": 34,
+      "title": "Vans Vn0a38g1phn1, Zapatillas Hombre",
+      "asin": "B01NCXPF1X",
+      "link": "https://www.amazon.es/Vans-Old-Skool-Classic-zapatos/dp/B01NCXPF1X/ref=sr_1_34?keywords=zapatos&qid=1676859336&sr=8-34",
+      "brand": "Vans",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71kEYM1e58L._AC_UL320_.jpg",
+      "rating": 4.7,
+      "ratings_total": 3867,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 99,
+          "raw": "€99,00",
+          "name": "99,00 €",
+          "asin": "B01NCXPF1X",
+          "link": "https://www.amazon.es/Vans-Old-Skool-Classic-zapatos/dp/B01NCXPF1X/ref=sr_1_34?keywords=zapatos&qid=1676859336&sr=8-34"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 99,
+        "raw": "€99,00",
+        "name": "99,00 €",
+        "asin": "B01NCXPF1X",
+        "link": "https://www.amazon.es/Vans-Old-Skool-Classic-zapatos/dp/B01NCXPF1X/ref=sr_1_34?keywords=zapatos&qid=1676859336&sr=8-34"
+      },
+      "page": "1",
+      "position_overall": 34
+    },
+    {
+      "position": 35,
+      "title": "adidas Advantage I, Zapatillas de Tenis Unisex bebé",
+      "asin": "B082WPNZ1R",
+      "link": "https://www.amazon.es/Adidas-Advantage-Zapatos-Tenis-Scarlet/dp/B082WPNZ1R/ref=sr_1_35?keywords=zapatos&qid=1676859336&sr=8-35",
+      "brand": "adidas",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61smH1YoDzL._AC_UL320_.jpg",
+      "is_prime": true,
+      "rating": 4.7,
+      "ratings_total": 3517,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 34.95,
+          "raw": "€34,95",
+          "name": "34,95 €",
+          "asin": "B082WPNZ1R",
+          "link": "https://www.amazon.es/Adidas-Advantage-Zapatos-Tenis-Scarlet/dp/B082WPNZ1R/ref=sr_1_35?keywords=zapatos&qid=1676859336&sr=8-35"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 34.95,
+        "raw": "€34,95",
+        "name": "34,95 €",
+        "asin": "B082WPNZ1R",
+        "link": "https://www.amazon.es/Adidas-Advantage-Zapatos-Tenis-Scarlet/dp/B082WPNZ1R/ref=sr_1_35?keywords=zapatos&qid=1676859336&sr=8-35"
+      },
+      "page": "1",
+      "position_overall": 35
+    },
+    {
+      "position": 36,
+      "title": "Hey Dude Wally Sox, Mocasín Hombre",
+      "asin": "B095L12CR1",
+      "link": "https://www.amazon.es/Hey-Dude-Zapatos-Planos-Cordones/dp/B095L12CR1/ref=sr_1_1?keywords=zapatos&qid=1676859336&sr=8-1",
+      "brand": "Hey Dude",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61O-B-qm5CL._AC_UL320_.jpg",
+      "is_prime": true,
+      "rating": 4.8,
+      "ratings_total": 10254,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 50.99,
+          "raw": "€50,99",
+          "name": "50,99 €",
+          "is_primary": true
+        },
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 59.95,
+          "raw": "€59,95",
+          "name": "50,99 €",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 50.99,
+        "raw": "€50,99",
+        "name": "50,99 €",
+        "is_primary": true
+      },
+      "page": "1",
+      "position_overall": 1
+    },
+    {
+      "position": 37,
+      "title": "Cole Haan Original Grand Stitchlite, Zapatos de Cordones Oxford Hombre",
+      "asin": "B07987BPSR",
+      "link": "https://www.amazon.es/Cole-HaanMensriginalGrandKnitWingtipOxford-Original-Hombres-Magnet/dp/B07987BPSR/ref=sr_1_37?keywords=zapatos&qid=1676859336&sr=8-37",
+      "brand": "Cole Haan",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/81cTmpbh7iL._AC_UL320_.jpg",
+      "is_prime": true,
+      "rating": 4.7,
+      "ratings_total": 2995,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 135,
+          "raw": "€135,00",
+          "name": "135,00 €",
+          "asin": "B07987BPSR",
+          "link": "https://www.amazon.es/Cole-HaanMensriginalGrandKnitWingtipOxford-Original-Hombres-Magnet/dp/B07987BPSR/ref=sr_1_37?keywords=zapatos&qid=1676859336&sr=8-37"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 135,
+        "raw": "€135,00",
+        "name": "135,00 €",
+        "asin": "B07987BPSR",
+        "link": "https://www.amazon.es/Cole-HaanMensriginalGrandKnitWingtipOxford-Original-Hombres-Magnet/dp/B07987BPSR/ref=sr_1_37?keywords=zapatos&qid=1676859336&sr=8-37"
+      },
+      "page": "1",
+      "position_overall": 37
+    },
+    {
+      "position": 38,
+      "title": "Merrell Jungle Moc, Mocasines con cordones para hombre",
+      "asin": "B005Z2FSDM",
+      "link": "https://www.amazon.es/Merrell-Jungle-Zapatos-Cordones-Hombre/dp/B005Z2FSDM/ref=sr_1_38?keywords=zapatos&qid=1676859336&sr=8-38",
+      "brand": "Merrell",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71Hp5kXf1NL._AC_UL320_.jpg",
+      "rating": 4.7,
+      "ratings_total": 3162,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 191.11,
+          "raw": "€191,11",
+          "name": "191,11 €",
+          "asin": "B005Z2FSDM",
+          "link": "https://www.amazon.es/Merrell-Jungle-Zapatos-Cordones-Hombre/dp/B005Z2FSDM/ref=sr_1_38?keywords=zapatos&qid=1676859336&sr=8-38"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 191.11,
+        "raw": "€191,11",
+        "name": "191,11 €",
+        "asin": "B005Z2FSDM",
+        "link": "https://www.amazon.es/Merrell-Jungle-Zapatos-Cordones-Hombre/dp/B005Z2FSDM/ref=sr_1_38?keywords=zapatos&qid=1676859336&sr=8-38"
+      },
+      "page": "1",
+      "position_overall": 38
+    },
+    {
+      "position": 39,
+      "title": "Asics Men's GT-2000 8 Running Shoes",
+      "asin": "B07YQRLPDY",
+      "link": "https://www.amazon.es/ASICS-GT-2000-Zapatillas-running-Metropolis/dp/B07YQRLPDY/ref=sr_1_39?keywords=zapatos&qid=1676859336&sr=8-39",
+      "brand": "Asics",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61oGvAL0d4L._AC_UL320_.jpg",
+      "rating": 4.7,
+      "ratings_total": 2764,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 264.97,
+          "raw": "€264,97",
+          "name": "264,97 €",
+          "asin": "B07YQRLPDY",
+          "link": "https://www.amazon.es/ASICS-GT-2000-Zapatillas-running-Metropolis/dp/B07YQRLPDY/ref=sr_1_39?keywords=zapatos&qid=1676859336&sr=8-39"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 264.97,
+        "raw": "€264,97",
+        "name": "264,97 €",
+        "asin": "B07YQRLPDY",
+        "link": "https://www.amazon.es/ASICS-GT-2000-Zapatillas-running-Metropolis/dp/B07YQRLPDY/ref=sr_1_39?keywords=zapatos&qid=1676859336&sr=8-39"
+      },
+      "page": "1",
+      "position_overall": 39
+    },
+    {
+      "position": 40,
+      "title": "Muck Boots Arctic Sport, Zapatillas de Deporte Exterior Hombre",
+      "asin": "B000WG030O",
+      "link": "https://www.amazon.es/Muck-Boots-Arctic-Sport-Zapatos/dp/B000WG030O/ref=sr_1_40_mod_primary_new?keywords=zapatos&qid=1676859336&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-40",
+      "brand": "Muck Boots",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/51lo68Igc0L._AC_UL320_.jpg",
+      "is_prime": true,
+      "rating": 4.7,
+      "ratings_total": 2362,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 113.99,
+          "raw": "€113,99",
+          "name": "113,99 €"
+        },
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 139.6,
+          "raw": "€139,60",
+          "name": "139,60 €"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 113.99,
+        "raw": "€113,99",
+        "name": "113,99 €"
+      },
+      "page": "1",
+      "position_overall": 40
+    },
+    {
+      "position": 41,
+      "title": "Asics Men's Gel-Excite 7 Running Shoes",
+      "asin": "B07Y545B72",
+      "link": "https://www.amazon.es/ASICS-Zapatillas-correr-Gel-Excite-Directoire/dp/B07Y545B72/ref=sr_1_41?keywords=zapatos&qid=1676859336&sr=8-41",
+      "brand": "Asics",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61G4N3Z38CL._AC_UL320_.jpg",
+      "rating": 4.7,
+      "ratings_total": 2320,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 198.7,
+          "raw": "€198,70",
+          "name": "198,70 €",
+          "asin": "B07Y545B72",
+          "link": "https://www.amazon.es/ASICS-Zapatillas-correr-Gel-Excite-Directoire/dp/B07Y545B72/ref=sr_1_41?keywords=zapatos&qid=1676859336&sr=8-41"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 198.7,
+        "raw": "€198,70",
+        "name": "198,70 €",
+        "asin": "B07Y545B72",
+        "link": "https://www.amazon.es/ASICS-Zapatillas-correr-Gel-Excite-Directoire/dp/B07Y545B72/ref=sr_1_41?keywords=zapatos&qid=1676859336&sr=8-41"
+      },
+      "page": "1",
+      "position_overall": 41
+    },
+    {
+      "position": 42,
+      "title": "Cole Haan Zerogrand Stitchlite Oxford, Zapatos de Cordones Hombre",
+      "asin": "B01MCZ9UCY",
+      "link": "https://www.amazon.es/Cole-Haan-Zerogrand-Stitchlite-Ironstone/dp/B01MCZ9UCY/ref=sr_1_42?keywords=zapatos&qid=1676859336&sr=8-42",
+      "brand": "Cole Haan",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/81iRiub4uiL._AC_UL320_.jpg",
+      "is_prime": true,
+      "rating": 4.7,
+      "ratings_total": 1949,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 156.74,
+          "raw": "€156,74",
+          "name": "156,74 €",
+          "is_primary": true
+        },
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 185,
+          "raw": "€185,00",
+          "name": "156,74 €",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 156.74,
+        "raw": "€156,74",
+        "name": "156,74 €",
+        "is_primary": true
+      },
+      "page": "1",
+      "position_overall": 42
+    },
+    {
+      "position": 43,
+      "title": "Crocs Men's Women's Baya Lined Clog | Warm and Fuzzy Slippers, Obstrucción Unisex Adulto",
+      "asin": "B08V1GMGJK",
+      "link": "https://www.amazon.es/Crocs-Baya-Lined-Fuzz-Strap-Zuecos/dp/B08V1GMGJK/ref=sr_1_43?keywords=zapatos&qid=1676859336&sr=8-43",
+      "brand": "Crocs",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71eO9EF+beL._AC_UL320_.jpg",
+      "rating": 4.7,
+      "ratings_total": 1958,
+      "page": "1",
+      "position_overall": 43
+    },
+    {
+      "position": 44,
+      "title": "Hey Dude Welsh Grip - Zapatos de Barco de los Hombres - Ligeros y cómodos - Plantilla ergonómica de Espuma viscoelástica - Moda de Verano",
+      "asin": "B07Z8K4YNG",
+      "link": "https://www.amazon.es/Hey-Dude-Hombres-Agarre-Marino/dp/B07Z8K4YNG/ref=sr_1_44?keywords=zapatos&qid=1676859336&sr=8-44",
+      "brand": "Hey Dude",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/611r7iM828L._AC_UL320_.jpg",
+      "rating": 4.7,
+      "ratings_total": 1458,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 64.9,
+          "raw": "€64,90",
+          "name": "64,90 €",
+          "asin": "B07Z8K4YNG",
+          "link": "https://www.amazon.es/Hey-Dude-Hombres-Agarre-Marino/dp/B07Z8K4YNG/ref=sr_1_44?keywords=zapatos&qid=1676859336&sr=8-44"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 64.9,
+        "raw": "€64,90",
+        "name": "64,90 €",
+        "asin": "B07Z8K4YNG",
+        "link": "https://www.amazon.es/Hey-Dude-Hombres-Agarre-Marino/dp/B07Z8K4YNG/ref=sr_1_44?keywords=zapatos&qid=1676859336&sr=8-44"
+      },
+      "page": "1",
+      "position_overall": 44
+    },
+    {
+      "position": 45,
+      "title": "adidas S2g, Zapatos de Golf Hombre",
+      "asin": "B0892SJXNV",
+      "link": "https://www.amazon.es/adidas-mens-Golf-Shoe-Yellow/dp/B0892SJXNV/ref=sr_1_45?keywords=zapatos&qid=1676859336&sr=8-45",
+      "brand": "adidas",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/818rfEevNTL._AC_UL320_.jpg",
+      "rating": 4.7,
+      "ratings_total": 1350,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 238.74,
+          "raw": "€238,74",
+          "name": "238,74 €",
+          "asin": "B0892SJXNV",
+          "link": "https://www.amazon.es/adidas-mens-Golf-Shoe-Yellow/dp/B0892SJXNV/ref=sr_1_45?keywords=zapatos&qid=1676859336&sr=8-45"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 238.74,
+        "raw": "€238,74",
+        "name": "238,74 €",
+        "asin": "B0892SJXNV",
+        "link": "https://www.amazon.es/adidas-mens-Golf-Shoe-Yellow/dp/B0892SJXNV/ref=sr_1_45?keywords=zapatos&qid=1676859336&sr=8-45"
+      },
+      "page": "1",
+      "position_overall": 45
+    },
+    {
+      "position": 47,
+      "title": "Hey Dude Wally Advanced, Mocasín Hombre",
+      "asin": "B095L3V461",
+      "link": "https://www.amazon.es/Hey-Dude-Advanced-Zapatos-Cordones/dp/B095L3V461/ref=sr_1_47?keywords=zapatos&qid=1676859336&sr=8-47",
+      "brand": "Hey Dude",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/51S3Yt-Z7LL._AC_UL320_.jpg",
+      "is_prime": true,
+      "rating": 4.7,
+      "ratings_total": 1190,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 67.71,
+          "raw": "€67,71",
+          "name": "67,71 €",
+          "asin": "B095L3V461",
+          "link": "https://www.amazon.es/Hey-Dude-Advanced-Zapatos-Cordones/dp/B095L3V461/ref=sr_1_47?keywords=zapatos&qid=1676859336&sr=8-47"
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 67.71,
+        "raw": "€67,71",
+        "name": "67,71 €",
+        "asin": "B095L3V461",
+        "link": "https://www.amazon.es/Hey-Dude-Advanced-Zapatos-Cordones/dp/B095L3V461/ref=sr_1_47?keywords=zapatos&qid=1676859336&sr=8-47"
+      },
+      "page": "1",
+      "position_overall": 47
+    },
+    {
+      "position": 48,
+      "title": "Footjoy Traditions, Zapatos de Golf Hombre",
+      "asin": "B08JWW8YQZ",
+      "link": "https://www.amazon.es/FootJoy-Traditions-Zapatos-Hombre-Blanco/dp/B08JWW8YQZ/ref=sr_1_48?keywords=zapatos&qid=1676859336&sr=8-48",
+      "brand": "Footjoy",
+      "categories": [
+        {
+          "name": "Todos los departamentos",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71wftYronZL._AC_UL320_.jpg",
+      "is_prime": true,
+      "rating": 4.7,
+      "ratings_total": 1176,
+      "prices": [
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 117.82,
+          "raw": "€117,82",
+          "name": "117,82 €",
+          "is_primary": true
+        },
+        {
+          "symbol": "€",
+          "currency": "EUR",
+          "value": 135,
+          "raw": "€135,00",
+          "name": "117,82 €",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "€",
+        "currency": "EUR",
+        "value": 117.82,
+        "raw": "€117,82",
+        "name": "117,82 €",
+        "is_primary": true
+      },
+      "page": "1",
+      "position_overall": 48
+    }
+  ],
+  "category_information": {
+    "is_landing_page": false
+  },
+  "related_searches": [
+    {
+      "query": "zapatos mujer",
+      "link": "https://www.amazon.es/s/?k=zapatos+mujer&ref=sugsr_0&pd_rd_w=pPkhh&content-id=amzn1.sym.c3720951-f077-46c0-8a25-d956512b0047:amzn1.sym.c3720951-f077-46c0-8a25-d956512b0047&pf_rd_p=c3720951-f077-46c0-8a25-d956512b0047&pf_rd_r=YSWK2BE8PZS1CNMHQ50H&pd_rd_wg=bcCkj&pd_rd_r=4cb5180c-074b-4a5f-a9a6-1e49b0180846&qid=1676859336"
+    },
+    {
+      "query": "zapatos hombre vestir",
+      "link": "https://www.amazon.es/s/?k=zapatos+hombre+vestir&ref=sugsr_3&pd_rd_w=pPkhh&content-id=amzn1.sym.c3720951-f077-46c0-8a25-d956512b0047:amzn1.sym.c3720951-f077-46c0-8a25-d956512b0047&pf_rd_p=c3720951-f077-46c0-8a25-d956512b0047&pf_rd_r=YSWK2BE8PZS1CNMHQ50H&pd_rd_wg=bcCkj&pd_rd_r=4cb5180c-074b-4a5f-a9a6-1e49b0180846&qid=1676859336"
+    },
+    {
+      "query": "zapatos hombre",
+      "link": "https://www.amazon.es/s/?k=zapatos+hombre&ref=sugsr_1&pd_rd_w=pPkhh&content-id=amzn1.sym.c3720951-f077-46c0-8a25-d956512b0047:amzn1.sym.c3720951-f077-46c0-8a25-d956512b0047&pf_rd_p=c3720951-f077-46c0-8a25-d956512b0047&pf_rd_r=YSWK2BE8PZS1CNMHQ50H&pd_rd_wg=bcCkj&pd_rd_r=4cb5180c-074b-4a5f-a9a6-1e49b0180846&qid=1676859336"
+    },
+    {
+      "query": "zapatos mujer verano",
+      "link": "https://www.amazon.es/s/?k=zapatos+mujer+verano&ref=sugsr_4&pd_rd_w=pPkhh&content-id=amzn1.sym.c3720951-f077-46c0-8a25-d956512b0047:amzn1.sym.c3720951-f077-46c0-8a25-d956512b0047&pf_rd_p=c3720951-f077-46c0-8a25-d956512b0047&pf_rd_r=YSWK2BE8PZS1CNMHQ50H&pd_rd_wg=bcCkj&pd_rd_r=4cb5180c-074b-4a5f-a9a6-1e49b0180846&qid=1676859336"
+    },
+    {
+      "query": "zapatos nike",
+      "link": "https://www.amazon.es/s/?k=zapatos+nike&ref=sugsr_2&pd_rd_w=pPkhh&content-id=amzn1.sym.c3720951-f077-46c0-8a25-d956512b0047:amzn1.sym.c3720951-f077-46c0-8a25-d956512b0047&pf_rd_p=c3720951-f077-46c0-8a25-d956512b0047&pf_rd_r=YSWK2BE8PZS1CNMHQ50H&pd_rd_wg=bcCkj&pd_rd_r=4cb5180c-074b-4a5f-a9a6-1e49b0180846&qid=1676859336"
+    },
+    {
+      "query": "zapatillas",
+      "link": "https://www.amazon.es/s/?k=zapatillas&ref=sugsr_5&pd_rd_w=pPkhh&content-id=amzn1.sym.c3720951-f077-46c0-8a25-d956512b0047:amzn1.sym.c3720951-f077-46c0-8a25-d956512b0047&pf_rd_p=c3720951-f077-46c0-8a25-d956512b0047&pf_rd_r=YSWK2BE8PZS1CNMHQ50H&pd_rd_wg=bcCkj&pd_rd_r=4cb5180c-074b-4a5f-a9a6-1e49b0180846&qid=1676859336"
+    }
+  ],
+  "related_brands": [
+    {
+      "logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/b24d452b-4ec2-47ff-80af-d3308710b938._CR0,0,800,800_AC_SX139_SY100_QL70_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61vSrJlWlAL._AC_SR139,139_QL70_.jpg",
+      "title": "Moda y confort para todosDescúbrelo SKECHERS",
+      "link": "https://aax-eu.amazon.es/x/c/RPPhY9QoX9FQTrX5YkQBuEAAAAGGbJrnRQMAAAH2AQBOL0EgICAgICAgICAgICBOL0EgICAgICAgICAgICAsS3i_/https://www.amazon.es/stores/SKECHERS/SKECHERS/page/D285377F-07A7-4CD6-8A2C-701A8BFCB9AF/?_encoding=UTF8&store_ref=SB_A02006013Q8NBWOWD29I0&pd_rd_plhdr=t&aaxitk=e0ad1189d68371beaaab6d831408cdb4&hsa_cr_id=8470648440402&lp_asins=B07VXK586C%2CB07NTWZVTS%2CB081K3PXKR&lp_query=zapatos&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_cta&pd_rd_w=X3IG4&content-id=amzn1.sym.0d9f0800-9760-489d-b2af-3e72dadb9eea%3Aamzn1.sym.0d9f0800-9760-489d-b2af-3e72dadb9eea&pf_rd_p=0d9f0800-9760-489d-b2af-3e72dadb9eea&pf_rd_r=YSWK2BE8PZS1CNMHQ50H&pd_rd_wg=rJR0h&pd_rd_r=01a32780-2961-4b9f-bd6c-427ab31ad99a",
+      "store_link": "https://www.amazon.es/stores/SKECHERS/SKECHERS/page/D285377F-07A7-4CD6-8A2C-701A8BFCB9AF",
+      "store_id": "D285377F-07A7-4CD6-8A2C-701A8BFCB9AF",
+      "store_name": "Descúbrelo SKECHERS"
+    },
+    {
+      "logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/172c288d-310e-4d60-ac12-2771df939eb9._CR20,49,493,430_AC_SX139_SY100_QL70_.png",
+      "image": "https://m.media-amazon.com/images/I/61di5hLd0PL._AC_SR139,139_QL70_.jpg",
+      "title": "Zapatos de Mujer Otoño Invierno 22-23Descúbrelo miMaO",
+      "link": "https://aax-eu.amazon.es/x/c/RLx8vIUJO9D7R6vKwFr7-9kAAAGGbJrnRQMAAAH2AQBOL0EgICAgICAgICAgICBOL0EgICAgICAgICAgICAqIN5e/https://www.amazon.es/stores/page/E147346B-8280-42B5-8E9E-D3FF4184DE29/?_encoding=UTF8&store_ref=SB_A05132542358A56ZQ6S&pd_rd_plhdr=t&aaxitk=c2bdf264ed64cc5de744a14293bbf60c&hsa_cr_id=1959749060302&lp_asins=B0BG2XQNCX&lp_query=zapatos&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_cta&pd_rd_w=X3IG4&content-id=amzn1.sym.0d9f0800-9760-489d-b2af-3e72dadb9eea%3Aamzn1.sym.0d9f0800-9760-489d-b2af-3e72dadb9eea&pf_rd_p=0d9f0800-9760-489d-b2af-3e72dadb9eea&pf_rd_r=YSWK2BE8PZS1CNMHQ50H&pd_rd_wg=rJR0h&pd_rd_r=01a32780-2961-4b9f-bd6c-427ab31ad99a",
+      "store_link": "https://www.amazon.es/stores/page/E147346B-8280-42B5-8E9E-D3FF4184DE29",
+      "store_id": "E147346B-8280-42B5-8E9E-D3FF4184DE29",
+      "store_name": "Descúbrelo miMaO"
+    },
+    {
+      "logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/e562c67e-3882-484d-931b-0c37ea3f0762._AC_SX139_SY100_QL70_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71R5J9udTJL._AC_SR139,139_QL70_.jpg",
+      "title": "Descubre más moda para hombre en nuestra tiendaDescúbrelo Leif Nelson",
+      "link": "https://aax-eu.amazon.es/x/c/RNaCWUKtsHiHcJHaUjbbrxMAAAGGbJrnRQMAAAH2AQBOL0EgICAgICAgICAgICBOL0EgICAgICAgICAgICDCGhlZ/https://www.amazon.es/stores/page/88B14DE9-0E7A-47D8-A1E3-A8C3BEB59DBA/?_encoding=UTF8&store_ref=SB_A0386349ZRVK4V1DZLOK&pd_rd_plhdr=t&aaxitk=9f162c8d09ff8a6b944f9e8b935359db&hsa_cr_id=7687086200402&lp_asins=B0177X515G%2CB07BN7KK47&lp_query=zapatos&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_cta&pd_rd_w=X3IG4&content-id=amzn1.sym.0d9f0800-9760-489d-b2af-3e72dadb9eea%3Aamzn1.sym.0d9f0800-9760-489d-b2af-3e72dadb9eea&pf_rd_p=0d9f0800-9760-489d-b2af-3e72dadb9eea&pf_rd_r=YSWK2BE8PZS1CNMHQ50H&pd_rd_wg=rJR0h&pd_rd_r=01a32780-2961-4b9f-bd6c-427ab31ad99a",
+      "store_link": "https://www.amazon.es/stores/page/88B14DE9-0E7A-47D8-A1E3-A8C3BEB59DBA",
+      "store_id": "88B14DE9-0E7A-47D8-A1E3-A8C3BEB59DBA",
+      "store_name": "Descúbrelo Leif Nelson"
+    }
+  ],
+  "pagination": {
+    "pages": [
+      {
+        "total_results": 100000,
+        "current_page": 1,
+        "next_page_link": "https://www.amazon.es/s?k=zapatos&s=review-rank&page=2&qid=1676859336&ref=sr_pg_2",
+        "total_pages": 7
+      }
+    ]
+  },
+  "refinements": {
+    "prime": [
+      {
+        "name": "Envío gratis",
+        "value": "p_76/13956313031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=p_76%3A13956313031&s=review-rank&dc&qid=1676859336&rnid=831276031&ref=sr_nr_p_76_1&ds=v1%3ASH6kK0rSw6qX6%2BiQFhCppBZvo4gH8hHhTt6KD4BtFyQ",
+        "refinement_display_name": "Prime"
+      }
+    ],
+    "delivery": [
+      {
+        "name": "Recíbelo mañana",
+        "value": "p_90/6820340031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=p_90%3A6820340031&s=review-rank&dc&qid=1676859336&rnid=6820335031&ref=sr_nr_p_90_1&ds=v1%3AQruv9GfXeS5gv7N9HkVLpB2iY0oRTLFrD01dxygF42Q",
+        "refinement_display_name": "Delivery"
+      }
+    ],
+    "departments": [
+      {
+        "name": "Moda",
+        "value": "n/5512276031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031&s=review-rank&dc&qid=1676859336&rnid=1703620031&ref=sr_nr_n_1&ds=v1%3A6sblmSXGM7XV%2BNKBIUV6u4ZQCiw0Qasl%2BDctXs0eUCA",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Zapatillas casual para hombre",
+        "value": "n/2008204031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cn%3A2008204031&s=review-rank&dc&qid=1676859336&rnid=1703620031&ref=sr_nr_n_2&ds=v1%3AWuwOUBXwuMRL9owKF9aMTHFFbU5ql2eS9qtr2f0BMvE",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Zapatos de cordones para hombre",
+        "value": "n/2008199031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cn%3A2008199031&s=review-rank&dc&qid=1676859336&rnid=1703620031&ref=sr_nr_n_3&ds=v1%3AlUkS1M3ay%2B4BsaY25QZe7QHWnFZ2NeKsJ3zDaaIfVEI",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Zapatillas casual para mujer",
+        "value": "n/2008267031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cn%3A2008267031&s=review-rank&dc&qid=1676859336&rnid=1703620031&ref=sr_nr_n_4&ds=v1%3A7KaGUcVCKvUVZbrW%2F%2BjE4veNGCkgsKjEf2uHp6x95Ho",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Zapatos de tacón",
+        "value": "n/2008258031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cn%3A2008258031&s=review-rank&dc&qid=1676859336&rnid=1703620031&ref=sr_nr_n_5&ds=v1%3Axztku%2BORc%2BenOpKq5jn0SFmStKK6wQgwLYwkdFGOQuM",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Mocasines para hombre",
+        "value": "n/2008200031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cn%3A2008200031&s=review-rank&dc&qid=1676859336&rnid=1703620031&ref=sr_nr_n_6&ds=v1%3Armlo7gYqehHwb3ZS0ptpL2YTnVG9bZt1AtufWyCMSzg",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Zapatos de industria y construcción para hombre",
+        "value": "n/9684413031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cn%3A9684413031&s=review-rank&dc&qid=1676859336&rnid=1703620031&ref=sr_nr_n_7&ds=v1%3A16Jgc7Oz6nkvqel3fWwfk8EnNk8lMtbBveNCxCfby58",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Calzados para correr en asfalto para hombre",
+        "value": "n/2008177031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cn%3A2008177031&s=review-rank&dc&qid=1676859336&rnid=1703620031&ref=sr_nr_n_8&ds=v1%3AsfbXeqadwzaSa5J8V1C3LmOvGm0MPTyoP9Ggo%2BlbJLA",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Zapatillas casual para niña",
+        "value": "n/2008144031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cn%3A2008144031&s=review-rank&dc&qid=1676859336&rnid=1703620031&ref=sr_nr_n_9&ds=v1%3AOoi8TEv%2F7xpwvDk7imV55Iq8bbivYXJMkW14uPYH2ak",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Zapatillas casual para niño",
+        "value": "n/2008082031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cn%3A2008082031&s=review-rank&dc&qid=1676859336&rnid=1703620031&ref=sr_nr_n_10&ds=v1%3A%2By1VSZGv23%2BYpL3dwU7EL2zaYFMGhNM2XIQoJvgQorI",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Zapatos para hombre",
+        "value": "n/2008145031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cn%3A2008145031&s=review-rank&dc&qid=1676859336&rnid=1703620031&ref=sr_nr_n_11&ds=v1%3APJ%2FDnqsTwAtyNuA9omlcXXUBgC0Zk37l6a1Hcywab%2Fc",
+        "refinement_display_name": "Departments"
+      }
+    ],
+    "reviews": [
+      {
+        "name": "4 Estrellas o más",
+        "value": "p_72/831280031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=p_72%3A831280031&s=review-rank&dc&qid=1676859336&rnid=831271031&ref=sr_nr_p_72_1&ds=v1%3AvyZLvPw6c%2FeT0FDsHrjfwEFdU6M3GcSFZp2XbTQ4UfQ",
+        "refinement_display_name": "Reviews"
+      },
+      {
+        "name": "3 Estrellas o más",
+        "value": "p_72/831281031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=p_72%3A831281031&s=review-rank&dc&qid=1676859336&rnid=831271031&ref=sr_nr_p_72_2&ds=v1%3Ax9gxikiq%2BJg50GDQC6SK9mxtpsg9V0ogvmKg%2B5kgXqY",
+        "refinement_display_name": "Reviews"
+      },
+      {
+        "name": "2 Estrellas o más",
+        "value": "p_72/831282031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=p_72%3A831282031&s=review-rank&dc&qid=1676859336&rnid=831271031&ref=sr_nr_p_72_3&ds=v1%3Ac3HymWNo3v7X%2BQvbq78wyQfRxCQH%2BmFOsHGzgx8Db%2BY",
+        "refinement_display_name": "Reviews"
+      },
+      {
+        "name": "1 estrella o más",
+        "value": "p_72/831283031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=p_72%3A831283031&s=review-rank&dc&qid=1676859336&rnid=831271031&ref=sr_nr_p_72_4&ds=v1%3Abde%2FsV5Wu0Azm797WLi9qtD1WNft1p3Z5EQHudwPEJ0",
+        "refinement_display_name": "Reviews"
+      }
+    ],
+    "price": [
+      {
+        "name": "0 - 20 EUR",
+        "value": "n:5512276031||p_36/2493682031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_36%3A2493682031&s=review-rank&dc&qid=1676859336&rnid=2493681031&ref=sr_nr_p_36_1&ds=v1%3A49HI0K5M8SseTR2cyqWDc7P%2BDtlycI5HnM9B3OCDQ98",
+        "refinement_display_name": "Price"
+      },
+      {
+        "name": "20 - 50 EUR",
+        "value": "n:5512276031||p_36/2493683031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_36%3A2493683031&s=review-rank&dc&qid=1676859336&rnid=2493681031&ref=sr_nr_p_36_2&ds=v1%3AlHSfJtReNN8i2idEMQi%2BuxRdd0gVoEDc7rsjww%2BR22Q",
+        "refinement_display_name": "Price"
+      },
+      {
+        "name": "50 - 100 EUR",
+        "value": "n:5512276031||p_36/2493684031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_36%3A2493684031&s=review-rank&dc&qid=1676859336&rnid=2493681031&ref=sr_nr_p_36_3&ds=v1%3AGiGNGwbH1yc3LTkOjGdfNVwDmYBPbeKR1lZTnJI4PVY",
+        "refinement_display_name": "Price"
+      },
+      {
+        "name": "100 - 200 EUR",
+        "value": "n:5512276031||p_36/2493685031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_36%3A2493685031&s=review-rank&dc&qid=1676859336&rnid=2493681031&ref=sr_nr_p_36_4&ds=v1%3AqwpOZuARqLAjnoLsVytH7QM52avCFYqPhLqV9%2B%2B7x5k",
+        "refinement_display_name": "Price"
+      },
+      {
+        "name": "200 - 500 EUR",
+        "value": "n:5512276031||p_36/2493686031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_36%3A2493686031&s=review-rank&dc&qid=1676859336&rnid=2493681031&ref=sr_nr_p_36_5&ds=v1%3ATKZBGq6trzlJ%2FW%2F25olIYatFp5ZXdFEkQa4AV1opkO8",
+        "refinement_display_name": "Price"
+      },
+      {
+        "name": "Más de 500 EUR",
+        "value": "n:5512276031||p_36/2493687031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_36%3A2493687031&s=review-rank&dc&qid=1676859336&rnid=2493681031&ref=sr_nr_p_36_6&ds=v1%3AbqVFIfvdZ1In5LjmDfmTmBI5VY5fAq6MltLhtjYpez0",
+        "refinement_display_name": "Price"
+      },
+      {
+        "name": "EUR        EUR            Ir",
+        "value": "p_36/price-range",
+        "refinement_display_name": "Price"
+      },
+      {
+        "name": "Ofertas del Día",
+        "value": "p_n_deal_type/26902951031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=p_n_deal_type%3A26902951031&s=review-rank&dc&qid=1676859336&rnid=26902950031&ref=sr_nr_p_n_deal_type_1&ds=v1%3AAGjeCecrG%2Bz0DHrsVIBSdaK14VDd%2FAd0MbB2aVWVMzw",
+        "refinement_display_name": "Price"
+      },
+      {
+        "name": "Todos los ahorros",
+        "value": "p_n_deal_type/26902953031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=p_n_deal_type%3A26902953031&s=review-rank&dc&qid=1676859336&rnid=26902950031&ref=sr_nr_p_n_deal_type_2&ds=v1%3ATJ%2B5b4R2AvQXcEZLFi23FGfqyU0LyU2PQQDhBF%2BPgZA",
+        "refinement_display_name": "Price"
+      }
+    ],
+    "brand": [
+      {
+        "name": "Skechers",
+        "value": "n:5512276031||p_89/Skechers",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3ASkechers&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_1&ds=v1%3A8Bjqc71vJFTB8RuF7zodlA560kPQ9IXLgzkJJxYViUY",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Clarks",
+        "value": "n:5512276031||p_89/Clarks",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AClarks&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_2&ds=v1%3ATxeXuf3SlMWkAbitiGFrnRcXfLf38EQqZ8F7Oau%2FYt4",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Geox",
+        "value": "n:5512276031||p_89/Geox",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AGeox&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_3&ds=v1%3AUxp3dCSTkWkT3NdJKMfgdXp1oax20mLggygvimzfdzk",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "PUMA",
+        "value": "n:5512276031||p_89/PUMA",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3APUMA&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_4&ds=v1%3A%2BGDpnhLIwWlzFxH9z5xMT1oahdtVVELC%2FVnQQRhAwPE",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Levi's",
+        "value": "n:5512276031||p_89/Levi's",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3ALevi%27s&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_5&ds=v1%3AHSBRjnLXldTw1fpsotSwdRbryGs65GPkRld76x6vzyI",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Tommy Hilfiger",
+        "value": "n:5512276031||p_89/Tommy Hilfiger",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3ATommy+Hilfiger&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_6&ds=v1%3ACeX%2FFvF5Vt4HHxFGuM5Lf4i%2FOh4dAdugHqL3nhSaBTg",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "adidas",
+        "value": "n:5512276031||p_89/adidas",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3Aadidas&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_7&ds=v1%3AII1yoX8HXZXWZu034cxoO2neN9vPG7lrWt0zc%2B5V1SE",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "ColumbiaPabloskyGIOSEPPOVansNIKENew BalanceEtniesbugattiMARCO TOZZIBellotaGoodyearDC ShoesFilaMunichFluchosHush PuppiesXTIs.OliverPepe JeansJ.BRADFORDConverseZerimarMTNGPanama JackHitmarsUnisaReebokJack & JonesCrocsSparcoLottussemiMaOMishansha",
+        "value": "n:5512276031||undefined",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AColumbia&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_8&ds=v1%3AYTaGfLMLDwHUaka9M0TRXi1m6B6wMZwKkOq8kwpVtbs",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Columbia",
+        "value": "n:5512276031||p_89/Columbia",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AColumbia&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_8&ds=v1%3AYTaGfLMLDwHUaka9M0TRXi1m6B6wMZwKkOq8kwpVtbs",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Pablosky",
+        "value": "n:5512276031||p_89/Pablosky",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3APablosky&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_9&ds=v1%3AvN8eFS2HnbftTwudmv3HeiNbjSBqVuh%2B5mHKD9LUuuw",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "GIOSEPPO",
+        "value": "n:5512276031||p_89/GIOSEPPO",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AGIOSEPPO&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_10&ds=v1%3Aeo8lQ2LopPVmBm8nUzjfyOc1VE%2FH74M6eGNiiz6%2Fvxc",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Vans",
+        "value": "n:5512276031||p_89/Vans",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AVans&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_11&ds=v1%3A%2FUYyU3TambpmQIbGrpc72OTO8sY4zipIOmuQIL%2FUPOE",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "NIKE",
+        "value": "n:5512276031||p_89/NIKE",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3ANIKE&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_12&ds=v1%3AesDwB%2BO4%2F9%2FiO0ssqzHLerBx3TZcNd6KVJy2i8RtKb0",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "New Balance",
+        "value": "n:5512276031||p_89/New Balance",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3ANew+Balance&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_13&ds=v1%3Ap82wjDdxhULP4UpgPHPVrRiA24CGkB4ZV9lxi7kJPfI",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Etnies",
+        "value": "n:5512276031||p_89/Etnies",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AEtnies&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_14&ds=v1%3A6VlcgN5bT%2B%2B6oli2l%2FYk0rArB0Jj1hAjzOY0MuMe490",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "bugatti",
+        "value": "n:5512276031||p_89/bugatti",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3Abugatti&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_15&ds=v1%3ARq%2F8MuG8bqQ58gFd7aW1JA%2FZ5nViiHDLwULbnY5HfQM",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "MARCO TOZZI",
+        "value": "n:5512276031||p_89/MARCO TOZZI",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AMARCO+TOZZI&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_16&ds=v1%3AigUQZJdJOCPExnZmn3cLG%2FmEspEIpT6SnCVu4aGCAnU",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Bellota",
+        "value": "n:5512276031||p_89/Bellota",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3ABellota&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_17&ds=v1%3A7BX8aIEEAoKv%2FgKVMuFc8A0ebpS30xdlrQKH8Vjq%2FB4",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Goodyear",
+        "value": "n:5512276031||p_89/Goodyear",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AGoodyear&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_18&ds=v1%3A8ZWuoRBK12y8qpkiNCvUZ%2BnUAG51blT0V%2BZ23ULQlTA",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "DC Shoes",
+        "value": "n:5512276031||p_89/DC Shoes",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3ADC+Shoes&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_19&ds=v1%3ANAeK50ozPgBV%2FgttVIHcaW2oodzRaG365KWBxJix4ow",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Fila",
+        "value": "n:5512276031||p_89/Fila",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AFila&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_20&ds=v1%3AEU%2B7TuKG833Q0RXkgJEPD3Hwc4CjRaEHTD94HI2r4n0",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Munich",
+        "value": "n:5512276031||p_89/Munich",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AMunich&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_21&ds=v1%3A97zl6DQW7DDhDXx0SVXk0mniAxkCvUfQVGfeCNVikfw",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Fluchos",
+        "value": "n:5512276031||p_89/Fluchos",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AFluchos&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_22&ds=v1%3AvaKwtO05x01t81y6L%2BvydEF879vpIho9TjhNR0jl1zE",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Hush Puppies",
+        "value": "n:5512276031||p_89/Hush Puppies",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AHush+Puppies&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_23&ds=v1%3AdaWY109aFDfFAIK%2B2%2FIQTGr1DR8ufyRrUftegymr1BA",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "XTI",
+        "value": "n:5512276031||p_89/XTI",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AXTI&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_24&ds=v1%3A%2B10kwuGnguSw4mb46eXFrL05m5mlRtSJp1qadlKKnX0",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "s.Oliver",
+        "value": "n:5512276031||p_89/s.Oliver",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3As.Oliver&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_25&ds=v1%3Ak0YMVWolDkAJQRUWAiSyFuqWDoo%2FpFgxf64J%2BNfWwXU",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Pepe Jeans",
+        "value": "n:5512276031||p_89/Pepe Jeans",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3APepe+Jeans&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_26&ds=v1%3A%2BhXTrRlsAvN8ip6U5xJwKNQh4LqFigF9NBIDaUcB7uA",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "J.BRADFORD",
+        "value": "n:5512276031||p_89/J.BRADFORD",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AJ.BRADFORD&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_27&ds=v1%3ADN%2F8zQ57OK7KlGun%2F4lWsqs7Xxb5TIGyKgbsL%2B3%2BJaw",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Converse",
+        "value": "n:5512276031||p_89/Converse",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AConverse&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_28&ds=v1%3AHmISDiobC44R2nz5UbqcmSBnW4Rvr0N1OLj2FNR9jM0",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Zerimar",
+        "value": "n:5512276031||p_89/Zerimar",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AZerimar&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_29&ds=v1%3AmscCQOfYZR8h3MLJX5BFwOHMleB%2BUr0kj9PC1B4tmdg",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "MTNG",
+        "value": "n:5512276031||p_89/MTNG",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AMTNG&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_30&ds=v1%3AF52jEXtDNoM%2FzFBDB31KRs1aHHk9pM%2FhEhlFASmwqGo",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Panama Jack",
+        "value": "n:5512276031||p_89/Panama Jack",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3APanama+Jack&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_31&ds=v1%3A9aIqQFScVdiPzP2xWEr10op%2Bk8XSuJfU%2BU%2BtOwpFsvo",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Hitmars",
+        "value": "n:5512276031||p_89/Hitmars",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AHitmars&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_32&ds=v1%3ASpltrvukey1UU90%2BC4vIWinBXmlwjIEwPHeMNMPeKnM",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Unisa",
+        "value": "n:5512276031||p_89/Unisa",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AUnisa&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_33&ds=v1%3AfS4B%2FqyxxcT7yPz317FyFnaobvYUkSydYrj07ev%2F%2B1c",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Reebok",
+        "value": "n:5512276031||p_89/Reebok",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AReebok&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_34&ds=v1%3AGp%2BZN9jBV4XCeEkLYMk2MrIrva2RrTtqxeAf6dtnw0o",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Jack & Jones",
+        "value": "n:5512276031||p_89/Jack & Jones",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AJack+%26+Jones&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_35&ds=v1%3AYMBRszBhgtEvcIP9Bn0UQGG89xZwSW0PdkATHWJODdM",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Crocs",
+        "value": "n:5512276031||p_89/Crocs",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3ACrocs&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_36&ds=v1%3AwTrQtDBxsbS9oJ9RpTa9GakBNRyrTuvBafNhjJdEPU0",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Sparco",
+        "value": "n:5512276031||p_89/Sparco",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3ASparco&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_37&ds=v1%3AIfv25XHKTblBHz2petHDTzsXVAWOFeGXIv9uzXw5Bgk",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Lottusse",
+        "value": "n:5512276031||p_89/Lottusse",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3ALottusse&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_38&ds=v1%3A%2BgoN%2FRpgmQ%2B8VX4gVKa8w8XPe8hX5NbXCxS%2BFvN8bFs",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "miMaO",
+        "value": "n:5512276031||p_89/miMaO",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AmiMaO&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_39&ds=v1%3Aq3k1ZL2FrEvMtnFGQC0%2FPJknH1shcYjgOByIrw%2FqT30",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Mishansha",
+        "value": "n:5512276031||p_89/Mishansha",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_89%3AMishansha&s=review-rank&dc&qid=1676859336&rnid=1692911031&ref=sr_nr_p_89_40&ds=v1%3AIQlFl%2B128t6kzJCGQr2t6Gsml7YAujAGbTMWjz%2FPyfk",
+        "refinement_display_name": "Brand"
+      }
+    ],
+    "seleccion_de_marcas": [
+      {
+        "name": "Nuestras marcas",
+        "value": "n:5512276031||p_n_format_browse-bin/15458317031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_n_format_browse-bin%3A15458317031&s=review-rank&dc&qid=1676859336&rnid=13331924031&ref=sr_nr_p_n_format_browse-bin_1&ds=v1%3ACs9cBBJDNam%2Bq7sywQbdtDactuzbIcLtX0Ta39JXbBk",
+        "refinement_display_name": "Selección de marcas"
+      },
+      {
+        "name": "Marcas premium",
+        "value": "n:5512276031||p_n_format_browse-bin/22572653031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_n_format_browse-bin%3A22572653031&s=review-rank&dc&qid=1676859336&rnid=13331924031&ref=sr_nr_p_n_format_browse-bin_2&ds=v1%3AOxKzW0yoEujLXD9WstVfYHmgVLKYFzHV3BJrwtuWCOY",
+        "refinement_display_name": "Selección de marcas"
+      },
+      {
+        "name": "Marcas populares",
+        "value": "n:5512276031||p_n_format_browse-bin/13331962031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_n_format_browse-bin%3A13331962031&s=review-rank&dc&qid=1676859336&rnid=13331924031&ref=sr_nr_p_n_format_browse-bin_3&ds=v1%3A%2FWqzcoOHmSgAq4kZbnOwZnfU84E8KwVURA3J%2B4Il2mQ",
+        "refinement_display_name": "Selección de marcas"
+      }
+    ],
+    "talla_de_zapatos_para_hombres": [
+      {
+        "name": "36",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040822031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040822031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_1&ds=v1%3Alo1abIgEPpx%2BHzyaMkomL7jazCZ0%2FVIAS0Dxl7qcOCM",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "36.5",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040823031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040823031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_2&ds=v1%3A%2Fw6cxDESLCVgiQeRNz7ulV%2FIuWiRUWfWv2XAXLXbNRI",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "37",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040824031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040824031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_3&ds=v1%3AaiXuSvpnG52IG03ig9owZ27%2FNGyaLJ797XpSdjYOOCA",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "37.5",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040825031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040825031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_4&ds=v1%3A9mpZlmZDUdW%2B7EIgOtauRUCb0dIeJiCY3mZB4rUA9a8",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "38",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040826031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040826031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_5&ds=v1%3AjtKujPR8ZP2GXljerLNwnsK6ujXCRz6zMwl58d%2F0Tto",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "38.5",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040827031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040827031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_6&ds=v1%3AhjR%2BwIRpoycBaQ4b5tBz5ojfOold0LcpCYAnYCOQ8dc",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "39",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040828031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040828031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_7&ds=v1%3AaVFH7DBPPSH1SVdYOYXeNtJVZduYHANvDcWw3tbm2j4",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "39.5",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040829031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040829031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_8&ds=v1%3Awmy6QUQVLeaaIjiFMOzlAzsOpbjOHXigT%2BBxg9FWg8Q",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "40",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040830031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040830031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_9&ds=v1%3AGcyTsyJEj2iFoD3ZkUltuofhedDQDAuoCmnO7CxEk4w",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "40.5",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040831031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040831031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_10&ds=v1%3AdPY8LAKgA3YLnBtnDjM4Z7koqgI5GwSWD5vm4ULI9TY",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "41",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040832031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040832031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_11&ds=v1%3ALGHLfvhuM2qiUFmhJndb2HrM7mUg6uB33PeEsSSw5Kk",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "41.5",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040833031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040833031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_12&ds=v1%3AkwwjH9NpGEWOLqLIgS1DiIFWXx9pa6sy31MfP%2Bo8QYk",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "42",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040834031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040834031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_13&ds=v1%3AagERn1pwAiPbGhFGg03PxhcOCOguYl5AAFNuiIqoRVw",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "42.5",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040835031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040835031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_14&ds=v1%3Apq6iDBN7zwp8hzrlwgU31U7MEjNoFpN3ouoShm2w5Ig",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "43",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040836031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040836031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_15&ds=v1%3AglCqzx6UeE1BF6uIDq5y5vR2m9sHQ12XDivNGU8TgX4",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "43.5",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040837031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040837031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_16&ds=v1%3AjUy9oSZxJ4veCSnICr0J0we7amkr7oOG6uur2uyKk2g",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "44",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040838031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040838031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_17&ds=v1%3AQXAMJ8oukhcAODaXkjQjhLXV0U4N8WIAJ5w74HOjwzk",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "44.5",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040839031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040839031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_18&ds=v1%3AtUGNVfHM73YpfLTSjC8P5DQ7bfLMi5%2Fb7FmV58PS%2BAE",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "45",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040840031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040840031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_19&ds=v1%3ArkATTz7FOyFFQZYFvkCpHXEhhps4u4Cxw6Ee%2FMTfbh0",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "45.5",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040841031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040841031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_20&ds=v1%3AcuwskvCVdOTlHbDMGdB8nO0Kg49hzkKsHf0aV95FkA4",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "46",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040842031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040842031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_21&ds=v1%3A5SCmpf1encSwl8kiPLFTy0LQi%2BKFyH40%2F9beSVddsMo",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "46.5",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040843031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040843031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_22&ds=v1%3AE1WfSSappb8HNhfkdJYq4MCvsSTvK8m69ciAOeKRPfo",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "47",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040844031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040844031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_23&ds=v1%3AwosMgbpmyI38RAGsvpEpB%2FwvKshyecZxPpEHWiDvRu0",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "47.5",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040845031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040845031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_24&ds=v1%3AdvL%2BJGHj9zVOLzeosYLRf6mmRJ89ILiCLJ74G8oia4k",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "48",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040846031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040846031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_25&ds=v1%3AemQE0rWiF5dk21H4Q%2BNf72eb13y%2BESwC1syCFQkkptY",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "48.5",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040847031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040847031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_26&ds=v1%3AIjTwhF%2FOrEj%2FDNlMSoR6AZDtSU0DbwSRt%2Fy2h%2B%2BaN8Y",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "49",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040848031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040848031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_27&ds=v1%3AlnieZpmgylUZgpgSUmwu6u0SPfd%2FcbVqj8621L%2FPKQ0",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "49.5",
+        "value": "n:2008145031||p_n_size_browse-vebin/2040849031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A2040849031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_28&ds=v1%3AkDkWANUkstVNVxSIkGpNv9ZUjtn2VgrZAa6Bje%2F4fAU",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "50",
+        "value": "n:2008145031||p_n_size_browse-vebin/14676125031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A14676125031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_29&ds=v1%3A98AQmR6Hjxyr95%2BlaEXiz4cPdKgTElBx6zS6THITwXk",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "50.5",
+        "value": "n:2008145031||p_n_size_browse-vebin/14676126031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A14676126031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_30&ds=v1%3Az64ioRAZh8fV%2FT8VBpOE2TzGWSVq4oNuiiCwCSDVuJA",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "51",
+        "value": "n:2008145031||p_n_size_browse-vebin/14676127031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A14676127031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_31&ds=v1%3AeGIBxZRt8TupvTS7NgkAA86xPmJhZWNCV%2BoW6JSIkHw",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "51.5",
+        "value": "n:2008145031||p_n_size_browse-vebin/14676128031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A14676128031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_32&ds=v1%3AFh%2BTrwEWberEaMHknO6%2Fr3QEAXDFsuvJ1vqFuA1Z5IE",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "52",
+        "value": "n:2008145031||p_n_size_browse-vebin/14676129031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A14676129031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_33&ds=v1%3AoG%2BuYofxy%2BLVGi2KwVqmRyE6mzMg7%2F5022QMhp3f6LA",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      },
+      {
+        "name": "55",
+        "value": "n:2008145031||p_n_size_browse-vebin/14676135031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_size_browse-vebin%3A14676135031&s=review-rank&dc&qid=1676859336&rnid=2039412031&ref=sr_nr_p_n_size_browse-vebin_34&ds=v1%3Au8i324WjKHu6aAxJmVl76PDjXIIepqQhmoHVA6%2FHm1Y",
+        "refinement_display_name": "Talla de zapatos para hombres"
+      }
+    ],
+    "grosor_de_la_suela": [
+      {
+        "name": "3X-Estrecho",
+        "value": "n:2008145031||p_n_feature_two_browse-bin/27071229031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_two_browse-bin%3A27071229031&s=review-rank&dc&qid=1676859336&rnid=2039445031&ref=sr_nr_p_n_feature_two_browse-bin_1&ds=v1%3AFl7FUucBpMtA4b1WL8XdGKoEb9pAP4PFmiGgXZifHDE",
+        "refinement_display_name": "Grosor de la suela"
+      },
+      {
+        "name": "XX-Estrecho",
+        "value": "n:2008145031||p_n_feature_two_browse-bin/27071227031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_two_browse-bin%3A27071227031&s=review-rank&dc&qid=1676859336&rnid=2039445031&ref=sr_nr_p_n_feature_two_browse-bin_2&ds=v1%3AMeItZTx7FvyUbslKjX0BIVyj8QWbNBZc79p1NzlCfZA",
+        "refinement_display_name": "Grosor de la suela"
+      },
+      {
+        "name": "Estrecho",
+        "value": "n:2008145031||p_n_feature_two_browse-bin/2040060031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_two_browse-bin%3A2040060031&s=review-rank&dc&qid=1676859336&rnid=2039445031&ref=sr_nr_p_n_feature_two_browse-bin_3&ds=v1%3AqANEdekD%2BfNKgFT0T1G5bCQCZmZSu2STkTHTQNKMlpE",
+        "refinement_display_name": "Grosor de la suela"
+      },
+      {
+        "name": "Mediano",
+        "value": "n:2008145031||p_n_feature_two_browse-bin/2040061031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_two_browse-bin%3A2040061031&s=review-rank&dc&qid=1676859336&rnid=2039445031&ref=sr_nr_p_n_feature_two_browse-bin_4&ds=v1%3AEkl%2BTPE9YEdd7Dksx4QHFAymlpN%2BF%2FJyzQMpl%2FE3L8Y",
+        "refinement_display_name": "Grosor de la suela"
+      },
+      {
+        "name": "Ancho",
+        "value": "n:2008145031||p_n_feature_two_browse-bin/2040062031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_two_browse-bin%3A2040062031&s=review-rank&dc&qid=1676859336&rnid=2039445031&ref=sr_nr_p_n_feature_two_browse-bin_5&ds=v1%3A8q1Tx7s2vXm%2FzHTcsWIlf3O4nCNJphB6ZjSO%2FK9ENiw",
+        "refinement_display_name": "Grosor de la suela"
+      },
+      {
+        "name": "X-Ancho",
+        "value": "n:2008145031||p_n_feature_two_browse-bin/2040059031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_two_browse-bin%3A2040059031&s=review-rank&dc&qid=1676859336&rnid=2039445031&ref=sr_nr_p_n_feature_two_browse-bin_6&ds=v1%3AYcoC0pEdjIcu8wp0S8CQM%2BqDgR9YpLau78vv3tga5Vg",
+        "refinement_display_name": "Grosor de la suela"
+      },
+      {
+        "name": "XX-Ancho",
+        "value": "n:2008145031||p_n_feature_two_browse-bin/27071228031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_two_browse-bin%3A27071228031&s=review-rank&dc&qid=1676859336&rnid=2039445031&ref=sr_nr_p_n_feature_two_browse-bin_7&ds=v1%3Ae4LaXHuo7GzehBp7331a2H030OOlOqeh3GnOqWVjtxU",
+        "refinement_display_name": "Grosor de la suela"
+      },
+      {
+        "name": "3X-Ancho",
+        "value": "n:2008145031||p_n_feature_two_browse-bin/27071225031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_two_browse-bin%3A27071225031&s=review-rank&dc&qid=1676859336&rnid=2039445031&ref=sr_nr_p_n_feature_two_browse-bin_8&ds=v1%3AFgoHUzOPImVwok0FYxJ2HPtESNYv3aqYWVviTNc8288",
+        "refinement_display_name": "Grosor de la suela"
+      }
+    ],
+    "tallas_especiales": [
+      {
+        "name": "Petite",
+        "value": "n:5512276031||p_n_feature_twenty-five_browse-bin/14805605031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_n_feature_twenty-five_browse-bin%3A14805605031&s=review-rank&dc&qid=1676859336&rnid=14805604031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_1&ds=v1%3AyU2QJnCYL8alahzjFIrAdWFmvJA1GA7qxUhRVSuTFrg",
+        "refinement_display_name": "Tallas especiales"
+      },
+      {
+        "name": "Tall",
+        "value": "n:5512276031||p_n_feature_twenty-five_browse-bin/14805607031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_n_feature_twenty-five_browse-bin%3A14805607031&s=review-rank&dc&qid=1676859336&rnid=14805604031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_2&ds=v1%3AV46KLJHCqPi%2FDHa39YsvcJQ%2FRNoqD9jByL%2Fy1n%2F%2B8s0",
+        "refinement_display_name": "Tallas especiales"
+      },
+      {
+        "name": "Tallas grandes",
+        "value": "p_n_feature_twenty-five_browse-bin/14805606031",
+        "refinement_display_name": "Tallas especiales"
+      }
+    ],
+    "temporadas_de_zapatos": [
+      {
+        "name": "Primavera",
+        "value": "n:2008204031||p_n_feature_seventeen_browse-bin/29593888031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_seventeen_browse-bin%3A29593888031&s=review-rank&dc&qid=1676859336&rnid=29593868031&ref=sr_nr_p_n_feature_seventeen_browse-bin_1&ds=v1%3AohqTXxAV2hBNEfuECOhCceW5U31CIeRsM%2BQ74ARC5H0",
+        "refinement_display_name": "Temporadas de zapatos"
+      },
+      {
+        "name": "Verano",
+        "value": "n:2008204031||p_n_feature_seventeen_browse-bin/29593891031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_seventeen_browse-bin%3A29593891031&s=review-rank&dc&qid=1676859336&rnid=29593868031&ref=sr_nr_p_n_feature_seventeen_browse-bin_2&ds=v1%3AuUtK1dztIKdtwnCN3okxVxTxvBu%2BsiFVl9%2B3I5u4eLQ",
+        "refinement_display_name": "Temporadas de zapatos"
+      },
+      {
+        "name": "Otoño",
+        "value": "n:2008204031||p_n_feature_seventeen_browse-bin/29593890031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_seventeen_browse-bin%3A29593890031&s=review-rank&dc&qid=1676859336&rnid=29593868031&ref=sr_nr_p_n_feature_seventeen_browse-bin_3&ds=v1%3AagN9mrRBofqSExUnL%2FNA7HAPc%2Bz1cdoYRAHplUR9fsc",
+        "refinement_display_name": "Temporadas de zapatos"
+      },
+      {
+        "name": "Invierno",
+        "value": "n:2008204031||p_n_feature_seventeen_browse-bin/29593889031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_seventeen_browse-bin%3A29593889031&s=review-rank&dc&qid=1676859336&rnid=29593868031&ref=sr_nr_p_n_feature_seventeen_browse-bin_4&ds=v1%3A7M2aUST%2Fzz%2BQ3F0YKuARPfqC8tMK18uMqRT8UY307RA",
+        "refinement_display_name": "Temporadas de zapatos"
+      }
+    ],
+    "caracteristicas_especiales_del_calzado": [
+      {
+        "name": "Agarre para todo clima",
+        "value": "n:2008204031||p_n_feature_eighteen_browse-bin/29603437031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eighteen_browse-bin%3A29603437031&s=review-rank&dc&qid=1676859336&rnid=29603406031&ref=sr_nr_p_n_feature_eighteen_browse-bin_1&ds=v1%3APnpJxM6tdBC3du8XYy8oW7Ak2SvXUaMfwIEvwfiqiT0",
+        "refinement_display_name": "Características especiales del calzado"
+      },
+      {
+        "name": "Antideslizante",
+        "value": "n:2008204031||p_n_feature_eighteen_browse-bin/29603427031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eighteen_browse-bin%3A29603427031&s=review-rank&dc&qid=1676859336&rnid=29603406031&ref=sr_nr_p_n_feature_eighteen_browse-bin_2&ds=v1%3ARW%2Fs%2FifENGFGo17Gb1QwjmhEEK12pg3ZvYK3f4HnCJQ",
+        "refinement_display_name": "Características especiales del calzado"
+      },
+      {
+        "name": "Antimicrobianos",
+        "value": "n:2008204031||p_n_feature_eighteen_browse-bin/29603431031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eighteen_browse-bin%3A29603431031&s=review-rank&dc&qid=1676859336&rnid=29603406031&ref=sr_nr_p_n_feature_eighteen_browse-bin_3&ds=v1%3AIqHyKiQOnQCYMETst8wQPGppMNK7H5Nxv3E67O2YNAE",
+        "refinement_display_name": "Características especiales del calzado"
+      },
+      {
+        "name": "Flexible",
+        "value": "n:2008204031||p_n_feature_eighteen_browse-bin/29603428031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eighteen_browse-bin%3A29603428031&s=review-rank&dc&qid=1676859336&rnid=29603406031&ref=sr_nr_p_n_feature_eighteen_browse-bin_4&ds=v1%3AIifhNHr0uCjKhZexQXhQdFAWhKiX7ov8xfb09IczkMo",
+        "refinement_display_name": "Características especiales del calzado"
+      },
+      {
+        "name": "Impermeable",
+        "value": "n:2008204031||p_n_feature_eighteen_browse-bin/29603434031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eighteen_browse-bin%3A29603434031&s=review-rank&dc&qid=1676859336&rnid=29603406031&ref=sr_nr_p_n_feature_eighteen_browse-bin_5&ds=v1%3AZdy2tFZow3vkvZfhkNlms%2BtdXnwTML0RLtaQQPWuzl4",
+        "refinement_display_name": "Características especiales del calzado"
+      },
+      {
+        "name": "Ligero",
+        "value": "n:2008204031||p_n_feature_eighteen_browse-bin/29603429031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eighteen_browse-bin%3A29603429031&s=review-rank&dc&qid=1676859336&rnid=29603406031&ref=sr_nr_p_n_feature_eighteen_browse-bin_6&ds=v1%3AuzJ5p%2B0oy7pOxnczq1UiTiPmG77D9ZtrUCVc8b2JZKY",
+        "refinement_display_name": "Características especiales del calzado"
+      },
+      {
+        "name": "Resistente a golpes",
+        "value": "n:2008204031||p_n_feature_eighteen_browse-bin/29603436031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eighteen_browse-bin%3A29603436031&s=review-rank&dc&qid=1676859336&rnid=29603406031&ref=sr_nr_p_n_feature_eighteen_browse-bin_7&ds=v1%3AUKCQ%2FhanwF5xJaSfMx6rXm%2BFByCqTVLu8gpRvfVlEDQ",
+        "refinement_display_name": "Características especiales del calzado"
+      },
+      {
+        "name": "Resistente a las manchasResistente a pinchazosResistente al aguaTranspirable",
+        "value": "n:2008204031||undefined",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eighteen_browse-bin%3A29603432031&s=review-rank&dc&qid=1676859336&rnid=29603406031&ref=sr_nr_p_n_feature_eighteen_browse-bin_8&ds=v1%3Av%2FU%2BNsGzXah%2FDogRvLzlUktX6y96Xx2AQwMnxkgVE1s",
+        "refinement_display_name": "Características especiales del calzado"
+      },
+      {
+        "name": "Resistente a las manchas",
+        "value": "n:2008204031||p_n_feature_eighteen_browse-bin/29603432031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eighteen_browse-bin%3A29603432031&s=review-rank&dc&qid=1676859336&rnid=29603406031&ref=sr_nr_p_n_feature_eighteen_browse-bin_8&ds=v1%3Av%2FU%2BNsGzXah%2FDogRvLzlUktX6y96Xx2AQwMnxkgVE1s",
+        "refinement_display_name": "Características especiales del calzado"
+      },
+      {
+        "name": "Resistente a pinchazos",
+        "value": "n:2008204031||p_n_feature_eighteen_browse-bin/29603435031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eighteen_browse-bin%3A29603435031&s=review-rank&dc&qid=1676859336&rnid=29603406031&ref=sr_nr_p_n_feature_eighteen_browse-bin_9&ds=v1%3A4cOa%2BEeftVGbzsjkYJSnEaWCmTEpoNXf6IevS%2BOHJsY",
+        "refinement_display_name": "Características especiales del calzado"
+      },
+      {
+        "name": "Resistente al agua",
+        "value": "n:2008204031||p_n_feature_eighteen_browse-bin/29603430031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eighteen_browse-bin%3A29603430031&s=review-rank&dc&qid=1676859336&rnid=29603406031&ref=sr_nr_p_n_feature_eighteen_browse-bin_10&ds=v1%3AEpNZpj36AJ5dTskJYGUF7SmrzS9ODQjYKPV6lX1voPE",
+        "refinement_display_name": "Características especiales del calzado"
+      },
+      {
+        "name": "Transpirable",
+        "value": "n:2008204031||p_n_feature_eighteen_browse-bin/29603433031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eighteen_browse-bin%3A29603433031&s=review-rank&dc&qid=1676859336&rnid=29603406031&ref=sr_nr_p_n_feature_eighteen_browse-bin_11&ds=v1%3AuG4O42tgjZwkV4QhetSRq7IU7m1ahwmO%2BYdiYFehb%2Bc",
+        "refinement_display_name": "Características especiales del calzado"
+      }
+    ],
+    "material_exterior_del_calzado": [
+      {
+        "name": "Acrílico",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27917249031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27917249031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_1&ds=v1%3AGqlGGHLAT94N8Gp4W%2BDFpBPmYYMDOY3e6SQvmSgqAAw",
+        "refinement_display_name": "Material exterior del calzado"
+      },
+      {
+        "name": "Algodón",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27015521031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27015521031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_2&ds=v1%3A1l3360vxceZ%2FHgvEiuyFHia2LfTYkwdFEJjcM%2FrAa5U",
+        "refinement_display_name": "Material exterior del calzado"
+      },
+      {
+        "name": "Ante",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27015515031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27015515031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_3&ds=v1%3AZcdKFjieSXDNJdzlPr34grWWMoPcIsEhCd8iyPhq1zA",
+        "refinement_display_name": "Material exterior del calzado"
+      },
+      {
+        "name": "Ante sintético",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27015527031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27015527031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_4&ds=v1%3APMa6NGpkAucY7XN7RgSEAWcongUbDuAlzYF3wkV4Oek",
+        "refinement_display_name": "Material exterior del calzado"
+      },
+      {
+        "name": "Cáñamo",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27858460031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27858460031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_5&ds=v1%3Ar7f6De9AgJaYnX4iCQIw1zD1eJVxgPtb9XIauml94Bs",
+        "refinement_display_name": "Material exterior del calzado"
+      },
+      {
+        "name": "Caucho Natural",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27015518031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27015518031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_6&ds=v1%3AF8B568t8dwJHMOwn2C6aCD%2FuiMzagOoG%2FK70z4KJ2dU",
+        "refinement_display_name": "Material exterior del calzado"
+      },
+      {
+        "name": "Cloruro de polivinilo (PVC)",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27015519031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27015519031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_7&ds=v1%3AbjPtflMUhjITZxUmp1Qfsd2uBpv%2BVEw%2Fi1GNAnDT%2Fws",
+        "refinement_display_name": "Material exterior del calzado"
+      },
+      {
+        "name": "Cuero",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27015526031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27015526031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_8&ds=v1%3AyefSDk%2F7cWf3M%2F0yYRIS0EokYNVVNg5ho7Mi41SecR8",
+        "refinement_display_name": "Material exterior del calzado"
+      },
+      {
+        "name": "Cuero sintético",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27015528031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27015528031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_9&ds=v1%3AbmCgw9BU6NDWOOSIswbj5wrW2Z9aZGvKUljr9tFjxew",
+        "refinement_display_name": "Material exterior del calzado"
+      },
+      {
+        "name": "Denim",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27858462031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27858462031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_10&ds=v1%3AVOMncVl%2F9MOwouGImpZe7RJVzlkKGXvQaASqWSyV8fk",
+        "refinement_display_name": "Material exterior del calzado"
+      },
+      {
+        "name": "Etilvinilacetato (EVA)",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27015524031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27015524031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_11&ds=v1%3ARU5JGMz8YKfuM8qHwr76bXyRgmgCUjR%2FdKq9oIHQSms",
+        "refinement_display_name": "Material exterior del calzado"
+      },
+      {
+        "name": "Lana",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27015517031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27015517031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_12&ds=v1%3A9uZPUi%2B%2Bdagrz1kVO9yU1tEvmdQnnfHt2eI52Iikv5s",
+        "refinement_display_name": "Material exterior del calzado"
+      },
+      {
+        "name": "Lino",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27858459031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27858459031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_13&ds=v1%3AMHbXTfV43tQaBCOEdeswnPi9k8Qy8OtLy0%2Fvu79eji8",
+        "refinement_display_name": "Material exterior del calzado"
+      },
+      {
+        "name": "Lona",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27015523031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27015523031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_14&ds=v1%3AgUQYoB9CzQ9hL1ZPI03P2%2BmSfHk1M2Ne6mM%2FV4BKczo",
+        "refinement_display_name": "Material exterior del calzado"
+      },
+      {
+        "name": "Malla",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27015516031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27015516031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_15&ds=v1%3A7c4Fs1rkjER3yocBRU%2BU6O%2F%2Fb1I7Evf9E9AecubQyLU",
+        "refinement_display_name": "Material exterior del calzado"
+      },
+      {
+        "name": "Neopreno",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27015522031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27015522031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_16&ds=v1%3AUUuZMPG84plwbnWaVh1IGGlMHu6SVUTaIm2cp5WPnWE",
+        "refinement_display_name": "Material exterior del calzado"
+      },
+      {
+        "name": "Nylon",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27858458031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27858458031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_17&ds=v1%3AY9XLmZii9f%2BqCiPM%2BBDFZX2aJpbCCt8isDoIaIy5wqw",
+        "refinement_display_name": "Material exterior del calzado"
+      },
+      {
+        "name": "Pelaje",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27015525031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27015525031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_18&ds=v1%3AjURAXvOe9LjdDAYexVJiu%2BskVDB%2FM37WcW8cIsIfOLc",
+        "refinement_display_name": "Material exterior del calzado"
+      },
+      {
+        "name": "Piel sintética",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27858461031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27858461031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_19&ds=v1%3AAp4tj5XWel6WxNJ5O%2F0S2Jtup3rC9t4izKmgGEzssoc",
+        "refinement_display_name": "Material exterior del calzado"
+      },
+      {
+        "name": "Poliéster",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27015514031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27015514031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_20&ds=v1%3A%2BDSGfoJ4QWHiHlW88Bl%2BNM3XbBFl9IhHZXgjuttgyGs",
+        "refinement_display_name": "Material exterior del calzado"
+      },
+      {
+        "name": "Poliuretano (PU)",
+        "value": "n:2008145031||p_n_feature_twelve_browse-bin/27015520031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_twelve_browse-bin%3A27015520031&s=review-rank&dc&qid=1676859336&rnid=27015511031&ref=sr_nr_p_n_feature_twelve_browse-bin_21&ds=v1%3A1Qh7vUXqf0%2FUTsrJZWlMAnKdZLDf%2FuwrikzeRAhYJ48",
+        "refinement_display_name": "Material exterior del calzado"
+      }
+    ],
+    "forro_de_calzado": [
+      {
+        "name": "Algodón",
+        "value": "n:2008145031||p_n_feature_fourteen_browse-bin/27357540031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_fourteen_browse-bin%3A27357540031&s=review-rank&dc&qid=1676859336&rnid=27357487031&ref=sr_nr_p_n_feature_fourteen_browse-bin_1&ds=v1%3AgyQ8MuYYPe5QcXwvd2rYoFdjXB%2BT%2F%2FFS1AbMHXU3TPc",
+        "refinement_display_name": "Forro de calzado"
+      },
+      {
+        "name": "Caucho natural",
+        "value": "n:2008145031||p_n_feature_fourteen_browse-bin/27357542031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_fourteen_browse-bin%3A27357542031&s=review-rank&dc&qid=1676859336&rnid=27357487031&ref=sr_nr_p_n_feature_fourteen_browse-bin_2&ds=v1%3Agog5xoKvJIHRRHSW0DjPe50%2BXkiAA93Kt7vU4C%2FmAKY",
+        "refinement_display_name": "Forro de calzado"
+      },
+      {
+        "name": "Caucho sintético",
+        "value": "n:2008145031||p_n_feature_fourteen_browse-bin/27357537031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_fourteen_browse-bin%3A27357537031&s=review-rank&dc&qid=1676859336&rnid=27357487031&ref=sr_nr_p_n_feature_fourteen_browse-bin_3&ds=v1%3A0bHb7pxAKDKoPiOJg9NvClMGTbdLJ1Yk8KSPxQ0UwYo",
+        "refinement_display_name": "Forro de calzado"
+      },
+      {
+        "name": "Gamuza",
+        "value": "n:2008145031||p_n_feature_fourteen_browse-bin/27357539031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_fourteen_browse-bin%3A27357539031&s=review-rank&dc&qid=1676859336&rnid=27357487031&ref=sr_nr_p_n_feature_fourteen_browse-bin_4&ds=v1%3AOhveOGKiDrwSTKLFMAGm7JvIx4eXSFj769Qz4pSEX2Y",
+        "refinement_display_name": "Forro de calzado"
+      },
+      {
+        "name": "Lana",
+        "value": "n:2008145031||p_n_feature_fourteen_browse-bin/27357536031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_fourteen_browse-bin%3A27357536031&s=review-rank&dc&qid=1676859336&rnid=27357487031&ref=sr_nr_p_n_feature_fourteen_browse-bin_5&ds=v1%3AicwnsyEJyZFfEx0JmWx9vHz4hQGJsV00sRRxJGR8FJY",
+        "refinement_display_name": "Forro de calzado"
+      },
+      {
+        "name": "Nylon",
+        "value": "n:2008145031||p_n_feature_fourteen_browse-bin/27357543031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_fourteen_browse-bin%3A27357543031&s=review-rank&dc&qid=1676859336&rnid=27357487031&ref=sr_nr_p_n_feature_fourteen_browse-bin_6&ds=v1%3ASz3DX6AtlxQ%2Bch2waYsUpEmjeV1apgk0YNQUc6pBtLk",
+        "refinement_display_name": "Forro de calzado"
+      },
+      {
+        "name": "Piel",
+        "value": "n:2008145031||p_n_feature_fourteen_browse-bin/27357538031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_fourteen_browse-bin%3A27357538031&s=review-rank&dc&qid=1676859336&rnid=27357487031&ref=sr_nr_p_n_feature_fourteen_browse-bin_7&ds=v1%3ADwpI8KTl7aB9w5VtP0BQd235S70MqMW05XxfQUbr5nI",
+        "refinement_display_name": "Forro de calzado"
+      },
+      {
+        "name": "Piel sintética",
+        "value": "n:2008145031||p_n_feature_fourteen_browse-bin/27357544031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_fourteen_browse-bin%3A27357544031&s=review-rank&dc&qid=1676859336&rnid=27357487031&ref=sr_nr_p_n_feature_fourteen_browse-bin_8&ds=v1%3A69TI8v8c699M7uozQmMoEC0tplQJWGkDQRtWclNRA%2BM",
+        "refinement_display_name": "Forro de calzado"
+      },
+      {
+        "name": "Poliéster",
+        "value": "n:2008145031||p_n_feature_fourteen_browse-bin/27357545031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_fourteen_browse-bin%3A27357545031&s=review-rank&dc&qid=1676859336&rnid=27357487031&ref=sr_nr_p_n_feature_fourteen_browse-bin_9&ds=v1%3AsxbcgI8bg%2BYEbBwcOx7cjtGE03MBF90bIi2Vg85gvdc",
+        "refinement_display_name": "Forro de calzado"
+      },
+      {
+        "name": "Sin forro",
+        "value": "n:2008145031||p_n_feature_fourteen_browse-bin/27357541031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008145031%2Cp_n_feature_fourteen_browse-bin%3A27357541031&s=review-rank&dc&qid=1676859336&rnid=27357487031&ref=sr_nr_p_n_feature_fourteen_browse-bin_10&ds=v1%3Ac7UNQJ8BYL%2FqUFSnqAALUU04lUhh1MVKw4pPYIe2G10",
+        "refinement_display_name": "Forro de calzado"
+      }
+    ],
+    "tipo_de_cierre_de_los_zapatos": [
+      {
+        "name": "Cordones",
+        "value": "n:2008204031||p_n_feature_six_browse-bin/38067340031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_six_browse-bin%3A38067340031&s=review-rank&dc&qid=1676859336&rnid=38067329031&ref=sr_nr_p_n_feature_six_browse-bin_1&ds=v1%3AFsYXTDaxFvlnGMtEUfTsdNGLJEYww2QHVI%2BlgHJ%2FAHA",
+        "refinement_display_name": "Tipo de cierre de los zapatos"
+      },
+      {
+        "name": "Cremallera",
+        "value": "n:2008204031||p_n_feature_six_browse-bin/38067332031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_six_browse-bin%3A38067332031&s=review-rank&dc&qid=1676859336&rnid=38067329031&ref=sr_nr_p_n_feature_six_browse-bin_2&ds=v1%3A86ld3xJKtmlm5nXyXkBnsK6hExwd%2FG%2B56h1wxrmgRdg",
+        "refinement_display_name": "Tipo de cierre de los zapatos"
+      },
+      {
+        "name": "Cuerda elástica",
+        "value": "n:2008204031||p_n_feature_six_browse-bin/38067344031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_six_browse-bin%3A38067344031&s=review-rank&dc&qid=1676859336&rnid=38067329031&ref=sr_nr_p_n_feature_six_browse-bin_3&ds=v1%3A9CDxdFIx1cDuagV82LBh24aJPYOzUh9ivobdX1vEMBA",
+        "refinement_display_name": "Tipo de cierre de los zapatos"
+      },
+      {
+        "name": "Gancho y bucle",
+        "value": "n:2008204031||p_n_feature_six_browse-bin/38067335031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_six_browse-bin%3A38067335031&s=review-rank&dc&qid=1676859336&rnid=38067329031&ref=sr_nr_p_n_feature_six_browse-bin_4&ds=v1%3AAdLljdfvRY4mjV98rhh86xkRyed5TWMB1h7Zz%2Bak5FI",
+        "refinement_display_name": "Tipo de cierre de los zapatos"
+      },
+      {
+        "name": "Hebilla",
+        "value": "n:2008204031||p_n_feature_six_browse-bin/38067347031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_six_browse-bin%3A38067347031&s=review-rank&dc&qid=1676859336&rnid=38067329031&ref=sr_nr_p_n_feature_six_browse-bin_5&ds=v1%3AGBkLGXEkurQ8zcTB0N3pafR96Vz%2BfdzWuy3gKJ%2FH1Ws",
+        "refinement_display_name": "Tipo de cierre de los zapatos"
+      },
+      {
+        "name": "Pull on",
+        "value": "n:2008204031||p_n_feature_six_browse-bin/38067350031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_six_browse-bin%3A38067350031&s=review-rank&dc&qid=1676859336&rnid=38067329031&ref=sr_nr_p_n_feature_six_browse-bin_6&ds=v1%3Aj%2FnioDfXc%2FyioZYouFoS%2FgmTHSvJl4xLYpgiZMwbpMw",
+        "refinement_display_name": "Tipo de cierre de los zapatos"
+      }
+    ],
+    "tipo_de_punta": [
+      {
+        "name": "Peep toe",
+        "value": "n:2008204031||p_n_feature_eleven_browse-bin/27379147031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eleven_browse-bin%3A27379147031&s=review-rank&dc&qid=1676859336&rnid=27379080031&ref=sr_nr_p_n_feature_eleven_browse-bin_1&ds=v1%3AczvvopYQ95x7YIluRpW0K7oSJEA18jVrpJfVW8WkWTk",
+        "refinement_display_name": "Tipo de punta"
+      },
+      {
+        "name": "Puntera abierta",
+        "value": "n:2008204031||p_n_feature_eleven_browse-bin/27379138031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eleven_browse-bin%3A27379138031&s=review-rank&dc&qid=1676859336&rnid=27379080031&ref=sr_nr_p_n_feature_eleven_browse-bin_2&ds=v1%3A%2FPS5RMXb6Mt1gL8Yk6LjeafaV8ZUTjer4EWst5tJ14Y",
+        "refinement_display_name": "Tipo de punta"
+      },
+      {
+        "name": "Puntera ancha",
+        "value": "n:2008204031||p_n_feature_eleven_browse-bin/27379143031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eleven_browse-bin%3A27379143031&s=review-rank&dc&qid=1676859336&rnid=27379080031&ref=sr_nr_p_n_feature_eleven_browse-bin_3&ds=v1%3Au5tuSzdhb14DM6cuojqBylpXUEc4DvGuqe4Enka%2B7T4",
+        "refinement_display_name": "Tipo de punta"
+      },
+      {
+        "name": "Puntera cerrada",
+        "value": "n:2008204031||p_n_feature_eleven_browse-bin/27379137031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eleven_browse-bin%3A27379137031&s=review-rank&dc&qid=1676859336&rnid=27379080031&ref=sr_nr_p_n_feature_eleven_browse-bin_4&ds=v1%3ArmifTSs09MUqwnlvk7s8jKYOl2%2FzbC5qWPWrPiG154s",
+        "refinement_display_name": "Tipo de punta"
+      },
+      {
+        "name": "Puntera compuesta",
+        "value": "n:2008204031||p_n_feature_eleven_browse-bin/27379142031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eleven_browse-bin%3A27379142031&s=review-rank&dc&qid=1676859336&rnid=27379080031&ref=sr_nr_p_n_feature_eleven_browse-bin_5&ds=v1%3Av9iMLfTI0xasUM6G7vk2P9n14o2lyHZoEnTBWYqdvHU",
+        "refinement_display_name": "Tipo de punta"
+      },
+      {
+        "name": "Puntera cuadrada",
+        "value": "n:2008204031||p_n_feature_eleven_browse-bin/27379146031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eleven_browse-bin%3A27379146031&s=review-rank&dc&qid=1676859336&rnid=27379080031&ref=sr_nr_p_n_feature_eleven_browse-bin_6&ds=v1%3AGy4tq0%2FeQP4511dllZcypPTG42sgJ33lJNlvtvTnAHI",
+        "refinement_display_name": "Tipo de punta"
+      },
+      {
+        "name": "Puntera de acero",
+        "value": "n:2008204031||p_n_feature_eleven_browse-bin/27379140031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eleven_browse-bin%3A27379140031&s=review-rank&dc&qid=1676859336&rnid=27379080031&ref=sr_nr_p_n_feature_eleven_browse-bin_7&ds=v1%3Av%2FCLNDgbgWn7GssjneNwF3WRKEcDuu5gu2caAA%2BRGnc",
+        "refinement_display_name": "Tipo de punta"
+      },
+      {
+        "name": "Puntera de aluminioPuntera de mocasínPuntera en puntaPuntera ovaladaPuntera planaPuntera redonda",
+        "value": "n:2008204031||undefined",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eleven_browse-bin%3A27379153031&s=review-rank&dc&qid=1676859336&rnid=27379080031&ref=sr_nr_p_n_feature_eleven_browse-bin_8&ds=v1%3Ap21ns3IuUMvhZKvagBl0jtOETqiv2ZNhIFM6MO9nbGg",
+        "refinement_display_name": "Tipo de punta"
+      },
+      {
+        "name": "Puntera de aluminio",
+        "value": "n:2008204031||p_n_feature_eleven_browse-bin/27379153031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eleven_browse-bin%3A27379153031&s=review-rank&dc&qid=1676859336&rnid=27379080031&ref=sr_nr_p_n_feature_eleven_browse-bin_8&ds=v1%3Ap21ns3IuUMvhZKvagBl0jtOETqiv2ZNhIFM6MO9nbGg",
+        "refinement_display_name": "Tipo de punta"
+      },
+      {
+        "name": "Puntera de mocasín",
+        "value": "n:2008204031||p_n_feature_eleven_browse-bin/27379149031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eleven_browse-bin%3A27379149031&s=review-rank&dc&qid=1676859336&rnid=27379080031&ref=sr_nr_p_n_feature_eleven_browse-bin_9&ds=v1%3Az7%2Bn%2F6As5JQR1yPuM%2BQICrzgivZGMbNeo0B57ix2gQ8",
+        "refinement_display_name": "Tipo de punta"
+      },
+      {
+        "name": "Puntera en punta",
+        "value": "n:2008204031||p_n_feature_eleven_browse-bin/27379151031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eleven_browse-bin%3A27379151031&s=review-rank&dc&qid=1676859336&rnid=27379080031&ref=sr_nr_p_n_feature_eleven_browse-bin_10&ds=v1%3AqLU79%2FkfYs58CbhW91L7r31etJqjjpITcC%2FbuPrcLT0",
+        "refinement_display_name": "Tipo de punta"
+      },
+      {
+        "name": "Puntera ovalada",
+        "value": "n:2008204031||p_n_feature_eleven_browse-bin/27379144031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eleven_browse-bin%3A27379144031&s=review-rank&dc&qid=1676859336&rnid=27379080031&ref=sr_nr_p_n_feature_eleven_browse-bin_11&ds=v1%3AkJejv1UkFsp0xqgIr6mOwwQBqZopgzVkLfXLQEcYVBc",
+        "refinement_display_name": "Tipo de punta"
+      },
+      {
+        "name": "Puntera plana",
+        "value": "n:2008204031||p_n_feature_eleven_browse-bin/27379139031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eleven_browse-bin%3A27379139031&s=review-rank&dc&qid=1676859336&rnid=27379080031&ref=sr_nr_p_n_feature_eleven_browse-bin_12&ds=v1%3ANIvJfjDMp5tp911U99hW7V1atvoB2G9HDTMkhHQxigY",
+        "refinement_display_name": "Tipo de punta"
+      },
+      {
+        "name": "Puntera redonda",
+        "value": "n:2008204031||p_n_feature_eleven_browse-bin/27379145031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_eleven_browse-bin%3A27379145031&s=review-rank&dc&qid=1676859336&rnid=27379080031&ref=sr_nr_p_n_feature_eleven_browse-bin_13&ds=v1%3A1e2F6OrEXX9IOTYhm%2B77dJE3ZjaWwNjz6W8FlqUHZ2E",
+        "refinement_display_name": "Tipo de punta"
+      }
+    ],
+    "tipo_de_zapatilla": [
+      {
+        "name": "Caña baja",
+        "value": "n:2008204031||p_n_style_browse-bin/2040078031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_style_browse-bin%3A2040078031&s=review-rank&dc&qid=1676859336&rnid=2039448031&ref=sr_nr_p_n_style_browse-bin_1&ds=v1%3AzDBYv%2FlD%2FmPoko3zAhWNKdm5Vu%2FpI2g2%2FdJheRgN%2FLk",
+        "refinement_display_name": "Tipo de zapatilla"
+      },
+      {
+        "name": "Caña media",
+        "value": "n:2008204031||p_n_style_browse-bin/17420093031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_style_browse-bin%3A17420093031&s=review-rank&dc&qid=1676859336&rnid=2039448031&ref=sr_nr_p_n_style_browse-bin_2&ds=v1%3AHzWV5ZOCPxbKSxzrLEqs0AD4%2BOFVvhCJ7NY6AHe5Uus",
+        "refinement_display_name": "Tipo de zapatilla"
+      },
+      {
+        "name": "Caña alta",
+        "value": "n:2008204031||p_n_style_browse-bin/2040077031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_style_browse-bin%3A2040077031&s=review-rank&dc&qid=1676859336&rnid=2039448031&ref=sr_nr_p_n_style_browse-bin_3&ds=v1%3A%2BMtqwm3msc1MDp3KDe4IJY5HinqN%2B%2FvBrz%2FscgMLSgw",
+        "refinement_display_name": "Tipo de zapatilla"
+      }
+    ],
+    "caracteristica_de_adorno_de_los_zapatos": [
+      {
+        "name": "Borla",
+        "value": "n:2008204031||p_n_feature_nine_browse-bin/30173503031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_nine_browse-bin%3A30173503031&s=review-rank&dc&qid=1676859336&rnid=30172644031&ref=sr_nr_p_n_feature_nine_browse-bin_1&ds=v1%3ASF7yNOO2%2FNf1v7yf0KbFDAIQYw5Zbrevz5pQ8e1V1lU",
+        "refinement_display_name": "Característica de adorno de los zapatos"
+      },
+      {
+        "name": "Iluminación",
+        "value": "n:2008204031||p_n_feature_nine_browse-bin/30173497031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_nine_browse-bin%3A30173497031&s=review-rank&dc&qid=1676859336&rnid=30172644031&ref=sr_nr_p_n_feature_nine_browse-bin_2&ds=v1%3AJ67j2CZoA4Um4TmZvBiw%2B%2F9h2rZa0Peiroj%2F90mn%2BjU",
+        "refinement_display_name": "Característica de adorno de los zapatos"
+      },
+      {
+        "name": "Purpurina",
+        "value": "n:2008204031||p_n_feature_nine_browse-bin/30173511031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_nine_browse-bin%3A30173511031&s=review-rank&dc&qid=1676859336&rnid=30172644031&ref=sr_nr_p_n_feature_nine_browse-bin_3&ds=v1%3AzQNHt%2B15zmIJ0wWntl1Ex2w6QeqvHcTbSSWeFTntWVY",
+        "refinement_display_name": "Característica de adorno de los zapatos"
+      }
+    ],
+    "patron_de_calzado": [
+      {
+        "name": "Ajedrez",
+        "value": "n:2008204031||p_n_feature_fifteen_browse-bin/28095878031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_fifteen_browse-bin%3A28095878031&s=review-rank&dc&qid=1676859336&rnid=28095863031&ref=sr_nr_p_n_feature_fifteen_browse-bin_1&ds=v1%3AlH1O5iaHDT0yZe44vYJRvfFzIkEPBoVa2Q5nT0RNS8E",
+        "refinement_display_name": "Patrón de calzado"
+      },
+      {
+        "name": "Camuflaje",
+        "value": "n:2008204031||p_n_feature_fifteen_browse-bin/28095868031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_fifteen_browse-bin%3A28095868031&s=review-rank&dc&qid=1676859336&rnid=28095863031&ref=sr_nr_p_n_feature_fifteen_browse-bin_2&ds=v1%3AovlhM5Nf9AnaZCHBXyB6f5eg%2F%2FHd9y4Hcr2Kn3nx1%2Fo",
+        "refinement_display_name": "Patrón de calzado"
+      },
+      {
+        "name": "Chevrón",
+        "value": "n:2008204031||p_n_feature_fifteen_browse-bin/28095884031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_fifteen_browse-bin%3A28095884031&s=review-rank&dc&qid=1676859336&rnid=28095863031&ref=sr_nr_p_n_feature_fifteen_browse-bin_3&ds=v1%3AqfURAe2lkldd%2F87%2FdWHSjMX%2Fw%2BgYxOt0mAWSA6AY%2BY0",
+        "refinement_display_name": "Patrón de calzado"
+      },
+      {
+        "name": "Corazones",
+        "value": "n:2008204031||p_n_feature_fifteen_browse-bin/28095874031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_fifteen_browse-bin%3A28095874031&s=review-rank&dc&qid=1676859336&rnid=28095863031&ref=sr_nr_p_n_feature_fifteen_browse-bin_4&ds=v1%3AqutWrSjuDs6yC3shelH398n%2FM7aZVpQIQO54iHxeuMM",
+        "refinement_display_name": "Patrón de calzado"
+      },
+      {
+        "name": "Dibujo animado",
+        "value": "n:2008204031||p_n_feature_fifteen_browse-bin/28095881031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_fifteen_browse-bin%3A28095881031&s=review-rank&dc&qid=1676859336&rnid=28095863031&ref=sr_nr_p_n_feature_fifteen_browse-bin_5&ds=v1%3AJ7PvHmrpa4S5TsH2p9B3AxI%2B7w5iPZwUAZcFNIKXUEI",
+        "refinement_display_name": "Patrón de calzado"
+      },
+      {
+        "name": "Escocés",
+        "value": "n:2008204031||p_n_feature_fifteen_browse-bin/28095866031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_fifteen_browse-bin%3A28095866031&s=review-rank&dc&qid=1676859336&rnid=28095863031&ref=sr_nr_p_n_feature_fifteen_browse-bin_6&ds=v1%3Aj0Agdh43V6VKMvkucc0G4jC0J8srywVThZwc8%2BpGSig",
+        "refinement_display_name": "Patrón de calzado"
+      },
+      {
+        "name": "Espina de pez",
+        "value": "n:2008204031||p_n_feature_fifteen_browse-bin/28095873031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_fifteen_browse-bin%3A28095873031&s=review-rank&dc&qid=1676859336&rnid=28095863031&ref=sr_nr_p_n_feature_fifteen_browse-bin_7&ds=v1%3A3dP0o4sa4IrnDilX0WE0lqnhUz1OIfIl7TAhaibf5Ts",
+        "refinement_display_name": "Patrón de calzado"
+      },
+      {
+        "name": "Estampado animalEstampado de letrasEstrellasFloralGeométricoLunaresPaisleyRayasSólido",
+        "value": "n:2008204031||undefined",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_fifteen_browse-bin%3A28095865031&s=review-rank&dc&qid=1676859336&rnid=28095863031&ref=sr_nr_p_n_feature_fifteen_browse-bin_8&ds=v1%3AHv8j7ZsEddKdLpfB7%2FjqGMGJAA%2FuYukMj0FZWe6AwbM",
+        "refinement_display_name": "Patrón de calzado"
+      },
+      {
+        "name": "Estampado animal",
+        "value": "n:2008204031||p_n_feature_fifteen_browse-bin/28095865031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_fifteen_browse-bin%3A28095865031&s=review-rank&dc&qid=1676859336&rnid=28095863031&ref=sr_nr_p_n_feature_fifteen_browse-bin_8&ds=v1%3AHv8j7ZsEddKdLpfB7%2FjqGMGJAA%2FuYukMj0FZWe6AwbM",
+        "refinement_display_name": "Patrón de calzado"
+      },
+      {
+        "name": "Estampado de letras",
+        "value": "n:2008204031||p_n_feature_fifteen_browse-bin/28095879031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_fifteen_browse-bin%3A28095879031&s=review-rank&dc&qid=1676859336&rnid=28095863031&ref=sr_nr_p_n_feature_fifteen_browse-bin_9&ds=v1%3AMC5iGUZ4CHDF8UCJ%2FlYCdsrl4OkPATkXlD1fLZ7tbpw",
+        "refinement_display_name": "Patrón de calzado"
+      },
+      {
+        "name": "Estrellas",
+        "value": "n:2008204031||p_n_feature_fifteen_browse-bin/28095883031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_fifteen_browse-bin%3A28095883031&s=review-rank&dc&qid=1676859336&rnid=28095863031&ref=sr_nr_p_n_feature_fifteen_browse-bin_10&ds=v1%3AiEk8smyhVUEpljgKTAXPqT6EZ3RTon5B%2FKVSIeko%2B7E",
+        "refinement_display_name": "Patrón de calzado"
+      },
+      {
+        "name": "Floral",
+        "value": "n:2008204031||p_n_feature_fifteen_browse-bin/28095877031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_fifteen_browse-bin%3A28095877031&s=review-rank&dc&qid=1676859336&rnid=28095863031&ref=sr_nr_p_n_feature_fifteen_browse-bin_11&ds=v1%3A%2FWrW3%2ByHyT0606c3eC5r4dIicgWFbsqqyBvX9jeE0mE",
+        "refinement_display_name": "Patrón de calzado"
+      },
+      {
+        "name": "Geométrico",
+        "value": "n:2008204031||p_n_feature_fifteen_browse-bin/28095876031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_fifteen_browse-bin%3A28095876031&s=review-rank&dc&qid=1676859336&rnid=28095863031&ref=sr_nr_p_n_feature_fifteen_browse-bin_12&ds=v1%3At1lJlw9a9ZDlUS5U7B5bPofOzazWzU8oxRKEV8cxm5I",
+        "refinement_display_name": "Patrón de calzado"
+      },
+      {
+        "name": "Lunares",
+        "value": "n:2008204031||p_n_feature_fifteen_browse-bin/28095871031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_fifteen_browse-bin%3A28095871031&s=review-rank&dc&qid=1676859336&rnid=28095863031&ref=sr_nr_p_n_feature_fifteen_browse-bin_13&ds=v1%3AqKursiIbbyvVllq22FLKxmh1zzeFsQ9rDCWbFbG0RK0",
+        "refinement_display_name": "Patrón de calzado"
+      },
+      {
+        "name": "Paisley",
+        "value": "n:2008204031||p_n_feature_fifteen_browse-bin/28095875031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_fifteen_browse-bin%3A28095875031&s=review-rank&dc&qid=1676859336&rnid=28095863031&ref=sr_nr_p_n_feature_fifteen_browse-bin_14&ds=v1%3AoiXjLsOKLl7U8LfxsOKPBbCb5nNtwVJ8LrnyEXS00aE",
+        "refinement_display_name": "Patrón de calzado"
+      },
+      {
+        "name": "Rayas",
+        "value": "n:2008204031||p_n_feature_fifteen_browse-bin/28095880031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_fifteen_browse-bin%3A28095880031&s=review-rank&dc&qid=1676859336&rnid=28095863031&ref=sr_nr_p_n_feature_fifteen_browse-bin_15&ds=v1%3Ap8iam5CfS%2BY1gUu29jgr5iw19Dik1TAeXKvOZtbKf1A",
+        "refinement_display_name": "Patrón de calzado"
+      },
+      {
+        "name": "Sólido",
+        "value": "n:2008204031||p_n_feature_fifteen_browse-bin/28095872031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_fifteen_browse-bin%3A28095872031&s=review-rank&dc&qid=1676859336&rnid=28095863031&ref=sr_nr_p_n_feature_fifteen_browse-bin_16&ds=v1%3AgS%2FpkGebXS%2Fr4rSwlVvYDIxnOWvQejF844J9fJdDBLo",
+        "refinement_display_name": "Patrón de calzado"
+      }
+    ],
+    "ocasion_de_zapatos": [
+      {
+        "name": "Año Nuevo",
+        "value": "n:2008204031||p_n_feature_twenty_browse-bin/41595093031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_twenty_browse-bin%3A41595093031&s=review-rank&dc&qid=1676859336&rnid=41595041031&ref=sr_nr_p_n_feature_twenty_browse-bin_1&ds=v1%3AowgzB9ctel3ImuGwVmJ0Bo5wUwH%2FxC1nnDe6vIUyDm4",
+        "refinement_display_name": "Ocasión de zapatos"
+      },
+      {
+        "name": "Baile de bienvenida y de fin de curso",
+        "value": "n:2008204031||p_n_feature_twenty_browse-bin/41595095031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_twenty_browse-bin%3A41595095031&s=review-rank&dc&qid=1676859336&rnid=41595041031&ref=sr_nr_p_n_feature_twenty_browse-bin_2&ds=v1%3AZwvJqlM0nPyMq9l%2F14o06zLX2vgD4OszTYm8sSEK8kM",
+        "refinement_display_name": "Ocasión de zapatos"
+      },
+      {
+        "name": "Boda",
+        "value": "n:2008204031||p_n_feature_twenty_browse-bin/41595094031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_twenty_browse-bin%3A41595094031&s=review-rank&dc&qid=1676859336&rnid=41595041031&ref=sr_nr_p_n_feature_twenty_browse-bin_3&ds=v1%3AR%2B1hP5QIPatCtePU5tgUEzu2jvUDiTz%2BpcYt90A81gU",
+        "refinement_display_name": "Ocasión de zapatos"
+      },
+      {
+        "name": "Halloween",
+        "value": "n:2008204031||p_n_feature_twenty_browse-bin/41595096031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_twenty_browse-bin%3A41595096031&s=review-rank&dc&qid=1676859336&rnid=41595041031&ref=sr_nr_p_n_feature_twenty_browse-bin_4&ds=v1%3AsnDOu%2FizeKHbYsy5melDtnAb93ZmOHYBhWV3INp6rHs",
+        "refinement_display_name": "Ocasión de zapatos"
+      },
+      {
+        "name": "Navidad",
+        "value": "n:2008204031||p_n_feature_twenty_browse-bin/41595092031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_twenty_browse-bin%3A41595092031&s=review-rank&dc&qid=1676859336&rnid=41595041031&ref=sr_nr_p_n_feature_twenty_browse-bin_5&ds=v1%3A%2BH7BVECUW0NsQxLad9yovbIoISKuLWW4nVmRwUcOCoI",
+        "refinement_display_name": "Ocasión de zapatos"
+      },
+      {
+        "name": "Semana Santa",
+        "value": "n:2008204031||p_n_feature_twenty_browse-bin/41595097031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A2008204031%2Cp_n_feature_twenty_browse-bin%3A41595097031&s=review-rank&dc&qid=1676859336&rnid=41595041031&ref=sr_nr_p_n_feature_twenty_browse-bin_6&ds=v1%3AlzWgcOkTf6iyqLnIxqzq1eltmBBZGSR28DyyCnLoxNI",
+        "refinement_display_name": "Ocasión de zapatos"
+      }
+    ],
+    "novedades_de_moda": [
+      {
+        "name": "Última semana",
+        "value": "n:5512276031||p_n_date_first_available_absolute/13827712031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_n_date_first_available_absolute%3A13827712031&s=review-rank&dc&qid=1676859336&rnid=13827711031&ref=sr_nr_p_n_date_first_available_absolute_1&ds=v1%3AlMpvVM1mHmwkWTO6Q3vF%2FnyWqMVSqP7ysREiN9WNYVE",
+        "refinement_display_name": "Novedades de moda"
+      },
+      {
+        "name": "Último mes",
+        "value": "n:5512276031||p_n_date_first_available_absolute/13827713031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_n_date_first_available_absolute%3A13827713031&s=review-rank&dc&qid=1676859336&rnid=13827711031&ref=sr_nr_p_n_date_first_available_absolute_2&ds=v1%3AY4tRDCa0BFVFarNBJ1Nd%2B%2FQMwqYBzSlbwOv%2B4uK8pqs",
+        "refinement_display_name": "Novedades de moda"
+      },
+      {
+        "name": "Últimos tres meses",
+        "value": "n:5512276031||p_n_date_first_available_absolute/13827714031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_n_date_first_available_absolute%3A13827714031&s=review-rank&dc&qid=1676859336&rnid=13827711031&ref=sr_nr_p_n_date_first_available_absolute_3&ds=v1%3AjQNyBbBjFUE3oPCZ5FtQorZoM6xwA0%2FZofEeBAdEDXI",
+        "refinement_display_name": "Novedades de moda"
+      }
+    ],
+    "envio_internacional": [
+      {
+        "name": "Envío internacional elegible",
+        "value": "p_n_shipping_option-bin/2019494031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=p_n_shipping_option-bin%3A2019494031&s=review-rank&dc&qid=1676859336&rnid=2019493031&ref=sr_nr_p_n_shipping_option-bin_1&ds=v1%3ADDBobkGFjnAUZ%2BV4aXla%2Fc%2FW4ubjGH5bggjtRtVuQ18",
+        "refinement_display_name": "Envio Internacional"
+      }
+    ],
+    "made_in": [
+      {
+        "name": "Italia",
+        "value": "n:5512276031||p_n_feature_twenty-six_browse-bin/27009783031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_n_feature_twenty-six_browse-bin%3A27009783031&s=review-rank&dc&qid=1676859336&rnid=27009779031&ref=sr_nr_p_n_feature_twenty-six_browse-bin_1&ds=v1%3AFCCUAI3lknddn5S%2FtOcNZyBHBS9Ry5VwIg3EbDEPN6A",
+        "refinement_display_name": "Made In"
+      },
+      {
+        "name": "Francia",
+        "value": "n:5512276031||p_n_feature_twenty-six_browse-bin/27009784031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_n_feature_twenty-six_browse-bin%3A27009784031&s=review-rank&dc&qid=1676859336&rnid=27009779031&ref=sr_nr_p_n_feature_twenty-six_browse-bin_2&ds=v1%3A7Bfp4U2txTREMCi5Z42aW7WRi2XHtCSQLpZS8YOUpsw",
+        "refinement_display_name": "Made In"
+      },
+      {
+        "name": "España",
+        "value": "n:5512276031||p_n_feature_twenty-six_browse-bin/27009782031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=n%3A5512276031%2Cp_n_feature_twenty-six_browse-bin%3A27009782031&s=review-rank&dc&qid=1676859336&rnid=27009779031&ref=sr_nr_p_n_feature_twenty-six_browse-bin_3&ds=v1%3AX%2FdKbIm7k%2Btw7EHx1N3U7mYavKdGKQFzMTnVFm1Htm8",
+        "refinement_display_name": "Made In"
+      }
+    ],
+    "disponibilidad": [
+      {
+        "name": "Incluir no disponibles",
+        "value": "p_n_availability/831279031",
+        "link": "https://www.amazon.es/s?k=zapatos&rh=p_n_availability%3A831279031&s=review-rank&dc&qid=1676859336&rnid=831270031&ref=sr_nr_p_n_availability_2&ds=v1%3AIQUjxM4YJ%2BM8FNDgnetWLMn98SUBY2CA6rWIqibpefg",
+        "refinement_display_name": "Disponibilidad"
+      }
+    ]
+  },
+  "ad_blocks": [
+    {
+      "campaign_id": "3699504400202",
+      "brand_logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/b24d452b-4ec2-47ff-80af-d3308710b938._CR0,0,800,800_AC_SX130_SY60_QL70_.jpg",
+      "advertiser_id": "2597438310702",
+      "ad_id": "2597438310702",
+      "link": "https://aax-eu.amazon.es/x/c/RMxQ5zqqXmqjOJrxHq5BWmsAAAGGbJrl-QMAAAH2AQBOL0EgICAgICAgICAgICBOL0EgICAgICAgICAgICCHV8dQ/https://www.amazon.es/stores/SKECHERS/SKECHERS/page/D285377F-07A7-4CD6-8A2C-701A8BFCB9AF/?_encoding=UTF8&store_ref=SB_A02006013Q8NBWOWD29I0&pd_rd_plhdr=t&aaxitk=46a56cc0c8f7ae61648e717dc3b8eeef&hsa_cr_id=5057049330702&lp_asins=B07VXK586C%2CB07NTWZVTS%2CB081K3PXKR&lp_query=zapatos&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_mcd_bkgd&pd_rd_w=LP8dv&content-id=amzn1.sym.970bb5dd-9c71-4e8a-9487-b827635af425%3Aamzn1.sym.970bb5dd-9c71-4e8a-9487-b827635af425&pf_rd_p=970bb5dd-9c71-4e8a-9487-b827635af425&pf_rd_r=YSWK2BE8PZS1CNMHQ50H&pd_rd_wg=oXPLL&pd_rd_r=cf0f752b-32b6-46b5-86c7-d3d53b702512",
+      "title": "Moda y confort para todos",
+      "store_link": "https://www.amazon.es/stores/SKECHERS/SKECHERS/page/D285377F-07A7-4CD6-8A2C-701A8BFCB9AF/?_encoding=UTF8&store_ref=SB_A02006013Q8NBWOWD29I0&pd_rd_plhdr=t&aaxitk=46a56cc0c8f7ae61648e717dc3b8eeef&hsa_cr_id=5057049330702&lp_asins=B07VXK586C%2CB07NTWZVTS%2CB081K3PXKR&lp_query=zapatos&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_mcd_cta&pd_rd_w=LP8dv&content-id=amzn1.sym.970bb5dd-9c71-4e8a-9487-b827635af425%3Aamzn1.sym.970bb5dd-9c71-4e8a-9487-b827635af425&pf_rd_p=970bb5dd-9c71-4e8a-9487-b827635af425&pf_rd_r=YSWK2BE8PZS1CNMHQ50H&pd_rd_wg=oXPLL&pd_rd_r=cf0f752b-32b6-46b5-86c7-d3d53b702512",
+      "store_id": "D285377F-07A7-4CD6-8A2C-701A8BFCB9AF",
+      "store_name": "Descúbrelo SKECHERS",
+      "products": [
+        {
+          "asin": "B07VXK586C",
+          "link": "https://www.amazon.es/dp/B07VXK586C",
+          "image": "https://m.media-amazon.com/images/I/61vSrJlWlAL._AC_SR180,120_QL70_.jpg",
+          "title": "Skechers Uno- Stand On Air, Zapatillas de Gimnasia Mujer",
+          "is_prime": true,
+          "rating": 4.5,
+          "ratings_total": 16344
+        },
+        {
+          "asin": "B07NTWZVTS",
+          "link": "https://www.amazon.es/dp/B07NTWZVTS",
+          "image": "https://m.media-amazon.com/images/I/81lLlf22s2L._AC_SR180,120_QL70_.jpg",
+          "title": "Skechers Solar Fuse Kryzik, Zapatillas Hombre",
+          "rating": 4.5,
+          "ratings_total": 3316
+        },
+        {
+          "asin": "B081K3PXKR",
+          "link": "https://www.amazon.es/dp/B081K3PXKR",
+          "image": "https://m.media-amazon.com/images/I/71ZljT--5IL._AC_SR180,120_QL70_.jpg",
+          "title": "Skechers Graceful Get Connected, Zapatillas Mujer",
+          "is_prime": true,
+          "rating": 4.5,
+          "ratings_total": 38328
+        }
+      ]
+    }
+  ]
+}

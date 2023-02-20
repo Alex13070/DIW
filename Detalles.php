@@ -1,3 +1,9 @@
+<?php 
+
+$data = json_decode(file_get_contents('./detalles.json'));
+$data = $data->product
+// search_results
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,19 +12,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Detalles de producto</title>
-    <link rel="website icon" type="png" href="./img/logoEditado.png">
-    <link rel="stylesheet" href="./css/bootstrap.css">
+    <link rel="website icon" type="png" href="./public/img/logoEditado.png">
+    <link rel="stylesheet" href="./public/css/bootstrap.css">
 
 
     <!-- navbar -->
-    <link rel="stylesheet" href="./css/barra-buscadora.css">
-    <link rel="stylesheet" href="./css/header.css">
+    <link rel="stylesheet" href="./public/css/barra-buscadora.css">
+    <link rel="stylesheet" href="./public/css/header.css">
 
     <!-- Detalles de producto -->
-    <link rel="stylesheet" type="text/css" href="./css/styles.css">
+    <link rel="stylesheet" type="text/css" href="./public/css/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
     <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css'>
-    <link rel="stylesheet" href="./css/detalles-producto.css">
+    <link rel="stylesheet" href="./public/css/detalles-producto.css">
 </head>
 
 <body>
@@ -26,14 +32,14 @@
         <nav class="topnav" id="myTopnav">
             <div class="nav-item align-left">
                 <div class="centrar-nav">
-                    <a href="#home" class="active"><img class="logo" src="./img/logoEditado.png" alt="logo"></a>
+                    <a href="#home" class="active"><img class="logo" src="./public/img/logoEditado.png" alt="logo"></a>
                 </div>
             </div>
 
             <div class="nav-item centro">
                 <div class="centrar-nav ">
                     <div class="caja-buscador">
-                        <form action="hola.php" method="get" class="buscador">
+                        <form action="Buscar.php" method="get" class="buscador">
                             <input id="search" type="search" placeholder="Escriba el producto que quiere buscar" autofocus required />
                             <button class="buscador-enviar" type="submit"><i class="fa fa-search text-white icono-buscar"></i></button>
                         </form>
@@ -72,25 +78,19 @@
             <article class="col-md-6 d-flex justify-content-center align-items-center">
                 <div class="swiper mySwiper">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide">
+                        <!-- <div class="swiper-slide">
                             <div class="background-image">
-                                <img class="background-image__image" src="./img/foto.png" alt="A random unsplash image" />
+                                <img class="background-image__image" src="<?= $data->main_image->link ?>" alt="A random unsplash image" />
                             </div>
-                        </div>
+                        </div> -->
 
-                        <div class="swiper-slide">
-                            <div class="background-image">
-                                <img class="background-image__image" src="./img/zapatos.jpg"
-                                    alt="A random unsplash image" />
+                        <?php foreach($data->images as $imagen) {?>
+                            <div class="swiper-slide">
+                                <div class="background-image">
+                                    <img class="background-image__image" src="<?= $imagen->link ?>" alt="A random unsplash image" />
+                                </div>
                             </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="background-image">
-                                <img class="background-image__image" src="./img/Screenshot from 2023-02-17 20-58-51.png"
-                                    alt="A random unsplash image" />
-                            </div>
-                        </div>
+                        <?php } ?>
                     </div>
 
                     <div class="swiper-pagination"></div>
@@ -103,31 +103,23 @@
             <article class="col-md-6 texto-producto">
                 <div class="card p-3">
                     <!-- detalles de producto -->
-                    <h1>Zapatos</h1>
+                    <h1><?= $data->title ?></h1>
 
-                    <h2 class="precios">50,49€</h2>
+                    <h2 class="precios"><?= $data->buybox_winner->price->value . ' ' . $data->buybox_winner->price->symbol ?></h2>
 
                     <div class="descripcion">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officiis. Animi, a. Dolore id
-                        officia, dolores ab accusamus quam tempore sunt magni illum odio, aut, atque asperiores aliquid.
-                        Laudantium, tempora. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum similique
-                        magnam repellat? Numquam corporis iure illum vero est maiores asperiores quod reiciendis cumque
-                        aperiam! Atque magnam aut aliquid beatae inventore. Lorem ipsum dolor sit.
+                        <?= $data->feature_bullets_flat ?>
                     </div>
 
-                    <h3>Características</h3>
-                    <ul>
-                        <li>Característica 1</li>
-                        <li>Característica 2</li>
-                        <li>Característica 3</li>
-                        <li>Característica 4</li>
-                    </ul>
+                    <?php if (isset($data->videos_flat)) {?>
 
-                    <h3>Video demostración</h3>
-                    <video controls muted autoplay loop>
-                        <source src="./video/carro_con_zapato720P_HD.mp4" type="video/mp4">
-                        Your browser does not support the video tag.
-                    </video>
+                        <video controls muted>
+                            <source src="<?= $data->videos_flat ?>" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
+                    <?php }?>
+
+                    
                 </div>
             </article>
         </section>
@@ -145,18 +137,6 @@
                                 value="1">
                         </div>
                     </div>
-                    <div class="row justify-content-center p-1">
-                        <div class="col-md-2 label-compra">
-                            <label for="talla">Talla:</label>
-                        </div>
-                        <div class="col-md-4 campo-compra">
-                            <select class="form-control" id="talla" name="talla">
-                                <option value="pequeño">Pequeño</option>
-                                <option value="mediano">Mediano</option>
-                                <option value="grande">Grande</option>
-                            </select>
-                        </div>
-                    </div>
                     <div class="row justify-content-center">
                         <div class="col-md-4 campo-compra">
                             <input class="btn btn-success" type="submit" value="Agregar al Carrito">
@@ -165,6 +145,23 @@
                 </form>
             </div>
         </section>
+
+        <?php if  (isset($data->specifications)) { ?>
+            <section class="d-flex justify-content-center">
+                <div class="">
+                    <h3>Especificaciones</h3>
+                    <table>
+                        <?php foreach($data->specifications as $specification) {?>
+                            <tr>
+                                <th class="key"><?= $specification->name ?></th>
+                                <td><?= $specification->value ?></td>
+                            </tr>
+                        <?php }?>
+                    </table>
+                </div>
+            </section>
+        <?php } ?>
+
     </main>
 
     <div class="show">
@@ -268,12 +265,12 @@
         <!-- Copyright -->
     </footer>
 
-    <script src="./js/bootstrap.min.js"></script>
-    <script src="./js/script.js"></script>
-    <script src="./js/fontAwesome.js" crossorigin="anonymous"></script>
+    <script src="./public/js/bootstrap.min.js"></script>
+    <script src="./public/js/script.js"></script>
+    <script src="./public/js/fontAwesome.js" crossorigin="anonymous"></script>
     <script src='https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js'></script>
-    <script src="./js/jquery.min.js"></script>
-    <script src="./js/pagina-detalles.js"></script>
+    <script src="./public/js/jquery.min.js"></script>
+    <script src="./public/js/pagina-detalles.js"></script>
     
 
 
