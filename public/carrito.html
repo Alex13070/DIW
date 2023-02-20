@@ -12,45 +12,18 @@
     <div class="container">
         <h2>Mi Carrito de Compras</h2>
         <div class="row">
-            <div class="col-md-8 espacio">
-                <script>
-                    for(let i = 1; i <= 30; i++ ){
-                        document.write(`
-                        <div class="card mb-3 ">
-                            <div class="card-body">
-                            <div class="row centre">
-                                <div class="col-md-2">
-                                <img src="./img/zapatos.jpg" class="img-fluid">
-                                </div>
-                                <div class="col-md-4">
-                                <h5 class="card-title">Producto ${i}</h5>
-                                <p class="card-text">Descripción breve del producto.</p>
-                                </div>
-                                <div class="col-md-2">
-                                <input type="number" class="form-control" value="1">
-                                </div>
-                                <div class="col-md-2">
-                                <p class="card-text">$50.00</p>
-                                </div>
-                                <div class="col-md-2 boton-cerrar">
-                                    <button type="button" class="btn-close" aria-label="Close"></button>
-                                </div>   
-                            </div>
-                            </div>
-                        </div>           
-                        `);
-                    }
-                </script>
+            <div class="col-md-8 espacio" id="producto">
+                
             </div>
             <div class="col-md-4 fijar">
                 <div class="card">
                     <div class="card-body">
                         <h5 class="card-title">Resumen de Compra</h5>
                         <hr>
-                        <p class="card-text">Subtotal: $150.00</p>
+                        <p class="card-text">Subtotal: <span class="precio-total"></span></p>
                         <p class="card-text">Envío: Gratis</p>
                         <hr>
-                        <p class="card-text"><b>Total: $150.00</b></p>
+                        <p class="card-text"><b>Total: <span class="precio-total"></span></b></p>
                         <div class="botones">
                             <button type="button" class="btn btn-primary btn-block">Vaciar Carrito</button>
                             <button type="button" class="btn btn-success btn-block">Tramitar pago</button>
@@ -59,6 +32,51 @@
                 </div>
             </div>
         </div>
-    </div>      
+    </div>  
+    <script>
+
+        const PRODUCTO = document.querySelector("#producto");
+        const PRECIO_TOTAL = document.querySelectorAll(".precio-total");
+
+        let precio = 0;
+        let total = 0;
+
+        for(let i = 1; i <= 30; i++){
+
+            precio = Math.floor(Math.random() * 10000) / 100;
+
+            total += precio;
+
+            PRODUCTO.innerHTML +=`
+            <div class="card mb-3">
+                <div class="card-body">
+                    <div class="row centre">
+                        <div class="col-md-2">
+                            <img src="./img/zapatos.jpg" class="img-fluid">
+                        </div>
+                        <div class="col-md-4">
+                            <h5 class="card-title">Producto ${i}</h5>
+                            <p class="card-text">Descripción breve del producto.</p>
+                        </div>
+                        <div class="col-md-2">
+                            <input type="number" class="form-control" value="1">
+                        </div>
+                        <div class="col-md-2">
+                            <p class="card-text">${precio}€</p>
+                        </div>
+                        <div class="col-md-2 boton-cerrar">
+                            <button type="button" class="btn-close" aria-label="Close"></button>
+                        </div>   
+                    </div>
+                </div>
+            </div>           
+            `;
+        }
+    
+        PRECIO_TOTAL.forEach(element => {
+            element.innerHTML = Number.parseFloat(total).toFixed(2);
+        })
+
+    </script>    
 </body>
 </html>
