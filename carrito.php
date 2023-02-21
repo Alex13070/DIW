@@ -15,6 +15,7 @@ array_push(
 array_push(
     $scripts,
     "<script src='./public/js/jquery.min.js'></script>",
+    "<script src='./public/js/carrito.js'></script>"
 );
 
 
@@ -24,15 +25,16 @@ $data['total'] = 0;
 
 ?>
 
-<?php function mainContent($data) { ?>
+<?php function mainContent($data)
+{ ?>
     <main class='container'>
         <h2>Mi Carrito de Compras</h2>
         <div class='row'>
-            <div class='col-md-8 espacio' id='producto'>
+            <div class='col-md-8' id='producto'>
                 <?php for ($i = 1; $i <= 20; $i++) { ?>
                     <?php $random = rand(1, 100); ?>
                     <?php $data['total'] += $random; ?>
-                    <div class='card mb-3'>
+                    <div class='card'>
                         <div class='card-body'>
                             <div class='row centre'>
                                 <div class='col-md-2'>
@@ -43,7 +45,7 @@ $data['total'] = 0;
                                     <p class='card-text'>Descripción breve del producto.</p>
                                 </div>
                                 <div class='col-md-2'>
-                                    <input type='number' class='form-control' value='1' >
+                                    <input type='number' class='form-control' value='1' disabled>
                                 </div>
                                 <div class='col-md-2'>
                                     <p class='card-text'><?= $random  . $data['simbolo'] ?></p>
@@ -55,9 +57,10 @@ $data['total'] = 0;
                         </div>
                     </div>
                 <?php } ?>
+                <div id="ancla"></div>
             </div>
-            <div class='col-md-4 fijar'>
-                <div class='card'>
+            <div class='col-md-4 fijar' id="resumen">
+                <div class='card' id="caja-resumen">
                     <div class='card-body'>
                         <h5 class='card-title'>Resumen de Compra</h5>
                         <hr>
@@ -74,6 +77,8 @@ $data['total'] = 0;
             </div>
         </div>
     </main>
+
+    <script src='./public/js/jquery.min.js'></script>
 <?php } ?>
 
 <?php require('pintar.php'); ?>
