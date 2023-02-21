@@ -1,0 +1,93 @@
+<?php function footer(){ ?>
+    <footer class="bg-dark text-center text-white">
+        <!-- Grid container -->
+        <div class="centrar">
+            <div class="container p-4">
+
+                <!-- Redes sociales -->
+                <section class="mb-4">
+                    <!-- Facebook -->
+                    <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+
+                    <!-- Twitter -->
+                    <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+
+                    <!-- Google -->
+                    <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button">
+                        <i class="fab fa-google"></i>
+                    </a>
+
+                    <!-- Instagram -->
+                    <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button">
+                        <i class="fab fa-instagram"></i></a>
+
+                    <!-- Linkedin -->
+                    <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-linkedin-in"></i></a>
+
+                    <!-- Github -->
+                    <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-github"></i></a>
+                </section>
+                <!-- Redes sociales -->
+
+                <!-- Fprmulario suscripción -->
+                <section class="">
+                    <form action="">
+                        <!--Grid row-->
+                        <div class="row d-flex justify-content-center">
+                            <!--Grid column-->
+                            <div class="col-auto">
+                                <p class="pt-2">
+                                    <strong>Suscríbete a nuestro boletín</strong>
+                                </p>
+                            </div>
+                            <!--Grid column-->
+
+                            <!--Grid column-->
+                            <div class="col-md-5 col-12">
+                                <!-- Email input -->
+                                <div class="form-outline form-white mb-4">
+                                    <input type="email" id="form5Example21" class="form-control" />
+                                    <label class="form-label" for="form5Example21">Dirección de correo</label>
+                                </div>
+                            </div>
+                            <!--Grid column-->
+
+                            <!--Grid column-->
+                            <div class="col-auto">
+                                <!-- Submit button -->
+                                <button type="submit" class="btn btn-outline-light mb-4">
+                                    Suscribirse
+                                </button>
+                            </div>
+                            <!--Grid column-->
+                        </div>
+                        <!--Grid row-->
+                    </form>
+                </section>
+                <!-- Fprmulario suscripción -->
+
+                <!-- Carta de presentación -->
+                <section class="mb-4">
+                    <p class="mb-4">
+                        En nuestra tienda en línea, encontrará una amplia selección de productos de las mejores marcas, con precios competitivos y una interfaz fácil de usar para facilitar su búsqueda y compra. Además, ofrecemos un servicio de atención al cliente excepcional, con agentes disponibles para responder cualquier pregunta o inquietud que pueda tener antes, durante y después de su compra.
+                    </p>
+                </section>
+                <!-- Carta de presentación -->
+
+
+            </div>
+        </div>
+        <!-- Grid container -->
+
+        <!-- Copyright -->
+        <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+            © 2023 Copyright:
+            <a class="text-white" href="#">type100.com</a>
+        </div>
+        <!-- Copyright -->
+    </footer>
+<?php } ?>

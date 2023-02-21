@@ -6,7 +6,7 @@ body {
 
 .topnav {
     overflow: hidden;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: #212529;
 }
 
 .topnav .nav-item {
