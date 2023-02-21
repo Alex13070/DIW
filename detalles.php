@@ -6,6 +6,9 @@ $data['producto'] = json_decode(file_get_contents('./detalles.json'))->product;
 
 // search_results
 
+$titulo = "Detalles";
+
+
 array_push(
     $styles,
     "<link rel='stylesheet' type='text/css' href='./public/css/styles.css'>",

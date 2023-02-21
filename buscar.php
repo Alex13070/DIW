@@ -3,6 +3,8 @@
 // $data = json_decode(file_get_contents('./busqueda.json'));
 require('./dependencias.php');
 
+$titulo = "Buscar";
+
 array_push(
     $styles,
     "<link rel='stylesheet' href='./public/css/pagina-busqueda.css'>"

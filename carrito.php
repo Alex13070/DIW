@@ -6,6 +6,8 @@ require('./dependencias.php');
 
 // search_results
 
+$titulo = "Carrito";
+
 array_push(
     $styles,
     "<link rel='stylesheet' type='text/css' href='./public/css/styles.css'>",
@@ -25,8 +27,7 @@ $data['total'] = 0;
 
 ?>
 
-<?php function mainContent($data)
-{ ?>
+<?php function mainContent($data) { ?>
     <main class='container'>
         <h2>Mi Carrito de Compras</h2>
         <div class='row'>

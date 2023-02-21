@@ -1,5 +1,7 @@
 <?php 
 
+$titulo = "";
+
 $tabLogo = "<link rel='website icon' type='png' href='./public/img/logo_final.png'>";
 
 $styles = [

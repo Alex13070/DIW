@@ -2,6 +2,8 @@
 
 require('./dependencias.php');
 
+$titulo = "Inicio";
+
 array_push(
     $styles,
     "<link rel='stylesheet' href='./public/css/index.css'>",
