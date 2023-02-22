@@ -17,13 +17,22 @@ array_push(
 array_push(
     $scripts,
     "<script src='./public/js/jquery.min.js'></script>",
-    "<script src='./public/js/carrito.js'></script>"
+    "<script src='./public/js/carrito.js'></script>",
+    "<script src='https://js.braintreegateway.com/web/3.39.0/js/client.min.js'></script>",
+    "<script src='https://js.braintreegateway.com/web/3.39.0/js/paypal-checkout.min.js'></script>",
+    "<script src='https://www.paypalobjects.com/api/checkout.js' data-version-4></script>",
+    "<script src='./public/js/paypal.js'></script>"
 );
 
 
 $data['simbolo'] = '€';
 $data['envio'] = rand(1, 10);
 $data['total'] = 0;
+
+
+
+
+
 
 ?>
 
@@ -69,10 +78,7 @@ $data['total'] = 0;
                         <p class='card-text'>Envío: <span class="precio"><?= $data['envio'] . $data['simbolo'] ?></span></p>
                         <hr>
                         <p class='card-text'><b>Total: <span class='precio'><?= $data['total'] + $data['envio'] . $data['simbolo'] ?></span></b></p>
-                        <div class='botones'>
-                            <button type='button' class='btn btn-primary btn-block'>Vaciar Carrito</button>
-                            <button type='button' class='btn btn-success btn-block'>Tramitar pago</button>
-                        </div>
+                        <div class='botones' id='btn-paypal-checkout'></div>
                     </div>
                 </div>
             </div>
