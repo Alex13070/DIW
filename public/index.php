@@ -20,6 +20,7 @@ array_push(
     "<script src='./js/slyder/next.js'></script>",
     "<script src='./js/slyder/sly.js'></script>",
     "<script src='./js/slyder/horisontal.js'></script>",
+    "<script src='./js/audio.js'></script>",
 );
 
 
@@ -102,7 +103,6 @@ $data['presentacion'] = [
     </section>
     <main class='contenido'>
 
-
         <section class=''>
 
             <?php for ($i = 1; $i <= 5; $i++) { ?>
@@ -138,6 +138,12 @@ $data['presentacion'] = [
                 </div>
             <?php } ?>
         </section>
+
+        <audio src='./audio/musica_tienda.mp3' loop>
+            Tu navegador no soporta el elemento <code>audio</code>.
+        </audio>
+        <button id='audio'><i class='fa-solid fa-play'></i></button>
+
     </main>
 <?php } ?>
 

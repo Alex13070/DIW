@@ -16,8 +16,7 @@ $styles = [
 
 $scripts = [
     "<script src='./js/fontAwesome.js'></script>",
-    "<script src='./js/bootstrap.min.js'></script>",
-    "<script src='./js/audio.js'></script>",
+    "<script src='./js/bootstrap.min.js'></script>"
 ];
 
 $data = [];

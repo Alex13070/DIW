@@ -26,7 +26,7 @@ array_push(
 
 
 $data['simbolo'] = '€';
-$data['envio'] = rand(1, 10);
+$data['envio'] = 2.99;// rand(1, 10);
 $data['total'] = 0;
 
 ?>
@@ -36,24 +36,24 @@ $data['total'] = 0;
         <h2>Mi Carrito de Compras</h2>
         <div class='row'>
             <div class='col-md-8' id='producto'>
-                <?php for ($i = 1; $i <= 20; $i++) { ?>
-                    <?php $random = rand(1, 100); ?>
-                    <?php $data['total'] += $random; ?>
+                <?php for ($i = 1; $i <= 3; $i++) { ?>
+                    <!-- <?php //$random = rand(1, 100); ?> -->
+                    <?php $data['total'] += 899; ?>
                     <div class='card'>
                         <div class='card-body'>
                             <div class='row centre'>
-                                <div class='col-md-2'>
-                                    <img src='./img/zapatos.jpg' class='img-fluid'>
+                                <div class='col-md-2 imagen'>
+                                    <img src='https://m.media-amazon.com/images/I/61cwywLZR-L._AC_SL1500_.jpg' class='img-fluid'>
                                 </div>
                                 <div class='col-md-4'>
-                                    <h5 class='card-title'>Producto <?= $i ?></h5>
-                                    <p class='card-text'>Descripción breve del producto.</p>
+                                    <h5 class='card-title'>Apple iPhone 14 (128 GB) - Negro Noche 128GB Negro Noche</h5>
+                                    <p class='card-text'>iPhone 14 (128 GB)</p>
                                 </div>
                                 <div class='col-md-2'>
                                     <input type='number' class='form-control' value='1' disabled>
                                 </div>
                                 <div class='col-md-2'>
-                                    <p class='card-text'><?= $random  . $data['simbolo'] ?></p>
+                                    <p class='card-text'><?= 899  . " €" ?></p>
                                 </div>
                                 <div class='col-md-2 boton-cerrar'>
                                     <button type='button' class='btn-close' aria-label='Close'></button>

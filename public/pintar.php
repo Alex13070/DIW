@@ -15,11 +15,6 @@
 </head>
 
 <body>
-    <audio src='./public/audio/musica_tienda.mp3'>
-        Tu navegador no soporta el elemento <code>audio</code>.
-    </audio>
-    <button id='audio'><i class='fa-solid fa-play'></i></button>
-
     <?php cabecera($buscador, $extras); ?>
 
     <?php mainContent($data); ?>
