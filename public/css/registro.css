@@ -211,6 +211,14 @@ a{
 		grid-column: 1;
 	}
 
+	.barra{
+		margin-left: 0%;
+		width: 100%;
+		display: flex;
+		justify-content:center;
+		margin-top: 1vh;
+	}
+
 	.formulario__btn {
 		width: 100%;
 	}
