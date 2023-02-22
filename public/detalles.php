@@ -2,7 +2,7 @@
 
 require('./dependencias.php');
 
-$producto = json_decode(file_get_contents('./detalles.json'))->product;
+$producto = json_decode(file_get_contents('./json/detalles.json'))->product;
 
 $data['imagenes'] = $producto->images;
 $data['nombre_producto'] = $producto->title;
@@ -25,17 +25,17 @@ $titulo = "Detalles";
 
 array_push(
     $styles,
-    "<link rel='stylesheet' type='text/css' href='./public/css/styles.css'>",
+    "<link rel='stylesheet' type='text/css' href='./css/styles.css'>",
     "<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css'>",
     "<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css'>",
-    "<link rel='stylesheet' href='./public/css/detalles-producto.css'>",
+    "<link rel='stylesheet' href='./css/detalles-producto.css'>",
 );
 
 array_push(
     $scripts,
     "<script src='https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js'></script>",
-    "",
-    "<script src='./public/js/pagina-detalles.js'></script>"
+    "<script src='./js/jquery.min.js'></script>",
+    "<script src='./js/pagina-detalles.js'></script>"
 );
 
 ?>
@@ -162,36 +162,6 @@ array_push(
             </div>
         </section>
     </main>
-    <script src='./public/js/jquery.min.js'></script>
-    <script>
-        jQuery($ => {
-
-            $('.sum').click(e => {
-                $('#cantidad').val(+$('#cantidad').val() + 1);
-
-                if (+$('#cantidad').val() == 10) {
-                    $('.sum').prop("disabled", true);
-                }
-
-                if (+$('#cantidad').val() > 1) {
-                    $('.rest').prop("disabled", false);
-                }
-            });
-
-            $('.rest').click(e => {
-                $('#cantidad').val(+$('#cantidad').val() - 1);
-
-                if (+$('#cantidad').val() == 1) {
-                    $('.rest').prop("disabled", true);
-                }
-
-                if (+$('#cantidad').val() < 10) {
-                    $('.sum').prop("disabled", false);
-                }
-            });
-
-        })
-    </script>
 
 <?php } ?>
 

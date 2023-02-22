@@ -2,20 +2,20 @@
 
 array_push(
     $styles,
-    "<link rel='stylesheet' href='./public/css/barra-buscadora.css'>",
-    "<link rel='stylesheet' href='./public/css/header.css'>",
+    "<link rel='stylesheet' href='./css/barra-buscadora.css'>",
+    "<link rel='stylesheet' href='./css/header.css'>",
 );
 
 array_push(
     $scripts,
-    "<script src='./public/js/script.js'></script>"
+    "<script src='./js/script.js'></script>"
 );
 function cabecera(bool $buscador, bool $extras) { ?>
 <header>
     <nav class="topnav" id="myTopnav">
         <div class="item-navegador align-left">
             <div class="centrar-nav">
-                <a href="<?= index ?>"><img class="logo" src="./public/img/logo_final_sin_fondo.png" alt="logo"></a>
+                <a href="<?= index ?>"><img class="logo" src="./img/logo_final_sin_fondo.png" alt="logo"></a>
             </div>
         </div>
 
@@ -34,10 +34,10 @@ function cabecera(bool $buscador, bool $extras) { ?>
 
         <?php if ($extras) { ?>
 
-            <?php if ($_SESSION['iniciada']) { ?>
+            <?php if (isset($_SESSION['iniciada'])) { ?>
                 <div class="item-navegador align-right">
                     <div class="centrar-nav">
-                        <a href="<?= carrito ?>">Cerrar sesión</i></a>
+                        <a href="<?= logout ?>">Cerrar sesión</i></a>
                     </div>
                 </div>
 

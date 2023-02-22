@@ -36,3 +36,32 @@ $(function () {
     });
 
 });
+
+
+jQuery($ => {
+
+    $('.sum').click(e => {
+        $('#cantidad').val(+$('#cantidad').val() + 1);
+
+        if (+$('#cantidad').val() == 10) {
+            $('.sum').prop("disabled", true);
+        }
+
+        if (+$('#cantidad').val() > 1) {
+            $('.rest').prop("disabled", false);
+        }
+    });
+
+    $('.rest').click(e => {
+        $('#cantidad').val(+$('#cantidad').val() - 1);
+
+        if (+$('#cantidad').val() == 1) {
+            $('.rest').prop("disabled", true);
+        }
+
+        if (+$('#cantidad').val() < 10) {
+            $('.sum').prop("disabled", false);
+        }
+    });
+
+})

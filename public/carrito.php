@@ -10,29 +10,24 @@ $titulo = "Carrito";
 
 array_push(
     $styles,
-    "<link rel='stylesheet' type='text/css' href='./public/css/styles.css'>",
-    "<link rel='stylesheet' href='./public/css/carrito.css'>"
+    "<link rel='stylesheet' type='text/css' href='./css/styles.css'>",
+    "<link rel='stylesheet' href='./css/carrito.css'>"
 );
 
 array_push(
     $scripts,
-    "<script src='./public/js/jquery.min.js'></script>",
-    "<script src='./public/js/carrito.js'></script>",
+    "<script src='./js/jquery.min.js'></script>",
+    "<script src='./js/carrito.js'></script>",
     "<script src='https://js.braintreegateway.com/web/3.39.0/js/client.min.js'></script>",
     "<script src='https://js.braintreegateway.com/web/3.39.0/js/paypal-checkout.min.js'></script>",
     "<script src='https://www.paypalobjects.com/api/checkout.js' data-version-4></script>",
-    "<script src='./public/js/paypal.js'></script>"
+    "<script src='./js/paypal.js'></script>"
 );
 
 
 $data['simbolo'] = '€';
 $data['envio'] = rand(1, 10);
 $data['total'] = 0;
-
-
-
-
-
 
 ?>
 
@@ -48,7 +43,7 @@ $data['total'] = 0;
                         <div class='card-body'>
                             <div class='row centre'>
                                 <div class='col-md-2'>
-                                    <img src='./public/img/zapatos.jpg' class='img-fluid'>
+                                    <img src='./img/zapatos.jpg' class='img-fluid'>
                                 </div>
                                 <div class='col-md-4'>
                                     <h5 class='card-title'>Producto <?= $i ?></h5>
@@ -85,7 +80,7 @@ $data['total'] = 0;
         </div>
     </main>
 
-    <script src='./public/js/jquery.min.js'></script>
+    <script src='./js/jquery.min.js'></script>
 <?php } ?>
 
 <?php require('pintar.php'); ?>

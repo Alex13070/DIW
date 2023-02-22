@@ -55,7 +55,7 @@
 			<div class="formulario__grupo" id="grupo__correo">
 				<label for="correo" class="formulario__label">Correo Electrónico</label>
 				<div class="formulario__grupo-input">
-					<input type="email" class="formulario__input" name="correo" id="correo" placeholder="correo@correo.com">
+					<input type="email" class="formulario__input" name="correo" id="correo" placeholder="Ingrese su correo electrónico">
 					<i class="formulario__validacion-estado fas fa-times-circle"></i>
 				</div>
 				<p class="formulario__input-error">El correo solo puede contener letras, numeros, puntos, guiones y guion bajo.</p>
@@ -65,7 +65,7 @@
 			<div class="formulario__grupo" id="grupo__telefono">
 				<label for="telefono" class="formulario__label">Teléfono</label>
 				<div class="formulario__grupo-input">
-					<input type="text" class="formulario__input" name="telefono" id="telefono" placeholder="Número de telefono">
+					<input type="text" class="formulario__input" name="telefono" id="telefono" placeholder="Ingrese su número de telefono">
 					<i class="formulario__validacion-estado fas fa-times-circle"></i>
 				</div>
 				<p class="formulario__input-error">El telefono solo puede contener numeros y el maximo son 14 dígitos.</p>
@@ -84,7 +84,7 @@
 			</div>
 
 			<div class="formulario__grupo formulario__grupo-btn-enviar">
-				<button type="submit" class="formulario__btn">Crear cuenta</button>
+				<input type="submit" class="formulario__btn" name="submit" value="Crear cuenta"/>
 				<p class="formulario__mensaje-exito" id="formulario__mensaje-exito">Formulario enviado exitosamente!</p>
 			</div>
 		</form>

@@ -5,21 +5,21 @@ window.addEventListener("load", function () {
         quantity: 1,
         price: 50,
         sku: "prod1",
-        currency: "USD"
+        currency: "EUR"
     }, {
         name: "Product 2",
         description: "Description of product 2",
         quantity: 3,
         price: 20,
         sku: "prod2",
-        currency: "USD"
+        currency: "EUR"
     }, {
         name: "Product 3",
         description: "Description of product 3",
         quantity: 4,
         price: 10,
         sku: "prod3",
-        currency: "USD"
+        currency: "EUR"
     }];
 
     var total = 0;
@@ -32,14 +32,16 @@ window.addEventListener("load", function () {
 
         // Set your environment
         env: 'sandbox', // sandbox | production
+        locale: 'es_ES',
 
         // Specify the style of the button
         style: {
             label: 'checkout',
             size: 'responsive', // small | medium | large | responsive
             shape: 'pill', // pill | rect
-            color: 'gold', // gold | blue | silver | black,
-            layout: 'vertical'
+            color: 'black', // gold | blue | silver | black,
+            layout: 'horizontal'
+
         },
 
         // PayPal Client IDs - replace with your own
@@ -63,7 +65,7 @@ window.addEventListener("load", function () {
                     transactions: [{
                         amount: {
                             total: total,
-                            currency: 'USD'
+                            currency: 'EUR'
                         },
                         item_list: {
                             // custom cartItems array created specifically for PayPal

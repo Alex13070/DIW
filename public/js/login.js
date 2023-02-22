@@ -27,7 +27,7 @@ const validarFormulario = (e) => {
 		break;
 		case "password":
 			validarCampo(expresiones.password, e.target, 'password');
-			validarPassword2();
+			//validarPassword2();
 		break;
 		case "password2":
 			validarPassword2();
@@ -86,10 +86,10 @@ inputs.forEach((input) => {
 });
 
 formulario.addEventListener('submit', (e) => {
-	e.preventDefault();
+	// e.preventDefault();
 
 	const terminos = document.getElementById('terminos');
-	if(campos.usuario && campos.nombre && campos.password && campos.correo && campos.telefono && terminos.checked ){
+	if(campos.usuario /*&& campos.nombre */&& campos.password /*&& campos.correo && campos.telefono && terminos.checked*/ ){
 		formulario.reset();
 
 		document.getElementById('formulario__mensaje-exito').classList.add('formulario__mensaje-exito-activo');
@@ -102,5 +102,6 @@ formulario.addEventListener('submit', (e) => {
 		});
 	} else {
 		document.getElementById('formulario__mensaje').classList.add('formulario__mensaje-activo');
+		e.preventDefault();
 	}
 });

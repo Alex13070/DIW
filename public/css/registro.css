@@ -3,7 +3,7 @@
 }
 
 html{
-	background-image: url('../img/fondo_registro_login.jpg');
+	background-image: url('../img/fondo.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -15,7 +15,7 @@ body{
 	height: 100vh;
 	/* color: white; */
 	/* background-color: #000000; */
-	 background-image: linear-gradient(0deg, #222222 0%, #fbfafa00 100%);   
+	background-image: linear-gradient(0deg, #222222 0%, #fbfafa00 100%);   
 
 }
 

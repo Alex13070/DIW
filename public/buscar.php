@@ -7,14 +7,29 @@ $titulo = "Buscar";
 
 array_push(
     $styles,
-    "<link rel='stylesheet' href='./public/css/pagina-busqueda.css'>"
+    "<link rel='stylesheet' href='./css/pagina-busqueda.css'>"
 );
 
 array_push(
     $scripts,
 );
 
-$data['productos'] = json_decode(file_get_contents('./telefonos.json'))->search_results;
+if (isset($_GET['ver'])) {
+    $array = [
+        'telefonos' => './json/telefonos.json',
+        'portatiles' => './json/portatiles.json',
+        'graficas' => './json/graficas.json',
+        'cascos' => './json/auriculares.json',
+        'zapatos' => './json/zapatos.json',
+    ];
+
+    $doc = $array[$_GET['ver']] ?? './json/telefonos.json';
+}
+else {
+    $doc = './json/telefonos.json';
+}
+
+$data['productos'] = json_decode(file_get_contents($doc))->search_results;
 
 ?>
 
