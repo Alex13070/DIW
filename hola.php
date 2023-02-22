@@ -3,15 +3,15 @@
 
 header('Content-Type: application/json; charset=utf-8');
 
-// /**
-//  * Busqueda
-//  */
+/**
+ * Busqueda
+ */
 
 // $queryString = http_build_query([
 //     'api_key' => '37456FC33462426DACD89338488FEA11',
 //     'type' => 'search',
 //     'amazon_domain' => 'amazon.es',
-//     'search_term' => 'zapatos', //<-- $_GET['buscar']
+//     'search_term' => 'portatil gaming', //<-- $_GET['buscar']
 //     'max_page' => '1',
 //     'exclude_sponsored' => 'true',
 //     'currency' => 'eur',
@@ -43,17 +43,14 @@ header('Content-Type: application/json; charset=utf-8');
  * Detalles de producto especifico
  */
 
-// # set up the request parameters
+# set up the request parameters
 // $queryString = http_build_query([
 //     'api_key' => '37456FC33462426DACD89338488FEA11',
 //     'type' => 'product',
 //     'amazon_domain' => 'amazon.es',
-//     'asin' => 'B0B8HG8W8Y', // $_GET['?'] 
-//     'include_summarization_attributes' => 'false',
+//     'asin' => 'B0BDKBLF8C', // $_GET['?'] 
 //     'language' => 'es_ES',
-//     'include_a_plus_body' => 'false',
 //     'currency' => 'eur',
-//     'include_html' => 'false',
 //     'output' => 'json'
 // ]);
 
@@ -73,3 +70,4 @@ header('Content-Type: application/json; charset=utf-8');
 
 // # print the JSON response from Rainforest API
 // echo $api_result;
+

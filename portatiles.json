@@ -1,0 +1,2904 @@
+{
+    "request_info": {
+        "success": true,
+        "credits_used": 14,
+        "credits_remaining": 86,
+        "credits_used_this_request": 1
+    },
+    "request_parameters": {
+        "type": "search",
+        "amazon_domain": "amazon.es",
+        "search_term": "portatil gaming",
+        "max_page": "1",
+        "exclude_sponsored": "true",
+        "currency": "eur",
+        "page": "1",
+        "include_html": "false",
+        "output": "json",
+        "sort_by": "average_review"
+    },
+    "request_metadata": {
+        "created_at": "2023-02-22T01:53:06.010Z",
+        "processed_at": "2023-02-22T01:53:18.226Z",
+        "total_time_taken": 12.22,
+        "pages": [
+            {
+                "created_at": "2023-02-22T01:53:06.010Z",
+                "processed_at": "2023-02-22T01:53:18.226Z",
+                "total_time_taken": 12.22,
+                "page": "1",
+                "amazon_url": "https://www.amazon.es/s/?k=portatil+gaming&ref=nb_sb_noss_2&page=1&s=review-rank"
+            }
+        ]
+    },
+    "search_results": [
+        {
+            "position": 1,
+            "title": "Apple Ordenador PortáTil MacBook Air (2020): Chip M1, Pantalla Retina de 13 Pulgadas, 8 GB de RAM, SSD de 256 GB, Teclado retroiluminado, cáMara FaceTime HD, Sensor Touch ID, Gris Espacial",
+            "asin": "B08N5VXMK6",
+            "link": "https://www.amazon.es/Apple-MacBook-Air-Chip-13-Pulgadas/dp/B08N5VXMK6/ref=sr_1_1?keywords=portatil+gaming&qid=1677030786&sr=8-1",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71jG+e7roXL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 1394,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 999,
+                    "raw": "€999,00",
+                    "name": "999,00 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 1219,
+                    "raw": "€1.219,00",
+                    "name": "999,00 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 999,
+                "raw": "€999,00",
+                "name": "999,00 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 1
+        },
+        {
+            "position": 2,
+            "title": "Apple 2022 Ordenador Portátil MacBook Air con Chip M2 de Apple: Pantalla Liquid Retina de 13,6 Pulgadas, 8GB de RAM, 256 GB de Almacenamiento SSD, Teclado retroiluminado, Color Gris Espacial",
+            "asin": "B0B3CDRDTB",
+            "link": "https://www.amazon.es/2022-Apple-Ordenador-Port%C3%A1til-MacBook/dp/B0B3CDRDTB/ref=sr_1_2?keywords=portatil+gaming&qid=1677030786&sr=8-2",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71PWU942AIL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.7,
+            "ratings_total": 145,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 1299,
+                    "raw": "€1.299,00",
+                    "name": "1.299,00 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 1519,
+                    "raw": "€1.519,00",
+                    "name": "1.299,00 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 1299,
+                "raw": "€1.299,00",
+                "name": "1.299,00 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 2
+        },
+        {
+            "position": 3,
+            "title": "Aocwei Ordenador portátil 14\" 6GB RAM 128 GB SSD Admite expansión 1TB Intel Windows 10 Portátiles FHD 2.4G+5G WiFi Bluetooth 4.2 USB HDMI con ratón inalambrico & Protector de Teclado(español)-Oro",
+            "asin": "B0BH4PK8DY",
+            "link": "https://www.amazon.es/Aocwei-Ordenador-expansi%C3%B3n-Port%C3%A1tiles-inalambrico/dp/B0BH4PK8DY/ref=sr_1_3?keywords=portatil+gaming&qid=1677030786&sr=8-3",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/716aTKCqayL._AC_UL320_.jpg",
+            "deal": {
+                "link": "https://www.amazon.es/gp/goldbox/",
+                "badge_text": "Oferta flash"
+            },
+            "is_prime": true,
+            "rating": 4.7,
+            "ratings_total": 109,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 229.49,
+                    "raw": "€229,49",
+                    "name": "229,49 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 269.99,
+                    "raw": "€269,99",
+                    "name": "229,49 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 229.49,
+                "raw": "€229,49",
+                "name": "229,49 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 3
+        },
+        {
+            "position": 4,
+            "title": "Lenovo IdeaPad 3 Gen 6 - Ordenador Portátil 15.6\" FullHD (AMD Ryzen 5 5500U, 8GB RAM, 512GB SSD, AMD Radeon Graphics, Windows 11 Home en modo S) Gris ártico - Teclado QWERTY Español",
+            "asin": "B09RRW6WM3",
+            "link": "https://www.amazon.es/Lenovo-IdeaPad-Gen-Ordenador-Port%C3%A1til/dp/B09RRW6WM3/ref=sr_1_4?keywords=portatil+gaming&qid=1677030786&sr=8-4",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81fVKr5aSTL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.7,
+            "ratings_total": 72,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 629,
+                    "raw": "€629,00",
+                    "name": "629,00 €",
+                    "asin": "B09RRW6WM3",
+                    "link": "https://www.amazon.es/Lenovo-IdeaPad-Gen-Ordenador-Port%C3%A1til/dp/B09RRW6WM3/ref=sr_1_4?keywords=portatil+gaming&qid=1677030786&sr=8-4"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 629,
+                "raw": "€629,00",
+                "name": "629,00 €",
+                "asin": "B09RRW6WM3",
+                "link": "https://www.amazon.es/Lenovo-IdeaPad-Gen-Ordenador-Port%C3%A1til/dp/B09RRW6WM3/ref=sr_1_4?keywords=portatil+gaming&qid=1677030786&sr=8-4"
+            },
+            "page": "1",
+            "position_overall": 4
+        },
+        {
+            "position": 5,
+            "title": "Acer Spin 1 SP111-33 - Ordenador Portátil Táctil 11.6\" HD, Laptop (Intel Celeron N4020, 4GB RAM, 64GB eMMc, Intel UHD Graphics 600, Windows 10 Home S), PC Portátil Negro - Teclado QWERTY Español",
+            "asin": "B089YT2VDN",
+            "link": "https://www.amazon.es/Acer-Chromebook-SP111-33-Procesador-Graphics600/dp/B089YT2VDN/ref=sr_1_5?keywords=portatil+gaming&qid=1677030786&sr=8-5",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71hEusHw8DL._AC_UL320_.jpg",
+            "rating": 4.7,
+            "ratings_total": 55,
+            "page": "1",
+            "position_overall": 5
+        },
+        {
+            "position": 6,
+            "title": "SGIN 15,6\" Ordenador Portátil Windows 11 Home, 8GB RAM 256GB SSD ROM PC Portátil (1TB Expandible), Celeron N4020C (hasta 2,8 GHz), HD IPS, 2xUSB 3.0, Bluetooth 4.2, Dual Band WiFi (Negro)",
+            "asin": "B0BNKXJPH9",
+            "link": "https://www.amazon.es/SGIN-Ordenador-Port%C3%A1til-Expandible-Bluetooth/dp/B0BNKXJPH9/ref=sr_1_6?keywords=portatil+gaming&qid=1677030786&sr=8-6",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/711-p3L9E1L._AC_UL320_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 50,00 €",
+                "text": "con un cupón"
+            },
+            "is_prime": true,
+            "rating": 4.6,
+            "ratings_total": 390,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 309.99,
+                    "raw": "€309,99",
+                    "name": "309,99 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 902.99,
+                    "raw": "€902,99",
+                    "name": "309,99 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 309.99,
+                "raw": "€309,99",
+                "name": "309,99 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 6
+        },
+        {
+            "position": 7,
+            "title": "Aocwei Ordenador portátil Windows 10 6GB RAM 64GB ROM Admite expansión SSD 1TB 14\" Intel Portátiles FHD 2.4G+5G WiFi Bluetooth 4.2 USB HDMI con ratón inalambrico & Pegatinas Teclado español-Plata",
+            "asin": "B0B13Z6N1T",
+            "link": "https://www.amazon.es/Ordenador-Aocwei-Port%C3%A1tiles-inalambrico-espa%C3%B1ol-Plata/dp/B0B13Z6N1T/ref=sr_1_7?keywords=portatil+gaming&qid=1677030786&sr=8-7",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/717qsXowQ4L._AC_UL320_.jpg",
+            "deal": {
+                "link": "https://www.amazon.es/gp/goldbox/",
+                "badge_text": "Oferta flash"
+            },
+            "is_prime": true,
+            "rating": 4.6,
+            "ratings_total": 369,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 195.49,
+                    "raw": "€195,49",
+                    "name": "195,49 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 229.99,
+                    "raw": "€229,99",
+                    "name": "195,49 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 195.49,
+                "raw": "€195,49",
+                "name": "195,49 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 7
+        },
+        {
+            "position": 8,
+            "title": "HUAWEI MateBook D15 - Ordenador portátil 15.6\" FullHD (Intel Core i3-10110U, 8GB RAM, 256GB SSD, Gráfica Intel UHD 620, Windows 10 Home) Plata (Mystic Silver) - Teclado QWERTY español",
+            "asin": "B098QRY4XY",
+            "link": "https://www.amazon.es/Huawei-Matebook-D15-Ordenador-Ultrafino/dp/B098QRY4XY/ref=sr_1_8?keywords=portatil+gaming&qid=1677030786&sr=8-8",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61snfVXKATL._AC_UL320_.jpg",
+            "rating": 4.6,
+            "ratings_total": 232,
+            "page": "1",
+            "position_overall": 8
+        },
+        {
+            "position": 9,
+            "title": "Lenovo IdeaPad Gaming 3 Gen 7 - Ordenador Portátil Gaming 15.6\" FHD (Intel Core i7-12650H, 10C, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3050-4GB, Sin Sistema Operativo) Gris - Teclado QWERTY Español",
+            "asin": "B0BG2L954X",
+            "link": "https://www.amazon.es/Lenovo-IdeaPad-Gaming-Gen-Ordenador/dp/B0BG2L954X/ref=sr_1_9?keywords=portatil+gaming&qid=1677030786&sr=8-9",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61GSejAHxqL._AC_UL320_.jpg",
+            "deal": {
+                "link": "https://www.amazon.es/gp/goldbox/",
+                "badge_text": "Oferta Top"
+            },
+            "is_prime": true,
+            "rating": 4.6,
+            "ratings_total": 231,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 899,
+                    "raw": "€899,00",
+                    "name": "899,00 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 1099,
+                    "raw": "€1.099,00",
+                    "name": "899,00 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 899,
+                "raw": "€899,00",
+                "name": "899,00 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 9
+        },
+        {
+            "position": 10,
+            "title": "HP Pavilion Gaming 16-a0027ns - Ordenador Portátil de 16.1\" FHD (Intel Core i7-10750H, 16GB DDR4-SDRAM, 1TB SSD, NVIDIA GTX 1650 4GB, Sin Sistema Operativo) Negro - Teclado QWERTY Español",
+            "asin": "B08DYC3XQS",
+            "link": "https://www.amazon.es/HP-Pavilion-Gaming-16-a0027ns-Ordenador/dp/B08DYC3XQS/ref=sr_1_10?keywords=portatil+gaming&qid=1677030786&sr=8-10",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61bQm3bInXL._AC_UL320_.jpg",
+            "rating": 4.6,
+            "ratings_total": 126,
+            "page": "1",
+            "position_overall": 10
+        },
+        {
+            "position": 11,
+            "title": "ASUS VivoBook S14 M433IA-EB069 - Ordenador portátil de 14\" FullHD (Ryzen7-4700U, 16GB RAM, 512GB SSD, Radeon Graphics, Sin sistema operativo) Negro - Teclado QWERTY Español",
+            "asin": "B08Q9KD63N",
+            "link": "https://www.amazon.es/ASUS-VivoBook-S14-M433IA-EB069-Ryzen7-4700U/dp/B08Q9KD63N/ref=sr_1_11?keywords=portatil+gaming&qid=1677030786&sr=8-11",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61BIDFvfPfL._AC_UL320_.jpg",
+            "rating": 4.6,
+            "ratings_total": 102,
+            "page": "1",
+            "position_overall": 11
+        },
+        {
+            "position": 12,
+            "title": "ASUS ROG Strix G17 G712LV-H7007T - Portátil Gaming de 17.3\" FullHD 120Hz (Intel Core i7-10750H, 16GB RAM, 1TB SSD, NVIDIA RTX2060-6GB, Windows 10 Home) Negro Original",
+            "asin": "B08BTQ1MQK",
+            "link": "https://www.amazon.es/ASUS-ROG-Strix-G17-G712LV-H7007T/dp/B08BTQ1MQK/ref=sr_1_12?keywords=portatil+gaming&qid=1677030786&sr=8-12",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/611nBRssGbL._AC_UL320_.jpg",
+            "rating": 4.6,
+            "ratings_total": 77,
+            "page": "1",
+            "position_overall": 12
+        },
+        {
+            "position": 13,
+            "title": "Apple 2022 Ordenador Portátil MacBook Pro con Chip M2 de Apple: Pantalla Retina de 13 Pulgadas, 8GB de RAM, 512 GB SSD ​​​​​​​de Almacenamiento SSD, Touch Bar, Color​​​​​​​ Plata ​​​​​​​",
+            "asin": "B0B3CNB7RY",
+            "link": "https://www.amazon.es/2022-Apple-Ordenador-Port%C3%A1til-MacBook/dp/B0B3CNB7RY/ref=sr_1_13?keywords=portatil+gaming&qid=1677030786&sr=8-13",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61vkJ9V6-dL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.6,
+            "ratings_total": 75,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 1609,
+                    "raw": "€1.609,00",
+                    "name": "1.609,00 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 1849,
+                    "raw": "€1.849,00",
+                    "name": "1.609,00 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 1609,
+                "raw": "€1.609,00",
+                "name": "1.609,00 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 13
+        },
+        {
+            "position": 14,
+            "title": "HUAWEI MateBook D15 - Portátil ultraligero 15,6\" FullHD (Intel Core i5-1155G7, 8GB RAM, 512GB SSD, Intel UHD Graphics 620, Windows 11 Home) Plata (Mystic Silver) - Teclado QWERTY español",
+            "asin": "B09ZQ1XCXR",
+            "link": "https://www.amazon.es/HUAWEI-MateBook-D15-ultraligero-i5-1155G7/dp/B09ZQ1XCXR/ref=sr_1_14?keywords=portatil+gaming&qid=1677030786&sr=8-14",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/5119R2nAVIL._AC_UL320_.jpg",
+            "rating": 4.7,
+            "ratings_total": 32,
+            "page": "1",
+            "position_overall": 14
+        },
+        {
+            "position": 15,
+            "title": "HP - 255 G8 Portátil 15.6\" AMD 3000 8 GB DDR4-SDRAM 256 GB SSD Wi-Fi 6 Windows 10 Home Negro",
+            "asin": "B08T9V1FG9",
+            "link": "https://www.amazon.es/HP-Port%C3%A1til-DDR4-SDRAM-Wi-Fi-Windows/dp/B08T9V1FG9/ref=sr_1_15?keywords=portatil+gaming&qid=1677030786&sr=8-15",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81nkSdV+0wL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 1227,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 348.44,
+                    "raw": "€348,44",
+                    "name": "348,44 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 367.17,
+                    "raw": "€367,17",
+                    "name": "348,44 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 348.44,
+                "raw": "€348,44",
+                "name": "348,44 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 15
+        },
+        {
+            "position": 16,
+            "title": "Acer - Portátil Aspire 5 Slim",
+            "asin": "B087RTV311",
+            "link": "https://www.amazon.es/Acer-Port%C3%A1til-Aspire-5-Slim/dp/B087RTV311/ref=sr_1_16?keywords=portatil+gaming&qid=1677030786&sr=8-16",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71MzvyPPRxL._AC_UL320_.jpg",
+            "rating": 4.5,
+            "ratings_total": 840,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 1220.12,
+                    "raw": "€1.220,12",
+                    "name": "1.220,12 €",
+                    "asin": "B087RTV311",
+                    "link": "https://www.amazon.es/Acer-Port%C3%A1til-Aspire-5-Slim/dp/B087RTV311/ref=sr_1_16?keywords=portatil+gaming&qid=1677030786&sr=8-16"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 1220.12,
+                "raw": "€1.220,12",
+                "name": "1.220,12 €",
+                "asin": "B087RTV311",
+                "link": "https://www.amazon.es/Acer-Port%C3%A1til-Aspire-5-Slim/dp/B087RTV311/ref=sr_1_16?keywords=portatil+gaming&qid=1677030786&sr=8-16"
+            },
+            "page": "1",
+            "position_overall": 16
+        },
+        {
+            "position": 17,
+            "title": "ASUS ROG Strix - Portátil gaming ASUS ROG Strix",
+            "asin": "B0865JLXGG",
+            "link": "https://www.amazon.es/ASUS-ROG-Strix-Port%C3%A1til-gaming/dp/B0865JLXGG/ref=sr_1_17?keywords=portatil+gaming&qid=1677030786&sr=8-17",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81upbeOgrEL._AC_UL320_.jpg",
+            "rating": 4.5,
+            "ratings_total": 614,
+            "page": "1",
+            "position_overall": 17
+        },
+        {
+            "position": 18,
+            "title": "HP 15s-fq1089ns - Ordenador Portátil de 15.6\" FHD (Intel Core i5-1035G1 , 8GB DDR4-SDRAM, 512GB SSD, Intel UHD Graphics, Windows 10) Plata – Teclado QWERTY Español",
+            "asin": "B088V9VYFM",
+            "link": "https://www.amazon.es/HP-15s-fq1089ns-Ordenador-port%C3%A1til-i5-1035G1/dp/B088V9VYFM/ref=sr_1_18?keywords=portatil+gaming&qid=1677030786&sr=8-18",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71o6m5ssguL._AC_UL320_.jpg",
+            "rating": 4.5,
+            "ratings_total": 468,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 699,
+                    "raw": "€699,00",
+                    "name": "699,00 €",
+                    "asin": "B088V9VYFM",
+                    "link": "https://www.amazon.es/HP-15s-fq1089ns-Ordenador-port%C3%A1til-i5-1035G1/dp/B088V9VYFM/ref=sr_1_18?keywords=portatil+gaming&qid=1677030786&sr=8-18"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 699,
+                "raw": "€699,00",
+                "name": "699,00 €",
+                "asin": "B088V9VYFM",
+                "link": "https://www.amazon.es/HP-15s-fq1089ns-Ordenador-port%C3%A1til-i5-1035G1/dp/B088V9VYFM/ref=sr_1_18?keywords=portatil+gaming&qid=1677030786&sr=8-18"
+            },
+            "page": "1",
+            "position_overall": 18
+        },
+        {
+            "position": 19,
+            "title": "WOZIFAN Ordenador portátil 14\" 64GB ROM Admite expansión SSD 1TB Windows 10 Intel 6GB RAM Portátiles 2.4G+5G WiFi FHD Bluetooth 4.2 USB HDMI con ratón inalambrico & Pegatinas Teclado español-Gris",
+            "asin": "B0B12JVYB3",
+            "link": "https://www.amazon.es/Ordenador-WOZIFAN-Port%C3%A1tiles-inalambrico-espa%C3%B1ol-Gris/dp/B0B12JVYB3/ref=sr_1_19?keywords=portatil+gaming&qid=1677030786&sr=8-19",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71AfhakbkML._AC_UL320_.jpg",
+            "deal": {
+                "link": "https://www.amazon.es/gp/goldbox/",
+                "badge_text": "Oferta flash"
+            },
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 361,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 195.49,
+                    "raw": "€195,49",
+                    "name": "195,49 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 229.99,
+                    "raw": "€229,99",
+                    "name": "195,49 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 195.49,
+                "raw": "€195,49",
+                "name": "195,49 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 19
+        },
+        {
+            "position": 20,
+            "title": "SGIN Ordenador Portátil 15,6 Pulgadas Windows 11 8GB DDR4 RAM 256GB SSD ROM (1TB Expandible), Celeron N4020C, 1920×1080 FHD para Portátiles, hasta 2,8GHz, 2X USB 3,0, Dual Band WiFi",
+            "asin": "B0BG43TJSK",
+            "link": "https://www.amazon.es/SGIN-Ordenador-Expandible-1920%C3%971080-Port%C3%A1tiles/dp/B0BG43TJSK/ref=sr_1_20?keywords=portatil+gaming&qid=1677030786&sr=8-20",
+            "availability": {
+                "raw": "Sólo queda(n) 1 en stock."
+            },
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61RRkNDa5JL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 336,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 299.99,
+                    "raw": "€299,99",
+                    "name": "299,99 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 329.99,
+                    "raw": "€329,99",
+                    "name": "299,99 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 299.99,
+                "raw": "€299,99",
+                "name": "299,99 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 20
+        },
+        {
+            "position": 21,
+            "title": "MSI GF63 Thin 11UC-447XES - Ordenador portátil Gaming de 15.6\" FullHD (Intel Core i5-11400H, 512 GB SSD, 16GB RAM, RTX3050, Free Dos) - Negro, Teclado QWERTY Español",
+            "asin": "B09PSHR3GW",
+            "link": "https://www.amazon.es/MSI-GF63-Thin-11UC-447XES-Ordenador/dp/B09PSHR3GW/ref=sr_1_21?keywords=portatil+gaming&qid=1677030786&sr=8-21",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71BCum1YVzL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 319,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 785.9,
+                    "raw": "€785,90",
+                    "name": "785,90 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 1049,
+                    "raw": "€1.049,00",
+                    "name": "785,90 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 785.9,
+                "raw": "€785,90",
+                "name": "785,90 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 21
+        },
+        {
+            "position": 22,
+            "title": "ASUS TUF Gaming F15 FX506LHB - Ordenador Portátil Gaming de 15.6\" Full HD 144Hz (Intel Core i5-10300H, 16GB RAM, 512GB SSD, GTX 1650 4GB, Sin Sistema Operativo) Color Negro - Teclado QWERTY español",
+            "asin": "B09TRDT8DC",
+            "link": "https://www.amazon.es/ASUS-TUF-Gaming-F15-FX506LHB/dp/B09TRDT8DC/ref=sr_1_22?keywords=portatil+gaming&qid=1677030786&sr=8-22",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/919SZKbq3-L._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 313,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 699,
+                    "raw": "€699,00",
+                    "name": "699,00 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 999,
+                    "raw": "€999,00",
+                    "name": "699,00 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 699,
+                "raw": "€699,00",
+                "name": "699,00 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 22
+        },
+        {
+            "position": 23,
+            "title": "Acer Nitro 5 AN517-52 - Portátil Gaming 17.3\" FullHD (Intel Core i7-10750H, 16B RAM, 1TB SSD, Nvidia RTX2060, Sin SO), Teclado QWERTY Español, Color Negro",
+            "asin": "B086W6SWQ5",
+            "link": "https://www.amazon.es/Acer-Nitro-Ordenador-i7-10750H-Operativo/dp/B086W6SWQ5/ref=sr_1_23?keywords=portatil+gaming&qid=1677030786&sr=8-23",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81G8PNxnZOL._AC_UL320_.jpg",
+            "rating": 4.9,
+            "ratings_total": 14,
+            "page": "1",
+            "position_overall": 23
+        },
+        {
+            "position": 24,
+            "title": "Lenovo IdeaPad 3 - Ordenador Portátil 15.6\" FullHD (Ryzen 7 3700U, 8GB RAM, 512GB SSD, AMD Radeon 10 Graphics, Windows 10) Gris - Teclado QWERTY Español",
+            "asin": "B08TN1ZSML",
+            "link": "https://www.amazon.es/Lenovo-IdeaPad-Ordenador-Port%C3%A1til-Graphics/dp/B08TN1ZSML/ref=sr_1_24?keywords=portatil+gaming&qid=1677030786&sr=8-24",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71ipdrXjCTL._AC_UL320_.jpg",
+            "rating": 4.5,
+            "ratings_total": 168,
+            "page": "1",
+            "position_overall": 24
+        },
+        {
+            "position": 25,
+            "title": "Lenovo Legion 5 Gen 6 - Ordenador Portátil Gaming 15.6\" WQHD 165Hz (AMD Ryzen 7 5800H, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 3070-8GB, Sin Sistema Operativo) Azul/Negro - Teclado QWERTY Español",
+            "asin": "B09Y9K9DX4",
+            "link": "https://www.amazon.es/Lenovo-Legion-Gen-Ordenador-Operativo/dp/B09Y9K9DX4/ref=sr_1_25?keywords=portatil+gaming&qid=1677030786&sr=8-25",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71ckj4BDJ+L._AC_UL320_.jpg",
+            "deal": {
+                "link": "https://www.amazon.es/gp/goldbox/",
+                "badge_text": "Oferta flash"
+            },
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 155,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 1399,
+                    "raw": "€1.399,00",
+                    "name": "1.399,00 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 1649,
+                    "raw": "€1.649,00",
+                    "name": "1.399,00 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 1399,
+                "raw": "€1.399,00",
+                "name": "1.399,00 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 25
+        },
+        {
+            "position": 26,
+            "title": "HONOR MagicBook 16 ordenador portatil (Pantalla FullView IPS FHD de 16,1 Pulgadas de 144Hz, AMD Ryzen 5600H, 16GB RAM, 512GB SSD), Cuerpo metálico, Sensor Huella, WiFi 6, Teclado Español, WIN11-Gray",
+            "asin": "B09SM1SL8M",
+            "link": "https://www.amazon.es/HONOR-MagicBook-16-ordenador-WIN11-Gray/dp/B09SM1SL8M/ref=sr_1_26?keywords=portatil+gaming&qid=1677030786&sr=8-26",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51VS8VXaoXL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 128,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 999,
+                    "raw": "€999,00",
+                    "name": "999,00 €",
+                    "asin": "B09SM1SL8M",
+                    "link": "https://www.amazon.es/HONOR-MagicBook-16-ordenador-WIN11-Gray/dp/B09SM1SL8M/ref=sr_1_26?keywords=portatil+gaming&qid=1677030786&sr=8-26"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 999,
+                "raw": "€999,00",
+                "name": "999,00 €",
+                "asin": "B09SM1SL8M",
+                "link": "https://www.amazon.es/HONOR-MagicBook-16-ordenador-WIN11-Gray/dp/B09SM1SL8M/ref=sr_1_26?keywords=portatil+gaming&qid=1677030786&sr=8-26"
+            },
+            "page": "1",
+            "position_overall": 26
+        },
+        {
+            "position": 27,
+            "title": "HUAWEI MateBook D15 - Ordenador portátil 15.6\" FullHD (AMD Ryzen5 5500U, 8GB RAM, 512GB SSD, Windows 11) Plata (Mystic Silver) - Teclado QWERTY español",
+            "asin": "B09R811523",
+            "link": "https://www.amazon.es/HUAWEI-MateBook-D15-Ordenador-port%C3%A1til/dp/B09R811523/ref=sr_1_27?keywords=portatil+gaming&qid=1677030786&sr=8-27",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61wU07Yfk3L._AC_UL320_.jpg",
+            "rating": 4.5,
+            "ratings_total": 128,
+            "page": "1",
+            "position_overall": 27
+        },
+        {
+            "position": 28,
+            "title": "15.6 Pulgadas Ordenador PC Portátiles, 16GB RAM 512GB SSD (Escalable 2TB ), Windows 11 Intel Celeron N5105 CPU (2,0-2,9 GHz) Laptop, 1920 x 1080 FHD Pantalla, 2,4/5 G WiFi, 200 W Pixel Webcam",
+            "asin": "B0B8GSVQQJ",
+            "link": "https://www.amazon.es/Pulgadas-Ordenador-Port%C3%A1tiles-Escalable-N5105/dp/B0B8GSVQQJ/ref=sr_1_28?keywords=portatil+gaming&qid=1677030786&sr=8-28",
+            "availability": {
+                "raw": "Sólo queda(n) 5 en stock."
+            },
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71779exn2hL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 16,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 489,
+                    "raw": "€489,00",
+                    "name": "489,00 €",
+                    "asin": "B0B8GSVQQJ",
+                    "link": "https://www.amazon.es/Pulgadas-Ordenador-Port%C3%A1tiles-Escalable-N5105/dp/B0B8GSVQQJ/ref=sr_1_28?keywords=portatil+gaming&qid=1677030786&sr=8-28"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 489,
+                "raw": "€489,00",
+                "name": "489,00 €",
+                "asin": "B0B8GSVQQJ",
+                "link": "https://www.amazon.es/Pulgadas-Ordenador-Port%C3%A1tiles-Escalable-N5105/dp/B0B8GSVQQJ/ref=sr_1_28?keywords=portatil+gaming&qid=1677030786&sr=8-28"
+            },
+            "page": "1",
+            "position_overall": 28
+        },
+        {
+            "position": 29,
+            "title": "ASUS ROG G513IC-HN004 - Portátil Gaming de 15.6\" (Ryzen 7 4800H, 16GB RAM, 512GB SSD, GeForce RTX 3050 4GB, Sin Sistema Operativo) Gris Eclipse - Teclado QWERTY español",
+            "asin": "B097Q1QQMJ",
+            "link": "https://www.amazon.es/ASUS-ROG-G513IC-HN004-Port%C3%A1til-Operativo/dp/B097Q1QQMJ/ref=sr_1_29?keywords=portatil+gaming&qid=1677030786&sr=8-29",
+            "availability": {
+                "raw": "Sólo queda(n) 2 en stock."
+            },
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71KRyPFKlVS._AC_UL320_.jpg",
+            "rating": 4.5,
+            "ratings_total": 89,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 939,
+                    "raw": "€939,00",
+                    "name": "939,00 €",
+                    "asin": "B097Q1QQMJ",
+                    "link": "https://www.amazon.es/ASUS-ROG-G513IC-HN004-Port%C3%A1til-Operativo/dp/B097Q1QQMJ/ref=sr_1_29?keywords=portatil+gaming&qid=1677030786&sr=8-29"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 939,
+                "raw": "€939,00",
+                "name": "939,00 €",
+                "asin": "B097Q1QQMJ",
+                "link": "https://www.amazon.es/ASUS-ROG-G513IC-HN004-Port%C3%A1til-Operativo/dp/B097Q1QQMJ/ref=sr_1_29?keywords=portatil+gaming&qid=1677030786&sr=8-29"
+            },
+            "page": "1",
+            "position_overall": 29
+        },
+        {
+            "position": 30,
+            "title": "HUAWEI MateBook 13 - Ordenador portátil 13'' 2K (AMD Ryzen 7 3700U, 16GB RAM, 512GB SSD, Windows 10 Home) Gris - Teclado QWERTY español",
+            "asin": "B094H63DFF",
+            "link": "https://www.amazon.es/HUAWEI-MateBook-13-Ordenador-port%C3%A1til/dp/B094H63DFF/ref=sr_1_30?keywords=portatil+gaming&qid=1677030786&sr=8-30",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61I4Eec14WS._AC_UL320_.jpg",
+            "rating": 4.5,
+            "ratings_total": 86,
+            "page": "1",
+            "position_overall": 30
+        },
+        {
+            "position": 31,
+            "title": "Ordenador portátil Lenovo (17,3 pulgadas HD mate) (AMD Ryzen 3 3250U 2,6 GHz DualCore, 8 GB DDR4 RAM, 512 GB SSD, AMD Radeon Graphic, WLAN, Bluetooth HDMI, USB 3.0, Windows 10 Pro), color negro",
+            "asin": "B08JCV2MQV",
+            "link": "https://www.amazon.es/Ordenador-port%C3%A1til-pulgadas-i5-1035G1-Bluetooth/dp/B08JCV2MQV/ref=sr_1_31?keywords=portatil+gaming&qid=1677030786&sr=8-31",
+            "availability": {
+                "raw": "Sólo queda(n) 1 en stock."
+            },
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/411ivh1tQ2L._AC_UL320_.jpg",
+            "rating": 4.5,
+            "ratings_total": 55,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 816.99,
+                    "raw": "€816,99",
+                    "name": "816,99 €",
+                    "asin": "B08JCV2MQV",
+                    "link": "https://www.amazon.es/Ordenador-port%C3%A1til-pulgadas-i5-1035G1-Bluetooth/dp/B08JCV2MQV/ref=sr_1_31?keywords=portatil+gaming&qid=1677030786&sr=8-31"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 816.99,
+                "raw": "€816,99",
+                "name": "816,99 €",
+                "asin": "B08JCV2MQV",
+                "link": "https://www.amazon.es/Ordenador-port%C3%A1til-pulgadas-i5-1035G1-Bluetooth/dp/B08JCV2MQV/ref=sr_1_31?keywords=portatil+gaming&qid=1677030786&sr=8-31"
+            },
+            "page": "1",
+            "position_overall": 31
+        },
+        {
+            "position": 32,
+            "title": "Acer Predator Helios 300 Portátil Gaming GTX 1060 15.6 inch",
+            "asin": "B06Y4GZS9C",
+            "link": "https://www.amazon.es/Acer-Predator-Helios-GeForce-Keyboard/dp/B06Y4GZS9C/ref=sr_1_32?keywords=portatil+gaming&qid=1677030786&sr=8-32",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81g7AiqWrtL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.4,
+            "ratings_total": 2608,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 2120.25,
+                    "raw": "€2.120,25",
+                    "name": "2.120,25 €",
+                    "asin": "B06Y4GZS9C",
+                    "link": "https://www.amazon.es/Acer-Predator-Helios-GeForce-Keyboard/dp/B06Y4GZS9C/ref=sr_1_32?keywords=portatil+gaming&qid=1677030786&sr=8-32"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 2120.25,
+                "raw": "€2.120,25",
+                "name": "2.120,25 €",
+                "asin": "B06Y4GZS9C",
+                "link": "https://www.amazon.es/Acer-Predator-Helios-GeForce-Keyboard/dp/B06Y4GZS9C/ref=sr_1_32?keywords=portatil+gaming&qid=1677030786&sr=8-32"
+            },
+            "page": "1",
+            "position_overall": 32
+        },
+        {
+            "position": 33,
+            "title": "Razer Blade 15 - Portátil para videojuegos 2019: Intel Core i7-9750H de 6 núcleos",
+            "asin": "B086MHT6LB",
+            "link": "https://www.amazon.es/Razer-Blade-15-Port%C3%A1til-videojuegos/dp/B086MHT6LB/ref=sr_1_33?keywords=portatil+gaming&qid=1677030786&sr=8-33",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81mIXd99GrL._AC_UL320_.jpg",
+            "rating": 4.4,
+            "ratings_total": 609,
+            "page": "1",
+            "position_overall": 33
+        },
+        {
+            "position": 34,
+            "title": "Lenovo V V15 Computer portatile Grigio 39,6 cm (15.6\") 1920 x 1080 Pixel AMD Ryz",
+            "asin": "B089DBLZGG",
+            "link": "https://www.amazon.es/Lenovo-Ordenador-port%C3%A1til-pantalla-pulgadas/dp/B089DBLZGG/ref=sr_1_34?keywords=portatil+gaming&qid=1677030786&sr=8-34",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71PbpgP2-ZL._AC_UL320_.jpg",
+            "rating": 4.4,
+            "ratings_total": 570,
+            "page": "1",
+            "position_overall": 34
+        },
+        {
+            "position": 35,
+            "title": "HP 15s-eq2118ns - Ordenador Portátil de 15.6\" Full HD (AMD Ryzen 5 5500U, 12GB RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home) Plata - Teclado QWERTY Español",
+            "asin": "B09HY35BH8",
+            "link": "https://www.amazon.es/HP-15s-eq2118ns-Ordenador-port%C3%A1til-Graphics/dp/B09HY35BH8/ref=sr_1_35?keywords=portatil+gaming&qid=1677030786&sr=8-35",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/516ggHv5t-L._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.4,
+            "ratings_total": 424,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 599,
+                    "raw": "€599,00",
+                    "name": "599,00 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 699,
+                    "raw": "€699,00",
+                    "name": "599,00 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 599,
+                "raw": "€599,00",
+                "name": "599,00 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 35
+        },
+        {
+            "position": 36,
+            "title": "ASUS TUF Dash F15 FX517ZM - Ordenador Portátil Gaming de 15.6\" Full HD 144Hz (Intel Core i7-12650H, 16GB RAM, 512GB SSD, NVIDIA RTX 3060-6GB, Sin Sistema Operativo) Negro - Teclado QWERTY español",
+            "asin": "B09VLYBKFR",
+            "link": "https://www.amazon.es/ASUS-TUF-Dash-F15-FX517ZM/dp/B09VLYBKFR/ref=sr_1_36?keywords=portatil+gaming&qid=1677030786&sr=8-36",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51LdoplP4SL._AC_UL320_.jpg",
+            "deal": {
+                "link": "https://www.amazon.es/gp/goldbox/",
+                "badge_text": "Oferta Top"
+            },
+            "is_prime": true,
+            "rating": 4.4,
+            "ratings_total": 369,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 999,
+                    "raw": "€999,00",
+                    "name": "999,00 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 1699,
+                    "raw": "€1.699,00",
+                    "name": "999,00 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 999,
+                "raw": "€999,00",
+                "name": "999,00 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 36
+        },
+        {
+            "position": 37,
+            "title": "HP 15s-fq2009ns – Ordenador Portátil de 15.6” FHD (Intel Core i5-1135G7, 8GB RAM, 512GB SSD, Gráficos Intel Iris Xe, Windows 10 Home) Plata – Teclado QWERTY Español",
+            "asin": "B08MCDZGYM",
+            "link": "https://www.amazon.es/HP-15s-fq2009ns-Ordenador-port%C3%A1til-i5-1135G7/dp/B08MCDZGYM/ref=sr_1_37?keywords=portatil+gaming&qid=1677030786&sr=8-37",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71ZchJuwE+L._AC_UL320_.jpg",
+            "rating": 4.4,
+            "ratings_total": 245,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 649,
+                    "raw": "€649,00",
+                    "name": "649,00 €",
+                    "asin": "B08MCDZGYM",
+                    "link": "https://www.amazon.es/HP-15s-fq2009ns-Ordenador-port%C3%A1til-i5-1135G7/dp/B08MCDZGYM/ref=sr_1_37?keywords=portatil+gaming&qid=1677030786&sr=8-37"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 649,
+                "raw": "€649,00",
+                "name": "649,00 €",
+                "asin": "B08MCDZGYM",
+                "link": "https://www.amazon.es/HP-15s-fq2009ns-Ordenador-port%C3%A1til-i5-1135G7/dp/B08MCDZGYM/ref=sr_1_37?keywords=portatil+gaming&qid=1677030786&sr=8-37"
+            },
+            "page": "1",
+            "position_overall": 37
+        },
+        {
+            "position": 38,
+            "title": "Victus by HP 16-e0097ns, Ordenador portátil de 16.1' Full HD (AMD Ryzen 5 5600H, 8GB RAM, 512 GB SSD, 144 Hz, NVIDIA GeForce RTX 3050 Ti, Sin Sistema Operativo) Azul Intenso, Teclado QWERTY Español",
+            "asin": "B09PVBMCLB",
+            "link": "https://www.amazon.es/HP-Victus-16-e0097ns-Ordenador-SSDNVIDIA/dp/B09PVBMCLB/ref=sr_1_38?keywords=portatil+gaming&qid=1677030786&sr=8-38",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71f2n2CciOL._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.4,
+            "ratings_total": 238,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 669,
+                    "raw": "€669,00",
+                    "name": "669,00 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 949,
+                    "raw": "€949,00",
+                    "name": "669,00 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 669,
+                "raw": "€669,00",
+                "name": "669,00 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 38
+        },
+        {
+            "position": 39,
+            "title": "Lenovo IdeaPad 3 Gen 6 - Ordenador Portátil 15.6\" FullHD (Intel Core i5-1135G7, 8GB RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home en modo S) Gris ártico - Teclado QWERTY Español",
+            "asin": "B09RR1X5YF",
+            "link": "https://www.amazon.es/Lenovo-IdeaPad-Gen-Ordenador-i5-1135G7/dp/B09RR1X5YF/ref=sr_1_39?keywords=portatil+gaming&qid=1677030786&sr=8-39",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71-lKa3SBkL._AC_UL320_.jpg",
+            "bestseller": {
+                "link": "https://www.amazon.es/gp/bestsellers/computers/30117744031/ref=sr_bs_38_30117744031_1",
+                "category": "en Portátiles tradicionales"
+            },
+            "deal": {
+                "link": "https://www.amazon.es/gp/goldbox/",
+                "badge_text": "Oferta flash"
+            },
+            "is_prime": true,
+            "rating": 4.4,
+            "ratings_total": 237,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 529,
+                    "raw": "€529,00",
+                    "name": "529,00 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 649,
+                    "raw": "€649,00",
+                    "name": "529,00 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 529,
+                "raw": "€529,00",
+                "name": "529,00 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 39
+        },
+        {
+            "position": 40,
+            "title": "Lenovo IdeaPad 3 Gen 6 - Ordenador Portátil 15.6\" FullHD (Intel Core i5-1135G7, 16GB RAM, 512GB SSD, Iris Xe Graphics, Sin Sistema Operativo) Azul - Teclado QWERTY Español",
+            "asin": "B09YVK78K9",
+            "link": "https://www.amazon.es/Lenovo-IdeaPad-Gen-Ordenador-i5-1135G7/dp/B09YVK78K9/ref=sr_1_40?keywords=portatil+gaming&qid=1677030786&sr=8-40",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/717M-HAM2WL._AC_UL320_.jpg",
+            "rating": 4.4,
+            "ratings_total": 225,
+            "page": "1",
+            "position_overall": 40
+        },
+        {
+            "position": 41,
+            "title": "Acer Chromebook 315-4H - Ordenador Portátil 15.6\" Full HD LED, Laptop (Intel Celeron N45, 8 GB RAM, 64GB eMMc, Intel UHD Graphics, Chrome OS), PC Portátil Color Plata - Teclado Qwerty Español",
+            "asin": "B0B3NCHN68",
+            "link": "https://www.amazon.es/Acer-Chromebook-315-4H-Ordenador-Port%C3%A1til/dp/B0B3NCHN68/ref=sr_1_41?keywords=portatil+gaming&qid=1677030786&sr=8-41",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/717urfOfHJL._AC_UL320_.jpg",
+            "deal": {
+                "link": "https://www.amazon.es/gp/goldbox/",
+                "badge_text": "Oferta flash"
+            },
+            "is_prime": true,
+            "rating": 4.4,
+            "ratings_total": 211,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 279,
+                    "raw": "€279,00",
+                    "name": "279,00 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 389,
+                    "raw": "€389,00",
+                    "name": "279,00 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 279,
+                "raw": "€279,00",
+                "name": "279,00 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 41
+        },
+        {
+            "position": 42,
+            "title": "HP 240 G8 - Ordenador portátil de 14” HD (Intel Celeron N4020, 8GB RAM, 128GB SSD, Windows 10 Home) Negro - Teclado QWERTY Español",
+            "asin": "B08XKYRXM4",
+            "link": "https://www.amazon.es/HP-240-G8-Ordenador-port%C3%A1til/dp/B08XKYRXM4/ref=sr_1_42?keywords=portatil+gaming&qid=1677030786&sr=8-42",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71fGiSs5vzL._AC_UL320_.jpg",
+            "rating": 4.4,
+            "ratings_total": 212,
+            "page": "1",
+            "position_overall": 42
+        },
+        {
+            "position": 43,
+            "title": "Acer Chromebook Spin 311 CP311-3H - Ordenador Portátil 2 en 1 Convertible y Táctil 11.6\" HD IPS (MTK MT8183, 4GB RAM, 32GB eMMc, ARM Mali-G72 MP3, Chrome OS), PC Portátil Plata - QWERTY",
+            "asin": "B085PCN161",
+            "link": "https://www.amazon.es/Acer-Chromebook-Spin-311-CP311-3H/dp/B085PCN161/ref=sr_1_43?keywords=portatil+gaming&qid=1677030786&sr=8-43",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/615Inbm51tL._AC_UL320_.jpg",
+            "rating": 4.4,
+            "ratings_total": 201,
+            "page": "1",
+            "position_overall": 43
+        },
+        {
+            "position": 44,
+            "title": "Dell Latitude E5470 | Intel i5 6.Gen | 2x2.4 GHz | 8 GB | SSD de 256 GB | 14.1 pulgadas | Full HD 1920x1080 | Cámara web | Windows 10 | Portátil móvil 1920 (certificado y reacondicionado)",
+            "asin": "B082FKWL3B",
+            "link": "https://www.amazon.es/Dell-Latitude-E7440-procesador-Professional/dp/B082FKWL3B/ref=sr_1_44?keywords=portatil+gaming&qid=1677030786&sr=8-44",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51XVRMtcn+L._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.4,
+            "ratings_total": 198,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 349,
+                    "raw": "€349,00",
+                    "name": "349,00 €",
+                    "asin": "B082FKWL3B",
+                    "link": "https://www.amazon.es/Dell-Latitude-E7440-procesador-Professional/dp/B082FKWL3B/ref=sr_1_44?keywords=portatil+gaming&qid=1677030786&sr=8-44"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 349,
+                "raw": "€349,00",
+                "name": "349,00 €",
+                "asin": "B082FKWL3B",
+                "link": "https://www.amazon.es/Dell-Latitude-E7440-procesador-Professional/dp/B082FKWL3B/ref=sr_1_44?keywords=portatil+gaming&qid=1677030786&sr=8-44"
+            },
+            "page": "1",
+            "position_overall": 44
+        },
+        {
+            "position": 45,
+            "title": "ASUS ROG Strix G15 G513RM#B09TRF7FFF - Portátil Gaming de 15.6\" Wide Quad HD 165Hz (Ryzen 7 6800H, 16GB RAM, 1TB SSD, RTX 3060 6GB, Sin Sistema Operativo) Gris Eclipse - Teclado QWERTY español",
+            "asin": "B09TRF7FFF",
+            "link": "https://www.amazon.es/ASUS-ROG-Strix-G15-G513RM/dp/B09TRF7FFF/ref=sr_1_45?keywords=portatil+gaming&qid=1677030786&sr=8-45",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71s-5jieUsL._AC_UL320_.jpg",
+            "rating": 4.4,
+            "ratings_total": 163,
+            "page": "1",
+            "position_overall": 45
+        },
+        {
+            "position": 46,
+            "title": "MSI Bravo 15 B5DD-006XES - Ordenador portátil de 15.6\" FullHD 144Hz (AMD Ryzen 5-5600H, 16GB RAM, 512GB SSD, RX5500M-4GB, sin sistema operativo ) Negro - teclado QWERTY Español",
+            "asin": "B0969K28X6",
+            "link": "https://www.amazon.es/MSI-Bravo-B5DD-006XES-Ordenador-RX5500M-4GB/dp/B0969K28X6/ref=sr_1_46?keywords=portatil+gaming&qid=1677030786&sr=8-46",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71wLvoqE5xS._AC_UL320_.jpg",
+            "rating": 4.5,
+            "ratings_total": 38,
+            "page": "1",
+            "position_overall": 46
+        },
+        {
+            "position": 47,
+            "title": "Lenovo Legion 5 Gen 6 - Ordenador Portátil 15.6\" FHD 165Hz (AMD Ryzen 7 5800H, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 3060-6GB, Sin Sistema Operativo) Azul/Negro - Teclado QWERTY Español",
+            "asin": "B09YVVY351",
+            "link": "https://www.amazon.es/Lenovo-Legion-Gen-Ordenador-Operativo/dp/B09YVVY351/ref=sr_1_47?keywords=portatil+gaming&qid=1677030786&sr=8-47",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71ckj4BDJ+L._AC_UL320_.jpg",
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 37,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 1049,
+                    "raw": "€1.049,00",
+                    "name": "1.049,00 €",
+                    "asin": "B09YVVY351",
+                    "link": "https://www.amazon.es/Lenovo-Legion-Gen-Ordenador-Operativo/dp/B09YVVY351/ref=sr_1_47?keywords=portatil+gaming&qid=1677030786&sr=8-47"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 1049,
+                "raw": "€1.049,00",
+                "name": "1.049,00 €",
+                "asin": "B09YVVY351",
+                "link": "https://www.amazon.es/Lenovo-Legion-Gen-Ordenador-Operativo/dp/B09YVVY351/ref=sr_1_47?keywords=portatil+gaming&qid=1677030786&sr=8-47"
+            },
+            "page": "1",
+            "position_overall": 47
+        },
+        {
+            "position": 48,
+            "title": "HP 14s-dq2004ns - Ordenador Portátil de 14\" Full HD (Intel Core i5-1135G7, 8GB RAM, 512GB SSD, Intel Iris Xe, Sin Sistema Operativo) Plata - Teclado QWERTY Español",
+            "asin": "B08PFGNRB3",
+            "link": "https://www.amazon.es/HP-14s-dq2004ns-Ordenador-i5-1135G7-operativo/dp/B08PFGNRB3/ref=sr_1_48?keywords=portatil+gaming&qid=1677030786&sr=8-48",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81ex5g6lHbL._AC_UL320_.jpg",
+            "rating": 4.4,
+            "ratings_total": 108,
+            "page": "1",
+            "position_overall": 48
+        }
+    ],
+    "category_information": {
+        "is_landing_page": false
+    },
+    "related_searches": [
+        {
+            "query": "portatil gaming msi",
+            "link": "https://www.amazon.es/s/?k=portatil+gaming+msi&ref=sugsr_0&pd_rd_w=wkcqg&content-id=amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03:amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_p=6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_r=P8CNZXW8P99VVW8A59R9&pd_rd_wg=khmtw&pd_rd_r=f9add686-bf1d-46ef-9b77-b319d9342ce5&qid=1677030786"
+        },
+        {
+            "query": "portatil gaming 17.3 pulgadas",
+            "link": "https://www.amazon.es/s/?k=portatil+gaming+17.3+pulgadas&ref=sugsr_3&pd_rd_w=wkcqg&content-id=amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03:amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_p=6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_r=P8CNZXW8P99VVW8A59R9&pd_rd_wg=khmtw&pd_rd_r=f9add686-bf1d-46ef-9b77-b319d9342ce5&qid=1677030786"
+        },
+        {
+            "query": "portatil",
+            "link": "https://www.amazon.es/s/?k=portatil&ref=sugsr_1&pd_rd_w=wkcqg&content-id=amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03:amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_p=6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_r=P8CNZXW8P99VVW8A59R9&pd_rd_wg=khmtw&pd_rd_r=f9add686-bf1d-46ef-9b77-b319d9342ce5&qid=1677030786"
+        },
+        {
+            "query": "portatil gaming asus",
+            "link": "https://www.amazon.es/s/?k=portatil+gaming+asus&ref=sugsr_4&pd_rd_w=wkcqg&content-id=amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03:amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_p=6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_r=P8CNZXW8P99VVW8A59R9&pd_rd_wg=khmtw&pd_rd_r=f9add686-bf1d-46ef-9b77-b319d9342ce5&qid=1677030786"
+        },
+        {
+            "query": "pc gaming",
+            "link": "https://www.amazon.es/s/?k=pc+gaming&ref=sugsr_2&pd_rd_w=wkcqg&content-id=amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03:amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_p=6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_r=P8CNZXW8P99VVW8A59R9&pd_rd_wg=khmtw&pd_rd_r=f9add686-bf1d-46ef-9b77-b319d9342ce5&qid=1677030786"
+        },
+        {
+            "query": "ordenador gaming",
+            "link": "https://www.amazon.es/s/?k=ordenador+gaming&ref=sugsr_5&pd_rd_w=wkcqg&content-id=amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03:amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_p=6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_r=P8CNZXW8P99VVW8A59R9&pd_rd_wg=khmtw&pd_rd_r=f9add686-bf1d-46ef-9b77-b319d9342ce5&qid=1677030786"
+        }
+    ],
+    "pagination": {
+        "pages": [
+            {
+                "total_results": 640,
+                "current_page": 1,
+                "next_page_link": "https://www.amazon.es/s?k=portatil+gaming&s=review-rank&page=2&qid=1677030786&ref=sr_pg_2",
+                "total_pages": 7
+            }
+        ]
+    },
+    "refinements": {
+        "prime": [
+            {
+                "name": "Envío gratis",
+                "value": "p_76/13956313031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=p_76%3A13956313031&s=review-rank&dc&qid=1677030786&rnid=831276031&ref=sr_nr_p_76_1&ds=v1%3AN2iqilnoaGRv5a5BhjAtEVViIOIrGBK6G%2FAx0C08mq4",
+                "refinement_display_name": "Prime"
+            }
+        ],
+        "delivery": [
+            {
+                "name": "Recíbelo mañana",
+                "value": "p_90/6820340031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=p_90%3A6820340031&s=review-rank&dc&qid=1677030786&rnid=6820335031&ref=sr_nr_p_90_1&ds=v1%3AHpZNBkpGkIEDJK8w1bHb%2FPRbAYkxYAk69kNv6dNBXCM",
+                "refinement_display_name": "Delivery"
+            }
+        ],
+        "departments": [
+            {
+                "name": "Portátiles",
+                "value": "n/938008031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031&s=review-rank&dc&qid=1677030786&rnid=1703620031&ref=sr_nr_n_1&ds=v1%3AxKKXfFavS15yjYg3dsh6fUWA%2FjkGHc30jDvpuZjiZlY",
+                "refinement_display_name": "Departments"
+            },
+            {
+                "name": "Portátiles tradicionales",
+                "value": "n/30117744031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cn%3A30117744031&s=review-rank&dc&qid=1677030786&rnid=1703620031&ref=sr_nr_n_2&ds=v1%3Ayf8Jwmvcksw5h7GJkx6qHws1DPDwf4xDMqBNS%2Bw%2FK5g",
+                "refinement_display_name": "Departments"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "4 Estrellas o más",
+                "value": "p_72/831280031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=p_72%3A831280031&s=review-rank&dc&qid=1677030786&rnid=831271031&ref=sr_nr_p_72_1&ds=v1%3A0mEgXJN11WpDV7wmtx1tcLfZUk3lrNbNqG9Wrg5ZcII",
+                "refinement_display_name": "Reviews"
+            },
+            {
+                "name": "3 Estrellas o más",
+                "value": "p_72/831281031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=p_72%3A831281031&s=review-rank&dc&qid=1677030786&rnid=831271031&ref=sr_nr_p_72_2&ds=v1%3AAq7WoDgWC%2FmJ%2Fge9%2FFuSHenMU9OR1N8GFbPUb5P1tfY",
+                "refinement_display_name": "Reviews"
+            },
+            {
+                "name": "2 Estrellas o más",
+                "value": "p_72/831282031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=p_72%3A831282031&s=review-rank&dc&qid=1677030786&rnid=831271031&ref=sr_nr_p_72_3&ds=v1%3AbAlJa%2FFF4YRNe08kKSCstOvjH78XkvN95rACPxQk9Js",
+                "refinement_display_name": "Reviews"
+            },
+            {
+                "name": "1 estrella o más",
+                "value": "p_72/831283031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=p_72%3A831283031&s=review-rank&dc&qid=1677030786&rnid=831271031&ref=sr_nr_p_72_4&ds=v1%3AzlRLKqfqMKt1z0SyC2nC1rIJqQYG4sShIUpnEttKJnY",
+                "refinement_display_name": "Reviews"
+            }
+        ],
+        "price": [
+            {
+                "name": "0 - 200 EUR",
+                "value": "n:938008031||p_36/9733334031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_36%3A9733334031&s=review-rank&dc&qid=1677030786&rnid=9733333031&ref=sr_nr_p_36_1&ds=v1%3AzHTVbgw69Me79g2Pnq5n%2F5XlkPL%2FDNQBTmq4Q6lC%2BkA",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "200 - 300 EUR",
+                "value": "n:938008031||p_36/9733335031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_36%3A9733335031&s=review-rank&dc&qid=1677030786&rnid=9733333031&ref=sr_nr_p_36_2&ds=v1%3AZu5SWWF%2BpNHXm6OShwqtgJRrYeBI89V7Z1r6zFnNCfc",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "300 - 400 EUR",
+                "value": "n:938008031||p_36/9733336031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_36%3A9733336031&s=review-rank&dc&qid=1677030786&rnid=9733333031&ref=sr_nr_p_36_3&ds=v1%3AdPlmMAOi38AQeJV3o0wJ7AEdeUIRUE8f5jvFXCz7FKA",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "400 - 600 EUR",
+                "value": "n:938008031||p_36/9733337031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_36%3A9733337031&s=review-rank&dc&qid=1677030786&rnid=9733333031&ref=sr_nr_p_36_4&ds=v1%3Ah5yBvKn6YdbcIkcVeAWC9S6clsPxYZMhJddjSuSjpOI",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "600 - 800 EUR",
+                "value": "n:938008031||p_36/9733338031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_36%3A9733338031&s=review-rank&dc&qid=1677030786&rnid=9733333031&ref=sr_nr_p_36_5&ds=v1%3AO7kLMbZ02TYjnvKMubve6gEc7ySZp7KabyKfxqCXCkI",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "800 - 1000 EUR",
+                "value": "n:938008031||p_36/9733339031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_36%3A9733339031&s=review-rank&dc&qid=1677030786&rnid=9733333031&ref=sr_nr_p_36_6&ds=v1%3AEZlvLO1swkJbVDwgMvkVw2pkm5mbPdLk%2Bv6yms3%2FoGo",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "Más de 1000 EUR",
+                "value": "n:938008031||p_36/9733340031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_36%3A9733340031&s=review-rank&dc&qid=1677030786&rnid=9733333031&ref=sr_nr_p_36_7&ds=v1%3AxVoh7Fm6cmGU1kWrcte%2FzDeR0APunsSdPRjhMWVjld4",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "EUR        EUR            Ir",
+                "value": "p_36/price-range",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "Ofertas del Día",
+                "value": "p_n_deal_type/26902951031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=p_n_deal_type%3A26902951031&s=review-rank&dc&qid=1677030786&rnid=26902950031&ref=sr_nr_p_n_deal_type_1&ds=v1%3A8LgfuHVuK1X2fAvWDapOGF%2Ft3hFWKXPqi3VcxJO8KQg",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "Todos los ahorros",
+                "value": "p_n_deal_type/26902953031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=p_n_deal_type%3A26902953031&s=review-rank&dc&qid=1677030786&rnid=26902950031&ref=sr_nr_p_n_deal_type_2&ds=v1%3AzdgRFG01kQPCClyzH19sX33TgrPyaVzbRXAuCVQLrFo",
+                "refinement_display_name": "Price"
+            }
+        ],
+        "brand": [
+            {
+                "name": "ASUS",
+                "value": "n:667049031||p_89/ASUS",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A667049031%2Cp_89%3AASUS&s=review-rank&dc&qid=1677030786&rnid=1692911031&ref=sr_nr_p_89_1&ds=v1%3AIcEgTISVzHpwCpXcIsa1v%2FOu9t1A4uPApFvtUu6s4Rk",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Acer",
+                "value": "n:667049031||p_89/Acer",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A667049031%2Cp_89%3AAcer&s=review-rank&dc&qid=1677030786&rnid=1692911031&ref=sr_nr_p_89_2&ds=v1%3Az7jl0JGqUuwNdweDGuiipeVemJtUv6VeMoVcJfRoeFw",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Lenovo",
+                "value": "n:667049031||p_89/Lenovo",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A667049031%2Cp_89%3ALenovo&s=review-rank&dc&qid=1677030786&rnid=1692911031&ref=sr_nr_p_89_3&ds=v1%3A1bk1ZVYyI2IH0cxh9wYXVFGLGw0YgWJOH%2BePTm%2BmWRc",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "HP",
+                "value": "n:667049031||p_89/HP",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A667049031%2Cp_89%3AHP&s=review-rank&dc&qid=1677030786&rnid=1692911031&ref=sr_nr_p_89_4&ds=v1%3AMj9CX9V5JyciqJMqeTiytlrw1amQY%2BbNUN6UfOj1s1k",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "MSI",
+                "value": "n:667049031||p_89/MSI",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A667049031%2Cp_89%3AMSI&s=review-rank&dc&qid=1677030786&rnid=1692911031&ref=sr_nr_p_89_5&ds=v1%3AeEoqdVdpXNCWpPLs6QsAqTujVGx83MbUjGx3FOzEv0E",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "MEDION",
+                "value": "n:667049031||p_89/MEDION",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A667049031%2Cp_89%3AMEDION&s=review-rank&dc&qid=1677030786&rnid=1692911031&ref=sr_nr_p_89_6&ds=v1%3AMNKOG91to%2F3ctwe%2B47mku1JGrdHaJ5Sjym87z3aJm30",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "CoolBox",
+                "value": "n:667049031||p_89/CoolBox",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A667049031%2Cp_89%3ACoolBox&s=review-rank&dc&qid=1677030786&rnid=1692911031&ref=sr_nr_p_89_7&ds=v1%3A2ndhkN9jhn1S%2BE3TPIG8j5FOweTTigTlCfctcgdiMPM",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "innjooTECLASTDilwe",
+                "value": "n:667049031||undefined",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A667049031%2Cp_89%3Ainnjoo&s=review-rank&dc&qid=1677030786&rnid=1692911031&ref=sr_nr_p_89_8&ds=v1%3AXwKwyUJYY5ceG5tOfoMFSsbL1aw2CT6Mgjz6SNJs8Po",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "innjoo",
+                "value": "n:667049031||p_89/innjoo",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A667049031%2Cp_89%3Ainnjoo&s=review-rank&dc&qid=1677030786&rnid=1692911031&ref=sr_nr_p_89_8&ds=v1%3AXwKwyUJYY5ceG5tOfoMFSsbL1aw2CT6Mgjz6SNJs8Po",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "TECLAST",
+                "value": "n:667049031||p_89/TECLAST",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A667049031%2Cp_89%3ATECLAST&s=review-rank&dc&qid=1677030786&rnid=1692911031&ref=sr_nr_p_89_9&ds=v1%3AYWMgS%2BK2PLsfQeKRzpNIsA37cWMGGcHfcFy8mbrJTv4",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Dilwe",
+                "value": "n:667049031||p_89/Dilwe",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A667049031%2Cp_89%3ADilwe&s=review-rank&dc&qid=1677030786&rnid=1692911031&ref=sr_nr_p_89_10&ds=v1%3AO%2Fef1OX9PUS5zsAk7PhXkHwXYrsQWkbYF4rm6p3%2Fr7E",
+                "refinement_display_name": "Brand"
+            }
+        ],
+        "fabricante_de_cpu_para_portatiles": [
+            {
+                "name": "AMD",
+                "value": "n:938008031||p_n_feature_twenty-two_browse-bin/27387614031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-two_browse-bin%3A27387614031&s=review-rank&dc&qid=1677030786&rnid=27387566031&ref=sr_nr_p_n_feature_twenty-two_browse-bin_1&ds=v1%3Ax%2FNW6fC9D0L16CxbqDV84N1QVnxl2JjCLPbSSJZC%2BlA",
+                "refinement_display_name": "Fabricante de CPU para portátiles"
+            },
+            {
+                "name": "Intel",
+                "value": "n:938008031||p_n_feature_twenty-two_browse-bin/27387621031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-two_browse-bin%3A27387621031&s=review-rank&dc&qid=1677030786&rnid=27387566031&ref=sr_nr_p_n_feature_twenty-two_browse-bin_2&ds=v1%3A5wtwyRuS7kYQJAlWVajpu8fxF7%2FtfcRnf0mBgh%2BDMbs",
+                "refinement_display_name": "Fabricante de CPU para portátiles"
+            }
+        ],
+        "numero_de_procesadores_de_computadora": [
+            {
+                "name": "1",
+                "value": "n:938008031||p_n_feature_twenty-nine_browse-bin/50869272031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-nine_browse-bin%3A50869272031&s=review-rank&dc&qid=1677030786&rnid=50869265031&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_1&ds=v1%3AxqgBClSfNPsAjzoQ6TLxEN5akScdvxMjJpz0rbqcMuE",
+                "refinement_display_name": "Número de procesadores de computadora"
+            },
+            {
+                "name": "2",
+                "value": "n:938008031||p_n_feature_twenty-nine_browse-bin/50869283031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-nine_browse-bin%3A50869283031&s=review-rank&dc&qid=1677030786&rnid=50869265031&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_2&ds=v1%3AiHRim5Pzg3aBN5mfXKNBlZmFtVN%2BUO8RGjwCvzGLSBI",
+                "refinement_display_name": "Número de procesadores de computadora"
+            },
+            {
+                "name": "4",
+                "value": "n:938008031||p_n_feature_twenty-nine_browse-bin/50869284031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-nine_browse-bin%3A50869284031&s=review-rank&dc&qid=1677030786&rnid=50869265031&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_3&ds=v1%3Ah62ETMHn2I1wB6c7L3pMz9SAApAzdwj6B2lUHE0ntFU",
+                "refinement_display_name": "Número de procesadores de computadora"
+            },
+            {
+                "name": "6",
+                "value": "n:938008031||p_n_feature_twenty-nine_browse-bin/50869278031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-nine_browse-bin%3A50869278031&s=review-rank&dc&qid=1677030786&rnid=50869265031&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_4&ds=v1%3AG41317S2NRWKoRmkwFuhbdzYwbwph1qdbz%2Bu1OsgFmQ",
+                "refinement_display_name": "Número de procesadores de computadora"
+            },
+            {
+                "name": "8",
+                "value": "n:938008031||p_n_feature_twenty-nine_browse-bin/50869271031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-nine_browse-bin%3A50869271031&s=review-rank&dc&qid=1677030786&rnid=50869265031&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_5&ds=v1%3AR74qLY7k9ErLg%2BnpmwDIxVQzaIn0p6vkUNz8%2FgAKIBE",
+                "refinement_display_name": "Número de procesadores de computadora"
+            },
+            {
+                "name": "14",
+                "value": "n:938008031||p_n_feature_twenty-nine_browse-bin/50869277031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-nine_browse-bin%3A50869277031&s=review-rank&dc&qid=1677030786&rnid=50869265031&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_6&ds=v1%3AHzfhoGrXVXD0rka4sY2rXncoEX3iH6Qa6tRFjp4qOB8",
+                "refinement_display_name": "Número de procesadores de computadora"
+            }
+        ],
+        "tamano_de_la_pantalla_del_portatil": [
+            {
+                "name": "Hasta 10\"",
+                "value": "n:938008031||p_n_style_browse-bin/949805031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_style_browse-bin%3A949805031&s=review-rank&dc&qid=1677030786&rnid=949804031&ref=sr_nr_p_n_style_browse-bin_1&ds=v1%3AoxC39tzyLzdIolqDfyulVZi7iUJ%2Fd8aiTkcvQTLijDw",
+                "refinement_display_name": "Tamaño de la pantalla del portátil"
+            },
+            {
+                "name": "11\" - 12\"",
+                "value": "n:938008031||p_n_style_browse-bin/949806031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_style_browse-bin%3A949806031&s=review-rank&dc&qid=1677030786&rnid=949804031&ref=sr_nr_p_n_style_browse-bin_2&ds=v1%3AmxqGYG0IJU9dZgr7Zqkn01HVv%2BYaTPENfk0jY7obnPs",
+                "refinement_display_name": "Tamaño de la pantalla del portátil"
+            },
+            {
+                "name": "13\" - 14\"",
+                "value": "n:938008031||p_n_style_browse-bin/949807031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_style_browse-bin%3A949807031&s=review-rank&dc&qid=1677030786&rnid=949804031&ref=sr_nr_p_n_style_browse-bin_3&ds=v1%3AXQisl%2BQdtV97Ydpu0%2B%2FIJ%2BNfeqr9olNX6b53xuJjVoY",
+                "refinement_display_name": "Tamaño de la pantalla del portátil"
+            },
+            {
+                "name": "15\" - 16\"",
+                "value": "n:938008031||p_n_style_browse-bin/949808031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_style_browse-bin%3A949808031&s=review-rank&dc&qid=1677030786&rnid=949804031&ref=sr_nr_p_n_style_browse-bin_4&ds=v1%3ANYNNznrZ1SNttwz%2Fh1wod7brGSaSWGblU%2FUdp%2BhSojs",
+                "refinement_display_name": "Tamaño de la pantalla del portátil"
+            },
+            {
+                "name": "17\" y más",
+                "value": "n:938008031||p_n_style_browse-bin/949809031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_style_browse-bin%3A949809031&s=review-rank&dc&qid=1677030786&rnid=949804031&ref=sr_nr_p_n_style_browse-bin_5&ds=v1%3AB3By%2BpSxBxJ9fYSv%2FWj9wHvepOyU0GzOx86PIgQlaQ0",
+                "refinement_display_name": "Tamaño de la pantalla del portátil"
+            }
+        ],
+        "tipo_de_pantalla_del_ordenador_portatil": [
+            {
+                "name": "LCD",
+                "value": "n:938008031||p_n_feature_browse-bin/27969010031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_browse-bin%3A27969010031&s=review-rank&dc&qid=1677030786&rnid=27969007031&ref=sr_nr_p_n_feature_browse-bin_1&ds=v1%3ArR%2FN6zgmSsGs7yUpmc7ZjiWTfjHbcmbQ8ImjV9GszDI",
+                "refinement_display_name": "Tipo de pantalla del ordenador portátil"
+            },
+            {
+                "name": "LED",
+                "value": "n:938008031||p_n_feature_browse-bin/27969012031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_browse-bin%3A27969012031&s=review-rank&dc&qid=1677030786&rnid=27969007031&ref=sr_nr_p_n_feature_browse-bin_2&ds=v1%3Aq0rwXCuLkrwGrxBEtawCp7yjy8hWSgTJwMebRYPlG%2Bc",
+                "refinement_display_name": "Tipo de pantalla del ordenador portátil"
+            },
+            {
+                "name": "oled",
+                "value": "n:938008031||p_n_feature_browse-bin/27969011031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_browse-bin%3A27969011031&s=review-rank&dc&qid=1677030786&rnid=27969007031&ref=sr_nr_p_n_feature_browse-bin_3&ds=v1%3Atv3v1yaToaxks%2FtidCxM4gB%2FOrFnSpZjjvw%2BkPF6RqQ",
+                "refinement_display_name": "Tipo de pantalla del ordenador portátil"
+            }
+        ],
+        "fabricante_y_tipo_de_procesador_del_portatil": [
+            {
+                "name": "Intel",
+                "value": "n:938008031||p_n_feature_two_browse-bin/949792031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_two_browse-bin%3A949792031&s=review-rank&dc&qid=1677030786&rnid=949786031&ref=sr_nr_p_n_feature_two_browse-bin_1&ds=v1%3A8nOsBzcd9f888paRyD5rpUFBR66Z%2F7xSj8LdEImDgpQ",
+                "refinement_display_name": "Fabricante y tipo de procesador del portátil"
+            }
+        ],
+        "tipo_de_procesador": [
+            {
+                "name": "AMD Ryzen 5",
+                "value": "n:938008031||p_n_feature_fifteen_browse-bin/21761321031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_fifteen_browse-bin%3A21761321031&s=review-rank&dc&qid=1677030786&rnid=8178865031&ref=sr_nr_p_n_feature_fifteen_browse-bin_1&ds=v1%3AxKhBToT3QeZYgYkaMhP56LXX2IeH6AfhsbT0IBUo0%2F8",
+                "refinement_display_name": "Tipo de procesador"
+            },
+            {
+                "name": "AMD Ryzen 7",
+                "value": "n:938008031||p_n_feature_fifteen_browse-bin/21761322031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_fifteen_browse-bin%3A21761322031&s=review-rank&dc&qid=1677030786&rnid=8178865031&ref=sr_nr_p_n_feature_fifteen_browse-bin_2&ds=v1%3AzxizmEJH6r%2B6fQmXhknhuTSw4q8%2BKNLrLGjvEOcLVRA",
+                "refinement_display_name": "Tipo de procesador"
+            },
+            {
+                "name": "Intel Celeron",
+                "value": "n:938008031||p_n_feature_fifteen_browse-bin/8178939031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_fifteen_browse-bin%3A8178939031&s=review-rank&dc&qid=1677030786&rnid=8178865031&ref=sr_nr_p_n_feature_fifteen_browse-bin_3&ds=v1%3Atx5xxqQzFgv%2By1GcskKbj8NyT%2F4FDa0H%2BzmGQizdUuM",
+                "refinement_display_name": "Tipo de procesador"
+            },
+            {
+                "name": "Intel Core i3",
+                "value": "n:938008031||p_n_feature_fifteen_browse-bin/8178950031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_fifteen_browse-bin%3A8178950031&s=review-rank&dc&qid=1677030786&rnid=8178865031&ref=sr_nr_p_n_feature_fifteen_browse-bin_4&ds=v1%3AKt0sz0p0fz4ro%2FRQX2XEitVqwuyU8J5cpCtIMpwsmXs",
+                "refinement_display_name": "Tipo de procesador"
+            },
+            {
+                "name": "Intel Core i5",
+                "value": "n:938008031||p_n_feature_fifteen_browse-bin/8178954031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_fifteen_browse-bin%3A8178954031&s=review-rank&dc&qid=1677030786&rnid=8178865031&ref=sr_nr_p_n_feature_fifteen_browse-bin_5&ds=v1%3AaUS7vue%2B3dWukOVjUyscZQv%2BEPX9G4XLOTP7j2ApUHY",
+                "refinement_display_name": "Tipo de procesador"
+            },
+            {
+                "name": "Intel Core i7",
+                "value": "n:938008031||p_n_feature_fifteen_browse-bin/8178957031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_fifteen_browse-bin%3A8178957031&s=review-rank&dc&qid=1677030786&rnid=8178865031&ref=sr_nr_p_n_feature_fifteen_browse-bin_6&ds=v1%3AnVqvDB60rICRXp2we3W1Jesacrp2pdWRtvaxjcR4ukE",
+                "refinement_display_name": "Tipo de procesador"
+            },
+            {
+                "name": "Intel Core i9",
+                "value": "n:938008031||p_n_feature_fifteen_browse-bin/21761330031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_fifteen_browse-bin%3A21761330031&s=review-rank&dc&qid=1677030786&rnid=8178865031&ref=sr_nr_p_n_feature_fifteen_browse-bin_7&ds=v1%3ACz3Pu9ay2qCqqd%2Fyi6kiJwxMhV%2B4DPIqLc4duGTLHos",
+                "refinement_display_name": "Tipo de procesador"
+            }
+        ],
+        "caracteristicas_especiales_de_los_ordenadores_portatiles": [
+            {
+                "name": "Audio HD",
+                "value": "n:938008031||p_n_feature_three_browse-bin/65990406031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_three_browse-bin%3A65990406031&s=review-rank&dc&qid=1677030786&rnid=65990400031&ref=sr_nr_p_n_feature_three_browse-bin_1&ds=v1%3AYy2oCyO3BVhlEUXD%2BLljNOsRJDZ70XiAQH5u4nfuUS8",
+                "refinement_display_name": "Características especiales de los ordenadores portátiles"
+            },
+            {
+                "name": "Ranura de tarjeta de memoria",
+                "value": "n:938008031||p_n_feature_three_browse-bin/65990403031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_three_browse-bin%3A65990403031&s=review-rank&dc&qid=1677030786&rnid=65990400031&ref=sr_nr_p_n_feature_three_browse-bin_2&ds=v1%3AzuYRasDWH5RYd0dCbGA36iUQ8HJRz5ct5u2Vr0n0PaM",
+                "refinement_display_name": "Características especiales de los ordenadores portátiles"
+            },
+            {
+                "name": "Recubrimiento antidestellos",
+                "value": "n:938008031||p_n_feature_three_browse-bin/65990401031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_three_browse-bin%3A65990401031&s=review-rank&dc&qid=1677030786&rnid=65990400031&ref=sr_nr_p_n_feature_three_browse-bin_3&ds=v1%3Aw3D0GTDwWcDlSoiZijkE0ByR3KAGIxp%2BAvIiQOqbBMU",
+                "refinement_display_name": "Características especiales de los ordenadores portátiles"
+            },
+            {
+                "name": "Teclado numérico",
+                "value": "n:938008031||p_n_feature_three_browse-bin/65990408031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_three_browse-bin%3A65990408031&s=review-rank&dc&qid=1677030786&rnid=65990400031&ref=sr_nr_p_n_feature_three_browse-bin_4&ds=v1%3ADZ%2BpwHTABBB8BtA%2FjdrKQGWWEfId12tRHsXrwaUUMj0",
+                "refinement_display_name": "Características especiales de los ordenadores portátiles"
+            },
+            {
+                "name": "Teclado retroiluminado",
+                "value": "n:938008031||p_n_feature_three_browse-bin/65990407031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_three_browse-bin%3A65990407031&s=review-rank&dc&qid=1677030786&rnid=65990400031&ref=sr_nr_p_n_feature_three_browse-bin_5&ds=v1%3Arqx%2Bo008bZpX3gVTM3BPME0HWJG%2BEubAueY%2BNwWf8Is",
+                "refinement_display_name": "Características especiales de los ordenadores portátiles"
+            }
+        ],
+        "velocidad_de_cpu": [
+            {
+                "name": "1 a 1.59 GHz",
+                "value": "n:938008031||p_n_feature_twenty-eight_browse-bin/49894957031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-eight_browse-bin%3A49894957031&s=review-rank&dc&qid=1677030786&rnid=49894952031&ref=sr_nr_p_n_feature_twenty-eight_browse-bin_1&ds=v1%3AMw8FRj3AJFNYCFw2my8Ln9s7p6vzwcL2Ydx1OarHcXs",
+                "refinement_display_name": "Velocidad de CPU"
+            },
+            {
+                "name": "1.60 a 1.79 GHz",
+                "value": "p_n_feature_twenty-eight_browse-bin/49894959031",
+                "refinement_display_name": "Velocidad de CPU"
+            },
+            {
+                "name": "1.80 a 1.99 GHz",
+                "value": "p_n_feature_twenty-eight_browse-bin/49894953031",
+                "refinement_display_name": "Velocidad de CPU"
+            },
+            {
+                "name": "2.00 a 2.49 GHz",
+                "value": "n:938008031||p_n_feature_twenty-eight_browse-bin/49894955031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-eight_browse-bin%3A49894955031&s=review-rank&dc&qid=1677030786&rnid=49894952031&ref=sr_nr_p_n_feature_twenty-eight_browse-bin_4&ds=v1%3AeMIHSKjTtfKHRJKMkUsj4GrQ4Rc%2BuOaO4sDqVImZGoE",
+                "refinement_display_name": "Velocidad de CPU"
+            },
+            {
+                "name": "2.50 a 2.99 GHz",
+                "value": "n:938008031||p_n_feature_twenty-eight_browse-bin/49894960031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-eight_browse-bin%3A49894960031&s=review-rank&dc&qid=1677030786&rnid=49894952031&ref=sr_nr_p_n_feature_twenty-eight_browse-bin_5&ds=v1%3Ab5JFzZwA%2BZkawt6OXorSXzjZnIXcSOBt5%2FtY4jEY3hg",
+                "refinement_display_name": "Velocidad de CPU"
+            },
+            {
+                "name": "3.00 a 3.49 GHz",
+                "value": "n:938008031||p_n_feature_twenty-eight_browse-bin/49894956031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-eight_browse-bin%3A49894956031&s=review-rank&dc&qid=1677030786&rnid=49894952031&ref=sr_nr_p_n_feature_twenty-eight_browse-bin_6&ds=v1%3ATOmNhsY6hp%2BrRaT3PuExA6v92ftzdaUUSyAocr9rWNo",
+                "refinement_display_name": "Velocidad de CPU"
+            },
+            {
+                "name": "3.50 a 3.99 GHz",
+                "value": "n:938008031||p_n_feature_twenty-eight_browse-bin/49894954031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-eight_browse-bin%3A49894954031&s=review-rank&dc&qid=1677030786&rnid=49894952031&ref=sr_nr_p_n_feature_twenty-eight_browse-bin_7&ds=v1%3As67eqT2QVOhNIcS4ynrjGLCwprV9k2hNtKIEcqFecuA",
+                "refinement_display_name": "Velocidad de CPU"
+            },
+            {
+                "name": "4.0 GHz y Más",
+                "value": "n:938008031||p_n_feature_twenty-eight_browse-bin/49894958031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-eight_browse-bin%3A49894958031&s=review-rank&dc&qid=1677030786&rnid=49894952031&ref=sr_nr_p_n_feature_twenty-eight_browse-bin_8&ds=v1%3ATMNg13MA3iNowYIwSDbYbxlNOWLPW%2F9J6ltjBJB1xXo",
+                "refinement_display_name": "Velocidad de CPU"
+            }
+        ],
+        "formato_del_portatil": [
+            {
+                "name": "Chromebook",
+                "value": "n:938008031||p_n_feature_four_browse-bin/7457509031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_four_browse-bin%3A7457509031&s=review-rank&dc&qid=1677030786&rnid=7457508031&ref=sr_nr_p_n_feature_four_browse-bin_1&ds=v1%3AplpD4sesw7UIPB6Qw0gvSXBHJhEqYbyf4xcTK69KyHA",
+                "refinement_display_name": "Formato del portátil"
+            },
+            {
+                "name": "Convertible 2 in 1",
+                "value": "n:938008031||p_n_feature_four_browse-bin/7457510031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_four_browse-bin%3A7457510031&s=review-rank&dc&qid=1677030786&rnid=7457508031&ref=sr_nr_p_n_feature_four_browse-bin_2&ds=v1%3A3SRbRmLSNCY4ErknXkQ96eqqu4YXnwd0EwFdlpsbbv0",
+                "refinement_display_name": "Formato del portátil"
+            },
+            {
+                "name": "Notebook",
+                "value": "n:938008031||p_n_feature_four_browse-bin/7457511031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_four_browse-bin%3A7457511031&s=review-rank&dc&qid=1677030786&rnid=7457508031&ref=sr_nr_p_n_feature_four_browse-bin_3&ds=v1%3AsLNs2qOFZZyI0Z6OfrKVh54XRZRSbFsP0QVdJsvZoLw",
+                "refinement_display_name": "Formato del portátil"
+            },
+            {
+                "name": "Ultrabook",
+                "value": "n:938008031||p_n_feature_four_browse-bin/7457512031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_four_browse-bin%3A7457512031&s=review-rank&dc&qid=1677030786&rnid=7457508031&ref=sr_nr_p_n_feature_four_browse-bin_4&ds=v1%3AB3kByU0%2Foq0dFEL3SP6el9%2BloPWxBYJgsx16z7svRBI",
+                "refinement_display_name": "Formato del portátil"
+            }
+        ],
+        "tipo_de_disco_duro": [
+            {
+                "name": "HDD",
+                "value": "n:938008031||p_n_feature_eleven_browse-bin/7457500031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_eleven_browse-bin%3A7457500031&s=review-rank&dc&qid=1677030786&rnid=7457498031&ref=sr_nr_p_n_feature_eleven_browse-bin_1&ds=v1%3AvVsI0F6m96r4bOkb0pep8qySkU6Pyj%2FT6Aug2RIG%2Fqg",
+                "refinement_display_name": "Tipo de disco duro"
+            },
+            {
+                "name": "SSD",
+                "value": "n:938008031||p_n_feature_eleven_browse-bin/7457501031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_eleven_browse-bin%3A7457501031&s=review-rank&dc&qid=1677030786&rnid=7457498031&ref=sr_nr_p_n_feature_eleven_browse-bin_2&ds=v1%3AqFkM17tINz8%2FyuDc9incXB3ABIR2Qm%2B7NEa6%2FUxvWjk",
+                "refinement_display_name": "Tipo de disco duro"
+            },
+            {
+                "name": "SSHD",
+                "value": "n:938008031||p_n_feature_eleven_browse-bin/7457499031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_eleven_browse-bin%3A7457499031&s=review-rank&dc&qid=1677030786&rnid=7457498031&ref=sr_nr_p_n_feature_eleven_browse-bin_3&ds=v1%3AJbvPK3SoxfcyzKUgICPxZG2bhSLkezt0DRD%2FKGsQHag",
+                "refinement_display_name": "Tipo de disco duro"
+            }
+        ],
+        "capacidad_de_disco_duro_del_portatil": [
+            {
+                "name": "Hasta 119 GB",
+                "value": "n:938008031||p_n_pattern_browse-bin/949811031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_pattern_browse-bin%3A949811031&s=review-rank&dc&qid=1677030786&rnid=949810031&ref=sr_nr_p_n_pattern_browse-bin_1&ds=v1%3Aj9KWfAk40Xuu%2FuFlfiCuGQWRfQUS3ym5YRZ%2Fm%2BVxA3c",
+                "refinement_display_name": "Capacidad de disco duro del portátil"
+            },
+            {
+                "name": "120 a 319 GB",
+                "value": "n:938008031||p_n_pattern_browse-bin/949812031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_pattern_browse-bin%3A949812031&s=review-rank&dc&qid=1677030786&rnid=949810031&ref=sr_nr_p_n_pattern_browse-bin_2&ds=v1%3ASNZjSOAe3dZ2EX0GnZBxVwDXovsyWHH5MVS6iLovmY0",
+                "refinement_display_name": "Capacidad de disco duro del portátil"
+            },
+            {
+                "name": "320 a 499 GB",
+                "value": "n:938008031||p_n_pattern_browse-bin/949813031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_pattern_browse-bin%3A949813031&s=review-rank&dc&qid=1677030786&rnid=949810031&ref=sr_nr_p_n_pattern_browse-bin_3&ds=v1%3AbuIIAh9uPDjUh9cadPL58H3dZrSPi3ApIlVMXWKmuTk",
+                "refinement_display_name": "Capacidad de disco duro del portátil"
+            },
+            {
+                "name": "500 a 999 GB",
+                "value": "n:938008031||p_n_pattern_browse-bin/949814031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_pattern_browse-bin%3A949814031&s=review-rank&dc&qid=1677030786&rnid=949810031&ref=sr_nr_p_n_pattern_browse-bin_4&ds=v1%3AEF7NBEl1tXc2%2BYih69X%2FBmcd4%2F1sTs07yRb%2FqV2kTYk",
+                "refinement_display_name": "Capacidad de disco duro del portátil"
+            },
+            {
+                "name": "1 a 1,9 TB",
+                "value": "n:938008031||p_n_pattern_browse-bin/5123245031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_pattern_browse-bin%3A5123245031&s=review-rank&dc&qid=1677030786&rnid=949810031&ref=sr_nr_p_n_pattern_browse-bin_5&ds=v1%3A3CAdrkG5pNrtJW6RLVCasg9nfg2XPZYk0kle%2BiVQ6Ss",
+                "refinement_display_name": "Capacidad de disco duro del portátil"
+            },
+            {
+                "name": "2 a 2,9 TB",
+                "value": "n:938008031||p_n_pattern_browse-bin/5123246031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_pattern_browse-bin%3A5123246031&s=review-rank&dc&qid=1677030786&rnid=949810031&ref=sr_nr_p_n_pattern_browse-bin_6&ds=v1%3A3phNfZNS3prlXLneTCKlZMUbccHxI8yhHZ5%2B73JzC5Y",
+                "refinement_display_name": "Capacidad de disco duro del portátil"
+            }
+        ],
+        "sistema_operativo_del_portatil": [
+            {
+                "name": "Windows 11 Home",
+                "value": "n:938008031||p_n_operating_system_browse-bin/27413245031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_operating_system_browse-bin%3A27413245031&s=review-rank&dc&qid=1677030786&rnid=949815031&ref=sr_nr_p_n_operating_system_browse-bin_1&ds=v1%3AFrk8wpXy%2Bve70%2B7GV8UppTDjot2h0Z6fWFBrswxTNYM",
+                "refinement_display_name": "Sistema operativo del portátil"
+            },
+            {
+                "name": "Windows 11 Pro",
+                "value": "n:938008031||p_n_operating_system_browse-bin/27413244031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_operating_system_browse-bin%3A27413244031&s=review-rank&dc&qid=1677030786&rnid=949815031&ref=sr_nr_p_n_operating_system_browse-bin_2&ds=v1%3AFB%2FPLHqZP8%2FdBO%2FSnEX3PCaQtal0J4YI3Q7h0j5M5u4",
+                "refinement_display_name": "Sistema operativo del portátil"
+            },
+            {
+                "name": "Windows 11 in S mode",
+                "value": "n:938008031||p_n_operating_system_browse-bin/27413248031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_operating_system_browse-bin%3A27413248031&s=review-rank&dc&qid=1677030786&rnid=949815031&ref=sr_nr_p_n_operating_system_browse-bin_3&ds=v1%3Aq4%2Bgb2JlFpth1aJCDlXwZy6aRObUL%2BSUesjogDJCwUg",
+                "refinement_display_name": "Sistema operativo del portátil"
+            },
+            {
+                "name": "Windows 10 Home",
+                "value": "n:938008031||p_n_operating_system_browse-bin/7167375031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_operating_system_browse-bin%3A7167375031&s=review-rank&dc&qid=1677030786&rnid=949815031&ref=sr_nr_p_n_operating_system_browse-bin_4&ds=v1%3AqLKwfkP24qK3zv04jOAnIO6c1eVLLnQ%2FeY9P8CApYo0",
+                "refinement_display_name": "Sistema operativo del portátil"
+            },
+            {
+                "name": "Windows 10 Pro",
+                "value": "n:938008031||p_n_operating_system_browse-bin/7167376031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_operating_system_browse-bin%3A7167376031&s=review-rank&dc&qid=1677030786&rnid=949815031&ref=sr_nr_p_n_operating_system_browse-bin_5&ds=v1%3ASjKgbqu24tTMz4GgMb7giOylJcYFRK8rR4iJppLP628",
+                "refinement_display_name": "Sistema operativo del portátil"
+            },
+            {
+                "name": "Chrome",
+                "value": "n:938008031||p_n_operating_system_browse-bin/2644522031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_operating_system_browse-bin%3A2644522031&s=review-rank&dc&qid=1677030786&rnid=949815031&ref=sr_nr_p_n_operating_system_browse-bin_6&ds=v1%3AmWev01%2FJyvCGn5C8DbobA8jBtP7vCIoJHs66cI1z7zQ",
+                "refinement_display_name": "Sistema operativo del portátil"
+            },
+            {
+                "name": "DOS",
+                "value": "n:938008031||p_n_operating_system_browse-bin/949831031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_operating_system_browse-bin%3A949831031&s=review-rank&dc&qid=1677030786&rnid=949815031&ref=sr_nr_p_n_operating_system_browse-bin_7&ds=v1%3APYsOkV2eUQBswT7ksKhgH1M3EcOLjnzKC4YkyTghL0Q",
+                "refinement_display_name": "Sistema operativo del portátil"
+            }
+        ],
+        "peso_del_portatil": [
+            {
+                "name": "Hasta 0.9 kg",
+                "value": "n:938008031||p_n_feature_five_browse-bin/7457507031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_five_browse-bin%3A7457507031&s=review-rank&dc&qid=1677030786&rnid=7457502031&ref=sr_nr_p_n_feature_five_browse-bin_1&ds=v1%3Aur7viykvUt9h9WWT4lfog5Vx728o3dqiGVLdbwJK2mM",
+                "refinement_display_name": "Peso del portátil"
+            },
+            {
+                "name": "1 - 1.4 kg",
+                "value": "n:938008031||p_n_feature_five_browse-bin/7457503031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_five_browse-bin%3A7457503031&s=review-rank&dc&qid=1677030786&rnid=7457502031&ref=sr_nr_p_n_feature_five_browse-bin_2&ds=v1%3An3dtnYbiufXp6K9Gyu3lujtbBV6N4O5r00Z0bWelBsg",
+                "refinement_display_name": "Peso del portátil"
+            },
+            {
+                "name": "1.5 - 1.9 kg",
+                "value": "n:938008031||p_n_feature_five_browse-bin/7457504031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_five_browse-bin%3A7457504031&s=review-rank&dc&qid=1677030786&rnid=7457502031&ref=sr_nr_p_n_feature_five_browse-bin_3&ds=v1%3Av0LmnbXe6prlYHDdbQdqqvu7A91Ip2j22HZXo5Ztr90",
+                "refinement_display_name": "Peso del portátil"
+            },
+            {
+                "name": "2 - 2.4 kg",
+                "value": "n:938008031||p_n_feature_five_browse-bin/7457505031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_five_browse-bin%3A7457505031&s=review-rank&dc&qid=1677030786&rnid=7457502031&ref=sr_nr_p_n_feature_five_browse-bin_4&ds=v1%3ApQr%2FwDYwiY%2FNDx1HSdSn6rvDLCstC%2FY4HtoIuQUooIc",
+                "refinement_display_name": "Peso del portátil"
+            },
+            {
+                "name": "2.5 kg y más",
+                "value": "n:938008031||p_n_feature_five_browse-bin/7457506031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_five_browse-bin%3A7457506031&s=review-rank&dc&qid=1677030786&rnid=7457502031&ref=sr_nr_p_n_feature_five_browse-bin_5&ds=v1%3AmzQTSXbgH32bx8GQ3UvE2pzlN62PRXLCUHVrZaU%2FJrw",
+                "refinement_display_name": "Peso del portátil"
+            }
+        ],
+        "duracion_de_la_bateria": [
+            {
+                "name": "Hasta 4 horas",
+                "value": "n:938008031||p_n_feature_nine_browse-bin/7457517031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_nine_browse-bin%3A7457517031&s=review-rank&dc&qid=1677030786&rnid=7457513031&ref=sr_nr_p_n_feature_nine_browse-bin_1&ds=v1%3Ai924ZIIRgKE0z83IgaVISIJsxiVZfvNRfpx%2BXee51NQ",
+                "refinement_display_name": "Duración de la batería"
+            },
+            {
+                "name": "5 - 7 horas",
+                "value": "n:938008031||p_n_feature_nine_browse-bin/7457515031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_nine_browse-bin%3A7457515031&s=review-rank&dc&qid=1677030786&rnid=7457513031&ref=sr_nr_p_n_feature_nine_browse-bin_2&ds=v1%3AiW97k8atftpsLc7A6kCx0ztu%2BJkO6PwQvN%2BUm9m%2B%2BUI",
+                "refinement_display_name": "Duración de la batería"
+            },
+            {
+                "name": "8 - 10 horas",
+                "value": "n:938008031||p_n_feature_nine_browse-bin/7457516031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_nine_browse-bin%3A7457516031&s=review-rank&dc&qid=1677030786&rnid=7457513031&ref=sr_nr_p_n_feature_nine_browse-bin_3&ds=v1%3AHPciejlfHMlafCpXdChCmqPolF%2FAJYSEBjjrzHeO3oc",
+                "refinement_display_name": "Duración de la batería"
+            },
+            {
+                "name": "11 horas y más",
+                "value": "n:938008031||p_n_feature_nine_browse-bin/7457514031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_nine_browse-bin%3A7457514031&s=review-rank&dc&qid=1677030786&rnid=7457513031&ref=sr_nr_p_n_feature_nine_browse-bin_4&ds=v1%3AaOaovX77rv9kpmb5klV%2BeMU1f49Rcqhbd4%2Bkas3APos",
+                "refinement_display_name": "Duración de la batería"
+            }
+        ],
+        "memoria_flash": [
+            {
+                "name": "120 a 249 GB",
+                "value": "n:938008031||p_n_feature_thirteen_browse-bin/8178988031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_thirteen_browse-bin%3A8178988031&s=review-rank&dc&qid=1677030786&rnid=8178979031&ref=sr_nr_p_n_feature_thirteen_browse-bin_1&ds=v1%3AHhYP6marNkGKOnIAprLrfepVEi9kysQu5ol2HEGwQqw",
+                "refinement_display_name": "Memoria flash"
+            },
+            {
+                "name": "250 a 499 GB",
+                "value": "n:938008031||p_n_feature_thirteen_browse-bin/8178992031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_thirteen_browse-bin%3A8178992031&s=review-rank&dc&qid=1677030786&rnid=8178979031&ref=sr_nr_p_n_feature_thirteen_browse-bin_2&ds=v1%3A1LxAGxrgktUCdlp%2B%2FzdCbSQssW6yGjkBezu455H9wpo",
+                "refinement_display_name": "Memoria flash"
+            },
+            {
+                "name": "500 GB y más",
+                "value": "n:938008031||p_n_feature_thirteen_browse-bin/8178996031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_thirteen_browse-bin%3A8178996031&s=review-rank&dc&qid=1677030786&rnid=8178979031&ref=sr_nr_p_n_feature_thirteen_browse-bin_3&ds=v1%3AmCSZ%2FQHpLb%2BSXY2F6RI6%2BPfNYWeznFj2ROz9BgE%2F%2Btw",
+                "refinement_display_name": "Memoria flash"
+            },
+            {
+                "name": "Hasta 119 GB",
+                "value": "n:938008031||p_n_feature_thirteen_browse-bin/8178983031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_thirteen_browse-bin%3A8178983031&s=review-rank&dc&qid=1677030786&rnid=8178979031&ref=sr_nr_p_n_feature_thirteen_browse-bin_4&ds=v1%3AwUbSlt0yPECt3DNv59Xo0mZUzV0gjLrOpABlelKYVTc",
+                "refinement_display_name": "Memoria flash"
+            }
+        ],
+        "tecnologia_de_conectividad_para_portatiles": [
+            {
+                "name": "Bluetooth",
+                "value": "n:938008031||p_n_feature_twenty-three_browse-bin/56370486031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-three_browse-bin%3A56370486031&s=review-rank&dc&qid=1677030786&rnid=27391002031&ref=sr_nr_p_n_feature_twenty-three_browse-bin_1&ds=v1%3AE99N5f3nH4F6J5cOnZTALCGvXIMDIvOu482OrcT2Adw",
+                "refinement_display_name": "Tecnología de conectividad para portátiles"
+            },
+            {
+                "name": "Ethernet",
+                "value": "n:938008031||p_n_feature_twenty-three_browse-bin/27391003031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-three_browse-bin%3A27391003031&s=review-rank&dc&qid=1677030786&rnid=27391002031&ref=sr_nr_p_n_feature_twenty-three_browse-bin_2&ds=v1%3A5aKoREEpVeZQEJxjUUwk7UzNtNbgVyQJaeaibzKXL98",
+                "refinement_display_name": "Tecnología de conectividad para portátiles"
+            },
+            {
+                "name": "HDMI",
+                "value": "n:938008031||p_n_feature_twenty-three_browse-bin/27391004031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-three_browse-bin%3A27391004031&s=review-rank&dc&qid=1677030786&rnid=27391002031&ref=sr_nr_p_n_feature_twenty-three_browse-bin_3&ds=v1%3A5Fp7hjNEmlcmCQcpKxFYbkZpnCfHMml23g0l7nBklnk",
+                "refinement_display_name": "Tecnología de conectividad para portátiles"
+            },
+            {
+                "name": "USB",
+                "value": "n:938008031||p_n_feature_twenty-three_browse-bin/27391005031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-three_browse-bin%3A27391005031&s=review-rank&dc&qid=1677030786&rnid=27391002031&ref=sr_nr_p_n_feature_twenty-three_browse-bin_4&ds=v1%3AN7bfAHsDpjyNU%2FXO2nmCx%2BEETndGzXbnTP0dUgxpv%2FY",
+                "refinement_display_name": "Tecnología de conectividad para portátiles"
+            },
+            {
+                "name": "Wifi",
+                "value": "n:938008031||p_n_feature_twenty-three_browse-bin/60046728031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-three_browse-bin%3A60046728031&s=review-rank&dc&qid=1677030786&rnid=27391002031&ref=sr_nr_p_n_feature_twenty-three_browse-bin_5&ds=v1%3Ag6xKVhdG%2FxQakVYWjmXZ8KrH41dP9dfrjLFgjvizKjs",
+                "refinement_display_name": "Tecnología de conectividad para portátiles"
+            }
+        ],
+        "resolucion_de_ordenador_portatil": [
+            {
+                "name": "1080p",
+                "value": "n:938008031||p_n_feature_seventeen_browse-bin/29613493031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_seventeen_browse-bin%3A29613493031&s=review-rank&dc&qid=1677030786&rnid=29613448031&ref=sr_nr_p_n_feature_seventeen_browse-bin_1&ds=v1%3AFPla%2FLE3%2Foe5G0Nj6DBnvD%2BxHQG9Yh%2FnU98nZxmL6GA",
+                "refinement_display_name": "Resolución de ordenador portátil"
+            },
+            {
+                "name": "4K",
+                "value": "n:938008031||p_n_feature_seventeen_browse-bin/29613487031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_seventeen_browse-bin%3A29613487031&s=review-rank&dc&qid=1677030786&rnid=29613448031&ref=sr_nr_p_n_feature_seventeen_browse-bin_2&ds=v1%3AKQoGfj2bXWI6Mz%2B3qnKu%2F%2BHNkGnr7XXoAPfGzyMkMYc",
+                "refinement_display_name": "Resolución de ordenador portátil"
+            },
+            {
+                "name": "720p",
+                "value": "n:938008031||p_n_feature_seventeen_browse-bin/29613488031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_seventeen_browse-bin%3A29613488031&s=review-rank&dc&qid=1677030786&rnid=29613448031&ref=sr_nr_p_n_feature_seventeen_browse-bin_3&ds=v1%3AROAxiFCNp12FzOszg0pzTU83rp7cjCgjB9Q1v0XPNcU",
+                "refinement_display_name": "Resolución de ordenador portátil"
+            }
+        ],
+        "ordenador_portatil_distribucion_del_teclado": [
+            {
+                "name": "QWERTY",
+                "value": "n:938008031||p_n_feature_sixteen_browse-bin/27088340031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_sixteen_browse-bin%3A27088340031&s=review-rank&dc&qid=1677030786&rnid=27088330031&ref=sr_nr_p_n_feature_sixteen_browse-bin_1&ds=v1%3AeRTxIKbTKqhC6HlT6QIaU64Av%2B6IE5jj1HA1%2BErfPDU",
+                "refinement_display_name": "Ordenador portátil Distribución del teclado"
+            }
+        ],
+        "entrada_de_interfaz_humana_del_ordenador_portatil": [
+            {
+                "name": "Barra táctil",
+                "value": "n:938008031||p_n_feature_eight_browse-bin/28221712031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_eight_browse-bin%3A28221712031&s=review-rank&dc&qid=1677030786&rnid=27023582031&ref=sr_nr_p_n_feature_eight_browse-bin_1&ds=v1%3ATwaW2NM2h8Z7DU6eMzgmtltzsSz6JAx3nGu1al0epwI",
+                "refinement_display_name": "Entrada de interfaz humana del ordenador portátil"
+            },
+            {
+                "name": "Pantalla táctil",
+                "value": "n:938008031||p_n_feature_eight_browse-bin/27023588031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_eight_browse-bin%3A27023588031&s=review-rank&dc&qid=1677030786&rnid=27023582031&ref=sr_nr_p_n_feature_eight_browse-bin_2&ds=v1%3AvjPduAZxgn3y8kCWJc%2BkOMQ7Sv1IyymTV33CJAx%2Fn%2FM",
+                "refinement_display_name": "Entrada de interfaz humana del ordenador portátil"
+            }
+        ],
+        "ubicacion_de_la_camara_del_ordenador_portatil": [
+            {
+                "name": "Frontal",
+                "value": "n:938008031||p_n_feature_twelve_browse-bin/27045336031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twelve_browse-bin%3A27045336031&s=review-rank&dc&qid=1677030786&rnid=27045335031&ref=sr_nr_p_n_feature_twelve_browse-bin_1&ds=v1%3A51Bbn9MWLLvakmJAv0y5osUuO%2Fazkyp%2B3ebk%2FpXXfns",
+                "refinement_display_name": "Ubicación de la cámara del ordenador portátil"
+            }
+        ],
+        "tamano_de_memoria_ram_para_ordenador_portatil": [
+            {
+                "name": "2 GB",
+                "value": "p_n_feature_twenty-four_browse-bin/27399054031",
+                "refinement_display_name": "Tamaño de memoria RAM para ordenador portátil"
+            },
+            {
+                "name": "4 GB",
+                "value": "n:938008031||p_n_feature_twenty-four_browse-bin/27399057031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-four_browse-bin%3A27399057031&s=review-rank&dc&qid=1677030786&rnid=27399053031&ref=sr_nr_p_n_feature_twenty-four_browse-bin_2&ds=v1%3AFoYMRC3Xkfgj5nKCZDvMC2E7PF2vEaVUVSqN4hZTw8E",
+                "refinement_display_name": "Tamaño de memoria RAM para ordenador portátil"
+            },
+            {
+                "name": "8 GB",
+                "value": "n:938008031||p_n_feature_twenty-four_browse-bin/27399056031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-four_browse-bin%3A27399056031&s=review-rank&dc&qid=1677030786&rnid=27399053031&ref=sr_nr_p_n_feature_twenty-four_browse-bin_3&ds=v1%3ARSCPyqDGgnMkXbYo0E9uYzLlI0%2BkgVLWE5FFuTiCiuY",
+                "refinement_display_name": "Tamaño de memoria RAM para ordenador portátil"
+            },
+            {
+                "name": "16 GB",
+                "value": "n:938008031||p_n_feature_twenty-four_browse-bin/27399055031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-four_browse-bin%3A27399055031&s=review-rank&dc&qid=1677030786&rnid=27399053031&ref=sr_nr_p_n_feature_twenty-four_browse-bin_4&ds=v1%3A4mOKVTA7guw0xK9Yfi2uikiP51QSnw7YTUuWJB2uMFE",
+                "refinement_display_name": "Tamaño de memoria RAM para ordenador portátil"
+            },
+            {
+                "name": "32 GB",
+                "value": "n:938008031||p_n_feature_twenty-four_browse-bin/27399059031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-four_browse-bin%3A27399059031&s=review-rank&dc&qid=1677030786&rnid=27399053031&ref=sr_nr_p_n_feature_twenty-four_browse-bin_5&ds=v1%3A%2BXqytEsyZPF71AleBxdSuByqdIonP4VOfTNWC%2FCgDIg",
+                "refinement_display_name": "Tamaño de memoria RAM para ordenador portátil"
+            },
+            {
+                "name": "64 GB",
+                "value": "p_n_feature_twenty-four_browse-bin/27399058031",
+                "refinement_display_name": "Tamaño de memoria RAM para ordenador portátil"
+            }
+        ],
+        "interfaz_de_hardware_para_ordenador_portatil": [
+            {
+                "name": "802.11 ac/b/g/n",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/30107065031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A30107065031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_1&ds=v1%3AUQhWac%2FSPSqJfDVJJt%2FivyE2N%2F1jAfzW5CyRpVjvXDY",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "802.11 b/g/n",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/30107123031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A30107123031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_2&ds=v1%3AZIdwrPpJoerUD%2FeXXndoUlRNVuMXH2Yr5sodO9f4kj4",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "Auricular",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/30106983031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A30106983031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_3&ds=v1%3AUX%2B5q6iZMJYqI3Eb6gbSHQjeR89oC3Xr8WQEKesPFC0",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "Bluetooth",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/30107064031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A30107064031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_4&ds=v1%3AaDPXaptPP3Q2w88qogoqIAShA0TZlICMx82BPodwrBA",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "Bluetooth 4.0",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/30107113031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A30107113031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_5&ds=v1%3ADqMgw6seW2jwvMsyamgpaH0gPGO35FtdjBSB6E4fgy4",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "Bluetooth 5",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/30107066031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A30107066031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_6&ds=v1%3AoWLv8uRq43YyNMP%2BoFQLQBsb5Rvcc0L8x4Bs3MjY9Xo",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "DisplayPort",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/30107116031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A30107116031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_7&ds=v1%3A5eroQ%2BGJ21nZrOV%2F4LwvbAjKsnCEVEyH0XL6IyINgB0",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "EthernetHDMIMicroSDMini DisplayPortMini HDMIPCI Express x16PCIE x 16SDHCSDXCTarjeta Secure DigitalThunderboltUSBUSB 2.0 tipo AUSB 3.0 tipo AUSB 3.0 tipo CUSB 3.1 tipo CUnidad de estado sólidoVGA",
+                "value": "n:938008031||undefined",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A27402489031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_8&ds=v1%3AdI8aHDDYGnD2U6j%2FpG0LDJEsr4gRP3K7heHUTS2smAg",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "Ethernet",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/27402489031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A27402489031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_8&ds=v1%3AdI8aHDDYGnD2U6j%2FpG0LDJEsr4gRP3K7heHUTS2smAg",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "HDMI",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/27402491031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A27402491031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_9&ds=v1%3ATb4ypHkW8P1XT8416MjokLWbmSMLcJa2DWKH6Xvyb8w",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "MicroSD",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/27402487031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A27402487031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_10&ds=v1%3Ae1Fp45v62jDwH5%2FHfKtwVqkRvbmYTZ%2B0shoseDVIKOs",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "Mini DisplayPort",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/30107063031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A30107063031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_11&ds=v1%3A5htdVAq%2BQNxXB3zqnUUEcIpl9q5cZk81s4xGwZE1O8U",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "Mini HDMI",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/30106974031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A30106974031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_12&ds=v1%3AWIeEerIFhgK2m1kQgS%2BTR2h4V6upk%2BRIJDjXZvVgCWw",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "PCI Express x16",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/30107052031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A30107052031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_13&ds=v1%3Al0HJ4WjV5em33GW7ojdZPaikBVJK5884j1DT%2FyI6%2BQo",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "PCIE x 16",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/30107137031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A30107137031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_14&ds=v1%3AYTVAXuWVTqHnzvXrMt%2BTmRaAgZV%2BNJpFv1OK%2BA%2FLtSM",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "SDHC",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/30107018031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A30107018031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_15&ds=v1%3AfULh0aTCVyKyi1fajfyONuQ8HzSMwXrYrV4h3aXzues",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "SDXC",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/30107121031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A30107121031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_16&ds=v1%3A06Z%2BALPNSuD%2BvHznI6CLusUvVZ37T27nOCO2q4Z9ttE",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "Tarjeta Secure Digital",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/30107077031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A30107077031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_17&ds=v1%3AbJNvZfqmMnjI%2BLyxbB3MxCsI1YPGK3tjBUp8ICOE%2Bj8",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "Thunderbolt",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/27402490031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A27402490031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_18&ds=v1%3AMko3I6M17KcW0j6UpSVGl22aZvolwKlcj%2FgC2bBM72c",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "USB",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/27402486031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A27402486031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_19&ds=v1%3Ag3r4ONJd7yyqZGM2H9z2kObxpjAKF2uHW43FnapkP7s",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "USB 2.0 tipo A",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/30107062031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A30107062031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_20&ds=v1%3AXOb1Z5ISuKHNGNuoqa73fhB%2BgS5DrVxuEML8Bv1mk5Q",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "USB 3.0 tipo A",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/30106971031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A30106971031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_21&ds=v1%3AEYfgyoRLQgOCf4QS1kHwhLtsYTXMt%2Fv7QdJ91gqYbas",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "USB 3.0 tipo C",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/30107068031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A30107068031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_22&ds=v1%3A7YpAVHpqs9wnZD%2BTqsd1GMO93vu%2FItPOuGz1KsR9%2BkU",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "USB 3.1 tipo C",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/30107139031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A30107139031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_23&ds=v1%3AeZVRiZbYTtAWml1QVMRD7S6o52iZfIjZ6Mo2U6fFe%2F8",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "Unidad de estado sólido",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/30106998031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A30106998031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_24&ds=v1%3APblYXvJJQ5mzLCEJrAR5WK9fbvouQXF4gAXLrsjC7es",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            },
+            {
+                "name": "VGA",
+                "value": "n:938008031||p_n_feature_twenty-five_browse-bin/27402488031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-five_browse-bin%3A27402488031&s=review-rank&dc&qid=1677030786&rnid=27402485031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_25&ds=v1%3AgrT6CyTd8K71RweK8oEfAbxzAFN7epmRT5LpHDK7T7I",
+                "refinement_display_name": "Interfaz de hardware para ordenador portátil"
+            }
+        ],
+        "tecnologia_de_memoria_ram_para_ordenador_portatil": [
+            {
+                "name": "DDR2",
+                "value": "n:938008031||p_n_feature_eighteen_browse-bin/27355793031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_eighteen_browse-bin%3A27355793031&s=review-rank&dc&qid=1677030786&rnid=27355771031&ref=sr_nr_p_n_feature_eighteen_browse-bin_1&ds=v1%3AXzDRxN2veApi1lU9ROYQ9aloM2D1hF2dOS82qcH20F4",
+                "refinement_display_name": "Tecnología de memoria RAM para ordenador portátil"
+            },
+            {
+                "name": "DDR3",
+                "value": "n:938008031||p_n_feature_eighteen_browse-bin/27355788031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_eighteen_browse-bin%3A27355788031&s=review-rank&dc&qid=1677030786&rnid=27355771031&ref=sr_nr_p_n_feature_eighteen_browse-bin_2&ds=v1%3ATyV0R7d3xBxcXQSMVXqJ%2BuPRnAbSsRk7kmzEr1RzpYU",
+                "refinement_display_name": "Tecnología de memoria RAM para ordenador portátil"
+            },
+            {
+                "name": "DDR4",
+                "value": "n:938008031||p_n_feature_eighteen_browse-bin/27355791031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_eighteen_browse-bin%3A27355791031&s=review-rank&dc&qid=1677030786&rnid=27355771031&ref=sr_nr_p_n_feature_eighteen_browse-bin_3&ds=v1%3AR6nI5qdso2Uvfnw1lJQ5BHLXB7OS2Y9hFa4hPIZBy9o",
+                "refinement_display_name": "Tecnología de memoria RAM para ordenador portátil"
+            },
+            {
+                "name": "DDR5",
+                "value": "n:938008031||p_n_feature_eighteen_browse-bin/27355792031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_eighteen_browse-bin%3A27355792031&s=review-rank&dc&qid=1677030786&rnid=27355771031&ref=sr_nr_p_n_feature_eighteen_browse-bin_4&ds=v1%3A1aPo%2BxxHi8Zy842dhjZfViCFQqq9fG%2B4vu99K9ZpEzI",
+                "refinement_display_name": "Tecnología de memoria RAM para ordenador portátil"
+            },
+            {
+                "name": "Lpddr 5",
+                "value": "n:938008031||p_n_feature_eighteen_browse-bin/28221713031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_eighteen_browse-bin%3A28221713031&s=review-rank&dc&qid=1677030786&rnid=27355771031&ref=sr_nr_p_n_feature_eighteen_browse-bin_5&ds=v1%3ABOIBCQZAnOScZbOSHdpkxPdOL7c5vzTFMoCJA49r1OI",
+                "refinement_display_name": "Tecnología de memoria RAM para ordenador portátil"
+            },
+            {
+                "name": "LPDDR3",
+                "value": "n:938008031||p_n_feature_eighteen_browse-bin/27355790031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_eighteen_browse-bin%3A27355790031&s=review-rank&dc&qid=1677030786&rnid=27355771031&ref=sr_nr_p_n_feature_eighteen_browse-bin_6&ds=v1%3A1eKJBx78pc756XSSGYvnwX9NtPVENL%2Bcs0uMWmEjdso",
+                "refinement_display_name": "Tecnología de memoria RAM para ordenador portátil"
+            },
+            {
+                "name": "LPDDR4",
+                "value": "n:938008031||p_n_feature_eighteen_browse-bin/27355789031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_eighteen_browse-bin%3A27355789031&s=review-rank&dc&qid=1677030786&rnid=27355771031&ref=sr_nr_p_n_feature_eighteen_browse-bin_7&ds=v1%3A4%2Bpbi%2FjDca93LSfsVL6ZUrGWUbPa22dyOj8InyUMheQ",
+                "refinement_display_name": "Tecnología de memoria RAM para ordenador portátil"
+            }
+        ],
+        "uso_de_portatiles": [
+            {
+                "name": "Empresa",
+                "value": "n:938008031||p_n_feature_nineteen_browse-bin/27370268031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_nineteen_browse-bin%3A27370268031&s=review-rank&dc&qid=1677030786&rnid=27370267031&ref=sr_nr_p_n_feature_nineteen_browse-bin_1&ds=v1%3AG0k2Ijyd%2FkNnzYL9YaW6NKYqIx4%2FtaZ2oTOcUwNwwOc",
+                "refinement_display_name": "Uso de portátiles"
+            },
+            {
+                "name": "Estudiante",
+                "value": "n:938008031||p_n_feature_nineteen_browse-bin/27370269031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_nineteen_browse-bin%3A27370269031&s=review-rank&dc&qid=1677030786&rnid=27370267031&ref=sr_nr_p_n_feature_nineteen_browse-bin_2&ds=v1%3AqSTLr%2B5il7sV%2FTPT6xEJknc7sr6iMoM0qgnWH8iQNdM",
+                "refinement_display_name": "Uso de portátiles"
+            },
+            {
+                "name": "Juegos",
+                "value": "n:938008031||p_n_feature_nineteen_browse-bin/27370271031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_nineteen_browse-bin%3A27370271031&s=review-rank&dc&qid=1677030786&rnid=27370267031&ref=sr_nr_p_n_feature_nineteen_browse-bin_3&ds=v1%3A%2FG%2FHe7y1yZeLi4aIsfjWkKNlP2D7VxElsw9JtVejBeo",
+                "refinement_display_name": "Uso de portátiles"
+            },
+            {
+                "name": "Multimedia",
+                "value": "n:938008031||p_n_feature_nineteen_browse-bin/27370270031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_nineteen_browse-bin%3A27370270031&s=review-rank&dc&qid=1677030786&rnid=27370267031&ref=sr_nr_p_n_feature_nineteen_browse-bin_4&ds=v1%3Al4idQOEAi9EMZ1IW2cDKdCvrsuD64vWVEnBlse7I6Gs",
+                "refinement_display_name": "Uso de portátiles"
+            }
+        ],
+        "ordenador_portatil_coprocesador_grafico": [
+            {
+                "name": "Intel HD Graphics 4400",
+                "value": "n:938008031||p_n_feature_twenty-seven_browse-bin/66002949031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-seven_browse-bin%3A66002949031&s=review-rank&dc&qid=1677030786&rnid=66002886031&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_1&ds=v1%3A0FF2oIk3bFkoYZLfTcm8Lw5Z7zLZqq0IrQg9HseyFPE",
+                "refinement_display_name": "Ordenador Portátil Coprocesador Gráfico"
+            },
+            {
+                "name": "Intel HD Graphics 510",
+                "value": "n:938008031||p_n_feature_twenty-seven_browse-bin/66002964031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-seven_browse-bin%3A66002964031&s=review-rank&dc&qid=1677030786&rnid=66002886031&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_2&ds=v1%3AR0jKNAIknSK%2B9%2Bd9D2Jvxnyh6Ogv9cfW2cQ3PiP4tmc",
+                "refinement_display_name": "Ordenador Portátil Coprocesador Gráfico"
+            },
+            {
+                "name": "Intel HD Graphics 520",
+                "value": "n:938008031||p_n_feature_twenty-seven_browse-bin/66003044031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-seven_browse-bin%3A66003044031&s=review-rank&dc&qid=1677030786&rnid=66002886031&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_3&ds=v1%3Ao0eXzgxm1Rr%2FRTDdtZYfeCLuBjU%2FO4%2BP5FqeqGPgVj4",
+                "refinement_display_name": "Ordenador Portátil Coprocesador Gráfico"
+            },
+            {
+                "name": "Intel HD Graphics 620",
+                "value": "n:938008031||p_n_feature_twenty-seven_browse-bin/66002960031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-seven_browse-bin%3A66002960031&s=review-rank&dc&qid=1677030786&rnid=66002886031&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_4&ds=v1%3AjlSn2sLWGgW9489vADcfdl8Ho%2BKNrR6bb3%2FuBz3Ey90",
+                "refinement_display_name": "Ordenador Portátil Coprocesador Gráfico"
+            },
+            {
+                "name": "Intel Iris Xe Graphics",
+                "value": "n:938008031||p_n_feature_twenty-seven_browse-bin/66003061031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-seven_browse-bin%3A66003061031&s=review-rank&dc&qid=1677030786&rnid=66002886031&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_5&ds=v1%3ATHn7%2FEX6QqOrHEbglY2UIYHVlFmeaaROF4zbLinEBE4",
+                "refinement_display_name": "Ordenador Portátil Coprocesador Gráfico"
+            },
+            {
+                "name": "Intel UHD Graphics",
+                "value": "n:938008031||p_n_feature_twenty-seven_browse-bin/66003042031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-seven_browse-bin%3A66003042031&s=review-rank&dc&qid=1677030786&rnid=66002886031&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_6&ds=v1%3AzHDQMH0urY1CPofDLC%2FAfm7GLbGIG%2BvymCj357ZNJyA",
+                "refinement_display_name": "Ordenador Portátil Coprocesador Gráfico"
+            },
+            {
+                "name": "Intel UHD Graphics 600",
+                "value": "n:938008031||p_n_feature_twenty-seven_browse-bin/66002948031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-seven_browse-bin%3A66002948031&s=review-rank&dc&qid=1677030786&rnid=66002886031&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_7&ds=v1%3AKdDgs4NEAE5dG2VWm%2BM0X%2BSXclpajqTHTykqA%2B9e4rE",
+                "refinement_display_name": "Ordenador Portátil Coprocesador Gráfico"
+            },
+            {
+                "name": "Intel UHD Graphics 620NVIDIA GeForce GTX 1650NVIDIA GeForce RTX 2060NVIDIA GeForce RTX 2070NVIDIA GeForce RTX 3050 TiNVIDIA GeForce RTX 3060NVIDIA GeForce RTX 3070NVIDIA GeForce RTX 3070 TiNVIDIA GeForce RTX 3080 Ti",
+                "value": "n:938008031||undefined",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-seven_browse-bin%3A66002932031&s=review-rank&dc&qid=1677030786&rnid=66002886031&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_8&ds=v1%3AHwpxiQboMysmqudYvWib2b05I2aoqOPQwPKhkGgQUiE",
+                "refinement_display_name": "Ordenador Portátil Coprocesador Gráfico"
+            },
+            {
+                "name": "Intel UHD Graphics 620",
+                "value": "n:938008031||p_n_feature_twenty-seven_browse-bin/66002932031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-seven_browse-bin%3A66002932031&s=review-rank&dc&qid=1677030786&rnid=66002886031&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_8&ds=v1%3AHwpxiQboMysmqudYvWib2b05I2aoqOPQwPKhkGgQUiE",
+                "refinement_display_name": "Ordenador Portátil Coprocesador Gráfico"
+            },
+            {
+                "name": "NVIDIA GeForce GTX 1650",
+                "value": "n:938008031||p_n_feature_twenty-seven_browse-bin/66002978031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-seven_browse-bin%3A66002978031&s=review-rank&dc&qid=1677030786&rnid=66002886031&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_9&ds=v1%3AkysV%2BU%2F2iU%2B2WZnEASmcz05dukwiL5Eac5JWEMRZp%2Fs",
+                "refinement_display_name": "Ordenador Portátil Coprocesador Gráfico"
+            },
+            {
+                "name": "NVIDIA GeForce RTX 2060",
+                "value": "n:938008031||p_n_feature_twenty-seven_browse-bin/66002952031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-seven_browse-bin%3A66002952031&s=review-rank&dc&qid=1677030786&rnid=66002886031&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_10&ds=v1%3AgLDZkFQDlmNiNHbBN5UNe%2FZsr%2Fc%2Ftc2EYfUtayUReK8",
+                "refinement_display_name": "Ordenador Portátil Coprocesador Gráfico"
+            },
+            {
+                "name": "NVIDIA GeForce RTX 2070",
+                "value": "n:938008031||p_n_feature_twenty-seven_browse-bin/66002897031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-seven_browse-bin%3A66002897031&s=review-rank&dc&qid=1677030786&rnid=66002886031&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_11&ds=v1%3AzPs%2FJfhV1eulOpmqzWWM6dHmCKbMMnnPeiGyrKZXpxQ",
+                "refinement_display_name": "Ordenador Portátil Coprocesador Gráfico"
+            },
+            {
+                "name": "NVIDIA GeForce RTX 3050 Ti",
+                "value": "n:938008031||p_n_feature_twenty-seven_browse-bin/66002914031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-seven_browse-bin%3A66002914031&s=review-rank&dc&qid=1677030786&rnid=66002886031&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_12&ds=v1%3ADmNprwJ%2BmcYaIyZd3HsK1WBP%2BDPPjdLBfkqhWv%2BDHPM",
+                "refinement_display_name": "Ordenador Portátil Coprocesador Gráfico"
+            },
+            {
+                "name": "NVIDIA GeForce RTX 3060",
+                "value": "n:938008031||p_n_feature_twenty-seven_browse-bin/66003005031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-seven_browse-bin%3A66003005031&s=review-rank&dc&qid=1677030786&rnid=66002886031&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_13&ds=v1%3Am0CTZBAxFnYxCeHijHPWpxCe0SvBM2ZyjUuWGyDCFvw",
+                "refinement_display_name": "Ordenador Portátil Coprocesador Gráfico"
+            },
+            {
+                "name": "NVIDIA GeForce RTX 3070",
+                "value": "n:938008031||p_n_feature_twenty-seven_browse-bin/66002992031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-seven_browse-bin%3A66002992031&s=review-rank&dc&qid=1677030786&rnid=66002886031&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_14&ds=v1%3Atvp8WP%2F5joPcW%2FZ7%2F1Jdjv2dfj6FGGD71Aabv3Fz7WM",
+                "refinement_display_name": "Ordenador Portátil Coprocesador Gráfico"
+            },
+            {
+                "name": "NVIDIA GeForce RTX 3070 Ti",
+                "value": "n:938008031||p_n_feature_twenty-seven_browse-bin/66002908031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-seven_browse-bin%3A66002908031&s=review-rank&dc&qid=1677030786&rnid=66002886031&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_15&ds=v1%3AP%2FdnCILlMS4OcJl7aKzfD%2F%2FpBhanjbPPy1kfXtZ76yo",
+                "refinement_display_name": "Ordenador Portátil Coprocesador Gráfico"
+            },
+            {
+                "name": "NVIDIA GeForce RTX 3080 Ti",
+                "value": "n:938008031||p_n_feature_twenty-seven_browse-bin/66002975031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-seven_browse-bin%3A66002975031&s=review-rank&dc&qid=1677030786&rnid=66002886031&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_16&ds=v1%3AW7NYIF27PZ5%2BWazvJXFXujTLxTlHPhJ%2F25h%2F1dycsg4",
+                "refinement_display_name": "Ordenador Portátil Coprocesador Gráfico"
+            }
+        ],
+        "memoria_grafica_dedicada_del_portatil": [
+            {
+                "name": "Hasta 1 GB",
+                "value": "n:938008031||p_n_feature_twenty-one_browse-bin/27387567031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-one_browse-bin%3A27387567031&s=review-rank&dc&qid=1677030786&rnid=27387564031&ref=sr_nr_p_n_feature_twenty-one_browse-bin_1&ds=v1%3Abw3XUAjWMchMZbqMHcmA1PBKGgJQzDgkuSpNNdAYYoE",
+                "refinement_display_name": "Memoria gráfica dedicada del portátil"
+            },
+            {
+                "name": "De 4 a 5 GB",
+                "value": "n:938008031||p_n_feature_twenty-one_browse-bin/27387569031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-one_browse-bin%3A27387569031&s=review-rank&dc&qid=1677030786&rnid=27387564031&ref=sr_nr_p_n_feature_twenty-one_browse-bin_2&ds=v1%3A%2Bi%2B9Lo4ns7DZ0T9U0qlGarR9obrJWGw271fBPfZFTVw",
+                "refinement_display_name": "Memoria gráfica dedicada del portátil"
+            },
+            {
+                "name": "De 6 a 7 GB",
+                "value": "n:938008031||p_n_feature_twenty-one_browse-bin/27387571031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-one_browse-bin%3A27387571031&s=review-rank&dc&qid=1677030786&rnid=27387564031&ref=sr_nr_p_n_feature_twenty-one_browse-bin_3&ds=v1%3A7FXoFnS1GxJsJOzPsOz9etMk3Q4enkyXlH%2B%2FXaDlNeY",
+                "refinement_display_name": "Memoria gráfica dedicada del portátil"
+            },
+            {
+                "name": "8 GB en adelante",
+                "value": "n:938008031||p_n_feature_twenty-one_browse-bin/27387570031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-one_browse-bin%3A27387570031&s=review-rank&dc&qid=1677030786&rnid=27387564031&ref=sr_nr_p_n_feature_twenty-one_browse-bin_4&ds=v1%3AE8KScAKSrY4FdVSxLk%2BUuYh%2BmlbFZrK0G5P0bTJKWw8",
+                "refinement_display_name": "Memoria gráfica dedicada del portátil"
+            }
+        ],
+        "resolucion_de_pantalla_de_portatil": [
+            {
+                "name": "1366 x 768 píxeles",
+                "value": "n:938008031||p_n_feature_fourteen_browse-bin/27971805031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_fourteen_browse-bin%3A27971805031&s=review-rank&dc&qid=1677030786&rnid=27971751031&ref=sr_nr_p_n_feature_fourteen_browse-bin_1&ds=v1%3A%2BU4g9LVaAfCtFvjO%2BPc%2B5wPs632Trtm%2FD6SBGxLlEAI",
+                "refinement_display_name": "Resolución de pantalla de portátil"
+            },
+            {
+                "name": "1920 x 1080 píxeles",
+                "value": "n:938008031||p_n_feature_fourteen_browse-bin/27971754031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_fourteen_browse-bin%3A27971754031&s=review-rank&dc&qid=1677030786&rnid=27971751031&ref=sr_nr_p_n_feature_fourteen_browse-bin_2&ds=v1%3AIxMJCmFqEb3YuYAT7K1M3ga7NvvlByuWIdJV1TBnm4k",
+                "refinement_display_name": "Resolución de pantalla de portátil"
+            }
+        ],
+        "tecnologia_celular_para_ordenadores_portatiles": [
+            {
+                "name": "4G",
+                "value": "n:938008031||p_n_feature_twenty_browse-bin/27385652031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty_browse-bin%3A27385652031&s=review-rank&dc&qid=1677030786&rnid=27385650031&ref=sr_nr_p_n_feature_twenty_browse-bin_1&ds=v1%3AUZrIY7plN%2Bk8SdA2zydK2MCp%2FPLXvbyZ70KTysSdgHE",
+                "refinement_display_name": "Tecnología celular para ordenadores portátiles"
+            }
+        ],
+        "frecuencia_de_actualizacion_del_ordenador_portatil": [
+            {
+                "name": "De 59 a 89,9 Hz",
+                "value": "n:938008031||p_n_feature_twenty-six_browse-bin/48923138031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-six_browse-bin%3A48923138031&s=review-rank&dc&qid=1677030786&rnid=48923132031&ref=sr_nr_p_n_feature_twenty-six_browse-bin_1&ds=v1%3Auy5WwdzgDeHR8OVG1d5PmT3VptMZBWLDUND%2Bgt2P0wg",
+                "refinement_display_name": "Frecuencia de actualización del ordenador portátil"
+            },
+            {
+                "name": "De 90 a 120,9 Hz",
+                "value": "n:938008031||p_n_feature_twenty-six_browse-bin/48923139031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-six_browse-bin%3A48923139031&s=review-rank&dc&qid=1677030786&rnid=48923132031&ref=sr_nr_p_n_feature_twenty-six_browse-bin_2&ds=v1%3AwkiDmcTSOnpBEtIqT7xAZobZPKlLCbIb9pKNlOL26SQ",
+                "refinement_display_name": "Frecuencia de actualización del ordenador portátil"
+            },
+            {
+                "name": "121 Hz en adelante",
+                "value": "n:938008031||p_n_feature_twenty-six_browse-bin/48923137031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A938008031%2Cp_n_feature_twenty-six_browse-bin%3A48923137031&s=review-rank&dc&qid=1677030786&rnid=48923132031&ref=sr_nr_p_n_feature_twenty-six_browse-bin_3&ds=v1%3AqnV2Qs1gL6%2B1BnGALBbO4IxWmPQX3RtDeiVOdramgDE",
+                "refinement_display_name": "Frecuencia de actualización del ordenador portátil"
+            }
+        ],
+        "estado": [
+            {
+                "name": "Nuevo",
+                "value": "p_n_condition-type/15144009031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=p_n_condition-type%3A15144009031&s=review-rank&dc&qid=1677030786&rnid=15144007031&ref=sr_nr_p_n_condition-type_1&ds=v1%3AweD2aq9nwm%2BcK6va3w3BiDdAVLU%2BruWh2xGkhttYSog",
+                "refinement_display_name": "Estado"
+            },
+            {
+                "name": "Usado",
+                "value": "p_n_condition-type/15144010031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=p_n_condition-type%3A15144010031&s=review-rank&dc&qid=1677030786&rnid=15144007031&ref=sr_nr_p_n_condition-type_2&ds=v1%3AYSTUoSrpxZ%2BzPssdV25maqVvUeGKSpoTXIY6Vz1KxdY",
+                "refinement_display_name": "Estado"
+            }
+        ],
+        "novedades": [
+            {
+                "name": "Últimos 30 días",
+                "value": "n:667049031||p_n_date_first_available_absolute/831288031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A667049031%2Cp_n_date_first_available_absolute%3A831288031&s=review-rank&dc&qid=1677030786&rnid=831273031&ref=sr_nr_p_n_date_first_available_absolute_1&ds=v1%3A1Hz4pbIIYwrQDBh6Fi%2FaS5ebmILX2KLb7jHUFLRwKqE",
+                "refinement_display_name": "Novedades"
+            },
+            {
+                "name": "Últimos 90 días",
+                "value": "n:667049031||p_n_date_first_available_absolute/831289031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=n%3A667049031%2Cp_n_date_first_available_absolute%3A831289031&s=review-rank&dc&qid=1677030786&rnid=831273031&ref=sr_nr_p_n_date_first_available_absolute_2&ds=v1%3AcyCxkdmG%2FQLDdkyRrwBuNCpiIz%2FToBG2jhRMy7Puee4",
+                "refinement_display_name": "Novedades"
+            }
+        ],
+        "envio_internacional": [
+            {
+                "name": "Envío internacional elegible",
+                "value": "p_n_shipping_option-bin/2019494031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=p_n_shipping_option-bin%3A2019494031&s=review-rank&dc&qid=1677030786&rnid=2019493031&ref=sr_nr_p_n_shipping_option-bin_1&ds=v1%3ATrsmBisrBcgYSRQMukyySnjNiDLfbJUUybf4EnMEnwU",
+                "refinement_display_name": "Envio Internacional"
+            }
+        ],
+        "disponibilidad": [
+            {
+                "name": "Incluir no disponibles",
+                "value": "p_n_availability/831279031",
+                "link": "https://www.amazon.es/s?k=portatil+gaming&rh=p_n_availability%3A831279031&s=review-rank&dc&qid=1677030786&rnid=831270031&ref=sr_nr_p_n_availability_2&ds=v1%3ArAM1Mfss41iqGWQra4oQnPD9ad%2BTeKxGATaFacZucGs",
+                "refinement_display_name": "Disponibilidad"
+            }
+        ]
+    },
+    "ad_blocks": [
+        {
+            "campaign_id": "9053101210002",
+            "brand_logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/d7ff8c98-01c1-462a-9177-d3706440cfb3._CR0,0,2800,2800_AC_SX130_SY60_QL70_.png",
+            "background_image": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/57cb4c61-7499-4623-bbc7-3ed6fd15af40._CR0,282,3932,2058_SX507_QL70_.jpg",
+            "advertiser_id": "9086232550502",
+            "ad_id": "9086232550502",
+            "link": "https://aax-eu.amazon.es/x/c/RCCBdVU65I4cTJ9SUZKGUBsAAAGGdtMHWAMAAAH2AQBOL0EgICAgICAgICAgICBOL0EgICAgICAgICAgICBNCJsL/https://www.amazon.es/stores/page/2BBB8F27-48BE-4566-83D4-E59F745EEBCE/?_encoding=UTF8&store_ref=SB_A1028756ZC6532FQFZBS&pd_rd_plhdr=t&aaxitk=345287144928c479d7f3c1ee4190d16f&hsa_cr_id=8003221060602&lp_asins=B0BKL94T76%2CB09HV8QLQ4%2CB0BGYFGPYR&lp_query=portatil%20gaming&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_lsi4d_bkgd&pd_rd_w=Qk2Po&content-id=amzn1.sym.d56bd7dc-0da8-417d-b629-bd80c703eb1c%3Aamzn1.sym.d56bd7dc-0da8-417d-b629-bd80c703eb1c&pf_rd_p=d56bd7dc-0da8-417d-b629-bd80c703eb1c&pf_rd_r=P8CNZXW8P99VVW8A59R9&pd_rd_wg=WSp2t&pd_rd_r=019466e1-e560-4cd4-bbde-d0688c9524df",
+            "title": "Sencillo, rápido, seguro. Chromebook.",
+            "store_link": "https://www.amazon.es/stores/page/2BBB8F27-48BE-4566-83D4-E59F745EEBCE/?_encoding=UTF8&store_ref=SB_A1028756ZC6532FQFZBS&pd_rd_plhdr=t&aaxitk=345287144928c479d7f3c1ee4190d16f&hsa_cr_id=8003221060602&lp_asins=B0BKL94T76%2CB09HV8QLQ4%2CB0BGYFGPYR&lp_query=portatil%20gaming&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_lsi4d_cta&pd_rd_w=Qk2Po&content-id=amzn1.sym.d56bd7dc-0da8-417d-b629-bd80c703eb1c%3Aamzn1.sym.d56bd7dc-0da8-417d-b629-bd80c703eb1c&pf_rd_p=d56bd7dc-0da8-417d-b629-bd80c703eb1c&pf_rd_r=P8CNZXW8P99VVW8A59R9&pd_rd_wg=WSp2t&pd_rd_r=019466e1-e560-4cd4-bbde-d0688c9524df",
+            "store_id": "2BBB8F27-48BE-4566-83D4-E59F745EEBCE",
+            "store_name": "Descúbrelo Chromebook",
+            "products": [
+                {
+                    "asin": "B09HV8QLQ4",
+                    "link": "https://www.amazon.es/dp/B09HV8QLQ4",
+                    "image": "https://m.media-amazon.com/images/I/81x6l2VKrOL._AC_SR160,134_QL70_.jpg",
+                    "is_prime": true,
+                    "price": {
+                        "symbol": "€",
+                        "currency": "EUR",
+                        "value": 299,
+                        "raw": "€299,00"
+                    }
+                },
+                {
+                    "asin": "B0BKL94T76",
+                    "link": "https://www.amazon.es/dp/B0BKL94T76",
+                    "image": "https://m.media-amazon.com/images/I/712bMAQ7e8L._AC_SR160,134_QL70_.jpg",
+                    "is_prime": true,
+                    "price": {
+                        "symbol": "€",
+                        "currency": "EUR",
+                        "value": 339,
+                        "raw": "€339,00"
+                    }
+                },
+                {
+                    "asin": "B0BGYFGPYR",
+                    "link": "https://www.amazon.es/dp/B0BGYFGPYR",
+                    "image": "https://m.media-amazon.com/images/I/71cSVOU+yeL._AC_SR160,134_QL70_.jpg",
+                    "is_prime": true,
+                    "price": {
+                        "symbol": "€",
+                        "currency": "EUR",
+                        "value": 229,
+                        "raw": "€229,00"
+                    }
+                }
+            ]
+        }
+    ]
+}

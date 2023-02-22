@@ -1,1296 +1,1242 @@
 {
-  "request_info": {
-    "success": true,
-    "credits_used": 6,
-    "credits_remaining": 94,
-    "credits_used_this_request": 1
-  },
-  "request_parameters": {
-    "type": "product",
-    "amazon_domain": "amazon.es",
-    "asin": "B0B8HG8W8Y",
-    "include_summarization_attributes": "false",
-    "language": "es_ES",
-    "include_a_plus_body": "false",
-    "currency": "eur",
-    "include_html": "false",
-    "output": "json"
-  },
-  "request_metadata": {
-    "created_at": "2023-02-19T23:02:07.883Z",
-    "processed_at": "2023-02-19T23:02:13.741Z",
-    "total_time_taken": 5.86,
-    "amazon_url": "https://www.amazon.es/dp/B0B8HG8W8Y?th=1&psc=1&language=es_ES"
-  },
-  "product": {
-    "title": "OPPO Reno8 Pro 5G - Teléfono Móvil Libre, 8GB+256GB, Cámara 50+8+2+32MP, Smartphone Android, Batería 4500mAh, Carga Rápida 80W, Dual SIM - Verde Reno 8 Pro Verde",
-    "search_alias": {
-      "title": "Electrónica",
-      "value": "electronics"
+    "request_info": {
+        "success": true,
+        "credits_used": 8,
+        "credits_remaining": 92,
+        "credits_used_this_request": 1
     },
-    "title_excluding_variant_name": "OPPO Reno8 Pro 5G - Teléfono Móvil Libre, 8GB+256GB, Cámara 50+8+2+32MP, Smartphone Android, Batería 4500mAh, Carga Rápida 80W, Dual SIM - Verde",
-    "keywords": "OPPO,Reno8,Pro,5G,-,Teléfono,Móvil,Libre,,8GB+256GB,,Cámara,50+8+2+32MP,,Smartphone,Android,,Batería,4500mAh,,Carga,Rápida,80W,,Dual,SIM,-,Verde",
-    "keywords_list": [
-      "OPPO",
-      "Reno8",
-      "Teléfono",
-      "Móvil",
-      "Libre",
-      "8GB+256GB",
-      "Cámara",
-      "50+8+2+32MP",
-      "Smartphone",
-      "Android",
-      "Batería",
-      "4500mAh",
-      "Carga",
-      "Rápida",
-      "Dual",
-      "Verde"
-    ],
-    "asin": "B0B8HG8W8Y",
-    "parent_asin": "B0BSKMVDJX",
-    "link": "https://www.amazon.es/OPPO-Reno8-Pro-5G-Smartphone/dp/B0B8HG8W8Y",
-    "brand": "OPPO",
-    "protection_plans": [
-      {
-        "asin": "B08X95NWXH",
-        "title": "2 años seguro de daño accidental",
-        "price": {
-          "symbol": "€",
-          "currency": "EUR",
-          "value": 98.65,
-          "raw": "€98,65"
-        }
-      },
-      {
-        "asin": "B0B1JPWPTX",
-        "title": "3 años seguro de daño accidental",
-        "price": {
-          "symbol": "€",
-          "currency": "EUR",
-          "value": 143,
-          "raw": "€143,00"
-        }
-      }
-    ],
-    "sell_on_amazon": true,
-    "variants": [
-      {
-        "asin": "B0B8HC38BQ",
-        "title": "Reno 8 Pro Negro",
-        "is_current_product": false,
-        "link": "https://www.amazon.es/dp/B0B8HC38BQ?th=1&psc=1",
-        "dimensions": [
-          {
-            "name": "Nombre de estilo",
-            "value": "Reno 8 Pro"
-          },
-          {
-            "name": "Color",
-            "value": "Negro"
-          }
+    "request_parameters": {
+        "type": "product",
+        "amazon_domain": "amazon.es",
+        "asin": "B0BDKBLF8C",
+        "include_summarization_attributes": "false",
+        "language": "es_ES",
+        "include_a_plus_body": "false",
+        "currency": "eur",
+        "include_html": "false",
+        "output": "json"
+    },
+    "request_metadata": {
+        "created_at": "2023-02-21T19:38:00.687Z",
+        "processed_at": "2023-02-21T19:38:05.196Z",
+        "total_time_taken": 4.51,
+        "amazon_url": "https://www.amazon.es/dp/B0BDKBLF8C?th=1&psc=1&language=es_ES"
+    },
+    "product": {
+        "title": "Apple iPhone 14 (128 GB) - Negro Noche 128GB Negro Noche",
+        "search_alias": {
+            "title": "Todos los departamentos",
+            "value": "aps"
+        },
+        "title_excluding_variant_name": "Apple iPhone 14 (128 GB) - Negro Noche",
+        "keywords": "Apple,iPhone,14,(128,GB),-,Negro,Noche",
+        "keywords_list": [
+            "Apple",
+            "iPhone",
+            "(128",
+            "Negro",
+            "Noche"
         ],
-        "main_image": "https://m.media-amazon.com/images/I/51lkIyKrykL._AC_SL1200_.jpg",
+        "asin": "B0BDKBLF8C",
+        "parent_asin": "B0BDRNGTQ2",
+        "link": "https://www.amazon.es/Apple-iPhone-14-128-GB/dp/B0BDKBLF8C",
+        "brand": "Apple",
+        "sell_on_amazon": true,
+        "variants": [
+            {
+                "asin": "B0BDKWMVZ5",
+                "title": "256GB Blanco estrella",
+                "is_current_product": false,
+                "link": "https://www.amazon.es/dp/B0BDKWMVZ5?th=1&psc=1",
+                "dimensions": [
+                    {
+                        "name": "Tamaño",
+                        "value": "256GB"
+                    },
+                    {
+                        "name": "Color",
+                        "value": "Blanco estrella"
+                    }
+                ],
+                "main_image": "https://m.media-amazon.com/images/I/618Bb+QzCmL._AC_SL1500_.jpg",
+                "images": [
+                    {
+                        "variant": "MAIN",
+                        "link": "https://m.media-amazon.com/images/I/618Bb+QzCmL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT01",
+                        "link": "https://m.media-amazon.com/images/I/512Wg9SvQsL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT02",
+                        "link": "https://m.media-amazon.com/images/I/718muFN+T+L._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT03",
+                        "link": "https://m.media-amazon.com/images/I/713C6WEqyKL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT04",
+                        "link": "https://m.media-amazon.com/images/I/81nAl8OUslL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT05",
+                        "link": "https://m.media-amazon.com/images/I/619vTSomksL._AC_SL1500_.jpg"
+                    }
+                ]
+            },
+            {
+                "asin": "B0BDKJ9WRK",
+                "title": "128GB Azul",
+                "is_current_product": false,
+                "link": "https://www.amazon.es/dp/B0BDKJ9WRK?th=1&psc=1",
+                "dimensions": [
+                    {
+                        "name": "Tamaño",
+                        "value": "128GB"
+                    },
+                    {
+                        "name": "Color",
+                        "value": "Azul"
+                    }
+                ],
+                "main_image": "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_SL1500_.jpg",
+                "images": [
+                    {
+                        "variant": "MAIN",
+                        "link": "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT01",
+                        "link": "https://m.media-amazon.com/images/I/51Sn5X2gfaL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT02",
+                        "link": "https://m.media-amazon.com/images/I/71RFKttvm9L._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT03",
+                        "link": "https://m.media-amazon.com/images/I/713C6WEqyKL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT04",
+                        "link": "https://m.media-amazon.com/images/I/81nAl8OUslL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT05",
+                        "link": "https://m.media-amazon.com/images/I/61KDOeHBTgL._AC_SL1500_.jpg"
+                    }
+                ]
+            },
+            {
+                "asin": "B0BDKZS61M",
+                "title": "512GB (PRODUCT)RED",
+                "is_current_product": false,
+                "link": "https://www.amazon.es/dp/B0BDKZS61M?th=1&psc=1",
+                "dimensions": [
+                    {
+                        "name": "Tamaño",
+                        "value": "512GB"
+                    },
+                    {
+                        "name": "Color",
+                        "value": "(PRODUCT)RED"
+                    }
+                ],
+                "main_image": "https://m.media-amazon.com/images/I/611mRs-imxL._AC_SL1500_.jpg",
+                "images": [
+                    {
+                        "variant": "MAIN",
+                        "link": "https://m.media-amazon.com/images/I/611mRs-imxL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT01",
+                        "link": "https://m.media-amazon.com/images/I/61+85l5NkML._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT02",
+                        "link": "https://m.media-amazon.com/images/I/71gApuoaMhL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT03",
+                        "link": "https://m.media-amazon.com/images/I/713C6WEqyKL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT04",
+                        "link": "https://m.media-amazon.com/images/I/81nAl8OUslL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT05",
+                        "link": "https://m.media-amazon.com/images/I/61CfcqiFOLL._AC_SL1500_.jpg"
+                    }
+                ]
+            },
+            {
+                "asin": "B0BDKC536X",
+                "title": "512GB Negro Noche",
+                "is_current_product": false,
+                "link": "https://www.amazon.es/dp/B0BDKC536X?th=1&psc=1",
+                "dimensions": [
+                    {
+                        "name": "Tamaño",
+                        "value": "512GB"
+                    },
+                    {
+                        "name": "Color",
+                        "value": "Negro Noche"
+                    }
+                ],
+                "main_image": "https://m.media-amazon.com/images/I/61cwywLZR-L._AC_SL1500_.jpg",
+                "images": [
+                    {
+                        "variant": "MAIN",
+                        "link": "https://m.media-amazon.com/images/I/61cwywLZR-L._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT01",
+                        "link": "https://m.media-amazon.com/images/I/51lRv8lbOVL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT02",
+                        "link": "https://m.media-amazon.com/images/I/71KdlxeM59L._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT03",
+                        "link": "https://m.media-amazon.com/images/I/713C6WEqyKL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT04",
+                        "link": "https://m.media-amazon.com/images/I/81nAl8OUslL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT05",
+                        "link": "https://m.media-amazon.com/images/I/61kuP-8HwYL._AC_SL1500_.jpg"
+                    }
+                ]
+            },
+            {
+                "asin": "B0BDKBQ158",
+                "title": "128GB (PRODUCT)RED",
+                "is_current_product": false,
+                "link": "https://www.amazon.es/dp/B0BDKBQ158?th=1&psc=1",
+                "dimensions": [
+                    {
+                        "name": "Tamaño",
+                        "value": "128GB"
+                    },
+                    {
+                        "name": "Color",
+                        "value": "(PRODUCT)RED"
+                    }
+                ],
+                "main_image": "https://m.media-amazon.com/images/I/611mRs-imxL._AC_SL1500_.jpg",
+                "images": [
+                    {
+                        "variant": "MAIN",
+                        "link": "https://m.media-amazon.com/images/I/611mRs-imxL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT01",
+                        "link": "https://m.media-amazon.com/images/I/61+85l5NkML._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT02",
+                        "link": "https://m.media-amazon.com/images/I/71gApuoaMhL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT03",
+                        "link": "https://m.media-amazon.com/images/I/713C6WEqyKL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT04",
+                        "link": "https://m.media-amazon.com/images/I/81nAl8OUslL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT05",
+                        "link": "https://m.media-amazon.com/images/I/61CfcqiFOLL._AC_SL1500_.jpg"
+                    }
+                ]
+            },
+            {
+                "asin": "B0BDKBLF8C",
+                "title": "128GB Negro Noche",
+                "is_current_product": true,
+                "link": "https://www.amazon.es/dp/B0BDKBLF8C?th=1&psc=1",
+                "dimensions": [
+                    {
+                        "name": "Tamaño",
+                        "value": "128GB"
+                    },
+                    {
+                        "name": "Color",
+                        "value": "Negro Noche"
+                    }
+                ],
+                "main_image": "https://m.media-amazon.com/images/I/61cwywLZR-L._AC_SL1500_.jpg",
+                "images": [
+                    {
+                        "variant": "MAIN",
+                        "link": "https://m.media-amazon.com/images/I/61cwywLZR-L._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT01",
+                        "link": "https://m.media-amazon.com/images/I/51lRv8lbOVL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT02",
+                        "link": "https://m.media-amazon.com/images/I/71KdlxeM59L._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT03",
+                        "link": "https://m.media-amazon.com/images/I/713C6WEqyKL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT04",
+                        "link": "https://m.media-amazon.com/images/I/81nAl8OUslL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT05",
+                        "link": "https://m.media-amazon.com/images/I/61kuP-8HwYL._AC_SL1500_.jpg"
+                    }
+                ]
+            },
+            {
+                "asin": "B0BDKK9KJN",
+                "title": "256GB Negro Noche",
+                "is_current_product": false,
+                "link": "https://www.amazon.es/dp/B0BDKK9KJN?th=1&psc=1",
+                "dimensions": [
+                    {
+                        "name": "Tamaño",
+                        "value": "256GB"
+                    },
+                    {
+                        "name": "Color",
+                        "value": "Negro Noche"
+                    }
+                ],
+                "main_image": "https://m.media-amazon.com/images/I/61cwywLZR-L._AC_SL1500_.jpg",
+                "images": [
+                    {
+                        "variant": "MAIN",
+                        "link": "https://m.media-amazon.com/images/I/61cwywLZR-L._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT01",
+                        "link": "https://m.media-amazon.com/images/I/51lRv8lbOVL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT02",
+                        "link": "https://m.media-amazon.com/images/I/71KdlxeM59L._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT03",
+                        "link": "https://m.media-amazon.com/images/I/713C6WEqyKL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT04",
+                        "link": "https://m.media-amazon.com/images/I/81nAl8OUslL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT05",
+                        "link": "https://m.media-amazon.com/images/I/61kuP-8HwYL._AC_SL1500_.jpg"
+                    }
+                ]
+            },
+            {
+                "asin": "B0BDKKF3QC",
+                "title": "128GB Blanco estrella",
+                "is_current_product": false,
+                "link": "https://www.amazon.es/dp/B0BDKKF3QC?th=1&psc=1",
+                "dimensions": [
+                    {
+                        "name": "Tamaño",
+                        "value": "128GB"
+                    },
+                    {
+                        "name": "Color",
+                        "value": "Blanco estrella"
+                    }
+                ],
+                "main_image": "https://m.media-amazon.com/images/I/618Bb+QzCmL._AC_SL1500_.jpg",
+                "images": [
+                    {
+                        "variant": "MAIN",
+                        "link": "https://m.media-amazon.com/images/I/618Bb+QzCmL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT01",
+                        "link": "https://m.media-amazon.com/images/I/512Wg9SvQsL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT02",
+                        "link": "https://m.media-amazon.com/images/I/718muFN+T+L._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT03",
+                        "link": "https://m.media-amazon.com/images/I/713C6WEqyKL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT04",
+                        "link": "https://m.media-amazon.com/images/I/81nAl8OUslL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT05",
+                        "link": "https://m.media-amazon.com/images/I/619vTSomksL._AC_SL1500_.jpg"
+                    }
+                ]
+            },
+            {
+                "asin": "B0BDKFMJ24",
+                "title": "512GB Blanco estrella",
+                "is_current_product": false,
+                "link": "https://www.amazon.es/dp/B0BDKFMJ24?th=1&psc=1",
+                "dimensions": [
+                    {
+                        "name": "Tamaño",
+                        "value": "512GB"
+                    },
+                    {
+                        "name": "Color",
+                        "value": "Blanco estrella"
+                    }
+                ],
+                "main_image": "https://m.media-amazon.com/images/I/618Bb+QzCmL._AC_SL1500_.jpg",
+                "images": [
+                    {
+                        "variant": "MAIN",
+                        "link": "https://m.media-amazon.com/images/I/618Bb+QzCmL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT01",
+                        "link": "https://m.media-amazon.com/images/I/512Wg9SvQsL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT02",
+                        "link": "https://m.media-amazon.com/images/I/718muFN+T+L._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT03",
+                        "link": "https://m.media-amazon.com/images/I/713C6WEqyKL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT04",
+                        "link": "https://m.media-amazon.com/images/I/81nAl8OUslL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT05",
+                        "link": "https://m.media-amazon.com/images/I/619vTSomksL._AC_SL1500_.jpg"
+                    }
+                ]
+            },
+            {
+                "asin": "B0BDK42L1P",
+                "title": "512GB Azul",
+                "is_current_product": false,
+                "link": "https://www.amazon.es/dp/B0BDK42L1P?th=1&psc=1",
+                "dimensions": [
+                    {
+                        "name": "Tamaño",
+                        "value": "512GB"
+                    },
+                    {
+                        "name": "Color",
+                        "value": "Azul"
+                    }
+                ],
+                "main_image": "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_SL1500_.jpg",
+                "images": [
+                    {
+                        "variant": "MAIN",
+                        "link": "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT01",
+                        "link": "https://m.media-amazon.com/images/I/51Sn5X2gfaL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT02",
+                        "link": "https://m.media-amazon.com/images/I/71RFKttvm9L._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT03",
+                        "link": "https://m.media-amazon.com/images/I/713C6WEqyKL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT04",
+                        "link": "https://m.media-amazon.com/images/I/81nAl8OUslL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT05",
+                        "link": "https://m.media-amazon.com/images/I/61KDOeHBTgL._AC_SL1500_.jpg"
+                    }
+                ]
+            },
+            {
+                "asin": "B0BDJZLSDH",
+                "title": "128GB Malva",
+                "is_current_product": false,
+                "link": "https://www.amazon.es/dp/B0BDJZLSDH?th=1&psc=1",
+                "dimensions": [
+                    {
+                        "name": "Tamaño",
+                        "value": "128GB"
+                    },
+                    {
+                        "name": "Color",
+                        "value": "Malva"
+                    }
+                ],
+                "main_image": "https://m.media-amazon.com/images/I/619f09kK7tL._AC_SL1500_.jpg",
+                "images": [
+                    {
+                        "variant": "MAIN",
+                        "link": "https://m.media-amazon.com/images/I/619f09kK7tL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT01",
+                        "link": "https://m.media-amazon.com/images/I/51FNWDM4tAL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT02",
+                        "link": "https://m.media-amazon.com/images/I/71BcQW-u8xL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT03",
+                        "link": "https://m.media-amazon.com/images/I/713C6WEqyKL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT04",
+                        "link": "https://m.media-amazon.com/images/I/81nAl8OUslL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT05",
+                        "link": "https://m.media-amazon.com/images/I/61MQSj72QaL._AC_SL1500_.jpg"
+                    }
+                ]
+            },
+            {
+                "asin": "B0BDKSHZK6",
+                "title": "256GB Azul",
+                "is_current_product": false,
+                "link": "https://www.amazon.es/dp/B0BDKSHZK6?th=1&psc=1",
+                "dimensions": [
+                    {
+                        "name": "Tamaño",
+                        "value": "256GB"
+                    },
+                    {
+                        "name": "Color",
+                        "value": "Azul"
+                    }
+                ],
+                "main_image": "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_SL1500_.jpg",
+                "images": [
+                    {
+                        "variant": "MAIN",
+                        "link": "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT01",
+                        "link": "https://m.media-amazon.com/images/I/51Sn5X2gfaL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT02",
+                        "link": "https://m.media-amazon.com/images/I/71RFKttvm9L._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT03",
+                        "link": "https://m.media-amazon.com/images/I/713C6WEqyKL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT04",
+                        "link": "https://m.media-amazon.com/images/I/81nAl8OUslL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT05",
+                        "link": "https://m.media-amazon.com/images/I/61KDOeHBTgL._AC_SL1500_.jpg"
+                    }
+                ]
+            },
+            {
+                "asin": "B0BDKK2L4Z",
+                "title": "512GB Malva",
+                "is_current_product": false,
+                "link": "https://www.amazon.es/dp/B0BDKK2L4Z?th=1&psc=1",
+                "dimensions": [
+                    {
+                        "name": "Tamaño",
+                        "value": "512GB"
+                    },
+                    {
+                        "name": "Color",
+                        "value": "Malva"
+                    }
+                ],
+                "main_image": "https://m.media-amazon.com/images/I/619f09kK7tL._AC_SL1500_.jpg",
+                "images": [
+                    {
+                        "variant": "MAIN",
+                        "link": "https://m.media-amazon.com/images/I/619f09kK7tL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT01",
+                        "link": "https://m.media-amazon.com/images/I/51FNWDM4tAL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT02",
+                        "link": "https://m.media-amazon.com/images/I/71BcQW-u8xL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT03",
+                        "link": "https://m.media-amazon.com/images/I/713C6WEqyKL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT04",
+                        "link": "https://m.media-amazon.com/images/I/81nAl8OUslL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT05",
+                        "link": "https://m.media-amazon.com/images/I/61MQSj72QaL._AC_SL1500_.jpg"
+                    }
+                ]
+            },
+            {
+                "asin": "B0BDJX8GV5",
+                "title": "256GB (PRODUCT)RED",
+                "is_current_product": false,
+                "link": "https://www.amazon.es/dp/B0BDJX8GV5?th=1&psc=1",
+                "dimensions": [
+                    {
+                        "name": "Tamaño",
+                        "value": "256GB"
+                    },
+                    {
+                        "name": "Color",
+                        "value": "(PRODUCT)RED"
+                    }
+                ],
+                "main_image": "https://m.media-amazon.com/images/I/611mRs-imxL._AC_SL1500_.jpg",
+                "images": [
+                    {
+                        "variant": "MAIN",
+                        "link": "https://m.media-amazon.com/images/I/611mRs-imxL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT01",
+                        "link": "https://m.media-amazon.com/images/I/61+85l5NkML._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT02",
+                        "link": "https://m.media-amazon.com/images/I/71gApuoaMhL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT03",
+                        "link": "https://m.media-amazon.com/images/I/713C6WEqyKL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT04",
+                        "link": "https://m.media-amazon.com/images/I/81nAl8OUslL._AC_SL1500_.jpg"
+                    },
+                    {
+                        "variant": "PT05",
+                        "link": "https://m.media-amazon.com/images/I/61CfcqiFOLL._AC_SL1500_.jpg"
+                    }
+                ]
+            }
+        ],
+        "variant_asins_flat": "B0BDKWMVZ5,B0BDKJ9WRK,B0BDKZS61M,B0BDKC536X,B0BDKBQ158,B0BDKBLF8C,B0BDKK9KJN,B0BDKKF3QC,B0BDKFMJ24,B0BDK42L1P,B0BDJZLSDH,B0BDKSHZK6,B0BDKK2L4Z,B0BDJX8GV5",
+        "categories": [
+            {
+                "name": "Todos los departamentos"
+            }
+        ],
+        "categories_flat": "Todos los departamentos",
+        "delivery_message": "Entrega GRATIS:   sábado, 25 de feb.               Entrega GRATIS:    28 de feb. - 6 de marzo",
+        "sub_title": {
+            "text": "Visita la Store de Apple",
+            "link": "https://www.amazon.es/stores/Apple/page/4E95FF48-A39F-40ED-9FE3-3E769342863B?ref_=ast_bln"
+        },
+        "amazons_choice": {
+            "keywords": "iphone 14",
+            "link": "https://www.amazon.es/s/ref=choice_dp_b?keywords=iphone%2014"
+        },
+        "rating": 4.6,
+        "rating_breakdown": {
+            "five_star": {
+                "percentage": 80,
+                "count": 608
+            },
+            "four_star": {
+                "percentage": 11,
+                "count": 83
+            },
+            "three_star": {
+                "percentage": 3,
+                "count": 22
+            },
+            "two_star": {
+                "percentage": 1,
+                "count": 7
+            },
+            "one_star": {
+                "percentage": 6,
+                "count": 45
+            }
+        },
+        "ratings_total": 760,
+        "main_image": {
+            "link": "https://m.media-amazon.com/images/I/61cwywLZR-L.jpg"
+        },
         "images": [
-          {
-            "variant": "MAIN",
-            "link": "https://m.media-amazon.com/images/I/51lkIyKrykL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT01",
-            "link": "https://m.media-amazon.com/images/I/61XTFP0cN-L._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT02",
-            "link": "https://m.media-amazon.com/images/I/51iPGu2kU7L._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT03",
-            "link": "https://m.media-amazon.com/images/I/71oKjyMgv9L._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT04",
-            "link": "https://m.media-amazon.com/images/I/61NDfKkbRhL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT05",
-            "link": "https://m.media-amazon.com/images/I/61GKgp73bLL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT06",
-            "link": "https://m.media-amazon.com/images/I/71wS1QOo9BL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT07",
-            "link": "https://m.media-amazon.com/images/I/71UV0JTLmtL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT08",
-            "link": "https://m.media-amazon.com/images/I/51cELjLtkcL._AC_SL1200_.jpg"
-          }
+            {
+                "link": "https://m.media-amazon.com/images/I/61cwywLZR-L._AC_SL1500_.jpg",
+                "variant": "MAIN"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/51lRv8lbOVL._AC_SL1500_.jpg",
+                "variant": "PT01"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/71KdlxeM59L._AC_SL1500_.jpg",
+                "variant": "PT02"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/713C6WEqyKL._AC_SL1500_.jpg",
+                "variant": "PT03"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/81nAl8OUslL._AC_SL1500_.jpg",
+                "variant": "PT04"
+            },
+            {
+                "link": "https://m.media-amazon.com/images/I/61kuP-8HwYL._AC_SL1500_.jpg",
+                "variant": "PT05"
+            }
+        ],
+        "images_count": 6,
+        "images_flat": "https://m.media-amazon.com/images/I/61cwywLZR-L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/51lRv8lbOVL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71KdlxeM59L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/713C6WEqyKL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81nAl8OUslL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61kuP-8HwYL._AC_SL1500_.jpg",
+        "videos": [
+            {
+                "duration_seconds": 52,
+                "width": 854,
+                "height": 480,
+                "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/87d39fc2-1dcf-4c11-a1ec-9cc4c585d73a/default.jobtemplate.mp4.480.mp4",
+                "thumbnail": "https://m.media-amazon.com/images/I/31kN5IfJG+L.SX522_.jpg",
+                "is_hero_video": false,
+                "variant": "MAIN",
+                "group_id": "IB_G1",
+                "group_type": "videos_for_this_product",
+                "title": "Apple iPhone 14"
+            },
+            {
+                "duration_seconds": 30,
+                "width": 854,
+                "height": 480,
+                "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/da3b6da4-b9fc-4ebc-8321-d943136b82ee/default.jobtemplate.mp4.480.mp4",
+                "thumbnail": "https://m.media-amazon.com/images/I/51rDYt2LAfL.SX522_.jpg",
+                "is_hero_video": false,
+                "variant": "MAIN",
+                "group_id": "IB_G1",
+                "group_type": "videos_for_this_product",
+                "title": "AppleCare+ para iPhone"
+            }
+        ],
+        "videos_count": 2,
+        "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/87d39fc2-1dcf-4c11-a1ec-9cc4c585d73a/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/da3b6da4-b9fc-4ebc-8321-d943136b82ee/default.jobtemplate.mp4.480.mp4",
+        "is_bundle": false,
+        "feature_bullets": [
+            "Pantalla Super Retina XDR de 6,1 pulgadas.",
+            "Sistema de cámara avanzado para hacer mejores fotos con cualquier luz.",
+            "Modo Cine, ahora en 4K con Dolby Vision hasta 30 f/s.",
+            "Modo Acción para grabar planos superestables a pulso.",
+            "Tecnología que puede salvar vidas: Detección de Accidentes pide ayuda por ti cuando tú no puedes.",
+            "Una autonomía de sol a sol que te da hasta 20 horas de reproducción de vídeo.",
+            "Chip A15 Bionic supersónico con GPU de 5 núcleos. Redes 5G ultrarrápidas.",
+            "Prestaciones punteras en el sector, como Ceramic Shield y la resistencia al agua.",
+            "iOS 16, con más opciones de personalización y formas de comunicarte y compartir."
+        ],
+        "feature_bullets_count": 9,
+        "feature_bullets_flat": "iOS 16, con más opciones de personalización y formas de comunicarte y compartir. Prestaciones punteras en el sector, como Ceramic Shield y la resistencia al agua. Chip A15 Bionic supersónico con GPU de 5 núcleos. Redes 5G ultrarrápidas. Una autonomía de sol a sol que te da hasta 20 horas de reproducción de vídeo. Tecnología que puede salvar vidas: Detección de Accidentes pide ayuda por ti cuando tú no puedes. Modo Acción para grabar planos superestables a pulso. Modo Cine, ahora en 4K con Dolby Vision hasta 30 f/s. Sistema de cámara avanzado para hacer mejores fotos con cualquier luz. Pantalla Super Retina XDR de 6,1 pulgadas.",
+        "attributes": [
+            {
+                "name": "Marca",
+                "value": "Apple"
+            },
+            {
+                "name": "Nombre del modelo",
+                "value": "iPhone 14"
+            },
+            {
+                "name": "Operador de servicios inalámbricos",
+                "value": "Todas las empresas de transportes"
+            },
+            {
+                "name": "Sistema operativo",
+                "value": "iOS 16"
+            },
+            {
+                "name": "Tecnología de móvil",
+                "value": "5G"
+            },
+            {
+                "name": "Capacidad de almacenamiento de memoria",
+                "value": "128 GB"
+            },
+            {
+                "name": "Color",
+                "value": "Negro Noche"
+            },
+            {
+                "name": "Tamaño de pantalla",
+                "value": "6.1 Pulgadas"
+            },
+            {
+                "name": "Tipo de conector",
+                "value": "USB tipo C"
+            },
+            {
+                "name": "Factor de forma",
+                "value": "Barra"
+            }
+        ],
+        "top_reviews": [
+            {
+                "id": "R2CKEBUMO6GUA2",
+                "title": "Perfecto! Pero si ya tienes el 12 o el 13 pocos cambios vas a notar 😅",
+                "body": "Tenia el iPhone 13 mini y por trabajo necesitaba un móvil más grande y he optado por comprar el 14. El iPhone 13 o incluso el 12 continúan estando con un precio elevado así que me he comprado el 14. Pero la verdad es que si tienes el 12 o el 13 con este 14 los cambios son mínimos😅 Así que o te vas al 14 Pro o casi que te quedas igual 😅 En casa tenemos los 3 últimos iPhone, pongo fotos y comentarios o comparaciones básicos😬  📌Si lo comparo con el iPhone 13: ➡️Como usuario normal no noto casi nada 😅 ➡️Solo he notado el cambio porque tenia el mini y en tamaño se nota ➡️Solo cambia tema CPU pero el resto.....un poco la cámara y el modo de detección de accidentes y poco más  📌Si lo comparo con el iPhone 12 ➡️En apariencia practicamente son iguales (ver fotos) solo cambia la posición de las cámaras y la muesca en negro o notch de la pantalla 😅 (ver fotos) En funcionalidad el 14 es más rápido y las cámaras y funciones de cámara cambian pero poca cosa más 😬 ➡️El brillo de la pantalla, el procesador y la bateria son mejores ➡️Y en la cámara el estabilizador de movimiento el modo cinematográfico para ir enfocando y desenfocando, para desenfocar el fondo...  ✅En resumen, muy buen móvil como todos los iPhone. Pero si ya tienes un iPhone que sepas que hay pocos cambios si comparas con 12 y 13, con otros la diferencia se nota mucho más 😊  Espero que te haya sido útilLeer más",
+                "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Tenia el iPhone 13 mini y por trabajo necesitaba un móvil más grande y he optado por comprar el 14. El iPhone 13 o incluso el 12 continúan estando con un precio elevado así que me he comprado el 14. Pero la verdad es que si tienes el 12 o el 13 con este 14 los cambios son mínimos😅 Así que o te vas al 14 Pro o casi que te quedas igual 😅 En casa tenemos los 3 últimos iPhone, pongo fotos y comentarios o comparaciones básicos😬<br><br>📌Si lo comparo con el iPhone 13:<br>➡️Como usuario normal no noto casi nada 😅<br>➡️Solo he notado el cambio porque tenia el mini y en tamaño se nota<br>➡️Solo cambia tema CPU pero el resto.....un poco la cámara y el modo de detección de accidentes y poco más<br><br>📌Si lo comparo con el iPhone 12<br>➡️En apariencia practicamente son iguales (ver fotos) solo cambia la posición de las cámaras y la muesca en negro o notch de la pantalla 😅 (ver fotos)<br>En funcionalidad el 14 es más rápido y las cámaras y funciones de cámara cambian pero poca cosa más 😬<br>➡️El brillo de la pantalla, el procesador y la bateria son mejores<br>➡️Y en la cámara el estabilizador de movimiento el modo cinematográfico para ir enfocando y desenfocando, para desenfocar el fondo...<br><br>✅En resumen, muy buen móvil como todos los iPhone. Pero si ya tienes un iPhone que sepas que hay pocos cambios si comparas con 12 y 13, con otros la diferencia se nota mucho más 😊<br><br>Espero que te haya sido útil</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Alternar entre texto completo de la reseña\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leer más&quot;, &quot;collapse_prompt&quot;:&quot;Leer menos&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leer más</span></a></div></div>",
+                "link": "https://www.amazon.es/gp/customer-reviews/R2CKEBUMO6GUA2/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0BDKBLF8C",
+                "rating": 4,
+                "date": {
+                    "raw": "Revisado en España el 11 de noviembre de 2022",
+                    "utc": "2022-11-11T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "O&A",
+                    "link": "https://www.amazon.es/gp/profile/amzn1.account.AE4ULJW7QIVNVLYDLIISHU75C3OA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                    "id": "AE4ULJW7QIVNVLYDLIISHU75C3OA",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/f6eb8d12-f528-4d79-b216-f8810bebdce5._CR72,0,356,356_SX48_.jpg"
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "images": [
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    },
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    },
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    },
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    },
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    },
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    },
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    },
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    },
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    },
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    },
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    },
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    },
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    },
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    }
+                ],
+                "helpful_votes": 46,
+                "review_country": "es",
+                "is_global_review": false
+            },
+            {
+                "id": "R3F4PYN40B1K8W",
+                "title": "Confianza Iphone",
+                "body": "Lo compré para actualizar mi teléfono ( X, 256) cumple con mis expectativas, tiene un peso significativo, al que te acostumbras enseguida. La camara no me obnubiló, creo q siguen faltando algunos comandos para aprovechar funciones manuales. Sin embargo iphone sigue siendo garantía de confianza en estética, diseño, optimización de recursos técnicos, etc. .Leer más",
+                "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Lo compré para actualizar mi teléfono ( X, 256) cumple con mis expectativas, tiene un peso significativo, al que te acostumbras enseguida. La camara no me obnubiló, creo q siguen faltando algunos comandos para aprovechar funciones manuales. Sin embargo iphone sigue siendo garantía de confianza en estética, diseño, optimización de recursos técnicos, etc. .</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Alternar entre texto completo de la reseña\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leer más&quot;, &quot;collapse_prompt&quot;:&quot;Leer menos&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leer más</span></a></div></div>",
+                "link": "https://www.amazon.es/gp/customer-reviews/R3F4PYN40B1K8W/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0BDKBLF8C",
+                "rating": 4,
+                "date": {
+                    "raw": "Revisado en España el 5 de febrero de 2023",
+                    "utc": "2023-02-05T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "Manu",
+                    "link": "https://www.amazon.es/gp/profile/amzn1.account.AGDGRCK6AHRL6BZ6IBFCVCHGPENQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                    "id": "AGDGRCK6AHRL6BZ6IBFCVCHGPENQ",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/dada91f8-7356-4d2e-ab10-b4ae2f7484ac._CR0,79.0,843,843_SX48_.jpg"
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "review_country": "es",
+                "is_global_review": false
+            },
+            {
+                "id": "R3UPQSUIFZ677C",
+                "title": "Todo en perfecto estado 👌🏼",
+                "body": "Todo muy bien 👍🏼 satisfecha! Me lo imaginaba más grande pero para mis manos esta bien!Leer más",
+                "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Todo muy bien 👍🏼 satisfecha! Me lo imaginaba más grande pero para mis manos esta bien!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Alternar entre texto completo de la reseña\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leer más&quot;, &quot;collapse_prompt&quot;:&quot;Leer menos&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leer más</span></a></div></div>",
+                "link": "https://www.amazon.es/gp/customer-reviews/R3UPQSUIFZ677C/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0BDKBLF8C",
+                "rating": 5,
+                "date": {
+                    "raw": "Revisado en España el 18 de febrero de 2023",
+                    "utc": "2023-02-18T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "Ana C.",
+                    "link": "https://www.amazon.es/gp/profile/amzn1.account.AF2D4PWZJJ7LKPEDF2NWNWSHKMHA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                    "id": "AF2D4PWZJJ7LKPEDF2NWNWSHKMHA"
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "images": [
+                    {
+                        "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                    }
+                ],
+                "review_country": "es",
+                "is_global_review": false
+            },
+            {
+                "id": "R3B8JN022XW7N2",
+                "title": "Bueno",
+                "body": "Me ha encantado eso si lo he comprado a últimos de enero y a los días bajo 30 euros se supone que me tendrías que descontar eso de lo k ma costao o no?Leer más",
+                "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Me ha encantado eso si lo he comprado a últimos de enero y a los días bajo 30 euros se supone que me tendrías que descontar eso de lo k ma costao o no?</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Alternar entre texto completo de la reseña\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leer más&quot;, &quot;collapse_prompt&quot;:&quot;Leer menos&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leer más</span></a></div></div>",
+                "link": "https://www.amazon.es/gp/customer-reviews/R3B8JN022XW7N2/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0BDKBLF8C",
+                "rating": 5,
+                "date": {
+                    "raw": "Revisado en España el 6 de febrero de 2023",
+                    "utc": "2023-02-06T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "Sergio",
+                    "link": "https://www.amazon.es/gp/profile/amzn1.account.AGPA6VK2JV22QIC3NH72ELM3V3CA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                    "id": "AGPA6VK2JV22QIC3NH72ELM3V3CA"
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "review_country": "es",
+                "is_global_review": false
+            },
+            {
+                "id": "RTX1UKDXI3VIL",
+                "title": "Increíble velocidad y calidad",
+                "body": "Buen tiempo de entrega, buena calidad, llego como nuevo.Leer más",
+                "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Buen tiempo de entrega, buena calidad, llego como nuevo.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Alternar entre texto completo de la reseña\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leer más&quot;, &quot;collapse_prompt&quot;:&quot;Leer menos&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leer más</span></a></div></div>",
+                "link": "https://www.amazon.es/gp/customer-reviews/RTX1UKDXI3VIL/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0BDKBLF8C",
+                "rating": 5,
+                "date": {
+                    "raw": "Revisado en España el 19 de febrero de 2023",
+                    "utc": "2023-02-19T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "Christian",
+                    "link": "https://www.amazon.es/gp/profile/amzn1.account.AEWD45KYEDPGHTD5RQQYL6WTTBJA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                    "id": "AEWD45KYEDPGHTD5RQQYL6WTTBJA"
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "review_country": "es",
+                "is_global_review": false
+            },
+            {
+                "id": "R3IPJ3QES82IOA",
+                "title": "Llego a tiempo",
+                "body": "Me llego a su debido tiempo, bien envuelto y funcionando, el otro día me hizo algo extraño la pantalla, se quedó negra y ni se apagaba el móvil ni podía hacer nada, por suerte le hable a Siri y me ella me pudo dar luz a la pantalla..Leer más",
+                "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Me llego a su debido tiempo, bien envuelto y funcionando, el otro día me hizo algo extraño la pantalla, se quedó negra y ni se apagaba el móvil ni podía hacer nada, por suerte le hable a Siri y me ella me pudo dar luz a la pantalla..</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Alternar entre texto completo de la reseña\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leer más&quot;, &quot;collapse_prompt&quot;:&quot;Leer menos&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leer más</span></a></div></div>",
+                "link": "https://www.amazon.es/gp/customer-reviews/R3IPJ3QES82IOA/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0BDKBLF8C",
+                "rating": 5,
+                "date": {
+                    "raw": "Revisado en España el 24 de enero de 2023",
+                    "utc": "2023-01-24T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "Sandracf",
+                    "link": "https://www.amazon.es/gp/profile/amzn1.account.AEAFM6V3AP42EKLQWZXTH542NCDQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                    "id": "AEAFM6V3AP42EKLQWZXTH542NCDQ",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/7947926c-5764-4393-a02c-ca44069708a4._CR0,0,375,375_SX48_.jpg"
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "helpful_votes": 2,
+                "review_country": "es",
+                "is_global_review": false
+            },
+            {
+                "id": "R2EI34GYQFWAPG",
+                "title": "Móvil",
+                "body": "El móvil prácticamente es nuevo y funciona perfectoLeer más",
+                "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>El móvil prácticamente es nuevo y funciona perfecto</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Alternar entre texto completo de la reseña\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leer más&quot;, &quot;collapse_prompt&quot;:&quot;Leer menos&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leer más</span></a></div></div>",
+                "link": "https://www.amazon.es/gp/customer-reviews/R2EI34GYQFWAPG/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0BDKBLF8C",
+                "rating": 5,
+                "date": {
+                    "raw": "Revisado en España el 14 de febrero de 2023",
+                    "utc": "2023-02-14T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "David",
+                    "link": "https://www.amazon.es/gp/profile/amzn1.account.AHRYYWVRFHXCGUP76H4FTDGNRCOA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                    "id": "AHRYYWVRFHXCGUP76H4FTDGNRCOA"
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "review_country": "es",
+                "is_global_review": false
+            },
+            {
+                "id": "R39ERFHNJ79JVB",
+                "title": "IPHONE 14",
+                "body": "Responde a mis expectativasLeer más",
+                "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Responde a mis expectativas</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Alternar entre texto completo de la reseña\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leer más&quot;, &quot;collapse_prompt&quot;:&quot;Leer menos&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leer más</span></a></div></div>",
+                "link": "https://www.amazon.es/gp/customer-reviews/R39ERFHNJ79JVB/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0BDKBLF8C",
+                "rating": 5,
+                "date": {
+                    "raw": "Revisado en España el 17 de febrero de 2023",
+                    "utc": "2023-02-17T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "Lucía Rodríguez Benavides",
+                    "link": "https://www.amazon.es/gp/profile/amzn1.account.AHHMBAIT6WG5PWMMAUXKLVDDYRFA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                    "id": "AHHMBAIT6WG5PWMMAUXKLVDDYRFA"
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "review_country": "es",
+                "is_global_review": false
+            },
+            {
+                "id": "R1XEIRKAWKYUN2",
+                "title": "Recensione onesta n. 852 del prodotto iPhone 14",
+                "body": "Ho acquistato il nuovo modello di iphone 14 perché il mio vecchio 13 è stato perso e ho quindi deciso di prendere l'ultimo modello uscito.  Il prodotto è stato consegnato nei tempi stabiliti, grazie alla logistica di Amazon, all'interno dell’imballaggio Amazon. Come al solito nella confezione non si trova praticamente nulla, se non il cavo di ricarica e alcune istruzioni.  Il nuovo modello 14, non ha ancora il connettore di ricarica e dati Usb tipo C, ma ancora il vecchio lightning che ahimè da notevoli limitazioni sia a livello di velocità di ricarica, e sopratutto nello scambio di dati.  Ci sono poi altre cose che mi hanno basito: 1. Ha lo stesso design del precedente modello; 2. Ha lo stesso processo del 13, con un lieve miglioramento nella Gpu che ora è a 5 core; 3. Costa di più, rispetto al suo modello antecedente. E il nuovo prezzo, secondo me, non è giustificato dalle piccole migliorie apportate alle fotocamere posteriori.  La verità è che ogni anno ci si aspetta sempre delle grandi novità dalla tecnologia, quando anche questa ha dei limiti temporali. Quindi iphone 14 è un iphone identico al 13 dello scorso anno, con un prezzo decisamente più alto.  Nel complesso quindi, il 14 non lo consiglio a nessuno. Se vuoi acquistare un nuovo iphone, scegli il 12 o il 13. Un semplice cambio di colore alla scocca esterna, non ne giustifica un aumento di prezzo così sproporzionato.  L'iphone più inutile di sempre, realizzato solamente per consumare risorse, il tutto senza il carica batterie perché bisogna far entrare più dispositivi per ogni container. Per questo il mio voto complessivo è di 1 stella. Spero di esserti stato Utile con la mia recensione. Walter 😊 👇Leer más",
+                "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Ho acquistato il nuovo modello di iphone 14 perché il mio vecchio 13 è stato perso e ho quindi deciso di prendere l'ultimo modello uscito.<br><br>Il prodotto è stato consegnato nei tempi stabiliti, grazie alla logistica di Amazon, all'interno dell’imballaggio Amazon. Come al solito nella confezione non si trova praticamente nulla, se non il cavo di ricarica e alcune istruzioni.<br><br>Il nuovo modello 14, non ha ancora il connettore di ricarica e dati Usb tipo C, ma ancora il vecchio lightning che ahimè da notevoli limitazioni sia a livello di velocità di ricarica, e sopratutto nello scambio di dati.<br><br>Ci sono poi altre cose che mi hanno basito:<br>1. Ha lo stesso design del precedente modello;<br>2. Ha lo stesso processo del 13, con un lieve miglioramento nella Gpu che ora è a 5 core;<br>3. Costa di più, rispetto al suo modello antecedente. E il nuovo prezzo, secondo me, non è giustificato dalle piccole migliorie apportate alle fotocamere posteriori.<br><br>La verità è che ogni anno ci si aspetta sempre delle grandi novità dalla tecnologia, quando anche questa ha dei limiti temporali. Quindi iphone 14 è un iphone identico al 13 dello scorso anno, con un prezzo decisamente più alto.<br><br>Nel complesso quindi, il 14 non lo consiglio a nessuno. Se vuoi acquistare un nuovo iphone, scegli il 12 o il 13. Un semplice cambio di colore alla scocca esterna, non ne giustifica un aumento di prezzo così sproporzionato.<br><br>L'iphone più inutile di sempre, realizzato solamente per consumare risorse, il tutto senza il carica batterie perché bisogna far entrare più dispositivi per ogni container.<br>Per questo il mio voto complessivo è di 1 stella. Spero di esserti stato Utile con la mia recensione. Walter 😊<br>👇</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Alternar entre texto completo de la reseña\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leer más&quot;, &quot;collapse_prompt&quot;:&quot;Leer menos&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leer más</span></a></div></div>",
+                "rating": 1,
+                "date": {
+                    "raw": "Revisado en Italia el 22 de septiembre de 2022",
+                    "utc": "2022-09-22T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "Walter Mirante ⛵️",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/1c5053cb-8bcc-4527-b6d0-57231e381212._CR0,0,500,500_SX48_.jpg"
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "helpful_votes": 309,
+                "review_country": "es",
+                "is_global_review": true
+            },
+            {
+                "id": "R2JFSGSOQA51L6",
+                "title": "Il miglior Iphone 2022 per i non fotografi",
+                "body": "Acquistato come complemento per un ambiente IOS, le sue funzioni sono quelle di telefono/messaggistica e di controllo di tecnologia a distanza (domotica, apple watch, e altri pc), per cui la fotocamera mi interessa poco e non so come vada per il gaming.  E' per il 99% l'iphone 13 PRO ottimizzato (consuma meno batteria, scalda meno) e con 30 grammi in meno di peso (15%) mancando il teleobiettivo (quello che si rompe per capirci). Schermo da 800 nit (1200 in HDR+), 60 Hz di refresh rate. Forse un adattativo sarebbe meglio per risparmiare qualche minuto di batteria, ma va bene uguale. Rispetto al 13 liscio hanno migliorato la fotocamera posteriore e aggiunto delle funzioni che speriamo non si attivino mai (check incidente ad esempio). La batteria me lo tiene vivo per una settimana circa. Apple \"dice\" 20 ore di streaming, possibile. Rispetto al 13 ora c'è il bluetooth 5.3 che consuma meno energia del 5.0 e ha un filtrino anti interferenze.  Confrontando con gli altri modelli: - Se usate lo smartphone per fare foto che poi elaborerete al pc non va bene, vi serve il pro (che arriva a 48megapixel, quindi ne tirate fuori foto da 5k).  - Il 14 plus con cover (obbligatoria) supera gli 8cm di larghezza e pesa 30 grammi in più (quindi è scomodo da maneggiare con una mano, a meno che non abbiate delle vanghe) e costa molto di più (abbastanza da farvi prendere in considerazione di comprare il PRO e non il plus).  Da aggiungere: - adattatore da 20 euro - cover da 50-60 euro - possibilmente le cuffie bluetooth (altri 300 euro). - per certe funzioni vi tocca prendere anche l'apple watch (500-1000 euro)Leer más",
+                "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Acquistato come complemento per un ambiente IOS, le sue funzioni sono quelle di telefono/messaggistica e di controllo di tecnologia a distanza (domotica, apple watch, e altri pc), per cui la fotocamera mi interessa poco e non so come vada per il gaming.<br><br>E' per il 99% l'iphone 13 PRO ottimizzato (consuma meno batteria, scalda meno) e con 30 grammi in meno di peso (15%) mancando il teleobiettivo (quello che si rompe per capirci).<br>Schermo da 800 nit (1200 in HDR+), 60 Hz di refresh rate. Forse un adattativo sarebbe meglio per risparmiare qualche minuto di batteria, ma va bene uguale.<br>Rispetto al 13 liscio hanno migliorato la fotocamera posteriore e aggiunto delle funzioni che speriamo non si attivino mai (check incidente ad esempio).<br>La batteria me lo tiene vivo per una settimana circa. Apple \"dice\" 20 ore di streaming, possibile.<br>Rispetto al 13 ora c'è il bluetooth 5.3 che consuma meno energia del 5.0 e ha un filtrino anti interferenze.<br><br>Confrontando con gli altri modelli:<br>- Se usate lo smartphone per fare foto che poi elaborerete al pc non va bene, vi serve il pro (che arriva a 48megapixel, quindi ne tirate fuori foto da 5k).<br><br>- Il 14 plus con cover (obbligatoria) supera gli 8cm di larghezza e pesa 30 grammi in più (quindi è scomodo da maneggiare con una mano, a meno che non abbiate delle vanghe) e costa molto di più (abbastanza da farvi prendere in considerazione di comprare il PRO e non il plus).<br><br>Da aggiungere:<br>- adattatore da 20 euro<br>- cover da 50-60 euro<br>- possibilmente le cuffie bluetooth (altri 300 euro).<br>- per certe funzioni vi tocca prendere anche l'apple watch (500-1000 euro)</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Alternar entre texto completo de la reseña\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leer más&quot;, &quot;collapse_prompt&quot;:&quot;Leer menos&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leer más</span></a></div></div>",
+                "rating": 5,
+                "date": {
+                    "raw": "Revisado en Italia el 22 de octubre de 2022",
+                    "utc": "2022-10-22T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "Mattia M."
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "helpful_votes": 24,
+                "review_country": "es",
+                "is_global_review": true
+            },
+            {
+                "id": "RRWT88JIPLEOI",
+                "title": "Buono ma non buonissimo se confrontato con iphone 13",
+                "body": "iPhone 14 è un eccellente telefono: scatta buone foto, ha un’ottima autonomia, stilisticamente è piacevole. Nascesse dal nulla e intorno avesse il nulla, lo consiglieremmo con entusiasmo. Ma nasce da iPhone 13 di cui è il fratello quasi gemello e intorno ha iPhone 14 Pro che pur non essendo una rivoluzione ha fatto molti più passi avanti rispetto ad iPhone 13 Pro di quanti ne abbia fatti iPhone 14 rispetto ad iPhone 13. Il risultato è che la differenza tra il modello Pro e il modello non Pro già ampia lo scorso anno, nel 2022 è aumentata e di molto sia in termini attuali che, sopratutto di prospettiva futura. In pratica iPhone 14 Pro introduce diverse nuove idee (prima di altre Dynamic Island ma anche la fotocamera da 48 Megapixel) che indicano la strada che Apple intraprenderà e verso cui iPhone 14 non può andare. Possiamo quindi dire che iPhone 14 Pro è il preludio al futuro della piattaforma mentre iPhone 14 è il massimo affinamento possibile di quella generazione nata con iPhone X che giunge qui al suo capitolo finale. Il successore di iPhone 14 dovrà essere necessariamente essere qualche cosa di diverso. Per questa ragione se lo scorso anno definivamo iPhone 13 come la scelta più razionale per tutti, quest’anno non possiamo dire la stessa cosa di iPhone 14: per chi vuole acquistare un nuovo telefono la scelta più razionale, al netto del costo, è iPhone 14 Pro.Leer más",
+                "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">iPhone 14 è un eccellente telefono: scatta buone foto, ha un’ottima autonomia, stilisticamente è piacevole. Nascesse dal nulla e intorno avesse il nulla, lo consiglieremmo con entusiasmo. Ma nasce da iPhone 13 di cui è il fratello quasi gemello e intorno ha iPhone 14 Pro che pur non essendo una rivoluzione ha fatto molti più passi avanti rispetto ad iPhone 13 Pro di quanti ne abbia fatti iPhone 14 rispetto ad iPhone 13. Il risultato è che la differenza tra il modello Pro e il modello non Pro già ampia lo scorso anno, nel 2022 è aumentata e di molto sia in termini attuali che, sopratutto di prospettiva futura. In pratica iPhone 14 Pro introduce diverse nuove idee (prima di altre Dynamic Island ma anche la fotocamera da 48 Megapixel) che indicano la strada che Apple intraprenderà e verso cui iPhone 14 non può andare. Possiamo quindi dire che iPhone 14 Pro è il preludio al futuro della piattaforma mentre iPhone 14 è il massimo affinamento possibile di quella generazione nata con iPhone X che giunge qui al suo capitolo finale. Il successore di iPhone 14 dovrà essere necessariamente essere qualche cosa di diverso.<br>Per questa ragione se lo scorso anno definivamo iPhone 13 come la scelta più razionale per tutti, quest’anno non possiamo dire la stessa cosa di iPhone 14: per chi vuole acquistare un nuovo telefono la scelta più razionale, al netto del costo, è iPhone 14 Pro.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Alternar entre texto completo de la reseña\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leer más&quot;, &quot;collapse_prompt&quot;:&quot;Leer menos&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leer más</span></a></div></div>",
+                "rating": 4,
+                "date": {
+                    "raw": "Revisado en Italia el 11 de enero de 2023",
+                    "utc": "2023-01-11T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "Antonia"
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "helpful_votes": 18,
+                "review_country": "es",
+                "is_global_review": true
+            },
+            {
+                "id": "RH1PLS83GFARG",
+                "title": "Fotocamera",
+                "body": "Qualcuno che già possiede qst telefono ha riscontrato il mio stesso problema? Quando ci si avvicina troppo ad una scritta in qst caso ma ho provato anche a con un documento la fotocamera non va a fuoco ho anche fatto L aggiornamento ma il problema persiste non so se è un problema del mio dispositivo o proprio del modello.Leer más",
+                "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Qualcuno che già possiede qst telefono ha riscontrato il mio stesso problema? Quando ci si avvicina troppo ad una scritta in qst caso ma ho provato anche a con un documento la fotocamera non va a fuoco ho anche fatto L aggiornamento ma il problema persiste non so se è un problema del mio dispositivo o proprio del modello.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Alternar entre texto completo de la reseña\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leer más&quot;, &quot;collapse_prompt&quot;:&quot;Leer menos&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leer más</span></a></div></div>",
+                "rating": 4,
+                "date": {
+                    "raw": "Revisado en Italia el 16 de octubre de 2022",
+                    "utc": "2022-10-16T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "LuNa",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/49764ff4-f467-4a71-a90c-b5a9cac82fd0._CR0,0,374,374_SX48_.jpg"
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "helpful_votes": 19,
+                "review_country": "es",
+                "is_global_review": true
+            },
+            {
+                "id": "RBODFI1AX90FS",
+                "title": "Ottimo",
+                "body": "Provenendo da molti anni dal mondo Android questo è stato il mio primo prodotto della famiglia Apple. L'impatto iniziale su certe combinazioni tasti non è stato semplice per fare semplici operazioni come le più banali come accensione/spegnimento o rifiutare una chiamata indesiderata...ma una volta imparato direi che il più è fatto. Il telefono va molto bene, ottima reattività e fluidità nell'utilizzo quotidiano. Riconoscimento facciale in condizioni normali è ottimo, con \"mascherina\" leggermente più lento. Mai riscontrato alcun lag durante utilizzo apps, comparto fotografico testato ad oggi buono sia di giorno che di notte. Durata della batteria ottima, con un utilizzo medio riesco a farci tranquillamente 2 gg. Nel complesso sono molto soddisfatto e probabilmente questo mi farà scordare il mondo Android molto velocemente. Il prezzo secondo me è l'unico punto dolente, che secondo me doveva essere contenuto e almeno equivalente al modello dello scorso anno.Leer más",
+                "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Provenendo da molti anni dal mondo Android questo è stato il mio primo prodotto della famiglia Apple.<br>L'impatto iniziale su certe combinazioni tasti non è stato semplice per fare semplici operazioni come le più banali come accensione/spegnimento o rifiutare una chiamata indesiderata...ma una volta imparato direi che il più è fatto.<br>Il telefono va molto bene, ottima reattività e fluidità nell'utilizzo quotidiano.<br>Riconoscimento facciale in condizioni normali è ottimo, con \"mascherina\" leggermente più lento.<br>Mai riscontrato alcun lag durante utilizzo apps, comparto fotografico testato ad oggi buono sia di giorno che di notte.<br>Durata della batteria ottima, con un utilizzo medio riesco a farci tranquillamente 2 gg.<br>Nel complesso sono molto soddisfatto e probabilmente questo mi farà scordare il mondo Android molto velocemente.<br>Il prezzo secondo me è l'unico punto dolente, che secondo me doveva essere contenuto e almeno equivalente al modello dello scorso anno.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Alternar entre texto completo de la reseña\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leer más&quot;, &quot;collapse_prompt&quot;:&quot;Leer menos&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leer más</span></a></div></div>",
+                "rating": 5,
+                "date": {
+                    "raw": "Revisado en Italia el 18 de diciembre de 2022",
+                    "utc": "2022-12-18T00:00:00.000Z"
+                },
+                "profile": {
+                    "name": "Andrea",
+                    "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/58f93816-0538-4293-b81f-ab35099f5b2c._CR62,0,375,375_SX48_.jpg"
+                },
+                "vine_program": false,
+                "verified_purchase": true,
+                "helpful_votes": 10,
+                "review_country": "es",
+                "is_global_review": true
+            }
+        ],
+        "buybox_winner": {
+            "maximum_order_quantity": {
+                "value": 2,
+                "hard_maximum": true
+            },
+            "secondary_buybox": {
+                "offer_id": "h52QyV9qatixu34w535yYMSAH4uo%2BT48IFN%2BvHP8Dz2yrm1V3n%2BlBe71aiW4MmNc7%2F2gaDwxAuflC4unY7S%2FkbzR3bB1EzAEq1Up%2F1izfYfCIXqc9O2kpdIVUi%2FBTO1aPPU9OKLbiv83ZtUutpu4MQdhXu7NUNm%2FZ4BjZqq8917p8j5ojCokHA%3D%3D",
+                "caption": "Ahorrar con De segunda mano – Muy bueno",
+                "availability": {
+                    "raw": "Entrega GRATIS entre el 28 de febrero - 6 de marzo"
+                }
+            },
+            "offer_id": "h52QyV9qatixu34w535yYMSAH4uo+T48IFN+vHP8Dz2yrm1V3n+lBe71aiW4MmNc7/2gaDwxAuflC4unY7S/kbzR3bB1EzAEq1Up/1izfYfCIXqc9O2kpdIVUi/BTO1aPPU9OKLbiv83ZtUutpu4MQdhXu7NUNm/Z4BjZqq8917p8j5ojCokHA==",
+            "mixed_offers_count": 4,
+            "mixed_offers_from": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 836.07,
+                "raw": "€836,07"
+            },
+            "is_prime": true,
+            "is_amazon_fresh": false,
+            "condition": {
+                "is_new": true
+            },
+            "availability": {
+                "type": "in_stock",
+                "raw": "En stock",
+                "dispatch_days": 1
+            },
+            "fulfillment": {
+                "type": "1p",
+                "standard_delivery": {
+                    "date": "sbado, 25 de febrero",
+                    "name": "GRATIS"
+                },
+                "fastest_delivery": {
+                    "date": "mañana, 22 de febrero",
+                    "name": "Entrega más rápida mañana, 23 de febrero."
+                },
+                "is_sold_by_amazon": true,
+                "amazon_seller": {
+                    "name": "Amazon"
+                },
+                "is_fulfilled_by_amazon": true,
+                "is_fulfilled_by_third_party": false,
+                "is_sold_by_third_party": false
+            },
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 899,
+                "raw": "€899,00"
+            },
+            "rrp": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 1009,
+                "raw": "€1.009,00"
+            },
+            "shipping": {
+                "raw": "GRATIS"
+            }
+        },
+        "specifications": [
+            {
+                "name": "Marca",
+                "value": "Apple"
+            },
+            {
+                "name": "Nombre del modelo",
+                "value": "iPhone 14"
+            },
+            {
+                "name": "Operador de servicios inalámbricos",
+                "value": "Todas las empresas de transportes"
+            },
+            {
+                "name": "Sistema operativo",
+                "value": "iOS 16"
+            },
+            {
+                "name": "Tecnología de móvil",
+                "value": "5G"
+            },
+            {
+                "name": "Capacidad de almacenamiento de memoria",
+                "value": "128 GB"
+            },
+            {
+                "name": "Color",
+                "value": "Negro Noche"
+            },
+            {
+                "name": "Tamaño de pantalla",
+                "value": "6.1 Pulgadas"
+            },
+            {
+                "name": "Tipo de conector",
+                "value": "USB tipo C"
+            },
+            {
+                "name": "Factor de forma",
+                "value": "Barra"
+            }
+        ],
+        "specifications_flat": "Factor de forma: Barra. Tipo de conector: USB tipo C. Tamaño de pantalla: 6.1 Pulgadas. Color: Negro Noche. Capacidad de almacenamiento de memoria: 128 GB. Tecnología de móvil: 5G. Sistema operativo: iOS 16. Operador de servicios inalámbricos: Todas las empresas de transportes. Nombre del modelo: iPhone 14. Marca: Apple.",
+        "color": "Negro Noche",
+        "whats_in_the_box": [
+            "iPhone, Cable de USB‑C a&nbsp;conector Lightning"
         ]
-      },
-      {
-        "asin": "B0B8HDWKTQ",
-        "title": "Reno 8 Dorado",
-        "is_current_product": false,
-        "link": "https://www.amazon.es/dp/B0B8HDWKTQ?th=1&psc=1",
-        "dimensions": [
-          {
-            "name": "Nombre de estilo",
-            "value": "Reno 8"
-          },
-          {
-            "name": "Color",
-            "value": "Dorado"
-          }
-        ],
-        "main_image": "https://m.media-amazon.com/images/I/51+Ygnv7YRL._AC_SL1200_.jpg",
-        "images": [
-          {
-            "variant": "MAIN",
-            "link": "https://m.media-amazon.com/images/I/51+Ygnv7YRL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT01",
-            "link": "https://m.media-amazon.com/images/I/61E3h6cQ8LL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT02",
-            "link": "https://m.media-amazon.com/images/I/51URoUyMB4L._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT03",
-            "link": "https://m.media-amazon.com/images/I/61S7ZTwmsxL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT04",
-            "link": "https://m.media-amazon.com/images/I/71joiBKt1cL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT05",
-            "link": "https://m.media-amazon.com/images/I/51VwFO4cNKL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT06",
-            "link": "https://m.media-amazon.com/images/I/71SO568CcnL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT07",
-            "link": "https://m.media-amazon.com/images/I/71LYZedmNhL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT08",
-            "link": "https://m.media-amazon.com/images/I/511CO+O7W+L._AC_SL1200_.jpg"
-          }
-        ]
-      },
-      {
-        "asin": "B0B1QJXRSF",
-        "title": "Reno 8 Lite Negro",
-        "is_current_product": false,
-        "link": "https://www.amazon.es/dp/B0B1QJXRSF?th=1&psc=1",
-        "dimensions": [
-          {
-            "name": "Nombre de estilo",
-            "value": "Reno 8 Lite"
-          },
-          {
-            "name": "Color",
-            "value": "Negro"
-          }
-        ],
-        "main_image": "https://m.media-amazon.com/images/I/513Zmfg7hzL._AC_SL1200_.jpg",
-        "images": [
-          {
-            "variant": "MAIN",
-            "link": "https://m.media-amazon.com/images/I/513Zmfg7hzL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT01",
-            "link": "https://m.media-amazon.com/images/I/61zwR1fi+YL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT02",
-            "link": "https://m.media-amazon.com/images/I/51I2tDXFKGL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT03",
-            "link": "https://m.media-amazon.com/images/I/61luV9P6HEL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT04",
-            "link": "https://m.media-amazon.com/images/I/61PwVXCJh5L._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT05",
-            "link": "https://m.media-amazon.com/images/I/61NA2WrBCfL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT06",
-            "link": "https://m.media-amazon.com/images/I/61Ghj6BjSoL._AC_SL1200_.jpg"
-          }
-        ]
-      },
-      {
-        "asin": "B0B1QJRW5R",
-        "title": "Reno 8 Lite Rainbow",
-        "is_current_product": false,
-        "link": "https://www.amazon.es/dp/B0B1QJRW5R?th=1&psc=1",
-        "dimensions": [
-          {
-            "name": "Nombre de estilo",
-            "value": "Reno 8 Lite"
-          },
-          {
-            "name": "Color",
-            "value": "Rainbow"
-          }
-        ],
-        "main_image": "https://m.media-amazon.com/images/I/512+poMLXRL._AC_SL1200_.jpg",
-        "images": [
-          {
-            "variant": "MAIN",
-            "link": "https://m.media-amazon.com/images/I/512+poMLXRL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT01",
-            "link": "https://m.media-amazon.com/images/I/61mMe75ZyNL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT02",
-            "link": "https://m.media-amazon.com/images/I/51IDC9dtLsL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT03",
-            "link": "https://m.media-amazon.com/images/I/61xfwB7wC5L._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT04",
-            "link": "https://m.media-amazon.com/images/I/61i8A80U4OL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT05",
-            "link": "https://m.media-amazon.com/images/I/61ki72PoFnL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT06",
-            "link": "https://m.media-amazon.com/images/I/61CUdn4xoML._AC_SL1200_.jpg"
-          }
-        ]
-      },
-      {
-        "asin": "B0B8HG8W8Y",
-        "title": "Reno 8 Pro Verde",
-        "is_current_product": true,
-        "link": "https://www.amazon.es/dp/B0B8HG8W8Y?th=1&psc=1",
-        "dimensions": [
-          {
-            "name": "Nombre de estilo",
-            "value": "Reno 8 Pro"
-          },
-          {
-            "name": "Color",
-            "value": "Verde"
-          }
-        ],
-        "main_image": "https://m.media-amazon.com/images/I/51rCZCDW2rL._AC_SL1200_.jpg",
-        "images": [
-          {
-            "variant": "MAIN",
-            "link": "https://m.media-amazon.com/images/I/51rCZCDW2rL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT01",
-            "link": "https://m.media-amazon.com/images/I/51nUxNV+MIL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT02",
-            "link": "https://m.media-amazon.com/images/I/51DWKX3KhRL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT03",
-            "link": "https://m.media-amazon.com/images/I/71ju9YS8ZCL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT04",
-            "link": "https://m.media-amazon.com/images/I/61pl7DAEkVL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT05",
-            "link": "https://m.media-amazon.com/images/I/617wQZSB-JL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT06",
-            "link": "https://m.media-amazon.com/images/I/71lcfHrXxhL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT07",
-            "link": "https://m.media-amazon.com/images/I/71xs20f5+sL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT08",
-            "link": "https://m.media-amazon.com/images/I/51VeRNWEzBL._AC_SL1200_.jpg"
-          }
-        ]
-      },
-      {
-        "asin": "B0B8HCT1JZ",
-        "title": "Reno 8 Negro",
-        "is_current_product": false,
-        "link": "https://www.amazon.es/dp/B0B8HCT1JZ?th=1&psc=1",
-        "dimensions": [
-          {
-            "name": "Nombre de estilo",
-            "value": "Reno 8"
-          },
-          {
-            "name": "Color",
-            "value": "Negro"
-          }
-        ],
-        "main_image": "https://m.media-amazon.com/images/I/51qYxt87IOL._AC_SL1200_.jpg",
-        "images": [
-          {
-            "variant": "MAIN",
-            "link": "https://m.media-amazon.com/images/I/51qYxt87IOL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT01",
-            "link": "https://m.media-amazon.com/images/I/61+ZLKD4SCL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT02",
-            "link": "https://m.media-amazon.com/images/I/51O02rRQ-DL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT03",
-            "link": "https://m.media-amazon.com/images/I/61S7ZTwmsxL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT04",
-            "link": "https://m.media-amazon.com/images/I/71joiBKt1cL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT05",
-            "link": "https://m.media-amazon.com/images/I/51VwFO4cNKL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT06",
-            "link": "https://m.media-amazon.com/images/I/71SO568CcnL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT07",
-            "link": "https://m.media-amazon.com/images/I/71LYZedmNhL._AC_SL1200_.jpg"
-          },
-          {
-            "variant": "PT08",
-            "link": "https://m.media-amazon.com/images/I/51fc+vpB49L._AC_SL1200_.jpg"
-          }
-        ]
-      }
-    ],
-    "variant_asins_flat": "B0B8HC38BQ,B0B8HDWKTQ,B0B1QJXRSF,B0B1QJRW5R,B0B8HG8W8Y,B0B8HCT1JZ",
-    "categories": [
-      {
-        "name": "Electrónica",
-        "link": "https://www.amazon.es/Electr%C3%B3nica/b/ref=dp_bc_aui_C_1?ie=UTF8&node=599370031",
-        "category_id": "599370031"
-      },
-      {
-        "name": "Comunicación móvil y accesorios",
-        "link": "https://www.amazon.es/comunicacion-movil-accesorios/b/ref=dp_bc_aui_C_2?ie=UTF8&node=665492031",
-        "category_id": "665492031"
-      },
-      {
-        "name": "Móviles",
-        "link": "https://www.amazon.es/b/ref=dp_bc_aui_C_3?ie=UTF8&node=17425698031",
-        "category_id": "17425698031"
-      },
-      {
-        "name": "Móviles y smartphones libres",
-        "link": "https://www.amazon.es/moviles-smartphones-libres/b/ref=dp_bc_aui_C_4?ie=UTF8&node=934197031",
-        "category_id": "934197031"
-      }
-    ],
-    "categories_flat": "Electrónica > Comunicación móvil y accesorios > Móviles > Móviles y smartphones libres",
-    "delivery_message": "Entrega GRATIS:   jueves, 23 de feb.               Entrega GRATIS:   jueves, 23 de feb.",
-    "a_plus_content": {
-      "has_a_plus_content": true,
-      "has_brand_story": false,
-      "third_party": false
     },
-    "sub_title": {
-      "text": "Visita la Store de OPPO",
-      "link": "https://www.amazon.es/stores/OPPOStore/page/810DD4AE-8334-4A50-8194-360F7AEEF8AA?ref_=ast_bln"
-    },
-    "amazons_choice": {
-      "keywords": "oppo reno 8 pro",
-      "link": "https://www.amazon.es/s/ref=choice_dp_b?keywords=oppo%20reno%208%20pro"
-    },
-    "rating": 5,
-    "rating_breakdown": {
-      "five_star": {
-        "percentage": 97,
-        "count": 18
-      },
-      "four_star": {
-        "percentage": 3,
-        "count": 0
-      },
-      "three_star": {
-        "percentage": 0,
-        "count": 0
-      },
-      "two_star": {
-        "percentage": 0,
-        "count": 0
-      },
-      "one_star": {
-        "percentage": 0,
-        "count": 0
-      }
-    },
-    "ratings_total": 19,
-    "main_image": {
-      "link": "https://m.media-amazon.com/images/I/51rCZCDW2rL.jpg"
-    },
-    "images": [
-      {
-        "link": "https://m.media-amazon.com/images/I/51rCZCDW2rL._AC_SL1200_.jpg",
-        "variant": "MAIN"
-      },
-      {
-        "link": "https://m.media-amazon.com/images/I/51nUxNV+MIL._AC_SL1200_.jpg",
-        "variant": "PT01"
-      },
-      {
-        "link": "https://m.media-amazon.com/images/I/51DWKX3KhRL._AC_SL1200_.jpg",
-        "variant": "PT02"
-      },
-      {
-        "link": "https://m.media-amazon.com/images/I/71ju9YS8ZCL._AC_SL1200_.jpg",
-        "variant": "PT03"
-      },
-      {
-        "link": "https://m.media-amazon.com/images/I/61pl7DAEkVL._AC_SL1200_.jpg",
-        "variant": "PT04"
-      },
-      {
-        "link": "https://m.media-amazon.com/images/I/617wQZSB-JL._AC_SL1200_.jpg",
-        "variant": "PT05"
-      },
-      {
-        "link": "https://m.media-amazon.com/images/I/71lcfHrXxhL._AC_SL1200_.jpg",
-        "variant": "PT06"
-      },
-      {
-        "link": "https://m.media-amazon.com/images/I/71xs20f5+sL._AC_SL1200_.jpg",
-        "variant": "PT07"
-      },
-      {
-        "link": "https://m.media-amazon.com/images/I/51VeRNWEzBL._AC_SL1200_.jpg",
-        "variant": "PT08"
-      }
-    ],
-    "images_count": 9,
-    "images_flat": "https://m.media-amazon.com/images/I/51rCZCDW2rL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/51nUxNV+MIL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/51DWKX3KhRL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/71ju9YS8ZCL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/61pl7DAEkVL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/617wQZSB-JL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/71lcfHrXxhL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/71xs20f5+sL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/51VeRNWEzBL._AC_SL1200_.jpg",
-    "videos": [
-      {
-        "duration_seconds": 15,
-        "width": 854,
-        "height": 480,
-        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/0b7d5f0d-3f95-4cfd-80b9-311e3a52c7bc/default.jobtemplate.mp4.480.mp4",
-        "thumbnail": "https://m.media-amazon.com/images/I/518WZDGUW0L.SX522_.jpg",
-        "is_hero_video": false,
-        "variant": "MAIN",
-        "group_id": "IB_G1",
-        "group_type": "videos_for_this_product",
-        "title": "OPPO Reno 8 Pro 5G"
-      }
-    ],
-    "videos_count": 1,
-    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/0b7d5f0d-3f95-4cfd-80b9-311e3a52c7bc/default.jobtemplate.mp4.480.mp4",
-    "is_bundle": false,
-    "feature_bullets": [
-      "Gracias a su pantalla AMOLED de 6,7\" y su resolución FHD+, OPPO Reno8 PRO 5G te permitirá disfrutar de todos los colores de la forma más fluida gracias a sus 120Hz de tasa de refresco.",
-      "El OPPO Reno8 Pro está dotado con MariSilicon X, un chip de procesado de imagen desarrollado en los laboratorios de OPPO capaz de darte los mejores resultados de fotografía y vídeo que siempre soñaste. Además, cuenta con una enorme batería de 4500mAh que junto a su impresionante carga rápida de 80W SUPERVOOC, garantiza que tendrás tu teléfono siempre listo.",
-      "Saca el mayor partido a tus fotos y vídeos con la mejor inteligencia artificial (IA) que te da OPPO para que puedas obtener no solo unos resultados de altísima calidad si no los resultados más originales. Consigue capturar la noche de la forma más realista y sorprendente en vídeo 4K Ultra Nocturno.",
-      "Los mejores resultados en foto y vídeo. Gran cámara trasera de 50MP con flash ultra potente gracias a su aro de luz incorporado. La cámara frontal de 32MP garantiza que no te perterás ni un detalle en tus selfies, capta hasta un 60% más de luz.",
-      "El nuevo OPPO Reno8 Pro 5G es un teléfono de diseño unibody, ultra delgado y super ligero. Lo puedes encontrar en dos colores. El negro, clásico y elegante. Y el verde, que le da un toque atrevido e innovador."
-    ],
-    "feature_bullets_count": 5,
-    "feature_bullets_flat": "El nuevo OPPO Reno8 Pro 5G es un teléfono de diseño unibody, ultra delgado y super ligero. Lo puedes encontrar en dos colores. El negro, clásico y elegante. Y el verde, que le da un toque atrevido e innovador. Los mejores resultados en foto y vídeo. Gran cámara trasera de 50MP con flash ultra potente gracias a su aro de luz incorporado. La cámara frontal de 32MP garantiza que no te perterás ni un detalle en tus selfies, capta hasta un 60% más de luz. Saca el mayor partido a tus fotos y vídeos con la mejor inteligencia artificial (IA) que te da OPPO para que puedas obtener no solo unos resultados de altísima calidad si no los resultados más originales. Consigue capturar la noche de la forma más realista y sorprendente en vídeo 4K Ultra Nocturno. El OPPO Reno8 Pro está dotado con MariSilicon X, un chip de procesado de imagen desarrollado en los laboratorios de OPPO capaz de darte los mejores resultados de fotografía y vídeo que siempre soñaste. Además, cuenta con una enorme batería de 4500mAh que junto a su impresionante carga rápida de 80W SUPERVOOC, garantiza que tendrás tu teléfono siempre listo. Gracias a su pantalla AMOLED de 6,7\" y su resolución FHD+, OPPO Reno8 PRO 5G te permitirá disfrutar de todos los colores de la forma más fluida gracias a sus 120Hz de tasa de refresco.",
-    "attributes": [
-      {
-        "name": "Marca",
-        "value": "OPPO"
-      },
-      {
-        "name": "Nombre del modelo",
-        "value": "Reno 8 Pro"
-      },
-      {
-        "name": "Operador de servicios inalámbricos",
-        "value": "Todas las empresas de transportes"
-      },
-      {
-        "name": "Sistema operativo",
-        "value": "Color Os 12.1, Android 12.0"
-      },
-      {
-        "name": "Tecnología de móvil",
-        "value": "5G"
-      },
-      {
-        "name": "Capacidad de almacenamiento de memoria",
-        "value": "256 GB"
-      },
-      {
-        "name": "Color",
-        "value": "Verde"
-      },
-      {
-        "name": "Tamaño de pantalla",
-        "value": "6.7 Pulgadas"
-      },
-      {
-        "name": "Tamaño de memoria RAM instalada",
-        "value": "8 GB"
-      },
-      {
-        "name": "Número de ranuras para tarjetas SIM",
-        "value": "Dual SIM"
-      }
-    ],
-    "top_reviews": [
-      {
-        "id": "R2X45NESBJUVTL",
-        "title": "Elegante, ligero y super completo. Carga super Top",
-        "body": "Tengo este smartphone más de una semana y en este tiempo que lo estoy utilizando como teléfono personal y principal, la experiencia no puede ser más positiva .  1º -El diseño: es un acierto :Ese color verde es muy bonito , diferente y a la misma vez elegante, se nota la calidad de construcción , con materiales premium con cristal y recubierto de Corning Gorilla Glass 5 y Metal .  Lo único que aun no me convence o lo veo raro, es lo grande que han puesto el módulo donde van los sensores de la cámara , lo veo más estético que de utilidad real o por necesidad física por el tamaño de sensor fotográfico.  2º- El peso: es super ligero para el tamaño de pantalla que tiene y el tamaño de batería. Se nota super cómodo para llevarlo en el bolsillo, o estar usando durante un tiempo prolongado.  3º- La pantalla Amoled Full HD + y de 10 bits : Se nota que es de la gama alta sin llegar a ser top como su modelo estrella , pero tiene una gran nitidez , calidad. Lo único que echo en falta es algo más de brillo y el poder tener bajar los Hz hasta 0 automáticamente , sin llegar a ser o 60 HZ o 120 .  La función always on display no está mal del todo, pero le falta algo más de funciones y personalización. Que por lo que he leído en la nueva actualización a Android 12 mejorara .  4º- Procesador : MediaTek Dimensity 8100-MAX , Es el 1º smartphone que tengo con esta marca de procesador, pero de momento va muy fluido y rápido . Es un plus que tenga 8 gigas de RAM tipo LPDDR 5 y 256 gigas de memoria interna tipo UFS3.1 que es super rápida.  5º- Batería : 4.500 mAh + Carga Super BOOC 80W . Carga de 0 al 100 % en unos 35 minutos, super top . Y se nota mucho la rapidez y la comodidad. Además a pesar de tener esa carga tan rápida, va diseñado para aguantar el doble de ciclos sin degradarse a menos del 80% .  6º- Cámaras principales: EL principal sensor y el más importante es de 50 megapíxeles y la verdad hace muy buenas fotos y de calidad. Y más aún que incluye el chip diseñado específicamente para las fotos y videos. De noche es donde se nota que es de gran calidad y de nitidez. Porque es donde fallan la mayoría de Smartphone del mercado.  El gran angular está bien pero no sobresale en comparación con la competencia. Donde si veo un fallo importante es incorporar un sensor macro de 2 megapíxeles como en las gamas medias que no sirve de utilidad, por la calidad de las fotos. Y le falta un estabilizador óptico, y más aún en la gama de precio donde se mueve en el sector.  Lo que si veo un fallo importante es que no incluya IP68 para poder sumergirlo en el agua y mas por el precio que tiene.Leer más",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Tengo este smartphone más de una semana y en este tiempo que lo estoy utilizando como teléfono personal y principal, la experiencia no puede ser más positiva .<br><br>1º -El diseño: es un acierto :Ese color verde es muy bonito , diferente y a la misma vez elegante, se nota la calidad de construcción , con materiales premium con cristal y recubierto de Corning Gorilla Glass 5 y Metal .<br><br>Lo único que aun no me convence o lo veo raro, es lo grande que han puesto el módulo donde van los sensores de la cámara , lo veo más estético que de utilidad real o por necesidad física por el tamaño de sensor fotográfico.<br><br>2º- El peso: es super ligero para el tamaño de pantalla que tiene y el tamaño de batería. Se nota super cómodo para llevarlo en el bolsillo, o estar usando durante un tiempo prolongado.<br><br>3º- La pantalla Amoled Full HD + y de 10 bits : Se nota que es de la gama alta sin llegar a ser top como su modelo estrella , pero tiene una gran nitidez , calidad. Lo único que echo en falta es algo más de brillo y el poder tener bajar los Hz hasta 0 automáticamente , sin llegar a ser o 60 HZ o 120 .<br><br>La función always on display no está mal del todo, pero le falta algo más de funciones y personalización. Que por lo que he leído en la nueva actualización a Android 12 mejorara .<br><br>4º- Procesador : MediaTek Dimensity 8100-MAX , Es el 1º smartphone que tengo con esta marca de procesador, pero de momento va muy fluido y rápido . Es un plus que tenga 8 gigas de RAM tipo LPDDR 5 y 256 gigas de memoria interna tipo UFS3.1 que es super rápida.<br><br>5º- Batería : 4.500 mAh + Carga Super BOOC 80W . Carga de 0 al 100 % en unos 35 minutos, super top . Y se nota mucho la rapidez y la comodidad. Además a pesar de tener esa carga tan rápida, va diseñado para aguantar el doble de ciclos sin degradarse a menos del 80% .<br><br>6º- Cámaras principales: EL principal sensor y el más importante es de 50 megapíxeles y la verdad hace muy buenas fotos y de calidad. Y más aún que incluye el chip diseñado específicamente para las fotos y videos. De noche es donde se nota que es de gran calidad y de nitidez. Porque es donde fallan la mayoría de Smartphone del mercado.<br><br>El gran angular está bien pero no sobresale en comparación con la competencia. Donde si veo un fallo importante es incorporar un sensor macro de 2 megapíxeles como en las gamas medias que no sirve de utilidad, por la calidad de las fotos. Y le falta un estabilizador óptico, y más aún en la gama de precio donde se mueve en el sector.<br><br>Lo que si veo un fallo importante es que no incluya IP68 para poder sumergirlo en el agua y mas por el precio que tiene.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Alternar entre texto completo de la reseña\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leer más&quot;, &quot;collapse_prompt&quot;:&quot;Leer menos&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leer más</span></a></div></div>",
-        "link": "https://www.amazon.es/gp/customer-reviews/R2X45NESBJUVTL/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0B8HG8W8Y",
-        "rating": 5,
-        "date": {
-          "raw": "Revisado en España 🇪🇸 el 18 de septiembre de 2022",
-          "utc": "2022-09-18T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "José Ramón G.",
-          "link": "https://www.amazon.es/gp/profile/amzn1.account.AHJK5A7D6GOFQMLOCB6PFQWKXUVA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
-          "id": "AHJK5A7D6GOFQMLOCB6PFQWKXUVA",
-          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/b81a8a77-6fda-45cb-8208-e5e523edd75b._CR0,0,3456,3456_SX48_.jpg"
-        },
-        "vine_program": false,
-        "verified_purchase": true,
-        "images": [
-          {
-            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
-          },
-          {
-            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
-          },
-          {
-            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
-          }
-        ],
-        "helpful_votes": 4,
-        "review_country": "es",
-        "is_global_review": false
-      },
-      {
-        "id": "RW2QQAPT0F8TX",
-        "title": "Gran terminal con algún pero...",
-        "body": "Primera impresión: OPPO sigue reinventándose para situarse como la opción más deseada de los consumidores españoles. El diseño del terminal me recuerda a una popular marca que todo el mundo conoce pionera en dispositivos móviles. El traer un cable aparte pegado a la caja, me resulta un poco extraño, podrían haber cuidado un poco más el packaging, es como si se les hubiese olvidado meter ese cable en la caja. Este pequeño detalle resta un poco de puntos a la marca, cuando podrían haber rediseñado la caja o incluso ver la manera de aunar dos cables en uno. Lo que más me ha gustado: Facilidad de traslado de datos entre viejo y nuevo dispositivo, rápido y con instrucciones claras. El peso del terminal se ha mejorado bastante con respecto a modelos anteriores La calidad de la pantalla es excepcional, colores brillantes y claros. Veo de forma más clara el correo, WhatsApp, noticias y sin necesidad de aumentar la letra. Adaptación óptima a la mano. Tenía mis reticencias al diseño de las cámaras al sobre salir, pero sin duda igual hasta le dan un extra de apoyo en la mano para evitar caídas. La cámara de fotos es IMPRESIONANTE. Al tener un blog de viajes es algo que busco en un terminal móvil, que haga fotos casi parecidas a las de una cámara profesional sin necesidad de edición, de una forma fácil y sencilla. Es algo que me ha impresionado enormemente de este terminal. La rapidez de la carga del terminal es algo que se agradece, que cuando vas con prisa en pocos minutos tengas un nivel de batería que te permita utilizar el móvil sin problema con una carga óptima, aunque no sea total para todo el día. La fluidez del terminal es muy buena y la tasa de refresco espectacular. El terminal no se calienta en ningún momento, lo que hace de OPPO una marca que cuida los detalles para la satisfacción de sus clientes. A mejorar: La batería, pese a ser de mayor capacidad, tiene una misma duración en días para mí, llevándolo en ahorro de energía, 2 días, es algo que me ha sorprendido negativamente, parece que no está bien optimizada con el terminal, algo que seguramente solventarán en las posibles actualizaciones del terminal.Leer más",
-        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Primera impresión: OPPO sigue reinventándose para situarse como la opción más deseada de los consumidores españoles. El diseño del terminal me recuerda a una popular marca que todo el mundo conoce pionera en dispositivos móviles. El traer un cable aparte pegado a la caja, me resulta un poco extraño, podrían haber cuidado un poco más el packaging, es como si se les hubiese olvidado meter ese cable en la caja. Este pequeño detalle resta un poco de puntos a la marca, cuando podrían haber rediseñado la caja o incluso ver la manera de aunar dos cables en uno. Lo que más me ha gustado: Facilidad de traslado de datos entre viejo y nuevo dispositivo, rápido y con instrucciones claras. El peso del terminal se ha mejorado bastante con respecto a modelos anteriores La calidad de la pantalla es excepcional, colores brillantes y claros. Veo de forma más clara el correo, WhatsApp, noticias y sin necesidad de aumentar la letra. Adaptación óptima a la mano. Tenía mis reticencias al diseño de las cámaras al sobre salir, pero sin duda igual hasta le dan un extra de apoyo en la mano para evitar caídas. La cámara de fotos es IMPRESIONANTE. Al tener un blog de viajes es algo que busco en un terminal móvil, que haga fotos casi parecidas a las de una cámara profesional sin necesidad de edición, de una forma fácil y sencilla. Es algo que me ha impresionado enormemente de este terminal. La rapidez de la carga del terminal es algo que se agradece, que cuando vas con prisa en pocos minutos tengas un nivel de batería que te permita utilizar el móvil sin problema con una carga óptima, aunque no sea total para todo el día. La fluidez del terminal es muy buena y la tasa de refresco espectacular. El terminal no se calienta en ningún momento, lo que hace de OPPO una marca que cuida los detalles para la satisfacción de sus clientes. A mejorar: La batería, pese a ser de mayor capacidad, tiene una misma duración en días para mí, llevándolo en ahorro de energía, 2 días, es algo que me ha sorprendido negativamente, parece que no está bien optimizada con el terminal, algo que seguramente solventarán en las posibles actualizaciones del terminal.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Alternar entre texto completo de la reseña\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Leer más&quot;, &quot;collapse_prompt&quot;:&quot;Leer menos&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Leer más</span></a></div></div>",
-        "link": "https://www.amazon.es/gp/customer-reviews/RW2QQAPT0F8TX/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0B8HG8W8Y",
-        "rating": 5,
-        "date": {
-          "raw": "Revisado en España 🇪🇸 el 17 de octubre de 2022",
-          "utc": "2022-10-17T00:00:00.000Z"
-        },
-        "profile": {
-          "name": "David GG",
-          "link": "https://www.amazon.es/gp/profile/amzn1.account.AEJYQWHMOPCNULC2DNAHFYNEPNAQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
-          "id": "AEJYQWHMOPCNULC2DNAHFYNEPNAQ"
-        },
-        "vine_program": false,
-        "verified_purchase": true,
-        "review_country": "es",
-        "is_global_review": false
-      }
-    ],
-    "buybox_winner": {
-      "maximum_order_quantity": {
-        "value": 2,
-        "hard_maximum": true
-      },
-      "secondary_buybox": {
-        "offer_id": "Y6a%2BW0kW9W7Y8pXjDYbKqgImNnKQyho4gT5c2pt2Y1JFdFinmSqdVbIwLs7jLlQyoGpZpv5mB6iif%2FkgSVY1UonuOW5ba9gMSyLdTxai3pe9krI1IKipwvqcwFzpATZsZW1NaoQkU%2BEDLQ0f0eop3tin2cZPGp8UfGlh67WVoBCrPLByIfHqGQ%3D%3D",
-        "caption": "Ahorrar con De segunda mano – Bueno",
-        "availability": {
-          "raw": "Entrega GRATIS el jueves, 23 de febrero. Ver detalles"
-        }
-      },
-      "offer_id": "yhzMGdavq2ByaInkr8R7Zil+MSoPVOlC78BQa85CyIcpgLhARo0dX+r5DbjsX3gQnMoNlu5ViHnYooWY6f0UYHpHu0Ef1N5i/SWUKv29vaoPvy3ESMBeldVrPd0ruHZnc/iNwzkT1e2vIiP7rjWTAQ==",
-      "mixed_offers_count": 2,
-      "mixed_offers_from": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 624.67,
-        "raw": "€624,67"
-      },
-      "is_prime": true,
-      "is_amazon_fresh": false,
-      "condition": {
-        "is_new": true
-      },
-      "availability": {
-        "type": "in_stock",
-        "raw": "En stock",
-        "dispatch_days": 1
-      },
-      "fulfillment": {
-        "type": "1p",
-        "standard_delivery": {
-          "date": "jueves, 23 de febrero",
-          "name": "GRATIS"
-        },
-        "fastest_delivery": {
-          "date": "maana, 21 de febrero",
-          "name": "entrega ms rpida maana, 21 de febrero. Haz el pedido en 21 horas 13 mins. Ver detalles"
-        },
-        "is_sold_by_amazon": true,
-        "amazon_seller": {
-          "name": "Amazon"
-        },
-        "is_fulfilled_by_amazon": true,
-        "is_fulfilled_by_third_party": false,
-        "is_sold_by_third_party": false
-      },
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 679,
-        "raw": "€679,00"
-      },
-      "rrp": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 799,
-        "raw": "€799,00"
-      },
-      "shipping": {
-        "raw": "GRATIS"
-      }
-    },
-    "specifications": [
-      {
-        "name": "Marca",
-        "value": "‎OPPO"
-      },
-      {
-        "name": "Fabricante",
-        "value": "‎mcr infoelectronic"
-      },
-      {
-        "name": "Modelo",
-        "value": "‎CPH2357"
-      },
-      {
-        "name": "Nombre del modelo",
-        "value": "‎Reno 8 Pro"
-      },
-      {
-        "name": "Año del modelo",
-        "value": "‎2022"
-      },
-      {
-        "name": "Dimensiones del producto",
-        "value": "‎16.12 x 7.42 x 0.73 cm; 183 gramos"
-      },
-      {
-        "name": "Pilas",
-        "value": "‎1 Litio Ion necesaria"
-      },
-      {
-        "name": "Número de modelo del producto",
-        "value": "‎CPH2357"
-      },
-      {
-        "name": "Número de producto",
-        "value": "‎CPH2357"
-      },
-      {
-        "name": "Capacidad de la memoria RAM",
-        "value": "‎8 GB"
-      },
-      {
-        "name": "Capacidad de la memoria",
-        "value": "‎256 GB"
-      },
-      {
-        "name": "Capacidad de la memoria flash instalada",
-        "value": "‎256 GB"
-      },
-      {
-        "name": "Capacidad de la memoria RAM instalada",
-        "value": "‎8 GB"
-      },
-      {
-        "name": "Capacidad de almacenamiento digital",
-        "value": "‎8 GB"
-      },
-      {
-        "name": "Sistema operativo",
-        "value": "‎Color Os 12.1, Android 12.0"
-      },
-      {
-        "name": "Fabricante del procesador",
-        "value": "‎MediaTek Dimensity 8100 MAX"
-      },
-      {
-        "name": "Resolución del escáner",
-        "value": "‎1080 x 2412"
-      },
-      {
-        "name": "Otras características",
-        "value": "‎cámara_frontal, camera, flash"
-      },
-      {
-        "name": "Componentes incluidos",
-        "value": "‎Reno8 Pro, 1x Cable USB-C, 1x Cargador 80W SuperVooc"
-      },
-      {
-        "name": "Número de productos",
-        "value": "‎1"
-      },
-      {
-        "name": "Tecnología de pantalla",
-        "value": "‎AMOLED"
-      },
-      {
-        "name": "Tamaño de la pantalla",
-        "value": "‎6.7 Pulgadas"
-      },
-      {
-        "name": "Tipo de pantalla",
-        "value": "‎AMOLED"
-      },
-      {
-        "name": "Resolución máxima",
-        "value": "‎2412 x 1080 Píxeles"
-      },
-      {
-        "name": "Resolución del sensor óptico",
-        "value": "‎32 MP"
-      },
-      {
-        "name": "Pilas / baterías incluidas",
-        "value": "‎Sí"
-      },
-      {
-        "name": "Pilas / baterías necesarias",
-        "value": "‎Sí"
-      },
-      {
-        "name": "Carga eléctrica de la batería",
-        "value": "‎4500 Modificador desconocido"
-      },
-      {
-        "name": "Composición de la pila de la batería",
-        "value": "‎Litio Ion"
-      },
-      {
-        "name": "Potencia nominal de la batería",
-        "value": "‎4500 Modificador desconocido"
-      },
-      {
-        "name": "Tecnología GSM",
-        "value": "‎5G"
-      },
-      {
-        "name": "Frecuencia de actualización",
-        "value": "‎120 Hz"
-      },
-      {
-        "name": "Entrada de interfaz humana",
-        "value": "‎Pantalla táctil"
-      },
-      {
-        "name": "Factor de forma",
-        "value": "‎Barra"
-      },
-      {
-        "name": "Peso del producto",
-        "value": "‎183 g"
-      },
-      {
-        "name": "ASIN",
-        "value": "B0B8HG8W8Y"
-      },
-      {
-        "name": "Valoración media de los clientes",
-        "value": "5,0 de 5 estrellas       19 valoraciones          5,0 de 5 estrellas"
-      },
-      {
-        "name": "Clasificación en los más vendidos de Amazon",
-        "value": "nº8,798 en Electrónica"
-      },
-      {
-        "name": "Producto en Amazon.es desde",
-        "value": "31 agosto 2022"
-      },
-      {
-        "name": "Marca",
-        "value": "OPPO"
-      },
-      {
-        "name": "Nombre del modelo",
-        "value": "Reno 8 Pro"
-      },
-      {
-        "name": "Operador de servicios inalámbricos",
-        "value": "Todas las empresas de transportes"
-      },
-      {
-        "name": "Sistema operativo",
-        "value": "Color Os 12.1, Android 12.0"
-      },
-      {
-        "name": "Tecnología de móvil",
-        "value": "5G"
-      },
-      {
-        "name": "Capacidad de almacenamiento de memoria",
-        "value": "256 GB"
-      },
-      {
-        "name": "Color",
-        "value": "Verde"
-      },
-      {
-        "name": "Tamaño de pantalla",
-        "value": "6.7 Pulgadas"
-      },
-      {
-        "name": "Tamaño de memoria RAM instalada",
-        "value": "8 GB"
-      },
-      {
-        "name": "Número de ranuras para tarjetas SIM",
-        "value": "Dual SIM"
-      }
-    ],
-    "specifications_flat": "Número de ranuras para tarjetas SIM: Dual SIM. Tamaño de memoria RAM instalada: 8 GB. Tamaño de pantalla: 6.7 Pulgadas. Color: Verde. Capacidad de almacenamiento de memoria: 256 GB. Tecnología de móvil: 5G. Sistema operativo: Color Os 12.1, Android 12.0. Operador de servicios inalámbricos: Todas las empresas de transportes. Nombre del modelo: Reno 8 Pro. Marca: OPPO. Producto en Amazon.es desde: 31 agosto 2022. Clasificación en los más vendidos de Amazon: nº8,798 en Electrónica. Valoración media de los clientes: 5,0 de 5 estrellas       19 valoraciones          5,0 de 5 estrellas. ASIN: B0B8HG8W8Y. Peso del producto: ‎183 g. Factor de forma: ‎Barra. Entrada de interfaz humana: ‎Pantalla táctil. Frecuencia de actualización: ‎120 Hz. Tecnología GSM: ‎5G. Potencia nominal de la batería: ‎4500 Modificador desconocido. Composición de la pila de la batería: ‎Litio Ion. Carga eléctrica de la batería: ‎4500 Modificador desconocido. Pilas / baterías necesarias: ‎Sí. Pilas / baterías incluidas: ‎Sí. Resolución del sensor óptico: ‎32 MP. Resolución máxima: ‎2412 x 1080 Píxeles. Tipo de pantalla: ‎AMOLED. Tamaño de la pantalla: ‎6.7 Pulgadas. Tecnología de pantalla: ‎AMOLED. Número de productos: ‎1. Componentes incluidos: ‎Reno8 Pro, 1x Cable USB-C, 1x Cargador 80W SuperVooc. Otras características: ‎cámara_frontal, camera, flash. Resolución del escáner: ‎1080 x 2412. Fabricante del procesador: ‎MediaTek Dimensity 8100 MAX. Sistema operativo: ‎Color Os 12.1, Android 12.0. Capacidad de almacenamiento digital: ‎8 GB. Capacidad de la memoria RAM instalada: ‎8 GB. Capacidad de la memoria flash instalada: ‎256 GB. Capacidad de la memoria: ‎256 GB. Capacidad de la memoria RAM: ‎8 GB. Número de producto: ‎CPH2357. Número de modelo del producto: ‎CPH2357. Pilas: ‎1 Litio Ion necesaria. Dimensiones del producto: ‎16.12 x 7.42 x 0.73 cm; 183 gramos. Año del modelo: ‎2022. Nombre del modelo: ‎Reno 8 Pro. Modelo: ‎CPH2357. Fabricante: ‎mcr infoelectronic. Marca: ‎OPPO.",
-    "bestsellers_rank": [
-      {
-        "category": "Electrónica",
-        "rank": 8798,
-        "link": "https://www.amazon.es/gp/bestsellers/electronics/ref=pd_zg_ts_electronics"
-      },
-      {
-        "category": "Móviles y smartphones libres",
-        "rank": 1174,
-        "link": "https://www.amazon.es/gp/bestsellers/electronics/934197031/ref=pd_zg_hrsr_electronics"
-      }
-    ],
-    "color": "Verde",
-    "first_available": {
-      "raw": "31 agosto 2022",
-      "utc": "2022-08-31T00:00:00.000Z"
-    },
-    "dimensions": "‎16.12 x 7.42 x 0.73 cm; 183 gramos",
-    "model_number": "‎CPH2357",
-    "bestsellers_rank_flat": "Category: Electrónica | Rank: 8798, Category: Móviles y smartphones libres | Rank: 1174",
-    "whats_in_the_box": [
-      "Reno8 Pro, 1x Cable USB-C, 1x Cargador 80W SuperVooc (Carga rápida), 1x Herramienta extracción SIM, 1x Guía de uso rápido, 1x Tarjeta de garantía, USB 3.1 Type-C"
-    ]
-  },
-  "brand_store": {
-    "id": "810DD4AE-8334-4A50-8194-360F7AEEF8AA",
-    "link": "https://www.amazon.es/stores/OPPOStore/page/810DD4AE-8334-4A50-8194-360F7AEEF8AA"
-  },
-  "frequently_bought_together": {
-    "total_price": {
-      "symbol": "€",
-      "currency": "EUR",
-      "value": 685.95,
-      "raw": "685,95 €"
-    },
-    "products": [
-      {
-        "asin": "B0B8HG8W8Y",
-        "title": "OPPO Find X3 Pro 5G - Teléfono Móvil libre, 12GB+256GB, Cámara 50+50+13+3 MP, Smartphone Android, Batería 4500mAh, Carga Rápida 65W, Dual SIM, Cable USB extra - Azul",
-        "link": "https://www.amazon.es/dp/B0B8HG8W8Y",
-        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
-        "price": {
-          "symbol": "€",
-          "currency": "EUR",
-          "value": 679,
-          "raw": "679,00 €"
-        }
-      },
-      {
-        "asin": "B0B5BYYSTM",
-        "title": "ivoler Funda para OPPO Reno8 Pro 5G / OPPO Reno 8 Pro 5G (No para OPPO Reno 8 5G), Carcasa Protectora Antigolpes Transparente",
-        "link": "https://www.amazon.es/dp/B0B5BYYSTM",
-        "image": "https://images-eu.ssl-images-amazon.com/images/I/71WgW3IPg9L._AC_UL116_SR116,116_.jpg",
-        "price": {
-          "symbol": "€",
-          "currency": "EUR",
-          "value": 6.95,
-          "raw": "6,95 €"
-        }
-      }
-    ]
-  },
-  "similar_to_consider": {
-    "asin": "B082DJTBNF",
-    "link": "https://www.amazon.es/dp/B082DJTBNF/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=75b65522-7ddb-4f36-8083-8ef11ec19fb0&pf_rd_r=0VNN279R19GM3G5XF74N&pd_rd_wg=Rxx25&pd_rd_i=B082DJTBNF&pd_rd_w=qcztt&content-id=amzn1.sym.75b65522-7ddb-4f36-8083-8ef11ec19fb0&pd_rd_r=982e74d6-aeb4-43c7-87a3-c6291ece78dd",
-    "title": "Apple iPhone 11 Pro, 256GB, Gris Espacial (Reacondicionado)",
-    "rating": 4,
-    "ratings_total": 2327,
-    "image": "https://m.media-amazon.com/images/I/71ys3vjOEhL._SS100_.jpg",
-    "price": {
-      "currency": "EUR",
-      "value": 499.99,
-      "symbol": "€",
-      "raw": "EUR 499,99"
+    "brand_store": {
+        "id": "4E95FF48-A39F-40ED-9FE3-3E769342863B",
+        "link": "https://www.amazon.es/stores/Apple/page/4E95FF48-A39F-40ED-9FE3-3E769342863B"
     }
-  },
-  "compare_with_similar": [
-    {
-      "asin": "B0B8HG8W8Y",
-      "image": "https://m.media-amazon.com/images/I/51rCZCDW2rL._AC_SS450_.jpg",
-      "title": "OPPO Reno8 Pro 5G - Teléfono Móvil Libre, 8GB+256GB, Cámara 50+8+2+32MP, Smartphone Android, Batería 4500mAh, Carga Rápida 80W, Dual SIM - Verde",
-      "rating": 5,
-      "ratings_total": 19,
-      "link": "https://www.amazon.es/dp/B0B8HG8W8Y"
-    },
-    {
-      "asin": "B0B2DLRK9W",
-      "image": "https://m.media-amazon.com/images/I/71MUuPhpjOL._AC_SS450_.jpg",
-      "title": "OPPO Find X3 Pro 5G - Teléfono Móvil libre, 12GB+256GB, Cámara 50+50+13+3 MP, Smartphone Android, Batería 4500mAh, Carga Rápida 65W, Dual SIM, Cable USB extra - Azul",
-      "rating": 4.5,
-      "ratings_total": 63,
-      "link": "https://www.amazon.es/dp/B0B2DLRK9W"
-    },
-    {
-      "asin": "B09DPDGQQ8",
-      "image": "https://m.media-amazon.com/images/I/31kSv6qXGCL._AC_SS450_.jpg",
-      "title": "OPPO Reno 6 Pro 5G - Teléfono Móvil libre, 12GB+256GB, Cámara 50+16+13+2 MP, Smartphone Android, Batería 4500mAh, Carga Rápida 65W, Dual SIM - Plata",
-      "rating": 4.5,
-      "ratings_total": 92,
-      "link": "https://www.amazon.es/dp/B09DPDGQQ8"
-    },
-    {
-      "asin": "B0B3526N7P",
-      "image": "https://m.media-amazon.com/images/I/41DoXovxF6L._AC_SS450_.jpg",
-      "title": "OPPO OPPO Reno 8 Lite 16,3 cm (6.4\") SIM doble Android 11 5G USB Tipo C 8 GB 128 GB 4500 mAh Multicolor",
-      "rating": 5,
-      "ratings_total": 2,
-      "link": "https://www.amazon.es/dp/B0B3526N7P"
-    }
-  ],
-  "sponsored_products": [
-    {
-      "title": "Google Pixel 7: smartphone 5G Android libre con objetivo gran angular y batería de 24 horas de duración, 128GB, Nieve",
-      "asin": "B0BDJFKY7B",
-      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxMjYwNDU4MDEyNDQwNjk5OjE2NzY4NDc3Mjg6c3BfZGV0YWlsOjIwMDgyNTUwNDg0Njk4Ojo6Og&url=%2Fdp%2FB0BDJFKY7B%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0BDJFKY7B%26pd_rd_w%3DNFBqQ%26content-id%3Damzn1.sym.5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_p%3D5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
-      "image": "https://m.media-amazon.com/images/I/614Gij3tGwL._AC_UF640,640_SR640,640_.jpg",
-      "rating": 4.5,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 589,
-        "raw": "€589,00"
-      }
-    },
-    {
-      "title": "Blackview Móvil Resistente, BV7100 Movil Todoterreno 13000mAh,10+128GB(SD 1TB) Carga Rápida 33W,6.58'' FHD+ 12MP/8MP Telefono Movil Android 12 4G Doble SIM/NFC/OTG/GPS",
-      "asin": "B0B76BG2Z1",
-      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxMjYwNDU4MDEyNDQwNjk5OjE2NzY4NDc3Mjg6c3BfZGV0YWlsOjIwMDgyODc1Nzc5MTk4Ojo6Og&url=%2Fdp%2FB0B76BG2Z1%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0B76BG2Z1%26pd_rd_w%3DNFBqQ%26content-id%3Damzn1.sym.5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_p%3D5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
-      "image": "https://m.media-amazon.com/images/I/71-UCiRvXqL._AC_UF640,640_SR640,640_.jpg",
-      "rating": 4.5,
-      "ratings_total": 112,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 237.99,
-        "raw": "€237,99"
-      }
-    },
-    {
-      "title": "Teléfonos móviles para Mayores con Teclas Grandes, Artfone C1 Senior, fácil de Usar Celular para Ancianos con botón SOS, Cámara, Negro",
-      "asin": "B07DZXJ4C7",
-      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxMjYwNDU4MDEyNDQwNjk5OjE2NzY4NDc3Mjg6c3BfZGV0YWlsOjIwMDM5MDc5ODcyNjAyOjo6Og&url=%2Fdp%2FB07DZXJ4C7%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB07DZXJ4C7%26pd_rd_w%3DNFBqQ%26content-id%3Damzn1.sym.5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_p%3D5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
-      "image": "https://m.media-amazon.com/images/I/61ywagUG86L._AC_UF640,640_SR640,640_.jpg",
-      "rating": 4,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 32.99,
-        "raw": "€32,99"
-      }
-    },
-    {
-      "title": "VIVO Y76 Smartphone 5G, 8 GB + 256 GB, Teléfono móvil Libres, Batería de 4100 mAh, Android 11, Cámara Principal de 50 MP, Carga rápida de 44 W, Dual SIM",
-      "asin": "B09RGZXHL3",
-      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxMjYwNDU4MDEyNDQwNjk5OjE2NzY4NDc3Mjg6c3BfZGV0YWlsOjIwMDQwMDQ3OTk0Mzk4Ojo6Og&url=%2Fdp%2FB09RGZXHL3%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09RGZXHL3%26pd_rd_w%3DNFBqQ%26content-id%3Damzn1.sym.5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_p%3D5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
-      "image": "https://m.media-amazon.com/images/I/717ISDYrF3L._AC_UF640,640_SR640,640_.jpg",
-      "rating": 4.5,
-      "ratings_total": 23,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 359,
-        "raw": "€359,00"
-      }
-    },
-    {
-      "title": "UMIDIGI Móvil Resistente, Bison 2 Android 12 móvil y Smartphone Libre 6+128GB(256GB Expandible) 6150mAh, 6.5\" HD+, Cámara 48MP+24MP,Movil NFC/Face ID/GPS/OTG",
-      "asin": "B0BC3XKN3L",
-      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxMjYwNDU4MDEyNDQwNjk5OjE2NzY4NDc3Mjg6c3BfZGV0YWlsOjIwMDkwMDg5NDE3NTk4Ojo6Og&url=%2Fdp%2FB0BC3XKN3L%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0BC3XKN3L%26pd_rd_w%3DNFBqQ%26content-id%3Damzn1.sym.5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_p%3D5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw%26smid%3DA3LLAX7EGFGYVJ",
-      "image": "https://m.media-amazon.com/images/I/81h3kGKH8QL._AC_UF640,640_SR640,640_.jpg",
-      "rating": 4,
-      "ratings_total": 134,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 219.99,
-        "raw": "€219,99"
-      }
-    },
-    {
-      "title": "UMIDIGI Bison Pro Móvil Resistente, 8GB+128GB Android 11 IP68/IP69K Impermeable Antigolpes Teléfono Móvil Libre, 6.3\" FHD Cámara 48MP Batería 5000mAh Smartphone Libre",
-      "asin": "B09DY7XHMG",
-      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxMjYwNDU4MDEyNDQwNjk5OjE2NzY4NDc3Mjg6c3BfZGV0YWlsOjIwMDk1NTgwMjgxNjk4Ojo6Og&url=%2Fdp%2FB09DY7XHMG%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09DY7XHMG%26pd_rd_w%3DNFBqQ%26content-id%3Damzn1.sym.5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_p%3D5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
-      "image": "https://m.media-amazon.com/images/I/81UXBtW1deL._AC_UF640,640_SR640,640_.jpg",
-      "rating": 3.5,
-      "ratings_total": 185,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 239.99,
-        "raw": "€239,99"
-      }
-    },
-    {
-      "title": "OSCAL C80 Moviles Baratos y Buenos, 8+128GB Smartphone Android 12 Go, Cámara 50+8MP, 6.5'' Pantalla HD+ 90Hz, 5180mAh Batería, 18W Carga Rápida, Telefono Movil 4G Dual SIM, Fingerprint, Face ID",
-      "asin": "B0BD87WXSX",
-      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxMjYwNDU4MDEyNDQwNjk5OjE2NzY4NDc3Mjg6c3BfZGV0YWlsOjIwMTEyMDczNDE2Mjk4Ojo6Og&url=%2Fdp%2FB0BD87WXSX%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0BD87WXSX%26pd_rd_w%3DNFBqQ%26content-id%3Damzn1.sym.5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_p%3D5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
-      "image": "https://m.media-amazon.com/images/I/71lQ4EsFniL._AC_UF640,640_SR640,640_.jpg",
-      "rating": 4,
-      "ratings_total": 185,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 146.99,
-        "raw": "€146,99"
-      }
-    },
-    {
-      "title": "DOOGEE S51 [2023] Movil Resistente, Android 12 Smartphone Barato, 4GB+64GB (512GB SD) 12MP Doble Cámara, 5180mAh Batería Telefono Movil Todoterreno 6\" HD Pulgadas, IP68 IP69K/NFC/GPS/WIFI-Negro",
-      "asin": "B0B41YN4ZR",
-      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxMjYwNDU4MDEyNDQwNjk5OjE2NzY4NDc3Mjg6c3BfZGV0YWlsOjIwMDk1OTYxOTA5Mjk4Ojo6Og&url=%2Fdp%2FB0B41YN4ZR%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB0B41YN4ZR%26pd_rd_w%3DNFBqQ%26content-id%3Damzn1.sym.5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_p%3D5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
-      "image": "https://m.media-amazon.com/images/I/61S68O95nmL._AC_UF640,640_SR640,640_.jpg",
-      "rating": 4.5,
-      "ratings_total": 95,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 135.99,
-        "raw": "€135,99"
-      }
-    },
-    {
-      "title": "DOOGEE S41 Pro Movil Resistente Agua y Golpes, 6300mAh Batería, Android 12, 7GB +1TB Ampiable, Telefono Movil Libre 4G, Triple Cámara de 13MP, 5.5 Pulgadas Moviles Antigolpes, NFC/Face ID/GPS, Negro",
-      "asin": "B0BN2ZQ2YJ",
-      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxMjYwNDU4MDEyNDQwNjk5OjE2NzY4NDc3Mjg6c3BfZGV0YWlsOjIwMTA0MTk1ODczMDk4Ojo6Og&url=%2Fdp%2FB0BN2ZQ2YJ%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB0BN2ZQ2YJ%26pd_rd_w%3DNFBqQ%26content-id%3Damzn1.sym.5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_p%3D5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
-      "image": "https://m.media-amazon.com/images/I/714mNqF9DZL._AC_UF640,640_SR640,640_.jpg",
-      "rating": 4.5,
-      "ratings_total": 86,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 127.49,
-        "raw": "€127,49"
-      }
-    },
-    {
-      "title": "OSCAL C80 Android 12 4G Smartphone Libre, 8GB+128GB, 50MP+8MP Dual Cámara, 6.5\" 90Hz HD+ Display, Móvil Doble SIM, Diseño Delgado, 5180mAh Carga Rápida, Desbloqueo Facial Huella Dactilar GPS Azul",
-      "asin": "B0BG3RNFC6",
-      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MToxMjYwNDU4MDEyNDQwNjk5OjE2NzY4NDc3Mjg6c3BfZGV0YWlsOjIwMDkxMDE1MjUzNzk4Ojo6Og&url=%2Fdp%2FB0BG3RNFC6%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB0BG3RNFC6%26pd_rd_w%3DNFBqQ%26content-id%3Damzn1.sym.5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_p%3D5211011f-e3fb-4d92-b58e-b3527e67ddff%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
-      "image": "https://m.media-amazon.com/images/I/516whSaERgL._AC_UF640,640_SR640,640_.jpg",
-      "rating": 4,
-      "ratings_total": 114,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 144.49,
-        "raw": "€144,49"
-      }
-    },
-    {
-      "title": "Google Pixel 7: smartphone 5G Android libre con objetivo gran angular y batería de 24 horas de duración, 128GB, Nieve",
-      "asin": "B0BDJFKY7B",
-      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTc2MDEzNDI3NDQyOTYxOjE2NzY4NDc3Mjg6c3BfZGV0YWlsMjoyMDA4MjU1MDQ4NDY5ODo6Ojo&url=%2Fdp%2FB0BDJFKY7B%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0BDJFKY7B%26pd_rd_w%3DYUnBB%26content-id%3Damzn1.sym.65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_p%3D65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
-      "image": "https://m.media-amazon.com/images/I/614Gij3tGwL._AC_UF640,640_SR640,640_.jpg",
-      "rating": 4.5,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 589,
-        "raw": "€589,00"
-      }
-    },
-    {
-      "title": "UMIDIGI Móvil Resistente, Bison 2 Android 12 móvil y Smartphone Libre 6+128GB(256GB Expandible) 6150mAh, 6.5\" HD+, Cámara 48MP+24MP,Movil NFC/Face ID/GPS/OTG",
-      "asin": "B0BC3XKN3L",
-      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTc2MDEzNDI3NDQyOTYxOjE2NzY4NDc3Mjg6c3BfZGV0YWlsMjoyMDA5MDA4OTQxNzU5ODo6Ojo&url=%2Fdp%2FB0BC3XKN3L%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0BC3XKN3L%26pd_rd_w%3DYUnBB%26content-id%3Damzn1.sym.65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_p%3D65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy%26smid%3DA3LLAX7EGFGYVJ",
-      "image": "https://m.media-amazon.com/images/I/81h3kGKH8QL._AC_UF640,640_SR640,640_.jpg",
-      "rating": 4,
-      "ratings_total": 134,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 219.99,
-        "raw": "€219,99"
-      }
-    },
-    {
-      "title": "Blackview Móvil Resistente, BV7100 Movil Todoterreno 13000mAh,10+128GB(SD 1TB) Carga Rápida 33W,6.58'' FHD+ 12MP/8MP Telefono Movil Android 12 4G Doble SIM/NFC/OTG/GPS",
-      "asin": "B0B76BG2Z1",
-      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTc2MDEzNDI3NDQyOTYxOjE2NzY4NDc3Mjg6c3BfZGV0YWlsMjoyMDA4Mjg3NTc3OTE5ODo6Ojo&url=%2Fdp%2FB0B76BG2Z1%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0B76BG2Z1%26pd_rd_w%3DYUnBB%26content-id%3Damzn1.sym.65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_p%3D65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
-      "image": "https://m.media-amazon.com/images/I/71-UCiRvXqL._AC_UF640,640_SR640,640_.jpg",
-      "rating": 4.5,
-      "ratings_total": 112,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 237.99,
-        "raw": "€237,99"
-      }
-    },
-    {
-      "title": "OSCAL C80 Android 12 4G Smartphone Libre, 8GB+128GB, 50MP+8MP Dual Cámara, 6.5\" 90Hz HD+ Display, Móvil Doble SIM, Diseño Delgado, 5180mAh Carga Rápida, Desbloqueo Facial Huella Dactilar GPS Azul",
-      "asin": "B0BG3RNFC6",
-      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTc2MDEzNDI3NDQyOTYxOjE2NzY4NDc3Mjg6c3BfZGV0YWlsMjoyMDA5MTAxNTI1Mzc5ODo6Ojo&url=%2Fdp%2FB0BG3RNFC6%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0BG3RNFC6%26pd_rd_w%3DYUnBB%26content-id%3Damzn1.sym.65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_p%3D65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
-      "image": "https://m.media-amazon.com/images/I/516whSaERgL._AC_UF640,640_SR640,640_.jpg",
-      "rating": 4,
-      "ratings_total": 114,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 144.49,
-        "raw": "€144,49"
-      }
-    },
-    {
-      "title": "UMIDIGI Bison Pro Móvil Resistente, 8GB+128GB Android 11 IP68/IP69K Impermeable Antigolpes Teléfono Móvil Libre, 6.3\" FHD Cámara 48MP Batería 5000mAh Smartphone Libre",
-      "asin": "B09DY7XHMG",
-      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTc2MDEzNDI3NDQyOTYxOjE2NzY4NDc3Mjg6c3BfZGV0YWlsMjoyMDA5NTU4MDI4MTY5ODo6Ojo&url=%2Fdp%2FB09DY7XHMG%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB09DY7XHMG%26pd_rd_w%3DYUnBB%26content-id%3Damzn1.sym.65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_p%3D65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
-      "image": "https://m.media-amazon.com/images/I/81UXBtW1deL._AC_UF640,640_SR640,640_.jpg",
-      "rating": 3.5,
-      "ratings_total": 185,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 239.99,
-        "raw": "€239,99"
-      }
-    },
-    {
-      "title": "Google Pixel 6a: smartphone 5G Android libre con cámara de 12 megapíxeles y batería de 24 horas de duración, de color Salvia",
-      "asin": "B0B4DMCF5W",
-      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTc2MDEzNDI3NDQyOTYxOjE2NzY4NDc3Mjg6c3BfZGV0YWlsMjoyMDA2MjUzNTA5ODY5ODo6Ojo&url=%2Fdp%2FB0B4DMCF5W%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0B4DMCF5W%26pd_rd_w%3DYUnBB%26content-id%3Damzn1.sym.65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_p%3D65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
-      "image": "https://m.media-amazon.com/images/I/61QsVTa7IAL._AC_UF640,640_SR640,640_.jpg",
-      "rating": 4,
-      "ratings_total": 907,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 359,
-        "raw": "€359,00"
-      }
-    },
-    {
-      "title": "Movil Libre OUKITEL C21, Android 10 Dual SIM Telefono, 20MP AI Selfie + 16MP Cuatro Cámaras, FHD + Pantalla Completa 6.4 '', Octa-Core 4GB+64GB, Desbloqueo Facial, Huella Digital, Tipo-C GPS Negro",
-      "asin": "B08HHHKPHL",
-      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTc2MDEzNDI3NDQyOTYxOjE2NzY4NDc3Mjg6c3BfZGV0YWlsMjoyMDEwMTEzNjgzNjk5ODo6Ojo&url=%2Fdp%2FB08HHHKPHL%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB08HHHKPHL%26pd_rd_w%3DYUnBB%26content-id%3Damzn1.sym.65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_p%3D65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
-      "image": "https://m.media-amazon.com/images/I/41+WTnVOi0L._AC_UF640,640_SR640,640_.jpg",
-      "rating": 4,
-      "ratings_total": 26,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 140.24,
-        "raw": "€140,24"
-      }
-    },
-    {
-      "title": "Ulefone Power Armor 14 Pro (8GB RAM) Android 12 Smartphone Resistente, Batería 10000mAh, 128GB ROM, 6,52'' Vidrio Gorilla 20MP+16MP Cámara, IP68 Impermeable Móvil Antigolpes, Carga Inalámbrica NFC",
-      "asin": "B0BG1SYX34",
-      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTc2MDEzNDI3NDQyOTYxOjE2NzY4NDc3Mjg6c3BfZGV0YWlsMjoyMDEwODU0MDE4Mjg5ODo6Ojo&url=%2Fdp%2FB0BG1SYX34%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB0BG1SYX34%26pd_rd_w%3DYUnBB%26content-id%3Damzn1.sym.65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_p%3D65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy%26smid%3DA2QSDYEG7GBYQI",
-      "image": "https://m.media-amazon.com/images/I/61e1hMl23YL._AC_UF640,640_SR640,640_.jpg",
-      "rating": 4.5,
-      "ratings_total": 10,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 246.49,
-        "raw": "€246,49"
-      }
-    },
-    {
-      "title": "Ulefone Power Armor 17 Pro Smartphone Resistente, 108MP Triple Cámara (Visión Nocturna), 8GB+256GB, 6.58'' 120Hz FHD+, IP68 Móvil Antigolpes Android 12, 3 Ranura para Tarjetas, Carga Inalámbrica NFC",
-      "asin": "B0BL6BQFD9",
-      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTc2MDEzNDI3NDQyOTYxOjE2NzY4NDc3Mjg6c3BfZGV0YWlsMjoyMDEwMTQ1OTM1MjA5ODo6Ojo&url=%2Fdp%2FB0BL6BQFD9%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB0BL6BQFD9%26pd_rd_w%3DYUnBB%26content-id%3Damzn1.sym.65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_p%3D65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
-      "image": "https://m.media-amazon.com/images/I/615-CUhK7eL._AC_UF640,640_SR640,640_.jpg",
-      "rating": 4.5,
-      "ratings_total": 12,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 369.99,
-        "raw": "€369,99"
-      }
-    },
-    {
-      "title": "DOOGEE S97 Pro Smartphone Resistente con Telémetro Láser, Helio G95 8GB+128GB,Teléfono Móviles Antigolpes Android 11,Batería 8500mAh,IP68 Impermeable,Cámara Cuatro 48MP,Carga Inalámbrica NFC Rojo",
-      "asin": "B099MJ232N",
-      "link": "https://www.amazon.es/sspa/click?ie=UTF8&spc=MTo2MTc2MDEzNDI3NDQyOTYxOjE2NzY4NDc3Mjg6c3BfZGV0YWlsMjoyMDA0OTUyMTY4MzE5ODo6Ojo&url=%2Fdp%2FB099MJ232N%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB099MJ232N%26pd_rd_w%3DYUnBB%26content-id%3Damzn1.sym.65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_p%3D65610861-0868-4c1e-b2aa-35740b5fcce5%26pf_rd_r%3D0VNN279R19GM3G5XF74N%26pd_rd_wg%3D9aIsV%26pd_rd_r%3D4b85d7d9-9094-4847-9693-b570dad1d146%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
-      "image": "https://m.media-amazon.com/images/I/51KOv4NxNXS._AC_UF640,640_SR640,640_.jpg",
-      "rating": 4,
-      "ratings_total": 125,
-      "is_prime": true,
-      "price": {
-        "symbol": "€",
-        "currency": "EUR",
-        "value": 299.99,
-        "raw": "€299,99"
-      }
-    }
-  ]
 }

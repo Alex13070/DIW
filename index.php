@@ -22,8 +22,21 @@ array_push(
     "<script src='./public/js/slyder/horisontal.js'></script>",
 );
 
-$data['slider-1'] = json_decode(file_get_contents('./busqueda.json'))->search_results;
-$data['slider-2'] = json_decode(file_get_contents('./busqueda2.json'))->search_results;
+
+$data['titulo-1'] = "Teléfonos";
+$data['slider-1'] = json_decode(file_get_contents('./telefonos.json'))->search_results;
+
+$data['titulo-2'] = "Zapatos";
+$data['slider-2'] = json_decode(file_get_contents('./zapatos.json'))->search_results;
+
+$data['titulo-3'] = "Auriculares";
+$data['slider-3'] = json_decode(file_get_contents('./auriculares.json'))->search_results;
+
+$data['titulo-4'] = "Tarjetas gráficas";
+$data['slider-4'] = json_decode(file_get_contents('./graficas.json'))->search_results;
+
+$data['titulo-5'] = "Portátiles";
+$data['slider-5'] = json_decode(file_get_contents('./portatiles.json'))->search_results;
 
 ?>
 <?php function mainContent(array $data) {?>
@@ -105,67 +118,38 @@ $data['slider-2'] = json_decode(file_get_contents('./busqueda2.json'))->search_r
 
         <section class=''>
 
-            <div class='slider'>
-                <h1>Teléfonos</h1>
+            <?php for($i = 1; $i <= 5; $i++) { ?>
+                <div class='slider'>
+                    <h1><?= $data['titulo-'.$i] ?></h1>
 
-                <div class='frame centered' data-slide='1'>
-                    <ul>
-                        <?php foreach ($data['slider-1'] as $element) { ?>
-                            <li>
-                                <a href='<?= detalles."?producto=".$element->asin ?>'>
-                                    <div class='col'>
-                                        <div class='card shadow-sm'>
-                                            <div class='card-img-top imagen'>
-                                                <img class='' src='<?= $element->image ?>' alt='Imagen de noticia'>
-                                            </div>
-                                            <div class='card-body'>
-                                                <h4 class='card-title texto'><?= $element->title ?></h4>
-                                                <p class='card-text'><?= isset($element->price->name) ? $element->price->name : 'Sin existencias' ?></p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </li>
-                        <?php } ?>
-                    </ul>
-                </div>
-
-                <div class='controls center'>
-                    <button class='btn prev btn-outline-dark' data-slide='1'><i class='fa-solid fa-chevron-left'></i></button>
-                    <button class='btn next btn-outline-dark' data-slide='1'><i class='fa-solid fa-chevron-right'></i></button>
-                </div>
-            </div>
-
-            <div class='slider'>
-                <h1>Zapatos</h1>
-
-                <div class='frame centered' id='' data-slide='2'>
-                    <ul>
-                        <?php foreach ($data['slider-2'] as $element) { ?>
-                            <li>
-                                <a href='<?= detalles."?producto=".$element->asin ?>'>
-                                    <div class='col'>
-                                        <div class='card shadow-sm'>
-                                            <div class='card-img-top imagen'>
-                                                <img class='' src='<?= $element->image ?>' alt='Imagen de noticia'>
-                                            </div>
-                                            <div class='card-body'>
-                                                <h4 class='card-title texto'><?= $element->title ?></h4>
-                                                <p class='card-text'><?= isset($element->price->name) ? $element->price->name : 'Sin existencias' ?></p>
+                    <div class='frame centered' data-slide='<?= $i ?>'>
+                        <ul>
+                            <?php foreach ($data['slider-'.$i] as $element) { ?>
+                                <li>
+                                    <a href='<?= detalles."?producto=".$element->asin ?>'>
+                                        <div class='col'>
+                                            <div class='card shadow-sm'>
+                                                <div class='card-img-top imagen'>
+                                                    <img class='' src='<?= $element->image ?>' alt='<?= $element->title ?>'>
+                                                </div>
+                                                <div class='card-body'>
+                                                    <h4 class='card-title texto'><?= $element->title ?></h4>
+                                                    <p class='card-text'><?= isset($element->price->name) ? $element->price->name : 'Sin existencias' ?></p>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                </a>
-                            </li>
-                        <?php } ?>
-                    </ul>
-                </div>
+                                    </a>
+                                </li>
+                            <?php } ?>
+                        </ul>
+                    </div>
 
-                <div class='controls center'>
-                    <button class='btn prev btn-outline-dark' data-slide='2'><i class='fa-solid fa-chevron-left'></i></button>
-                    <button class='btn next btn-outline-dark' data-slide='2'><i class='fa-solid fa-chevron-right'></i></button>
+                    <div class='controls center'>
+                        <button class='btn prev btn-outline-dark' data-slide='<?= $i ?>'><i class='fa-solid fa-chevron-left'></i></button>
+                        <button class='btn next btn-outline-dark' data-slide='<?= $i ?>'><i class='fa-solid fa-chevron-right'></i></button>
+                    </div>
                 </div>
-            </div>
+            <?php } ?>
         </section>
     </main>
 <?php } ?>

@@ -1,0 +1,3042 @@
+{
+    "request_info": {
+        "success": true,
+        "credits_used": 12,
+        "credits_remaining": 88,
+        "credits_used_this_request": 1
+    },
+    "request_parameters": {
+        "type": "search",
+        "amazon_domain": "amazon.es",
+        "search_term": "auriculares",
+        "max_page": "1",
+        "exclude_sponsored": "true",
+        "currency": "eur",
+        "page": "1",
+        "include_html": "false",
+        "output": "json",
+        "sort_by": "average_review"
+    },
+    "request_metadata": {
+        "created_at": "2023-02-22T01:41:42.297Z",
+        "processed_at": "2023-02-22T01:41:46.897Z",
+        "total_time_taken": 4.6,
+        "pages": [
+            {
+                "created_at": "2023-02-22T01:41:42.297Z",
+                "processed_at": "2023-02-22T01:41:46.897Z",
+                "total_time_taken": 4.6,
+                "page": "1",
+                "amazon_url": "https://www.amazon.es/s/?k=auriculares&ref=nb_sb_noss_2&page=1&s=review-rank"
+            }
+        ]
+    },
+    "search_results": [
+        {
+            "position": 1,
+            "title": "Auriculares Inalámbricos Bluetooth 5.3 Deportivos In-Ear,2023 Cascos inalámbricos con 4 HD Micrófonos Reducción de Ruido ENC,HiFi Estéreo,36 Horas de Reproducción,IPX6 Impermeable,Carga Rápida USB-C",
+            "asin": "B0BPYF2T4G",
+            "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-inal%C3%A1mbricos-Reproducci%C3%B3n-Impermeable/dp/B0BPYF2T4G/ref=sr_1_1?keywords=auriculares&qid=1677030103&sr=8-1",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71SQVK27JKL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 10,00 €",
+                "text": "con un cupón"
+            },
+            "is_prime": true,
+            "rating": 5,
+            "ratings_total": 303,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 29.99,
+                    "raw": "€29,99",
+                    "name": "29,99 €",
+                    "asin": "B0BPYF2T4G",
+                    "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-inal%C3%A1mbricos-Reproducci%C3%B3n-Impermeable/dp/B0BPYF2T4G/ref=sr_1_1?keywords=auriculares&qid=1677030103&sr=8-1"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 29.99,
+                "raw": "€29,99",
+                "name": "29,99 €",
+                "asin": "B0BPYF2T4G",
+                "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-inal%C3%A1mbricos-Reproducci%C3%B3n-Impermeable/dp/B0BPYF2T4G/ref=sr_1_1?keywords=auriculares&qid=1677030103&sr=8-1"
+            },
+            "page": "1",
+            "position_overall": 1
+        },
+        {
+            "position": 2,
+            "title": "Auriculares Inalambricos, HiFi Estéreo Cascos Inalambricos, Auriculares Bluetooth 5.3, Llamada ENC HD, In Ear Cascos inalambricos Bluetooth, Controladore 13 mm Bass Potentes, Reproducción de 40H",
+            "asin": "B0BPRWQPLB",
+            "link": "https://www.amazon.es/Auriculares-Inalambricos-inalambricos-Controladore-Reproducci%C3%B3n/dp/B0BPRWQPLB/ref=sr_1_2?keywords=auriculares&qid=1677030103&sr=8-2",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51ZhsgD-RzL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 14,00 €",
+                "text": "con un cupón"
+            },
+            "is_prime": true,
+            "rating": 5,
+            "ratings_total": 146,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 29.99,
+                    "raw": "€29,99",
+                    "name": "29,99 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 79.99,
+                    "raw": "€79,99",
+                    "name": "29,99 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 29.99,
+                "raw": "€29,99",
+                "name": "29,99 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 2
+        },
+        {
+            "position": 3,
+            "title": "Auriculares Inalambricos, Auriculares Bluetooth 5.3 HiFi Estéreo, Cascos Inalambricos bluetooth con Cancelación de Ruido e Control Táctil IPX7 Impermeable, 30 Reproducci Horas, para Deporte Trabajos",
+            "asin": "B0BSBRZ3JX",
+            "link": "https://www.amazon.es/Auriculares-Inalambricos-Cancelaci%C3%B3n-Impermeable-Reproducci/dp/B0BSBRZ3JX/ref=sr_1_3?keywords=auriculares&qid=1677030103&sr=8-3",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51wYbKDidXL._AC_UL400_.jpg",
+            "rating": 4.9,
+            "ratings_total": 11551,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 19.88,
+                    "raw": "€19,88",
+                    "name": "19,88 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 22.99,
+                    "raw": "€22,99",
+                    "name": "19,88 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 19.88,
+                "raw": "€19,88",
+                "name": "19,88 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 3
+        },
+        {
+            "position": 4,
+            "title": "IKG Auriculares Inalámbricos, Auriculares Bluetooth 5.3, Cascos Inalambricos Bluetooth HiFi Estéreo, 37H de Batería, Auriculares in Ear con HD Microfono, I-PX7 Impermeable, Carga Rápida USB-C",
+            "asin": "B0B9FPD2WB",
+            "link": "https://www.amazon.es/IKG-Auriculares-Inal%C3%A1mbricos-Inalambricos-Impermeable/dp/B0B9FPD2WB/ref=sr_1_4?keywords=auriculares&qid=1677030103&sr=8-4",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61NFFENIlRL._AC_UL400_.jpg",
+            "is_prime": true,
+            "rating": 4.9,
+            "ratings_total": 1114,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 69.99,
+                    "raw": "€69,99",
+                    "name": "69,99 €",
+                    "asin": "B0B9FPD2WB",
+                    "link": "https://www.amazon.es/IKG-Auriculares-Inal%C3%A1mbricos-Inalambricos-Impermeable/dp/B0B9FPD2WB/ref=sr_1_4?keywords=auriculares&qid=1677030103&sr=8-4"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 69.99,
+                "raw": "€69,99",
+                "name": "69,99 €",
+                "asin": "B0B9FPD2WB",
+                "link": "https://www.amazon.es/IKG-Auriculares-Inal%C3%A1mbricos-Inalambricos-Impermeable/dp/B0B9FPD2WB/ref=sr_1_4?keywords=auriculares&qid=1677030103&sr=8-4"
+            },
+            "page": "1",
+            "position_overall": 4
+        },
+        {
+            "position": 5,
+            "title": "kauguo Auriculares Inalámbricos Auriculares Bluetooth 5.3 HiFi Estéreo Cascos Inalambricos con Control Táctil 4mic ENC Incorporado Cancelación Ruido IPX6 Deportivos para Xiaomi Samsung iPhone Huawei",
+            "asin": "B0BJPV2HS4",
+            "link": "https://www.amazon.es/kauguo-Auriculares-Inal%C3%A1mbricos-Inalambricos-Incorporado/dp/B0BJPV2HS4/ref=sr_1_5?keywords=auriculares&qid=1677030103&sr=8-5",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51WgPftB2NL._AC_UL400_.jpg",
+            "deal": {
+                "link": "https://www.amazon.es/gp/goldbox/",
+                "badge_text": "Oferta flash"
+            },
+            "coupon": {
+                "badge_text": "Ahorra 5 %",
+                "text": "con un cupón"
+            },
+            "rating": 4.9,
+            "ratings_total": 962,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 22.99,
+                    "raw": "€22,99",
+                    "name": "22,99 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 32.99,
+                    "raw": "€32,99",
+                    "name": "22,99 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 22.99,
+                "raw": "€22,99",
+                "name": "22,99 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 5
+        },
+        {
+            "position": 6,
+            "title": "Auriculares Inalámbricos Inalambricos Bluetooth 5.3 con 4 Micrófono,Cascos Inalambricos 36Hr de Uso Ininterrumpido,IPX7 Impermeables,Toque Inteligente para iPhone Huawei Xiaomi Samsung",
+            "asin": "B0BP7HKMNH",
+            "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-Inalambricos-Ininterrumpido-Impermeables/dp/B0BP7HKMNH/ref=sr_1_6?keywords=auriculares&qid=1677030103&sr=8-6",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61fMZSx2XtL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 10,00 €",
+                "text": "con un cupón"
+            },
+            "is_prime": true,
+            "rating": 4.9,
+            "ratings_total": 585,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 29.99,
+                    "raw": "€29,99",
+                    "name": "29,99 €",
+                    "asin": "B0BP7HKMNH",
+                    "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-Inalambricos-Ininterrumpido-Impermeables/dp/B0BP7HKMNH/ref=sr_1_6?keywords=auriculares&qid=1677030103&sr=8-6"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 29.99,
+                "raw": "€29,99",
+                "name": "29,99 €",
+                "asin": "B0BP7HKMNH",
+                "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-Inalambricos-Ininterrumpido-Impermeables/dp/B0BP7HKMNH/ref=sr_1_6?keywords=auriculares&qid=1677030103&sr=8-6"
+            },
+            "page": "1",
+            "position_overall": 6
+        },
+        {
+            "position": 7,
+            "title": "Auriculares Bluetooth, Auriculares Inalambricos Bluetooth 5.3 HiFi Estéreo, IP7 Impermeable, Reproducción de 40 Horas con Pantalla LED Caja de Carga",
+            "asin": "B0BNPHRKC7",
+            "link": "https://www.amazon.es/Auriculares-Bluetooth-Inalambricos-Impermeable-Reproducci%C3%B3n/dp/B0BNPHRKC7/ref=sr_1_7?keywords=auriculares&qid=1677030103&sr=8-7",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/619BBt2f60L._AC_UL400_.jpg",
+            "rating": 5,
+            "ratings_total": 65,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 32.99,
+                    "raw": "€32,99",
+                    "name": "32,99 €",
+                    "asin": "B0BNPHRKC7",
+                    "link": "https://www.amazon.es/Auriculares-Bluetooth-Inalambricos-Impermeable-Reproducci%C3%B3n/dp/B0BNPHRKC7/ref=sr_1_7?keywords=auriculares&qid=1677030103&sr=8-7"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 32.99,
+                "raw": "€32,99",
+                "name": "32,99 €",
+                "asin": "B0BNPHRKC7",
+                "link": "https://www.amazon.es/Auriculares-Bluetooth-Inalambricos-Impermeable-Reproducci%C3%B3n/dp/B0BNPHRKC7/ref=sr_1_7?keywords=auriculares&qid=1677030103&sr=8-7"
+            },
+            "page": "1",
+            "position_overall": 7
+        },
+        {
+            "position": 8,
+            "title": "NORUD Auriculares Inalámbricos, Auriculares Bluetooth 5.0 Estéreo Dos micrófonos Cancelación de Ruido, Cascos Inalambricos con Sensor de Piel e Control Táctil, IPX5 Wireless Carga para iOS Android",
+            "asin": "B0BW77B1PQ",
+            "link": "https://www.amazon.es/NORUD-Auriculares-Inal%C3%A1mbricos-Cancelaci%C3%B3n-Inalambricos/dp/B0BW77B1PQ/ref=sr_1_8?keywords=auriculares&qid=1677030103&sr=8-8",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/41UfeH0e8OL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 10,00 €",
+                "text": "con un cupón"
+            },
+            "is_prime": true,
+            "rating": 4.9,
+            "ratings_total": 254,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 19.99,
+                    "raw": "€19,99",
+                    "name": "19,99 €",
+                    "asin": "B0BW77B1PQ",
+                    "link": "https://www.amazon.es/NORUD-Auriculares-Inal%C3%A1mbricos-Cancelaci%C3%B3n-Inalambricos/dp/B0BW77B1PQ/ref=sr_1_8?keywords=auriculares&qid=1677030103&sr=8-8"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 19.99,
+                "raw": "€19,99",
+                "name": "19,99 €",
+                "asin": "B0BW77B1PQ",
+                "link": "https://www.amazon.es/NORUD-Auriculares-Inal%C3%A1mbricos-Cancelaci%C3%B3n-Inalambricos/dp/B0BW77B1PQ/ref=sr_1_8?keywords=auriculares&qid=1677030103&sr=8-8"
+            },
+            "page": "1",
+            "position_overall": 8
+        },
+        {
+            "position": 9,
+            "title": "Drsaec Auriculares Inalámbricos, Auriculares Bluetooth con HiFi Estéreo, Cascos Inalámbrico Bluetooth Mini Cancelación de Ruido, In-Ear Auriculare Deporte IP7 Impermeable Control Táctil USB-C",
+            "asin": "B0BPC2HWHC",
+            "link": "https://www.amazon.es/Drsaec-Auriculares-Inal%C3%A1mbricos-Inal%C3%A1mbrico-Cancelaci%C3%B3n/dp/B0BPC2HWHC/ref=sr_1_9?keywords=auriculares&qid=1677030103&sr=8-9",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71Kzjx+FspL._AC_UL400_.jpg",
+            "rating": 4.9,
+            "ratings_total": 119,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 19.99,
+                    "raw": "€19,99",
+                    "name": "19,99 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 21.99,
+                    "raw": "€21,99",
+                    "name": "19,99 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 19.99,
+                "raw": "€19,99",
+                "name": "19,99 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 9
+        },
+        {
+            "position": 10,
+            "title": "AMFEZ Auriculares Inalambricos, Auriculares Bluetooth 5.3 con Estéreo 3D, 30horas de Tiempo de reproducción, Auriculares Deportivos, Resistente al Agua IPX7, estéreo Hi-Fi, Blanco",
+            "asin": "B0BRBBZQK5",
+            "link": "https://www.amazon.es/AMFEZ-Auriculares-Inalambricos-reproducci%C3%B3n-Deportivos/dp/B0BRBBZQK5/ref=sr_1_10?keywords=auriculares&qid=1677030103&sr=8-10",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/41pIZXWUOGL._AC_UL400_.jpg",
+            "rating": 4.9,
+            "ratings_total": 108,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 20.99,
+                    "raw": "€20,99",
+                    "name": "20,99 €",
+                    "asin": "B0BRBBZQK5",
+                    "link": "https://www.amazon.es/AMFEZ-Auriculares-Inalambricos-reproducci%C3%B3n-Deportivos/dp/B0BRBBZQK5/ref=sr_1_10?keywords=auriculares&qid=1677030103&sr=8-10"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 20.99,
+                "raw": "€20,99",
+                "name": "20,99 €",
+                "asin": "B0BRBBZQK5",
+                "link": "https://www.amazon.es/AMFEZ-Auriculares-Inalambricos-reproducci%C3%B3n-Deportivos/dp/B0BRBBZQK5/ref=sr_1_10?keywords=auriculares&qid=1677030103&sr=8-10"
+            },
+            "page": "1",
+            "position_overall": 10
+        },
+        {
+            "position": 11,
+            "title": "MPWHYL Auriculares Bluetooth, Tiempo de reproducción 35H, Bluetooth 5.3, micrófono Incorporado, Auriculares Impermeables IPX7 para Deportes",
+            "asin": "B0BQHGVHHD",
+            "link": "https://www.amazon.es/MPWHYL-Auriculares-reproducci%C3%B3n-Incorporado-Impermeables/dp/B0BQHGVHHD/ref=sr_1_11?keywords=auriculares&qid=1677030103&sr=8-11",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51HRXRJBeYL._AC_UL400_.jpg",
+            "rating": 5,
+            "ratings_total": 41,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 29,
+                    "raw": "€29,00",
+                    "name": "29,00 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 29.99,
+                    "raw": "€29,99",
+                    "name": "29,00 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 29,
+                "raw": "€29,00",
+                "name": "29,00 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 11
+        },
+        {
+            "position": 12,
+            "title": "meyer Auriculares Bluetooth Inalámbrico Auriculares Bluetooth 5.3 con 4 HD Micro, Deportivos In Ear IP7 Impermeables Auriculares, Cascos Inalambricos para Android iOS Xiaomi Gaming Control Tactil",
+            "asin": "B0BRN78ZLY",
+            "link": "https://www.amazon.es/meyer-Auriculares-Inal%C3%A1mbrico-Impermeables-Inalambricos/dp/B0BRN78ZLY/ref=sr_1_12?keywords=auriculares&qid=1677030103&sr=8-12",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61JYxjEh2jL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 5,00 €",
+                "text": "con un cupón"
+            },
+            "rating": 4.9,
+            "ratings_total": 89,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 13.59,
+                    "raw": "€13,59",
+                    "name": "13,59 €",
+                    "asin": "B0BRN78ZLY",
+                    "link": "https://www.amazon.es/meyer-Auriculares-Inal%C3%A1mbrico-Impermeables-Inalambricos/dp/B0BRN78ZLY/ref=sr_1_12?keywords=auriculares&qid=1677030103&sr=8-12"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 13.59,
+                "raw": "€13,59",
+                "name": "13,59 €",
+                "asin": "B0BRN78ZLY",
+                "link": "https://www.amazon.es/meyer-Auriculares-Inal%C3%A1mbrico-Impermeables-Inalambricos/dp/B0BRN78ZLY/ref=sr_1_12?keywords=auriculares&qid=1677030103&sr=8-12"
+            },
+            "page": "1",
+            "position_overall": 12
+        },
+        {
+            "position": 13,
+            "title": "Auriculares Inalámbricos, Auriculares Bluetooth HiFi Estéreo, cascos inalambricos bluetooth IPX7 Impermeables, con Cancelación de Ruido,USB Carga Rápida Reproducción de 24H Control Tactil, Negro",
+            "asin": "B0BTB92XG3",
+            "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-inalambricos-Impermeables-Reproducci%C3%B3n/dp/B0BTB92XG3/ref=sr_1_13_mod_primary_new?keywords=auriculares&qid=1677030103&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-13",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71Ag1ovC8vL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 5 %",
+                "text": "con un cupón"
+            },
+            "rating": 4.8,
+            "ratings_total": 41083,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 15.98,
+                    "raw": "€15,98",
+                    "name": "15,98 €"
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 19.99,
+                    "raw": "€19,99",
+                    "name": "19,99 €"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 15.98,
+                "raw": "€15,98",
+                "name": "15,98 €"
+            },
+            "page": "1",
+            "position_overall": 13
+        },
+        {
+            "position": 14,
+            "title": "Auriculares In Ear, Auriculares con Cable con Microfono y Control de Volumen Headphones Compatible con iPhone, Galaxy, Sony, Huawei, Xiaomi, MP3 y Todos los Dispositivos de Auriculares de 3,5 mm",
+            "asin": "B0BPLSKD2G",
+            "link": "https://www.amazon.es/Auriculares-Microfono-Headphones-Compatible-Dispositivos/dp/B0BPLSKD2G/ref=sr_1_14?keywords=auriculares&qid=1677030103&sr=8-14",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51Zkdrbe2UL._AC_UL400_.jpg",
+            "rating": 4.8,
+            "ratings_total": 37568,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 5.99,
+                    "raw": "€5,99",
+                    "name": "5,99 €",
+                    "asin": "B0BPLSKD2G",
+                    "link": "https://www.amazon.es/Auriculares-Microfono-Headphones-Compatible-Dispositivos/dp/B0BPLSKD2G/ref=sr_1_14?keywords=auriculares&qid=1677030103&sr=8-14"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 5.99,
+                "raw": "€5,99",
+                "name": "5,99 €",
+                "asin": "B0BPLSKD2G",
+                "link": "https://www.amazon.es/Auriculares-Microfono-Headphones-Compatible-Dispositivos/dp/B0BPLSKD2G/ref=sr_1_14?keywords=auriculares&qid=1677030103&sr=8-14"
+            },
+            "page": "1",
+            "position_overall": 14
+        },
+        {
+            "position": 15,
+            "title": "Quality Park Auriculares Inalambricos,Auriculares Bluetooth,Cascos Inalambricos Bluetooth,Control Tactil,Auriculares de Incorporado HD Micrófono, Reproducción de 30H",
+            "asin": "B0BKXXW5KC",
+            "link": "https://www.amazon.es/Quality-Park-Auriculares-Inalambricos-Reproducci%C3%B3n/dp/B0BKXXW5KC/ref=sr_1_15_mod_primary_new?keywords=auriculares&qid=1677030103&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-15",
+            "availability": {
+                "raw": "Sólo queda(n) 1 en stock."
+            },
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51uCg72tQQL._AC_UL400_.jpg",
+            "rating": 4.8,
+            "ratings_total": 36701,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 18.99,
+                    "raw": "€18,99",
+                    "name": "18,99 €"
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 22.88,
+                    "raw": "€22,88",
+                    "name": "22,88 €"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 18.99,
+                "raw": "€18,99",
+                "name": "18,99 €"
+            },
+            "page": "1",
+            "position_overall": 15
+        },
+        {
+            "position": 16,
+            "title": "Auriculares Inalambricos, Cascos Inalambricos Bluetooth Deportivos con HiFi Estéreo, Auriculares Bluetooth 5.1 con Reducción de Ruido, Auriculares IPX7 Impermeable, 25H de Reproducción Control Táctil",
+            "asin": "B0BVR9YP7K",
+            "link": "https://www.amazon.es/Auriculares-Inalambricos-Deportivos-Impermeable-Reproducci%C3%B3n/dp/B0BVR9YP7K/ref=sr_1_16?keywords=auriculares&qid=1677030103&sr=8-16",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51-6A2R0hZL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 10 %",
+                "text": "con un cupón"
+            },
+            "rating": 4.8,
+            "ratings_total": 29079,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 15.99,
+                    "raw": "€15,99",
+                    "name": "15,99 €",
+                    "asin": "B0BVR9YP7K",
+                    "link": "https://www.amazon.es/Auriculares-Inalambricos-Deportivos-Impermeable-Reproducci%C3%B3n/dp/B0BVR9YP7K/ref=sr_1_16?keywords=auriculares&qid=1677030103&sr=8-16"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 15.99,
+                "raw": "€15,99",
+                "name": "15,99 €",
+                "asin": "B0BVR9YP7K",
+                "link": "https://www.amazon.es/Auriculares-Inalambricos-Deportivos-Impermeable-Reproducci%C3%B3n/dp/B0BVR9YP7K/ref=sr_1_16?keywords=auriculares&qid=1677030103&sr=8-16"
+            },
+            "page": "1",
+            "position_overall": 16
+        },
+        {
+            "position": 17,
+            "title": "Filimino Auriculares inalámbricos, Auriculares Bluetooth 5.2, In-Ear Cascos Bluetooth HiFi estéreo con cancelación de Ruido Funda de Carga rápida, IPX7 Impermeables,Reproducción de 30H Control Tactil",
+            "asin": "B0BV1NGC71",
+            "link": "https://www.amazon.es/Filimino-Auriculares-inal%C3%A1mbricos-Impermeables-Reproducci%C3%B3n/dp/B0BV1NGC71/ref=sr_1_17?keywords=auriculares&qid=1677030103&sr=8-17",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61yUR3npFTL._AC_UL400_.jpg",
+            "rating": 4.8,
+            "ratings_total": 11485,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 8.99,
+                    "raw": "€8,99",
+                    "name": "8,99 €",
+                    "asin": "B0BV1NGC71",
+                    "link": "https://www.amazon.es/Filimino-Auriculares-inal%C3%A1mbricos-Impermeables-Reproducci%C3%B3n/dp/B0BV1NGC71/ref=sr_1_17?keywords=auriculares&qid=1677030103&sr=8-17"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 8.99,
+                "raw": "€8,99",
+                "name": "8,99 €",
+                "asin": "B0BV1NGC71",
+                "link": "https://www.amazon.es/Filimino-Auriculares-inal%C3%A1mbricos-Impermeables-Reproducci%C3%B3n/dp/B0BV1NGC71/ref=sr_1_17?keywords=auriculares&qid=1677030103&sr=8-17"
+            },
+            "page": "1",
+            "position_overall": 17
+        },
+        {
+            "position": 18,
+            "title": "Auriculares Inalambricos,Auriculares Bluetooth,Cascos Inalambricos Bluetooth, Micrófono Incorporado, Control Táctil, HiFi Estéreo, IPX7 Impermeables, Reproducci 30 Horas con Caja de Carga Rapida",
+            "asin": "B0BV9YX6HK",
+            "link": "https://www.amazon.es/Auriculares-Inalambricos-Incorporado-Impermeables-Reproducci/dp/B0BV9YX6HK/ref=sr_1_18?keywords=auriculares&qid=1677030103&sr=8-18",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61vifEL7xGL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 5 %",
+                "text": "con un cupón"
+            },
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 11109,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 15.99,
+                    "raw": "€15,99",
+                    "name": "15,99 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 16.99,
+                    "raw": "€16,99",
+                    "name": "15,99 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 15.99,
+                "raw": "€15,99",
+                "name": "15,99 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 18
+        },
+        {
+            "position": 19,
+            "title": "ChefSofi Auriculares Inalámbricos,Auriculares Bluetooth HiFi Estéreo,Auriculares de Incorporado HD Micrófono,Control Tactil,IPX7 Impermeables,Reproducción de 30H",
+            "asin": "B0BTCSSCM3",
+            "link": "https://www.amazon.es/ChefSofi-Auriculares-Inal%C3%A1mbricos-Impermeables-Reproducci%C3%B3n/dp/B0BTCSSCM3/ref=sr_1_19?keywords=auriculares&qid=1677030103&sr=8-19",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51cMoG2HbxL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 5 %",
+                "text": "con un cupón"
+            },
+            "rating": 4.8,
+            "ratings_total": 22459,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 18.99,
+                    "raw": "€18,99",
+                    "name": "18,99 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 19.99,
+                    "raw": "€19,99",
+                    "name": "18,99 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 18.99,
+                "raw": "€18,99",
+                "name": "18,99 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 19
+        },
+        {
+            "position": 20,
+            "title": "NeilMed Auriculares Inalámbricos, Auriculares Bluetooth Cancelación de Ruido, Cascos inalambricos Bluetooth Impermeables, Auriculares de Incorporado HD Micrófono, Reproducción de 30H Control Tactil",
+            "asin": "B0BQ2TPCSL",
+            "link": "https://www.amazon.es/NeilMed-Auriculares-Inal%C3%A1mbricos-inalambricos-Impermeables/dp/B0BQ2TPCSL/ref=sr_1_20?keywords=auriculares&qid=1677030103&sr=8-20",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51Cco8f+rYL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 5 %",
+                "text": "con un cupón"
+            },
+            "rating": 4.8,
+            "ratings_total": 25361,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 19.99,
+                    "raw": "€19,99",
+                    "name": "19,99 €",
+                    "asin": "B0BQ2TPCSL",
+                    "link": "https://www.amazon.es/NeilMed-Auriculares-Inal%C3%A1mbricos-inalambricos-Impermeables/dp/B0BQ2TPCSL/ref=sr_1_20?keywords=auriculares&qid=1677030103&sr=8-20"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 19.99,
+                "raw": "€19,99",
+                "name": "19,99 €",
+                "asin": "B0BQ2TPCSL",
+                "link": "https://www.amazon.es/NeilMed-Auriculares-Inal%C3%A1mbricos-inalambricos-Impermeables/dp/B0BQ2TPCSL/ref=sr_1_20?keywords=auriculares&qid=1677030103&sr=8-20"
+            },
+            "page": "1",
+            "position_overall": 20
+        },
+        {
+            "position": 21,
+            "title": "HIWARE Auriculares Inalámbricos, Auriculares Bluetooth HiFi Estéreo, Cascos inalambricos Bluetooth IPX5 Impermeables, Auriculares Inalambricos Bluetooth con Control Táctil, Reproducción de 24H",
+            "asin": "B0BRK41PB1",
+            "link": "https://www.amazon.es/HIWARE-Inal%C3%A1mbricos-inalambricos-Impermeables-Inalambricos/dp/B0BRK41PB1/ref=sr_1_21?keywords=auriculares&qid=1677030103&sr=8-21",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61br7liwsSL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 5 %",
+                "text": "con un cupón"
+            },
+            "rating": 4.8,
+            "ratings_total": 12756,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 19.99,
+                    "raw": "€19,99",
+                    "name": "19,99 €",
+                    "asin": "B0BRK41PB1",
+                    "link": "https://www.amazon.es/HIWARE-Inal%C3%A1mbricos-inalambricos-Impermeables-Inalambricos/dp/B0BRK41PB1/ref=sr_1_21?keywords=auriculares&qid=1677030103&sr=8-21"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 19.99,
+                "raw": "€19,99",
+                "name": "19,99 €",
+                "asin": "B0BRK41PB1",
+                "link": "https://www.amazon.es/HIWARE-Inal%C3%A1mbricos-inalambricos-Impermeables-Inalambricos/dp/B0BRK41PB1/ref=sr_1_21?keywords=auriculares&qid=1677030103&sr=8-21"
+            },
+            "page": "1",
+            "position_overall": 21
+        },
+        {
+            "position": 22,
+            "title": "Auriculares Inalámbricos, Auriculares Bluetooth 5.3 HiFi Estéreo con Microfono, Cascos Inalambricos Bluetooth Reproducción de 36H, Carga Rápida USB-C, IP7 Impermeable, Pantalla LED, Control Táctil",
+            "asin": "B0BW8C9YK6",
+            "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-Inalambricos-Reproducci%C3%B3n-Impermeable/dp/B0BW8C9YK6/ref=sr_1_22?keywords=auriculares&qid=1677030103&sr=8-22",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61ets14NjGL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 20 %",
+                "text": "con un cupón"
+            },
+            "rating": 4.8,
+            "ratings_total": 10236,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 23.99,
+                    "raw": "€23,99",
+                    "name": "23,99 €",
+                    "asin": "B0BW8C9YK6",
+                    "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-Inalambricos-Reproducci%C3%B3n-Impermeable/dp/B0BW8C9YK6/ref=sr_1_22?keywords=auriculares&qid=1677030103&sr=8-22"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 23.99,
+                "raw": "€23,99",
+                "name": "23,99 €",
+                "asin": "B0BW8C9YK6",
+                "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-Inalambricos-Reproducci%C3%B3n-Impermeable/dp/B0BW8C9YK6/ref=sr_1_22?keywords=auriculares&qid=1677030103&sr=8-22"
+            },
+            "page": "1",
+            "position_overall": 22
+        },
+        {
+            "position": 23,
+            "title": "Auriculares Bluetooth, Auriculares Inalámbricos, HiFi Estéreo con Microfono, Cascos Inalambricos Reproducción de 35H, Pantalla LED, IP7 Impermeable, Carga Rápida USB-C, Control Táctil",
+            "asin": "B0BTSJNXWR",
+            "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-Inalambricos-Reproducci%C3%B3n-Impermeable/dp/B0BTSJNXWR/ref=sr_1_23?keywords=auriculares&qid=1677030103&sr=8-23",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51nCAbMXGEL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 10 %",
+                "text": "con un cupón"
+            },
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 13229,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 19.99,
+                    "raw": "€19,99",
+                    "name": "19,99 €",
+                    "asin": "B0BTSJNXWR",
+                    "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-Inalambricos-Reproducci%C3%B3n-Impermeable/dp/B0BTSJNXWR/ref=sr_1_23?keywords=auriculares&qid=1677030103&sr=8-23"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 19.99,
+                "raw": "€19,99",
+                "name": "19,99 €",
+                "asin": "B0BTSJNXWR",
+                "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-Inalambricos-Reproducci%C3%B3n-Impermeable/dp/B0BTSJNXWR/ref=sr_1_23?keywords=auriculares&qid=1677030103&sr=8-23"
+            },
+            "page": "1",
+            "position_overall": 23
+        },
+        {
+            "position": 24,
+            "title": "Auriculares Inalambricos, Auriculares Bluetooth con Micro, Cascos Inalambricos Bluetooth IPX7 Impermeable, Utilice el principio de la conducción del aire para enviar el sonido a sus oídos（Negro）",
+            "asin": "B0BRW1HZR2",
+            "link": "https://www.amazon.es/Auriculares-Inalambricos-Impermeable-conducci%C3%B3n-o%C3%ADdos%EF%BC%88Negro%EF%BC%89/dp/B0BRW1HZR2/ref=sr_1_24?keywords=auriculares&qid=1677030103&sr=8-24",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51whcZUnx3L._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 5 %",
+                "text": "con un cupón"
+            },
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 22227,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 18.99,
+                    "raw": "€18,99",
+                    "name": "18,99 €",
+                    "asin": "B0BRW1HZR2",
+                    "link": "https://www.amazon.es/Auriculares-Inalambricos-Impermeable-conducci%C3%B3n-o%C3%ADdos%EF%BC%88Negro%EF%BC%89/dp/B0BRW1HZR2/ref=sr_1_24?keywords=auriculares&qid=1677030103&sr=8-24"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 18.99,
+                "raw": "€18,99",
+                "name": "18,99 €",
+                "asin": "B0BRW1HZR2",
+                "link": "https://www.amazon.es/Auriculares-Inalambricos-Impermeable-conducci%C3%B3n-o%C3%ADdos%EF%BC%88Negro%EF%BC%89/dp/B0BRW1HZR2/ref=sr_1_24?keywords=auriculares&qid=1677030103&sr=8-24"
+            },
+            "page": "1",
+            "position_overall": 24
+        },
+        {
+            "position": 25,
+            "title": "Auriculares Inalambricos, Auriculares Bluetooth Inalámbrico 5.1 HiFi Estéreo, IPX7 Impermeables, Reproducción de 35H Control Tactil.",
+            "asin": "B0BTL6WX3L",
+            "link": "https://www.amazon.es/Auriculares-Inalambricos-Inal%C3%A1mbrico-Impermeables-Reproducci%C3%B3n/dp/B0BTL6WX3L/ref=sr_1_25?keywords=auriculares&qid=1677030103&sr=8-25",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51CCuxeWVFL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 10 %",
+                "text": "con un cupón"
+            },
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 21117,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 18.99,
+                    "raw": "€18,99",
+                    "name": "18,99 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 19.99,
+                    "raw": "€19,99",
+                    "name": "18,99 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 18.99,
+                "raw": "€18,99",
+                "name": "18,99 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 25
+        },
+        {
+            "position": 26,
+            "title": "Auriculares Inalambricos, Auriculares Bluetooth 5.2 HiFi Estéreo, Cascos Inalambricos Bluetooth IPX7 Impermeables, Control Tactil, Micrófono HD Incorporado, Pantalla LED, 40 Horas de Reproducción",
+            "asin": "B0BV29M5HL",
+            "link": "https://www.amazon.es/Auriculares-Inalambricos-Impermeables-Incorporado-Reproducci%C3%B3n/dp/B0BV29M5HL/ref=sr_1_26?keywords=auriculares&qid=1677030103&sr=8-26",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/515r178+4SL._AC_UL400_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 28922,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 22.88,
+                    "raw": "€22,88",
+                    "name": "22,88 €",
+                    "asin": "B0BV29M5HL",
+                    "link": "https://www.amazon.es/Auriculares-Inalambricos-Impermeables-Incorporado-Reproducci%C3%B3n/dp/B0BV29M5HL/ref=sr_1_26?keywords=auriculares&qid=1677030103&sr=8-26"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 22.88,
+                "raw": "€22,88",
+                "name": "22,88 €",
+                "asin": "B0BV29M5HL",
+                "link": "https://www.amazon.es/Auriculares-Inalambricos-Impermeables-Incorporado-Reproducci%C3%B3n/dp/B0BV29M5HL/ref=sr_1_26?keywords=auriculares&qid=1677030103&sr=8-26"
+            },
+            "page": "1",
+            "position_overall": 26
+        },
+        {
+            "position": 27,
+            "title": "Auriculares Inalámbricos, Auriculares Bluetooth 5.3 HiFi Estéreo, 2023 Deportivos Cascos Inalambricos Bluetooth, Reducción de Ruido de ENC y Control Táctil IPX7 Impermeable, 30 Horas de Reproducción",
+            "asin": "B0BV6XLHGV",
+            "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-Inalambricos-Impermeable-Reproducci%C3%B3n/dp/B0BV6XLHGV/ref=sr_1_27?keywords=auriculares&qid=1677030103&sr=8-27",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61daQdA7TAL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 11 %",
+                "text": "con un cupón"
+            },
+            "rating": 4.8,
+            "ratings_total": 11511,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 22.99,
+                    "raw": "€22,99",
+                    "name": "22,99 €",
+                    "asin": "B0BV6XLHGV",
+                    "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-Inalambricos-Impermeable-Reproducci%C3%B3n/dp/B0BV6XLHGV/ref=sr_1_27?keywords=auriculares&qid=1677030103&sr=8-27"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 22.99,
+                "raw": "€22,99",
+                "name": "22,99 €",
+                "asin": "B0BV6XLHGV",
+                "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-Inalambricos-Impermeable-Reproducci%C3%B3n/dp/B0BV6XLHGV/ref=sr_1_27?keywords=auriculares&qid=1677030103&sr=8-27"
+            },
+            "page": "1",
+            "position_overall": 27
+        },
+        {
+            "position": 28,
+            "title": "Sharpty Auriculares Inalambricos Deportivos,Auriculares Bluetooth Deportivos 5.1 HiFi Estéreo con Micrófono,Cascos Inalambricos Cancelación de Ruido,IPX7 Impermeable,48Hrs de Reproducción",
+            "asin": "B0BMPSM8NP",
+            "link": "https://www.amazon.es/Sharpty-Auriculares-Inalambricos-Cancelaci%C3%B3n-Reproducci%C3%B3n/dp/B0BMPSM8NP/ref=sr_1_28?keywords=auriculares&qid=1677030103&sr=8-28",
+            "availability": {
+                "raw": "Sólo queda(n) 3 en stock."
+            },
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71eS6F02thL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 5 %",
+                "text": "con un cupón"
+            },
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 23165,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 33.99,
+                    "raw": "€33,99",
+                    "name": "33,99 €",
+                    "asin": "B0BMPSM8NP",
+                    "link": "https://www.amazon.es/Sharpty-Auriculares-Inalambricos-Cancelaci%C3%B3n-Reproducci%C3%B3n/dp/B0BMPSM8NP/ref=sr_1_28?keywords=auriculares&qid=1677030103&sr=8-28"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 33.99,
+                "raw": "€33,99",
+                "name": "33,99 €",
+                "asin": "B0BMPSM8NP",
+                "link": "https://www.amazon.es/Sharpty-Auriculares-Inalambricos-Cancelaci%C3%B3n-Reproducci%C3%B3n/dp/B0BMPSM8NP/ref=sr_1_28?keywords=auriculares&qid=1677030103&sr=8-28"
+            },
+            "page": "1",
+            "position_overall": 28
+        },
+        {
+            "position": 29,
+            "title": "The Spice Lab Auriculares Inalambricos,Auriculares Bluetooth,Cascos Inalambricos Bluetooth,Control Tactil,Auriculares de Incorporado HD Micrófono, Reproducción de 30H",
+            "asin": "B0BSF7LXSR",
+            "link": "https://www.amazon.es/Spice-Lab-Auriculares-Inalambricos-Reproducci%C3%B3n/dp/B0BSF7LXSR/ref=sr_1_29?keywords=auriculares&qid=1677030103&sr=8-29",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51nCAbMXGEL._AC_UL400_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 28603,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 20,
+                    "raw": "€20,00",
+                    "name": "20,00 €",
+                    "asin": "B0BSF7LXSR",
+                    "link": "https://www.amazon.es/Spice-Lab-Auriculares-Inalambricos-Reproducci%C3%B3n/dp/B0BSF7LXSR/ref=sr_1_29?keywords=auriculares&qid=1677030103&sr=8-29"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 20,
+                "raw": "€20,00",
+                "name": "20,00 €",
+                "asin": "B0BSF7LXSR",
+                "link": "https://www.amazon.es/Spice-Lab-Auriculares-Inalambricos-Reproducci%C3%B3n/dp/B0BSF7LXSR/ref=sr_1_29?keywords=auriculares&qid=1677030103&sr=8-29"
+            },
+            "page": "1",
+            "position_overall": 29
+        },
+        {
+            "position": 30,
+            "title": "Skullcandy Crusher EVO Over-Ear Bluetooth Auriculares inalámbricos - True Black",
+            "asin": "B08FCGH2RL",
+            "link": "https://www.amazon.es/Skullcandy-Crusher-Auriculares-Inal%C3%A1mbricos-Diadema/dp/B08FCGH2RL/ref=sr_1_30?keywords=auriculares&qid=1677030103&sr=8-30",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71I0lybSq+L._AC_UL400_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 8471,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 194.61,
+                    "raw": "€194,61",
+                    "name": "194,61 €",
+                    "asin": "B08FCGH2RL",
+                    "link": "https://www.amazon.es/Skullcandy-Crusher-Auriculares-Inal%C3%A1mbricos-Diadema/dp/B08FCGH2RL/ref=sr_1_30?keywords=auriculares&qid=1677030103&sr=8-30"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 194.61,
+                "raw": "€194,61",
+                "name": "194,61 €",
+                "asin": "B08FCGH2RL",
+                "link": "https://www.amazon.es/Skullcandy-Crusher-Auriculares-Inal%C3%A1mbricos-Diadema/dp/B08FCGH2RL/ref=sr_1_30?keywords=auriculares&qid=1677030103&sr=8-30"
+            },
+            "page": "1",
+            "position_overall": 30
+        },
+        {
+            "position": 31,
+            "title": "Auriculares inalámbricos, Cascos inalambricos Bluetooth, Auriculares Bluetooth Sonido Estéreo Auricular Mini Twins In-Ear Auriculares Carga Rapida Resistente al Agua con Caja de Carga",
+            "asin": "B0BBGH2Y4H",
+            "link": "https://www.amazon.es/Auriculares-inal%C3%A1mbricos-inalambricos-Bluetooth-Resistente/dp/B0BBGH2Y4H/ref=sr_1_31?keywords=auriculares&qid=1677030103&sr=8-31",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51HG5F-JdwL._AC_UL400_.jpg",
+            "rating": 4.8,
+            "ratings_total": 7089,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 24.99,
+                    "raw": "€24,99",
+                    "name": "24,99 €",
+                    "asin": "B0BBGH2Y4H",
+                    "link": "https://www.amazon.es/Auriculares-inal%C3%A1mbricos-inalambricos-Bluetooth-Resistente/dp/B0BBGH2Y4H/ref=sr_1_31?keywords=auriculares&qid=1677030103&sr=8-31"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 24.99,
+                "raw": "€24,99",
+                "name": "24,99 €",
+                "asin": "B0BBGH2Y4H",
+                "link": "https://www.amazon.es/Auriculares-inal%C3%A1mbricos-inalambricos-Bluetooth-Resistente/dp/B0BBGH2Y4H/ref=sr_1_31?keywords=auriculares&qid=1677030103&sr=8-31"
+            },
+            "page": "1",
+            "position_overall": 31
+        },
+        {
+            "position": 32,
+            "title": "Auriculares, Auriculares con Cable, Cascos con Cable con micrófono y Control de Llamadas, esistentes al Sudor, Aislamiento de Ruido,Auriculares internos de 3,5 mm",
+            "asin": "B0BRK85ZWP",
+            "link": "https://www.amazon.es/Auriculares-micr%C3%B3fono-Llamadas-esistentes-Aislamiento/dp/B0BRK85ZWP/ref=sr_1_32?keywords=auriculares&qid=1677030103&sr=8-32",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/41sV308xO5L._AC_UL400_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 6592,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 3.99,
+                    "raw": "€3,99",
+                    "name": "3,99 €",
+                    "asin": "B0BRK85ZWP",
+                    "link": "https://www.amazon.es/Auriculares-micr%C3%B3fono-Llamadas-esistentes-Aislamiento/dp/B0BRK85ZWP/ref=sr_1_32?keywords=auriculares&qid=1677030103&sr=8-32"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 3.99,
+                "raw": "€3,99",
+                "name": "3,99 €",
+                "asin": "B0BRK85ZWP",
+                "link": "https://www.amazon.es/Auriculares-micr%C3%B3fono-Llamadas-esistentes-Aislamiento/dp/B0BRK85ZWP/ref=sr_1_32?keywords=auriculares&qid=1677030103&sr=8-32"
+            },
+            "page": "1",
+            "position_overall": 32
+        },
+        {
+            "position": 33,
+            "title": "Auriculares Inalámbricos, Auriculares Bluetooth 5.2 con HD Mic, 2023 Nueva HiFi Estéreo Cascos Inalambricos Bluetooth, IP7 Impermeable 36H Cancelación de Ruido In-Ear Auriculares, Pantalla LED, USB-C",
+            "asin": "B0BTD5DTG1",
+            "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-Inalambricos-Impermeable-Cancelaci%C3%B3n/dp/B0BTD5DTG1/ref=sr_1_33?keywords=auriculares&qid=1677030103&sr=8-33",
+            "availability": {
+                "raw": "Sólo queda(n) 1 en stock."
+            },
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61ets14NjGL._AC_UL400_.jpg",
+            "rating": 4.8,
+            "ratings_total": 6510,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 38,
+                    "raw": "€38,00",
+                    "name": "38,00 €",
+                    "asin": "B0BTD5DTG1",
+                    "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-Inalambricos-Impermeable-Cancelaci%C3%B3n/dp/B0BTD5DTG1/ref=sr_1_33?keywords=auriculares&qid=1677030103&sr=8-33"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 38,
+                "raw": "€38,00",
+                "name": "38,00 €",
+                "asin": "B0BTD5DTG1",
+                "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-Inalambricos-Impermeable-Cancelaci%C3%B3n/dp/B0BTD5DTG1/ref=sr_1_33?keywords=auriculares&qid=1677030103&sr=8-33"
+            },
+            "page": "1",
+            "position_overall": 33
+        },
+        {
+            "position": 34,
+            "title": "Auriculares Bluetooth Deportes, Auriculares Bluetooth estéreo HiFi con Micrófono, Auriculares In-Ear Bluetooth Running, Control táctil, 48 Horas de Reproducción con Pantalla LED (Negro)",
+            "asin": "B0BG276GXZ",
+            "link": "https://www.amazon.es/Auriculares-Bluetooth-Deportes-Micr%C3%B3fono-Reproducci%C3%B3n/dp/B0BG276GXZ/ref=sr_1_34?keywords=auriculares&qid=1677030103&sr=8-34",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71mNh54CtmL._AC_UL400_.jpg",
+            "rating": 4.8,
+            "ratings_total": 5642,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 42.35,
+                    "raw": "€42,35",
+                    "name": "42,35 €",
+                    "asin": "B0BG276GXZ",
+                    "link": "https://www.amazon.es/Auriculares-Bluetooth-Deportes-Micr%C3%B3fono-Reproducci%C3%B3n/dp/B0BG276GXZ/ref=sr_1_34?keywords=auriculares&qid=1677030103&sr=8-34"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 42.35,
+                "raw": "€42,35",
+                "name": "42,35 €",
+                "asin": "B0BG276GXZ",
+                "link": "https://www.amazon.es/Auriculares-Bluetooth-Deportes-Micr%C3%B3fono-Reproducci%C3%B3n/dp/B0BG276GXZ/ref=sr_1_34?keywords=auriculares&qid=1677030103&sr=8-34"
+            },
+            "page": "1",
+            "position_overall": 34
+        },
+        {
+            "position": 35,
+            "title": "Auriculares Inalambricos Auricular Bluetooth 5.3 Auriculares Inalambricos con Mic Estéreo Cancelación de Ruido Reproducci 42 Horas In-Ear Audifonos IPX7 Impermeable,para Xiaomi Samsung iPhone",
+            "asin": "B0BVVD436P",
+            "link": "https://www.amazon.es/Auriculares-Inalambricos-Cancelaci%C3%B3n-Reproducci-Impermeable/dp/B0BVVD436P/ref=sr_1_35?keywords=auriculares&qid=1677030103&sr=8-35",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61ad1jiFmzL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 10 %",
+                "text": "con un cupón"
+            },
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 3940,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 25.99,
+                    "raw": "€25,99",
+                    "name": "25,99 €",
+                    "asin": "B0BVVD436P",
+                    "link": "https://www.amazon.es/Auriculares-Inalambricos-Cancelaci%C3%B3n-Reproducci-Impermeable/dp/B0BVVD436P/ref=sr_1_35?keywords=auriculares&qid=1677030103&sr=8-35"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 25.99,
+                "raw": "€25,99",
+                "name": "25,99 €",
+                "asin": "B0BVVD436P",
+                "link": "https://www.amazon.es/Auriculares-Inalambricos-Cancelaci%C3%B3n-Reproducci-Impermeable/dp/B0BVVD436P/ref=sr_1_35?keywords=auriculares&qid=1677030103&sr=8-35"
+            },
+            "page": "1",
+            "position_overall": 35
+        },
+        {
+            "position": 36,
+            "title": "Auriculares Inalambricos, Auriculares Bluetooth 5.3 con Estéreo 3D, 36 Horas de Reproducción e Carga Rápida USB-C, Cascos Inalambricos Bluetooth Impermeable IPX8 para Smartphone y Tablet, Negro",
+            "asin": "B0BTSW1X2B",
+            "link": "https://www.amazon.es/Auriculares-Inalambricos-Reproducci%C3%B3n-Impermeable-Smartphone/dp/B0BTSW1X2B/ref=sr_1_36?keywords=auriculares&qid=1677030103&sr=8-36",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51NchbEzLfL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 5 %",
+                "text": "con un cupón"
+            },
+            "rating": 4.8,
+            "ratings_total": 2786,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 23.99,
+                    "raw": "€23,99",
+                    "name": "23,99 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 29.98,
+                    "raw": "€29,98",
+                    "name": "23,99 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 23.99,
+                "raw": "€23,99",
+                "name": "23,99 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 36
+        },
+        {
+            "position": 37,
+            "title": "Bostw Auriculares In Ear, Auriculares con Cable y Micrófono Headphone Sonido Estéreo，Cascos Musica con Graves Potentespara Todos los Dispositivos de Auriculares de 3,5 mm",
+            "asin": "B0BTY9RWXW",
+            "link": "https://www.amazon.es/Bostw-Auriculares-Est%C3%A9reo%EF%BC%8CCascos-Potentespara-Dispositivos/dp/B0BTY9RWXW/ref=sr_1_37?keywords=auriculares&qid=1677030103&sr=8-37",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51nGjgdWuaL._AC_UL400_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 2162,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 5.99,
+                    "raw": "€5,99",
+                    "name": "5,99 €",
+                    "asin": "B0BTY9RWXW",
+                    "link": "https://www.amazon.es/Bostw-Auriculares-Est%C3%A9reo%EF%BC%8CCascos-Potentespara-Dispositivos/dp/B0BTY9RWXW/ref=sr_1_37?keywords=auriculares&qid=1677030103&sr=8-37"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 5.99,
+                "raw": "€5,99",
+                "name": "5,99 €",
+                "asin": "B0BTY9RWXW",
+                "link": "https://www.amazon.es/Bostw-Auriculares-Est%C3%A9reo%EF%BC%8CCascos-Potentespara-Dispositivos/dp/B0BTY9RWXW/ref=sr_1_37?keywords=auriculares&qid=1677030103&sr=8-37"
+            },
+            "page": "1",
+            "position_overall": 37
+        },
+        {
+            "position": 38,
+            "title": "Auriculares Inalámbricos, Auriculares Bluetooth 5.3 HiFi Estéreo con HD Micrófono, Cascos Inalambricos con Cancelación de Ruido e Control Táctil, IP7 Impermeable Auriculares con Mini Estuche de Carga",
+            "asin": "B0BVF4F5GD",
+            "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-Inalambricos-Cancelaci%C3%B3n-Impermeable/dp/B0BVF4F5GD/ref=sr_1_38?keywords=auriculares&qid=1677030103&sr=8-38",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51WSXGKVzgL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 10 %",
+                "text": "con un cupón"
+            },
+            "rating": 4.8,
+            "ratings_total": 1516,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 26.99,
+                    "raw": "€26,99",
+                    "name": "26,99 €",
+                    "asin": "B0BVF4F5GD",
+                    "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-Inalambricos-Cancelaci%C3%B3n-Impermeable/dp/B0BVF4F5GD/ref=sr_1_38?keywords=auriculares&qid=1677030103&sr=8-38"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 26.99,
+                "raw": "€26,99",
+                "name": "26,99 €",
+                "asin": "B0BVF4F5GD",
+                "link": "https://www.amazon.es/Auriculares-Inal%C3%A1mbricos-Inalambricos-Cancelaci%C3%B3n-Impermeable/dp/B0BVF4F5GD/ref=sr_1_38?keywords=auriculares&qid=1677030103&sr=8-38"
+            },
+            "page": "1",
+            "position_overall": 38
+        },
+        {
+            "position": 39,
+            "title": "FAMOO Auriculares Bluetooth 5.3, Auriculares Inalambricos Deportivos con Pantalla LED, IPX8 Resistente al Agua, Mini Auriculares con micrófono Dual, 32H de Tiempo de reproducción, Control táctil",
+            "asin": "B0B9SSMH7Z",
+            "link": "https://www.amazon.es/FAMOO-Auriculares-Inalambricos-Deportivos-reproducci%C3%B3n/dp/B0B9SSMH7Z/ref=sr_1_39?keywords=auriculares&qid=1677030103&sr=8-39",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71OSi5PsDfL._AC_UL400_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 1239,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 49.99,
+                    "raw": "€49,99",
+                    "name": "49,99 €",
+                    "asin": "B0B9SSMH7Z",
+                    "link": "https://www.amazon.es/FAMOO-Auriculares-Inalambricos-Deportivos-reproducci%C3%B3n/dp/B0B9SSMH7Z/ref=sr_1_39?keywords=auriculares&qid=1677030103&sr=8-39"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 49.99,
+                "raw": "€49,99",
+                "name": "49,99 €",
+                "asin": "B0B9SSMH7Z",
+                "link": "https://www.amazon.es/FAMOO-Auriculares-Inalambricos-Deportivos-reproducci%C3%B3n/dp/B0B9SSMH7Z/ref=sr_1_39?keywords=auriculares&qid=1677030103&sr=8-39"
+            },
+            "page": "1",
+            "position_overall": 39
+        },
+        {
+            "position": 40,
+            "title": "Auriculares Inalambricos, 60H con Indicador de Carga LED, Auriculares Bluetooth 5.3, Llamada Clara CVC8.0, Auriculares Inalambricos Deportivos con Gancho, Bajos Profundos, IPX7 Impermeable.",
+            "asin": "B0BDQYTLF5",
+            "link": "https://www.amazon.es/Auriculares-Inalambricos-Indicador-Deportivos-Impermeable/dp/B0BDQYTLF5/ref=sr_1_40?keywords=auriculares&qid=1677030103&sr=8-40",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61KLP4pP4NL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 6,00 €",
+                "text": "con un cupón"
+            },
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 1097,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 32.99,
+                    "raw": "€32,99",
+                    "name": "32,99 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 69.99,
+                    "raw": "€69,99",
+                    "name": "32,99 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 32.99,
+                "raw": "€32,99",
+                "name": "32,99 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 40
+        },
+        {
+            "position": 41,
+            "title": "Auriculares Inalambricos, Auriculares Bluetooth 5.3 con Microfono,Cascos inalambricos Bluetooth 30 Horas de Reproducción, con HiFi Estéreo, Llamadas en HD,ipx7 Impermeable, para iOS/Android/Samsung",
+            "asin": "B0BW2HX353",
+            "link": "https://www.amazon.es/Auriculares-Inalambricos-inalambricos-Reproducci%C3%B3n-Impermeable/dp/B0BW2HX353/ref=sr_1_41?keywords=auriculares&qid=1677030103&sr=8-41",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51tEe2+1-RL._AC_UL400_.jpg",
+            "rating": 4.9,
+            "ratings_total": 67,
+            "page": "1",
+            "position_overall": 41
+        },
+        {
+            "position": 42,
+            "title": "Auriculares Inalambricos Deportivos, 2023 Auriculares Bluetooth 5.3, Hi-Fi Estéreo Cascos Inalambricos con Dual LED Pantalla, Llamadas Nítidas con HD Micrófono, Controladore 13 mm Bass Potentes, USB-C",
+            "asin": "B0BBFMVQZZ",
+            "link": "https://www.amazon.es/Auriculares-Inalambricos-Deportivos-Bluetooth-Controladore/dp/B0BBFMVQZZ/ref=sr_1_42?keywords=auriculares&qid=1677030103&sr=8-42",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71WUIRDr9VL._AC_UL400_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 753,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 32.99,
+                    "raw": "€32,99",
+                    "name": "32,99 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 79.99,
+                    "raw": "€79,99",
+                    "name": "32,99 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 32.99,
+                "raw": "€32,99",
+                "name": "32,99 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 42
+        },
+        {
+            "position": 43,
+            "title": "Auriculares Inalambricos, Auriculares Bluetooth 5.3, 4 Mic HD incorporados, In Ear Cascos Inalambricos Graves Profundos, Pantalla LED, IPX7 Impermeable, USB-C",
+            "asin": "B0BLJXPRL9",
+            "link": "https://www.amazon.es/Auriculares-Inalambricos-Bluetooth-incorporados-Impermeable/dp/B0BLJXPRL9/ref=sr_1_43?keywords=auriculares&qid=1677030103&sr=8-43",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61eeLKY6s5L._AC_UL400_.jpg",
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 613,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 84.72,
+                    "raw": "€84,72",
+                    "name": "84,72 €",
+                    "asin": "B0BLJXPRL9",
+                    "link": "https://www.amazon.es/Auriculares-Inalambricos-Bluetooth-incorporados-Impermeable/dp/B0BLJXPRL9/ref=sr_1_43?keywords=auriculares&qid=1677030103&sr=8-43"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 84.72,
+                "raw": "€84,72",
+                "name": "84,72 €",
+                "asin": "B0BLJXPRL9",
+                "link": "https://www.amazon.es/Auriculares-Inalambricos-Bluetooth-incorporados-Impermeable/dp/B0BLJXPRL9/ref=sr_1_43?keywords=auriculares&qid=1677030103&sr=8-43"
+            },
+            "page": "1",
+            "position_overall": 43
+        },
+        {
+            "position": 44,
+            "title": "Ajblg Auriculares Inalambricos,Auriculares Inalambricos Deportivos X15,Auriculares Bluetooth con Micro,Tiempo De ReproduccióN De 35 H, Tipo C Auriculares In Ear Impermeables Ipx7",
+            "asin": "B0BHP3FCSD",
+            "link": "https://www.amazon.es/Ajblg-Inalambricos-X15-Reproducci%C3%B3N-Impermeables/dp/B0BHP3FCSD/ref=sr_1_44?keywords=auriculares&qid=1677030103&sr=8-44",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71eDf5DmYaL._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 8,00 €",
+                "text": "con un cupón"
+            },
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 541,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 29.98,
+                    "raw": "€29,98",
+                    "name": "29,98 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 69.99,
+                    "raw": "€69,99",
+                    "name": "29,98 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 29.98,
+                "raw": "€29,98",
+                "name": "29,98 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 44
+        },
+        {
+            "position": 45,
+            "title": "Auriculares Inalambricos Deportivos, Auriculares Bluetooth 5.3 con Microfono Dobles, Stereo Cascos Inalambricos IP7 Impermeable, Carga Rápida USB-C, 48H, In-Ear Auriculares Cancelación de Ruido",
+            "asin": "B0BLTW5NR3",
+            "link": "https://www.amazon.es/Auriculares-Inalambricos-Deportivos-Impermeable-Cancelaci%C3%B3n/dp/B0BLTW5NR3/ref=sr_1_45?keywords=auriculares&qid=1677030103&sr=8-45",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71UYwQSOE8L._AC_UL400_.jpg",
+            "coupon": {
+                "badge_text": "Ahorra 8,00 €",
+                "text": "con un cupón"
+            },
+            "is_prime": true,
+            "rating": 4.8,
+            "ratings_total": 466,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 29.99,
+                    "raw": "€29,99",
+                    "name": "29,99 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 49.99,
+                    "raw": "€49,99",
+                    "name": "29,99 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 29.99,
+                "raw": "€29,99",
+                "name": "29,99 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 45
+        },
+        {
+            "position": 46,
+            "title": "PANKELA Auriculares Inalámbricos, Auriculares Bluetooth 5.0 Estéreo Dos micrófonos Cancelación de Ruido, Cascos Inalambricos con Sensor de Piel e Control Táctil, IPX5 Wireless Carga para iOS Android",
+            "asin": "B0BMKYWKTM",
+            "link": "https://www.amazon.es/PANKELA-Auriculares-Inal%C3%A1mbricos-Cancelaci%C3%B3n-Inalambricos/dp/B0BMKYWKTM/ref=sr_1_46?keywords=auriculares&qid=1677030103&sr=8-46",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/41UfeH0e8OL._AC_UL400_.jpg",
+            "rating": 4.8,
+            "ratings_total": 456,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 18.99,
+                    "raw": "€18,99",
+                    "name": "18,99 €",
+                    "asin": "B0BMKYWKTM",
+                    "link": "https://www.amazon.es/PANKELA-Auriculares-Inal%C3%A1mbricos-Cancelaci%C3%B3n-Inalambricos/dp/B0BMKYWKTM/ref=sr_1_46?keywords=auriculares&qid=1677030103&sr=8-46"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 18.99,
+                "raw": "€18,99",
+                "name": "18,99 €",
+                "asin": "B0BMKYWKTM",
+                "link": "https://www.amazon.es/PANKELA-Auriculares-Inal%C3%A1mbricos-Cancelaci%C3%B3n-Inalambricos/dp/B0BMKYWKTM/ref=sr_1_46?keywords=auriculares&qid=1677030103&sr=8-46"
+            },
+            "page": "1",
+            "position_overall": 46
+        },
+        {
+            "position": 47,
+            "title": "KAHPAN Auriculares inalámbricos, Auriculares inalámbricos Bluetooth 5.3 con micrófono HD, 30horas de Tiempo de reproducción, Auriculares Deportivos, Resistente al Agua IPX7, estéreo Hi-Fi, Blanco",
+            "asin": "B0BQ2DD7QR",
+            "link": "https://www.amazon.es/KAHPAN-Auriculares-inal%C3%A1mbricos-reproducci%C3%B3n-Deportivos/dp/B0BQ2DD7QR/ref=sr_1_47?keywords=auriculares&qid=1677030103&sr=8-47",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/41b6Uy7HolL._AC_UL400_.jpg",
+            "rating": 5,
+            "ratings_total": 33,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 19.99,
+                    "raw": "€19,99",
+                    "name": "19,99 €",
+                    "asin": "B0BQ2DD7QR",
+                    "link": "https://www.amazon.es/KAHPAN-Auriculares-inal%C3%A1mbricos-reproducci%C3%B3n-Deportivos/dp/B0BQ2DD7QR/ref=sr_1_47?keywords=auriculares&qid=1677030103&sr=8-47"
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 19.99,
+                "raw": "€19,99",
+                "name": "19,99 €",
+                "asin": "B0BQ2DD7QR",
+                "link": "https://www.amazon.es/KAHPAN-Auriculares-inal%C3%A1mbricos-reproducci%C3%B3n-Deportivos/dp/B0BQ2DD7QR/ref=sr_1_47?keywords=auriculares&qid=1677030103&sr=8-47"
+            },
+            "page": "1",
+            "position_overall": 47
+        },
+        {
+            "position": 48,
+            "title": "Ludos FEROX Auriculares In Ear con Cable y Microfono, 5 Años de Garantía, Auricular con Jack, Cascos Musica con Graves Potentes, para iPhone, iPad, Samsung, Mi, Xiaomi, Huawei, Gaming, Deportivos",
+            "asin": "B0BM4HGSFJ",
+            "link": "https://www.amazon.es/Ludos-FEROX-Auriculares-Microfono-Deportivos/dp/B0BM4HGSFJ/ref=sr_1_48?keywords=auriculares&qid=1677030103&sr=8-48",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/51Kubg5TkqL._AC_UL400_.jpg",
+            "rating": 4.8,
+            "ratings_total": 358,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 9.97,
+                    "raw": "€9,97",
+                    "name": "9,97 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 12.27,
+                    "raw": "€12,27",
+                    "name": "9,97 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 9.97,
+                "raw": "€9,97",
+                "name": "9,97 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 48
+        }
+    ],
+    "category_information": {
+        "is_landing_page": false
+    },
+    "related_searches": [
+        {
+            "query": "auriculares inalambricos",
+            "link": "https://www.amazon.es/s/?k=auriculares+inalambricos&ref=sugsr_0&pd_rd_w=ZMLSr&content-id=amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03:amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_p=6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_r=K9Z3SXD6RTSY89F60CK2&pd_rd_wg=FD56A&pd_rd_r=f52494b2-d2fb-41b8-b9d5-e8d67e756400&qid=1677030103"
+        },
+        {
+            "query": "auriculares jbl",
+            "link": "https://www.amazon.es/s/?k=auriculares+jbl&ref=sugsr_3&pd_rd_w=ZMLSr&content-id=amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03:amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_p=6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_r=K9Z3SXD6RTSY89F60CK2&pd_rd_wg=FD56A&pd_rd_r=f52494b2-d2fb-41b8-b9d5-e8d67e756400&qid=1677030103"
+        },
+        {
+            "query": "cascos",
+            "link": "https://www.amazon.es/s/?k=cascos&ref=sugsr_1&pd_rd_w=ZMLSr&content-id=amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03:amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_p=6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_r=K9Z3SXD6RTSY89F60CK2&pd_rd_wg=FD56A&pd_rd_r=f52494b2-d2fb-41b8-b9d5-e8d67e756400&qid=1677030103"
+        },
+        {
+            "query": "auriculares iphone",
+            "link": "https://www.amazon.es/s/?k=auriculares+iphone&ref=sugsr_4&pd_rd_w=ZMLSr&content-id=amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03:amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_p=6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_r=K9Z3SXD6RTSY89F60CK2&pd_rd_wg=FD56A&pd_rd_r=f52494b2-d2fb-41b8-b9d5-e8d67e756400&qid=1677030103"
+        },
+        {
+            "query": "auriculares gaming",
+            "link": "https://www.amazon.es/s/?k=auriculares+gaming&ref=sugsr_2&pd_rd_w=ZMLSr&content-id=amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03:amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_p=6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_r=K9Z3SXD6RTSY89F60CK2&pd_rd_wg=FD56A&pd_rd_r=f52494b2-d2fb-41b8-b9d5-e8d67e756400&qid=1677030103"
+        },
+        {
+            "query": "auriculares xiaomi",
+            "link": "https://www.amazon.es/s/?k=auriculares+xiaomi&ref=sugsr_5&pd_rd_w=ZMLSr&content-id=amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03:amzn1.sym.6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_p=6e0b5669-1e35-428d-a834-b7c24e964a03&pf_rd_r=K9Z3SXD6RTSY89F60CK2&pd_rd_wg=FD56A&pd_rd_r=f52494b2-d2fb-41b8-b9d5-e8d67e756400&qid=1677030103"
+        }
+    ],
+    "pagination": {
+        "pages": [
+            {
+                "total_results": 70000,
+                "current_page": 1,
+                "next_page_link": "https://www.amazon.es/s?k=auriculares&s=review-rank&page=2&qid=1677030103&ref=sr_pg_2",
+                "total_pages": 7
+            }
+        ]
+    },
+    "refinements": {
+        "prime": [
+            {
+                "name": "Envío gratis",
+                "value": "p_76/13956313031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=p_76%3A13956313031&s=review-rank&dc&qid=1677030103&rnid=831276031&ref=sr_nr_p_76_1&ds=v1%3AjdaDddEyH5rdh0JTN8kstCG21eUr74z0JZXI3WKTNAw",
+                "refinement_display_name": "Prime"
+            }
+        ],
+        "delivery": [
+            {
+                "name": "Recíbelo mañana",
+                "value": "p_90/6820340031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=p_90%3A6820340031&s=review-rank&dc&qid=1677030103&rnid=6820335031&ref=sr_nr_p_90_1&ds=v1%3AYJTMAgAN%2BGE8igzOKSLx91wD9flif1qQAoWatxi1Wng",
+                "refinement_display_name": "Delivery"
+            }
+        ],
+        "departments": [
+            {
+                "name": "Auriculares y accesorios",
+                "value": "n/17420905031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A17420905031&s=review-rank&dc&qid=1677030103&rnid=1703620031&ref=sr_nr_n_1&ds=v1%3AKP6cIh1sFUEXcFT2ix7aHuOKqGbINfMqdZsPuE8GGOE",
+                "refinement_display_name": "Departments"
+            },
+            {
+                "name": "Auriculares para equipo de audio",
+                "value": "n/934056031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A17420905031%2Cn%3A934056031&s=review-rank&dc&qid=1677030103&rnid=1703620031&ref=sr_nr_n_2&ds=v1%3AdEdLJ%2FDNIx2KMRnsB7ob5jm30M%2BR53y9MRi2qs43vEw",
+                "refinement_display_name": "Departments"
+            },
+            {
+                "name": "Accesorios para TV, vídeo y home cinema",
+                "value": "n/934335031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934335031&s=review-rank&dc&qid=1677030103&rnid=1703620031&ref=sr_nr_n_3&ds=v1%3ADfUvJ7VcRfH6EHVXSlRXz6xZUjZdUhEu0m3sMf%2FLThY",
+                "refinement_display_name": "Departments"
+            },
+            {
+                "name": "Accesorios para Juegos PC",
+                "value": "n/665500031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A665500031&s=review-rank&dc&qid=1677030103&rnid=1703620031&ref=sr_nr_n_4&ds=v1%3ApcvEUVYe0vTV0eYh0WPtsOhazs%2BHCEVDRpyhd47MDtM",
+                "refinement_display_name": "Departments"
+            },
+            {
+                "name": "Auriculares gaming para PC",
+                "value": "n/911106031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A665500031%2Cn%3A911106031&s=review-rank&dc&qid=1677030103&rnid=1703620031&ref=sr_nr_n_5&ds=v1%3Ade%2FF1m%2BPccKqF4cTxQbWWq8wrccG33oP7NjD%2FyDbVUI",
+                "refinement_display_name": "Departments"
+            },
+            {
+                "name": "Instrumentos musicales",
+                "value": "n/3628866031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A3628866031&s=review-rank&dc&qid=1677030103&rnid=1703620031&ref=sr_nr_n_6&ds=v1%3Ajg8GmSaw1IRZ7wgtM8m7TP4Q8Ggok59EiKpiWx5LZWw",
+                "refinement_display_name": "Departments"
+            },
+            {
+                "name": "Accesorios para PlayStation 4",
+                "value": "n/2581784031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A2581784031&s=review-rank&dc&qid=1677030103&rnid=1703620031&ref=sr_nr_n_7&ds=v1%3AtaGDA0k%2FgdjGBjiWGIyzfr8FX1Q3mETXPBhclSVlRp8",
+                "refinement_display_name": "Departments"
+            },
+            {
+                "name": "Auriculares gaming con micrófono para PlayStation 4",
+                "value": "n/4108966031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A2581784031%2Cn%3A4108966031&s=review-rank&dc&qid=1677030103&rnid=1703620031&ref=sr_nr_n_8&ds=v1%3Amp%2FXNXz7z9fqVCiJMzDAboLL0e8F2BesYppyXoHt120",
+                "refinement_display_name": "Departments"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "4 Estrellas o más",
+                "value": "p_72/831280031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=p_72%3A831280031&s=review-rank&dc&qid=1677030103&rnid=831271031&ref=sr_nr_p_72_1&ds=v1%3A%2Fg%2BJSdeKmCIvckpklnycQC2z2B31K%2BLHpTeR7vWGQnU",
+                "refinement_display_name": "Reviews"
+            },
+            {
+                "name": "3 Estrellas o más",
+                "value": "p_72/831281031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=p_72%3A831281031&s=review-rank&dc&qid=1677030103&rnid=831271031&ref=sr_nr_p_72_2&ds=v1%3AeFnyOvSBCH68p3ntKzpfzA4ipD9guTS2UjnPgJc7YFI",
+                "refinement_display_name": "Reviews"
+            },
+            {
+                "name": "2 Estrellas o más",
+                "value": "p_72/831282031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=p_72%3A831282031&s=review-rank&dc&qid=1677030103&rnid=831271031&ref=sr_nr_p_72_3&ds=v1%3ANN1XvscBAiEc%2B7gAp3TLbbMJ6VzoLN3NjXyX1aLdBw4",
+                "refinement_display_name": "Reviews"
+            },
+            {
+                "name": "1 estrella o más",
+                "value": "p_72/831283031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=p_72%3A831283031&s=review-rank&dc&qid=1677030103&rnid=831271031&ref=sr_nr_p_72_4&ds=v1%3Ajmp3V1Q%2Fv2sYs0sfHbufM8Zfkbf%2B21PHCMvYLsVZTrU",
+                "refinement_display_name": "Reviews"
+            }
+        ],
+        "price": [
+            {
+                "name": "0 - 20 EUR",
+                "value": "n:599370031||p_36/1323855031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A599370031%2Cp_36%3A1323855031&s=review-rank&dc&qid=1677030103&rnid=1323854031&ref=sr_nr_p_36_1&ds=v1%3ATbH0dNSXTZujr8EPNqGAtb4JHcsajWhhvRlxFs08%2Fis",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "20 - 50 EUR",
+                "value": "n:599370031||p_36/1323856031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A599370031%2Cp_36%3A1323856031&s=review-rank&dc&qid=1677030103&rnid=1323854031&ref=sr_nr_p_36_2&ds=v1%3ARl9YHWVVIAz2YGbQCXkNsYlxdeM4e4B%2Bu2cIegqdzaE",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "50 - 100 EUR",
+                "value": "n:599370031||p_36/1323857031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A599370031%2Cp_36%3A1323857031&s=review-rank&dc&qid=1677030103&rnid=1323854031&ref=sr_nr_p_36_3&ds=v1%3AjFUW8G%2FvOGNW5tN3Ub4nqzCENFUS%2FcYGKWBYgVYJ%2Ffc",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "100 - 200 EUR",
+                "value": "n:599370031||p_36/1323858031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A599370031%2Cp_36%3A1323858031&s=review-rank&dc&qid=1677030103&rnid=1323854031&ref=sr_nr_p_36_4&ds=v1%3AGBmcfsF%2FHvJQEGZFdeSwyMHYW4awo7YATxJv7p3LC70",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "200 - 500 EUR",
+                "value": "n:599370031||p_36/1323859031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A599370031%2Cp_36%3A1323859031&s=review-rank&dc&qid=1677030103&rnid=1323854031&ref=sr_nr_p_36_5&ds=v1%3AanAptR85J86v1Gyq%2BLjDiACitDlJKYngi0HNrnQG324",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "Más de 500 EUR",
+                "value": "n:599370031||p_36/1323860031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A599370031%2Cp_36%3A1323860031&s=review-rank&dc&qid=1677030103&rnid=1323854031&ref=sr_nr_p_36_6&ds=v1%3AzNMhyTppPMVzNyRvrdiMW3albdedkmolAlqN1xrTH4s",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "EUR        EUR            Ir",
+                "value": "p_36/price-range",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "Ofertas del Día",
+                "value": "p_n_deal_type/26902951031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=p_n_deal_type%3A26902951031&s=review-rank&dc&qid=1677030103&rnid=26902950031&ref=sr_nr_p_n_deal_type_1&ds=v1%3AoFsjty59GdVbGa6KzLQmBLRRDCjXxcvBpDHfCWtN5tg",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "Todos los ahorros",
+                "value": "p_n_deal_type/26902953031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=p_n_deal_type%3A26902953031&s=review-rank&dc&qid=1677030103&rnid=26902950031&ref=sr_nr_p_n_deal_type_2&ds=v1%3A3s%2BgXDwu7ZDw3kfmXSQetHA5utx5y%2FWjrgqR4e3nG9Y",
+                "refinement_display_name": "Price"
+            }
+        ],
+        "brand": [
+            {
+                "name": "Sony",
+                "value": "n:934056031||p_89/Sony",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3ASony&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_1&ds=v1%3A7Sm1zCxU%2FadF9Bqzm754RR099VZ3R%2B6zNP%2BGZo%2F4UNA",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "JBL",
+                "value": "n:934056031||p_89/JBL",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3AJBL&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_2&ds=v1%3AyFMnzQk8gl9iQE8y903LP9sYK9PjbJa43GOk8rde%2FXQ",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Panasonic",
+                "value": "n:934056031||p_89/Panasonic",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3APanasonic&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_3&ds=v1%3ATghOrdlN0uvuVZKHWYITgjM4FQSDRQeKzbFztICA90o",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Xiaomi",
+                "value": "n:934056031||p_89/Xiaomi",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3AXiaomi&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_4&ds=v1%3A%2Fk9FmrkKVR%2Fo%2FPkfqY%2FK3aRqkY1v5Qa5uoerDOMgNqo",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Jabra",
+                "value": "n:934056031||p_89/Jabra",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3AJabra&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_5&ds=v1%3AYnxB5eCClKpMxjbgUGZTYQ5wI9QTgdh4L7E6n49uAUU",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "JVC",
+                "value": "n:934056031||p_89/JVC",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3AJVC&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_6&ds=v1%3AsvkE5iA3Kbm%2FTI%2BqfF6wdKIvz%2FleBM3NLHkYDgvsLuA",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "SAMSUNG",
+                "value": "n:934056031||p_89/SAMSUNG",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3ASAMSUNG&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_7&ds=v1%3AXCPRKRwErDXWOO5Xa%2Bl5E3d75CvtibPypRKTZFTVADw",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "PHILIPS AUDIOSennheiserOPPOEnergy SistemHUAWEIBlukarLogitechSoundcorePowerLocusTOZOMarshallAudio-TechnicaSoundPEATSHamaAmazon Basics1MorePlantronicsLudosBlack SharkBeyerdynamicVddSmmBoseCKLYYLJLabQCYOYIBDrsaecDOQAUSSoicearChefSofiONTACorsairuaue",
+                "value": "n:934056031||undefined",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3APHILIPS+AUDIO&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_8&ds=v1%3A6vuez2cSD3CMgAGEVWj%2BEL9nr%2Bu3ciydo3gMQghWfqE",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "PHILIPS AUDIO",
+                "value": "n:934056031||p_89/PHILIPS AUDIO",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3APHILIPS+AUDIO&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_8&ds=v1%3A6vuez2cSD3CMgAGEVWj%2BEL9nr%2Bu3ciydo3gMQghWfqE",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Sennheiser",
+                "value": "n:934056031||p_89/Sennheiser",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3ASennheiser&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_9&ds=v1%3Aw6RMUhoe6xr0EsPPJk8g9N4d2FqwrMpAjQlKrfUaAOw",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "OPPO",
+                "value": "n:934056031||p_89/OPPO",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3AOPPO&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_10&ds=v1%3AGncweQcQ58iQAIWyjkqHCsAfTbgelVbGiyw3e9YRkiE",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Energy Sistem",
+                "value": "n:934056031||p_89/Energy Sistem",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3AEnergy+Sistem&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_11&ds=v1%3AB5yCFh0vwa0sFDJ0nhW8oqUszdLPx58TEcqPPbM7Ti4",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "HUAWEI",
+                "value": "n:934056031||p_89/HUAWEI",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3AHUAWEI&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_12&ds=v1%3ARdiKon1llp3syJnvLV1izofPymrheQGr55pVY1GonLI",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Blukar",
+                "value": "n:934056031||p_89/Blukar",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3ABlukar&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_13&ds=v1%3A1aB0L2URmu2yyEUSPMY4pVTRM0SfYZjhFBBusHLu3Zc",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Logitech",
+                "value": "n:934056031||p_89/Logitech",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3ALogitech&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_14&ds=v1%3Afk0GodnIibqGGwfwp2fUNpZV%2F765XBuP1ipax%2FcLops",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Soundcore",
+                "value": "n:934056031||p_89/Soundcore",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3ASoundcore&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_15&ds=v1%3AmuYf2YM4DFFmgmAgrqtuT5umvnu6Y42pBcZ7DgJwLf4",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "PowerLocus",
+                "value": "n:934056031||p_89/PowerLocus",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3APowerLocus&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_16&ds=v1%3AZcH8GwusFtSm6ztajatVXm84xfd4V48ANzXHr%2FslSLo",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "TOZO",
+                "value": "n:934056031||p_89/TOZO",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3ATOZO&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_17&ds=v1%3ATFof%2FTjSqrch9v1qW6DBzH%2FGB7XhzGUvq3AQJcHYauw",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Marshall",
+                "value": "n:934056031||p_89/Marshall",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3AMarshall&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_18&ds=v1%3AkqK6A84r%2F%2F0OoVGUgME3HjFF%2BDVg5jE%2BFRcYI69rTfY",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Audio-Technica",
+                "value": "n:934056031||p_89/Audio-Technica",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3AAudio-Technica&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_19&ds=v1%3Appg5q3qaRVeQTpJvgEslHUXLYBXBSd%2FUBPCWfq5xmko",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "SoundPEATS",
+                "value": "n:934056031||p_89/SoundPEATS",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3ASoundPEATS&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_20&ds=v1%3A5z2vH%2FwUw%2FhdiSzWL6dszYsxh29AzC2xTm%2FO%2Frw464A",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Hama",
+                "value": "n:934056031||p_89/Hama",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3AHama&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_21&ds=v1%3AOhVtLLPNz6uyywUQiHphqMQj2SZ51%2FlrzMH4h0bveWg",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Amazon Basics",
+                "value": "n:934056031||p_89/Amazon Basics",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3AAmazon+Basics&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_22&ds=v1%3AjT83jVFMJEo%2BRscFEcvmMUh%2B%2Fp%2FH5KPBHForSgKqTOc",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "1More",
+                "value": "n:934056031||p_89/1More",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3A1More&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_23&ds=v1%3AdUtY%2BTQQzxA1GonCA%2B1Xhbr4m7wCyPouzzRKJRBG6gI",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Plantronics",
+                "value": "n:934056031||p_89/Plantronics",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3APlantronics&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_24&ds=v1%3AA1FeXfqotboWwSMGEmuqGzikMXZlLENZ4UXBsqmUM%2FY",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Ludos",
+                "value": "n:934056031||p_89/Ludos",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3ALudos&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_25&ds=v1%3A2UXdbbz8kplGh5XDBUmSTPPhtcPztEVE32xMZAW6BR8",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Black Shark",
+                "value": "n:934056031||p_89/Black Shark",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3ABlack+Shark&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_26&ds=v1%3APd2U6X0%2FvCGaXoNSKt2ZuQCYnL%2Bxqia15ywGjaGWZTY",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Beyerdynamic",
+                "value": "n:934056031||p_89/Beyerdynamic",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3ABeyerdynamic&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_27&ds=v1%3Aq9hcWksYgTuxJcIdHbuFbcECQbSmV5zGb3l%2FOhSxFW4",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "VddSmm",
+                "value": "n:934056031||p_89/VddSmm",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3AVddSmm&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_28&ds=v1%3A9bIIT9O9tyrvcrrBHudVrNUARZFogrAI%2F6n1Jk9Mf38",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Bose",
+                "value": "n:934056031||p_89/Bose",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3ABose&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_29&ds=v1%3AAYD%2FHtmlxHbkmkjDJ5xKQ8dxv1mEophGYTLLQtAWjbk",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "CKLYYL",
+                "value": "n:934056031||p_89/CKLYYL",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3ACKLYYL&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_30&ds=v1%3AKonsnaJa2CstvfRhC1unNF3tTMf806igPNoQ64BF%2F7k",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "JLab",
+                "value": "n:934056031||p_89/JLab",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3AJLab&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_31&ds=v1%3AO4NMTNF2C3Tyl6HHoPDLXhgWNSX8yjO5X66RQkxMI7w",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "QCY",
+                "value": "n:934056031||p_89/QCY",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3AQCY&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_32&ds=v1%3AhQZL%2BoCrPQ6JeP1aPYlpmpz8cR8gMPgdOczyEnQTN9U",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "OYIB",
+                "value": "n:934056031||p_89/OYIB",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3AOYIB&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_33&ds=v1%3A3XRJiGWvD9h%2F14hNryMWocGUg6Ox1P9IbrofBeNo91k",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Drsaec",
+                "value": "n:934056031||p_89/Drsaec",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3ADrsaec&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_34&ds=v1%3AHMPWwLuWLekSMdFP2mrdl9FIB7zbQlUBPEAC6n46Qec",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "DOQAUS",
+                "value": "n:934056031||p_89/DOQAUS",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3ADOQAUS&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_35&ds=v1%3AoPH28BW%2BgYkhYD1z3qMH822EYiQAe5FTk%2FIwC9J6pGI",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Soicear",
+                "value": "n:934056031||p_89/Soicear",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3ASoicear&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_36&ds=v1%3A9thYUWwANMuAQ569m22bb%2FC3DF74u4DDQveVHsPlkXM",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "ChefSofi",
+                "value": "n:934056031||p_89/ChefSofi",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3AChefSofi&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_37&ds=v1%3AEDyDkBza3OE8S5Kwuc23WQMzgPYJibsoMtiYUTnb2hs",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "ONTA",
+                "value": "n:934056031||p_89/ONTA",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3AONTA&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_38&ds=v1%3ALHKhWmMEOlp9LcRIZOg7gPcstWNyrGwaPVq7tY3GEWU",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Corsair",
+                "value": "n:934056031||p_89/Corsair",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3ACorsair&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_39&ds=v1%3AMekUbfa9Hfwl7%2Fbk3Lt%2B%2FYHA34rLkE8h3mEaCLwAnZw",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "uaue",
+                "value": "n:934056031||p_89/uaue",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_89%3Auaue&s=review-rank&dc&qid=1677030103&rnid=1692911031&ref=sr_nr_p_89_40&ds=v1%3AeNp%2F1vIohx7FVVafS7XJKqtelpuqs1Za90zlXBOioj8",
+                "refinement_display_name": "Brand"
+            }
+        ],
+        "nuestras_marcas": [
+            {
+                "name": "Nuestras marcas",
+                "value": "n:599370031||p_n_feature_fifty_browse-bin/15765711031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A599370031%2Cp_n_feature_fifty_browse-bin%3A15765711031&s=review-rank&dc&qid=1677030103&rnid=15765710031&ref=sr_nr_p_n_feature_fifty_browse-bin_1&ds=v1%3A2NTnoiz5V4y7UEAk2CuuBOK5Em68XmHg41AVTpLqxik",
+                "refinement_display_name": "Nuestras marcas"
+            }
+        ],
+        "funcionalidad_de_los_auriculares": [
+            {
+                "name": "Con micrófono",
+                "value": "n:934056031||p_n_feature_seven_browse-bin/1603691031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_seven_browse-bin%3A1603691031&s=review-rank&dc&qid=1677030103&rnid=1603383031&ref=sr_nr_p_n_feature_seven_browse-bin_1&ds=v1%3ArZzbfRYzQTggB5K6VhR4%2BF3q7TZ3D%2FrJSY%2BE1obMWKc",
+                "refinement_display_name": "Funcionalidad de los auriculares"
+            },
+            {
+                "name": "Control remoto integrado",
+                "value": "n:934056031||p_n_feature_seven_browse-bin/1603692031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_seven_browse-bin%3A1603692031&s=review-rank&dc&qid=1677030103&rnid=1603383031&ref=sr_nr_p_n_feature_seven_browse-bin_2&ds=v1%3AQeqgm%2FjqFlBSbDc%2Bkyf9gKr8O5LBUzqrgTPPvhOuhR8",
+                "refinement_display_name": "Funcionalidad de los auriculares"
+            },
+            {
+                "name": "Deportes y ejercicios",
+                "value": "n:934056031||p_n_feature_seven_browse-bin/15513567031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_seven_browse-bin%3A15513567031&s=review-rank&dc&qid=1677030103&rnid=1603383031&ref=sr_nr_p_n_feature_seven_browse-bin_3&ds=v1%3Az9qPAz9bMu9gozax5IEOJ7Gow3hwiRAdnr84wS9hkR8",
+                "refinement_display_name": "Funcionalidad de los auriculares"
+            },
+            {
+                "name": "Inalámbrico",
+                "value": "n:934056031||p_n_feature_seven_browse-bin/1603693031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_seven_browse-bin%3A1603693031&s=review-rank&dc&qid=1677030103&rnid=1603383031&ref=sr_nr_p_n_feature_seven_browse-bin_4&ds=v1%3A42%2FdXTfyevI3Y1n65RUKCkW5iGSqAWokywMvgTSRTiI",
+                "refinement_display_name": "Funcionalidad de los auriculares"
+            },
+            {
+                "name": "Reducción de ruido",
+                "value": "n:934056031||p_n_feature_seven_browse-bin/1603694031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_seven_browse-bin%3A1603694031&s=review-rank&dc&qid=1677030103&rnid=1603383031&ref=sr_nr_p_n_feature_seven_browse-bin_5&ds=v1%3AtZcJpIaWVzvxa25H7lKtV3s0wvBVNNihL1SnE56wxzA",
+                "refinement_display_name": "Funcionalidad de los auriculares"
+            }
+        ],
+        "tipo_de_transmision_inalambrica_de_auriculares": [
+            {
+                "name": "Bluetooth",
+                "value": "n:934056031||p_n_feature_eight_browse-bin/15513585031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_eight_browse-bin%3A15513585031&s=review-rank&dc&qid=1677030103&rnid=15513559031&ref=sr_nr_p_n_feature_eight_browse-bin_1&ds=v1%3A2clewpnBqhhiJ2CjeFYeON8JdkxBN9ZvnrWXDaR%2FraA",
+                "refinement_display_name": "Tipo de transmisión inalámbrica de auriculares"
+            },
+            {
+                "name": "NFC",
+                "value": "n:934056031||p_n_feature_eight_browse-bin/15513588031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_eight_browse-bin%3A15513588031&s=review-rank&dc&qid=1677030103&rnid=15513559031&ref=sr_nr_p_n_feature_eight_browse-bin_2&ds=v1%3ATD8DDTiTKDKl0A%2B4RaGOk7yOWGVGexY7j26g9BcftaU",
+                "refinement_display_name": "Tipo de transmisión inalámbrica de auriculares"
+            },
+            {
+                "name": "RF",
+                "value": "n:934056031||p_n_feature_eight_browse-bin/15513586031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_eight_browse-bin%3A15513586031&s=review-rank&dc&qid=1677030103&rnid=15513559031&ref=sr_nr_p_n_feature_eight_browse-bin_3&ds=v1%3AgtUTsUBT60DvjA2PY%2BPEJcXHebdSDDMwM2vKgYcbs5s",
+                "refinement_display_name": "Tipo de transmisión inalámbrica de auriculares"
+            }
+        ],
+        "conector_para_auriculares": [
+            {
+                "name": "Jack de 2,5 mm",
+                "value": "n:934056031||p_n_feature_twenty-one_browse-bin/29677848031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_twenty-one_browse-bin%3A29677848031&s=review-rank&dc&qid=1677030103&rnid=29677833031&ref=sr_nr_p_n_feature_twenty-one_browse-bin_1&ds=v1%3A0x%2FoSfhDOnOQurVYmwFUlNarGS2Kp1kvNT0CiDQ4EuA",
+                "refinement_display_name": "Conector para auriculares"
+            },
+            {
+                "name": "Jack de 3,5 mm",
+                "value": "n:934056031||p_n_feature_twenty-one_browse-bin/29677847031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_twenty-one_browse-bin%3A29677847031&s=review-rank&dc&qid=1677030103&rnid=29677833031&ref=sr_nr_p_n_feature_twenty-one_browse-bin_2&ds=v1%3AHNTN0c5v8KsbF7is1aH3DB5dF5dasQFD2yz2m5xBUlQ",
+                "refinement_display_name": "Conector para auriculares"
+            },
+            {
+                "name": "Jack de 6,35 mm",
+                "value": "n:934056031||p_n_feature_twenty-one_browse-bin/29677846031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_twenty-one_browse-bin%3A29677846031&s=review-rank&dc&qid=1677030103&rnid=29677833031&ref=sr_nr_p_n_feature_twenty-one_browse-bin_3&ds=v1%3ACDkb5%2F%2BWYUaifLiyEDaPJV3rlctrZF6Od28vG3XBxFw",
+                "refinement_display_name": "Conector para auriculares"
+            }
+        ],
+        "dispositivos_compatibles_con_auriculares": [
+            {
+                "name": "Equipo de producción musical",
+                "value": "n:934056031||p_n_feature_twenty_browse-bin/29247686031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_twenty_browse-bin%3A29247686031&s=review-rank&dc&qid=1677030103&rnid=29247578031&ref=sr_nr_p_n_feature_twenty_browse-bin_1&ds=v1%3AQENYCXtXj3mBni7wrN83hSHOL4DfiZUPcsyM5zyynh8",
+                "refinement_display_name": "Dispositivos compatibles con auriculares"
+            },
+            {
+                "name": "Motocicletas",
+                "value": "n:934056031||p_n_feature_twenty_browse-bin/29247681031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_twenty_browse-bin%3A29247681031&s=review-rank&dc&qid=1677030103&rnid=29247578031&ref=sr_nr_p_n_feature_twenty_browse-bin_2&ds=v1%3A91FIi3hVwMjczDwnUKzIA7QXh%2FqN33gbfkOSevupKfc",
+                "refinement_display_name": "Dispositivos compatibles con auriculares"
+            },
+            {
+                "name": "Ordenadores de sobremesa",
+                "value": "n:934056031||p_n_feature_twenty_browse-bin/29247687031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_twenty_browse-bin%3A29247687031&s=review-rank&dc&qid=1677030103&rnid=29247578031&ref=sr_nr_p_n_feature_twenty_browse-bin_3&ds=v1%3AWCDFQGZBZ9xU7zbnLdewoaCme3L179CDNFGLqwwtZP0",
+                "refinement_display_name": "Dispositivos compatibles con auriculares"
+            },
+            {
+                "name": "Portátiles",
+                "value": "n:934056031||p_n_feature_twenty_browse-bin/29247680031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_twenty_browse-bin%3A29247680031&s=review-rank&dc&qid=1677030103&rnid=29247578031&ref=sr_nr_p_n_feature_twenty_browse-bin_4&ds=v1%3AIglMQlYrKXZTBEYt%2Fl3MFuE5Tb4dIUvu0Z4EZkLkWS0",
+                "refinement_display_name": "Dispositivos compatibles con auriculares"
+            },
+            {
+                "name": "Sistemas de audio para automóviles",
+                "value": "n:934056031||p_n_feature_twenty_browse-bin/29247682031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_twenty_browse-bin%3A29247682031&s=review-rank&dc&qid=1677030103&rnid=29247578031&ref=sr_nr_p_n_feature_twenty_browse-bin_5&ds=v1%3A%2BIyMRkGIA8LLM50Hb98vYWkIeYuMKhn99LLRhBZZqhQ",
+                "refinement_display_name": "Dispositivos compatibles con auriculares"
+            },
+            {
+                "name": "Tablets",
+                "value": "n:934056031||p_n_feature_twenty_browse-bin/29247685031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_twenty_browse-bin%3A29247685031&s=review-rank&dc&qid=1677030103&rnid=29247578031&ref=sr_nr_p_n_feature_twenty_browse-bin_6&ds=v1%3AUfnkGumtrq0sRLA4ABlVw6LwiksZ%2Bdx7dgbWszqej8E",
+                "refinement_display_name": "Dispositivos compatibles con auriculares"
+            },
+            {
+                "name": "Teléfonos",
+                "value": "n:934056031||p_n_feature_twenty_browse-bin/29247679031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_twenty_browse-bin%3A29247679031&s=review-rank&dc&qid=1677030103&rnid=29247578031&ref=sr_nr_p_n_feature_twenty_browse-bin_7&ds=v1%3A5nVll%2BScJn01VMhr%2Bjfj4ZN7CrOZNg6NW3b1dHwkbaw",
+                "refinement_display_name": "Dispositivos compatibles con auriculares"
+            },
+            {
+                "name": "Teléfonos celularesVideoconsolas",
+                "value": "n:934056031||undefined",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_twenty_browse-bin%3A29247684031&s=review-rank&dc&qid=1677030103&rnid=29247578031&ref=sr_nr_p_n_feature_twenty_browse-bin_8&ds=v1%3AN6I7qUSESgbO%2FKAAlbj3AVUsbb9cAI03PMQuj3sQYAs",
+                "refinement_display_name": "Dispositivos compatibles con auriculares"
+            },
+            {
+                "name": "Teléfonos celulares",
+                "value": "n:934056031||p_n_feature_twenty_browse-bin/29247684031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_twenty_browse-bin%3A29247684031&s=review-rank&dc&qid=1677030103&rnid=29247578031&ref=sr_nr_p_n_feature_twenty_browse-bin_8&ds=v1%3AN6I7qUSESgbO%2FKAAlbj3AVUsbb9cAI03PMQuj3sQYAs",
+                "refinement_display_name": "Dispositivos compatibles con auriculares"
+            },
+            {
+                "name": "Videoconsolas",
+                "value": "n:934056031||p_n_feature_twenty_browse-bin/29247683031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_twenty_browse-bin%3A29247683031&s=review-rank&dc&qid=1677030103&rnid=29247578031&ref=sr_nr_p_n_feature_twenty_browse-bin_9&ds=v1%3ApH6UvQoUZcn6VPvCn8X5M9S23vnAh1joVK7fvhubK%2BE",
+                "refinement_display_name": "Dispositivos compatibles con auriculares"
+            }
+        ],
+        "tema_de_auriculares": [
+            {
+                "name": "Animal",
+                "value": "n:934056031||p_n_feature_fifteen_browse-bin/27298352031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_fifteen_browse-bin%3A27298352031&s=review-rank&dc&qid=1677030103&rnid=27298343031&ref=sr_nr_p_n_feature_fifteen_browse-bin_1&ds=v1%3AAkMqP9zeQHvytNm6tsmo5FGi8udakuNwPSYcHUzCdvw",
+                "refinement_display_name": "Tema de auriculares"
+            },
+            {
+                "name": "Anime",
+                "value": "n:934056031||p_n_feature_fifteen_browse-bin/27298348031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_fifteen_browse-bin%3A27298348031&s=review-rank&dc&qid=1677030103&rnid=27298343031&ref=sr_nr_p_n_feature_fifteen_browse-bin_2&ds=v1%3APghd9lp3KapfcOHwKfn%2FuljciMFEznC2Vmhs99Qot34",
+                "refinement_display_name": "Tema de auriculares"
+            },
+            {
+                "name": "Dibujos animados",
+                "value": "n:934056031||p_n_feature_fifteen_browse-bin/27298349031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_fifteen_browse-bin%3A27298349031&s=review-rank&dc&qid=1677030103&rnid=27298343031&ref=sr_nr_p_n_feature_fifteen_browse-bin_3&ds=v1%3AUvDBVF1ZOETeQ37sMUFjFveSCEsX2MRvE%2F%2BNEShZhNQ",
+                "refinement_display_name": "Tema de auriculares"
+            },
+            {
+                "name": "Fantasía",
+                "value": "n:934056031||p_n_feature_fifteen_browse-bin/27298351031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_fifteen_browse-bin%3A27298351031&s=review-rank&dc&qid=1677030103&rnid=27298343031&ref=sr_nr_p_n_feature_fifteen_browse-bin_4&ds=v1%3A%2BCLIKfuykBIkUZaZp4bqzNwmYNfKe%2B%2BujykWgB0zhqI",
+                "refinement_display_name": "Tema de auriculares"
+            },
+            {
+                "name": "Película",
+                "value": "n:934056031||p_n_feature_fifteen_browse-bin/27298347031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_fifteen_browse-bin%3A27298347031&s=review-rank&dc&qid=1677030103&rnid=27298343031&ref=sr_nr_p_n_feature_fifteen_browse-bin_5&ds=v1%3AP1SXqTH%2B40kKSCBxv6FjMguaKzpEpLKuIDc0wulVnwI",
+                "refinement_display_name": "Tema de auriculares"
+            },
+            {
+                "name": "Serie de TV",
+                "value": "n:934056031||p_n_feature_fifteen_browse-bin/27298346031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_fifteen_browse-bin%3A27298346031&s=review-rank&dc&qid=1677030103&rnid=27298343031&ref=sr_nr_p_n_feature_fifteen_browse-bin_6&ds=v1%3AXTUpa5S8M3zTbxzYeq9AIaiD2vmHCzPwghZHjnRIzYQ",
+                "refinement_display_name": "Tema de auriculares"
+            },
+            {
+                "name": "Videojuego",
+                "value": "n:934056031||p_n_feature_fifteen_browse-bin/27298350031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_fifteen_browse-bin%3A27298350031&s=review-rank&dc&qid=1677030103&rnid=27298343031&ref=sr_nr_p_n_feature_fifteen_browse-bin_7&ds=v1%3A158Rt%2FhIvIhkHrJWASUlo41eIgLv6Ekke5RIS51RQKY",
+                "refinement_display_name": "Tema de auriculares"
+            }
+        ],
+        "tipo_de_control_de_auriculares": [
+            {
+                "name": "Control de llamadas",
+                "value": "n:934056031||p_n_feature_ten_browse-bin/27146697031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_ten_browse-bin%3A27146697031&s=review-rank&dc&qid=1677030103&rnid=27146696031&ref=sr_nr_p_n_feature_ten_browse-bin_1&ds=v1%3AlhQ0YtfQpwkIKpIyZpp8dAsbgmfXyBL1ZTIB91alf6Y",
+                "refinement_display_name": "Tipo de control de auriculares"
+            },
+            {
+                "name": "Control de medios",
+                "value": "n:934056031||p_n_feature_ten_browse-bin/27146699031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_ten_browse-bin%3A27146699031&s=review-rank&dc&qid=1677030103&rnid=27146696031&ref=sr_nr_p_n_feature_ten_browse-bin_2&ds=v1%3A9baZAE8kEdbj0jUC%2FLALVejTkMi%2FFdyUr%2BzWTGuSDK4",
+                "refinement_display_name": "Tipo de control de auriculares"
+            },
+            {
+                "name": "Control de ruido",
+                "value": "n:934056031||p_n_feature_ten_browse-bin/27146698031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_ten_browse-bin%3A27146698031&s=review-rank&dc&qid=1677030103&rnid=27146696031&ref=sr_nr_p_n_feature_ten_browse-bin_3&ds=v1%3AwHzgq%2Bdog8JC4oMb6qNnRfrcuS4UWFF2AqNE2WuPf20",
+                "refinement_display_name": "Tipo de control de auriculares"
+            },
+            {
+                "name": "Control de volumen",
+                "value": "n:934056031||p_n_feature_ten_browse-bin/27146700031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_ten_browse-bin%3A27146700031&s=review-rank&dc&qid=1677030103&rnid=27146696031&ref=sr_nr_p_n_feature_ten_browse-bin_4&ds=v1%3An2puoS8xeW2aGJmNlUF8%2BD3EK5NqIZeH%2FHDRv%2FfMhMk",
+                "refinement_display_name": "Tipo de control de auriculares"
+            },
+            {
+                "name": "Control de voz",
+                "value": "n:934056031||p_n_feature_ten_browse-bin/27146701031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_ten_browse-bin%3A27146701031&s=review-rank&dc&qid=1677030103&rnid=27146696031&ref=sr_nr_p_n_feature_ten_browse-bin_5&ds=v1%3AjC%2FbeoTM7Nrtaeykbbq4j%2BvtDEto8Pk0ubKPRrcGFRM",
+                "refinement_display_name": "Tipo de control de auriculares"
+            }
+        ],
+        "componentes_incluidos_para_auriculares": [
+            {
+                "name": "Almohadillas",
+                "value": "n:934056031||p_n_feature_eleven_browse-bin/27180638031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_eleven_browse-bin%3A27180638031&s=review-rank&dc&qid=1677030103&rnid=27180633031&ref=sr_nr_p_n_feature_eleven_browse-bin_1&ds=v1%3A6lvjN2Js9L7XpjuVSvgrg3qBKzt5g%2FoGLOOl%2F5BE%2FMs",
+                "refinement_display_name": "Componentes incluidos para auriculares"
+            },
+            {
+                "name": "Cable",
+                "value": "n:934056031||p_n_feature_eleven_browse-bin/27180636031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_eleven_browse-bin%3A27180636031&s=review-rank&dc&qid=1677030103&rnid=27180633031&ref=sr_nr_p_n_feature_eleven_browse-bin_2&ds=v1%3AttwjGFYgekUcC9oUBOoT%2FQpJ5YDP5CGoI9k5zWIrwxM",
+                "refinement_display_name": "Componentes incluidos para auriculares"
+            },
+            {
+                "name": "Diadema",
+                "value": "n:934056031||p_n_feature_eleven_browse-bin/27180640031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_eleven_browse-bin%3A27180640031&s=review-rank&dc&qid=1677030103&rnid=27180633031&ref=sr_nr_p_n_feature_eleven_browse-bin_3&ds=v1%3ANt4ockDiBl77DpfwdQ1lPZWCKZgR1k4wMaCq4XRQqPY",
+                "refinement_display_name": "Componentes incluidos para auriculares"
+            },
+            {
+                "name": "Estación de carga",
+                "value": "n:934056031||p_n_feature_eleven_browse-bin/27180637031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_eleven_browse-bin%3A27180637031&s=review-rank&dc&qid=1677030103&rnid=27180633031&ref=sr_nr_p_n_feature_eleven_browse-bin_4&ds=v1%3A6CjY0TG4L6p%2Bz4eUO%2BhMdB3uuqAUWqcdLPPV5ipXABE",
+                "refinement_display_name": "Componentes incluidos para auriculares"
+            },
+            {
+                "name": "Funda de carga inalámbrica",
+                "value": "n:934056031||p_n_feature_eleven_browse-bin/27180639031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_eleven_browse-bin%3A27180639031&s=review-rank&dc&qid=1677030103&rnid=27180633031&ref=sr_nr_p_n_feature_eleven_browse-bin_5&ds=v1%3A%2BqxbaLYHMB3uXCNcW%2FQjJ%2BLVHki4r5MfvJfuE1h5Pww",
+                "refinement_display_name": "Componentes incluidos para auriculares"
+            },
+            {
+                "name": "Funda protectora",
+                "value": "n:934056031||p_n_feature_eleven_browse-bin/27180635031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_eleven_browse-bin%3A27180635031&s=review-rank&dc&qid=1677030103&rnid=27180633031&ref=sr_nr_p_n_feature_eleven_browse-bin_6&ds=v1%3AH9KeVdqHVyImAM4uZDv1pAJTZqS78sMZ8m5fn3MnShs",
+                "refinement_display_name": "Componentes incluidos para auriculares"
+            },
+            {
+                "name": "Manual de usuario",
+                "value": "n:934056031||p_n_feature_eleven_browse-bin/65993891031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_eleven_browse-bin%3A65993891031&s=review-rank&dc&qid=1677030103&rnid=27180633031&ref=sr_nr_p_n_feature_eleven_browse-bin_7&ds=v1%3Ap%2BMwdYc1UIVRBiZ8QzKcl5HM8JlT1REa436euY8LAb4",
+                "refinement_display_name": "Componentes incluidos para auriculares"
+            }
+        ],
+        "auriculares_control_de_ruidos": [
+            {
+                "name": "Annulation du bruit active",
+                "value": "n:934056031||p_n_feature_nineteen_browse-bin/27957762031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_nineteen_browse-bin%3A27957762031&s=review-rank&dc&qid=1677030103&rnid=27957760031&ref=sr_nr_p_n_feature_nineteen_browse-bin_1&ds=v1%3AjTmVmDzZ05XgVUBTfM3clcnIJQgW8EH%2FChrUB1QDbTY",
+                "refinement_display_name": "Auriculares Control de ruidos"
+            },
+            {
+                "name": "Isolation acoustique",
+                "value": "n:934056031||p_n_feature_nineteen_browse-bin/27957764031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_nineteen_browse-bin%3A27957764031&s=review-rank&dc&qid=1677030103&rnid=27957760031&ref=sr_nr_p_n_feature_nineteen_browse-bin_2&ds=v1%3Ac%2BTcZ73nMleGziy4uPEJCb2lFt8QMNPMstn8cOqBurE",
+                "refinement_display_name": "Auriculares Control de ruidos"
+            },
+            {
+                "name": "Ninguno",
+                "value": "n:934056031||p_n_feature_nineteen_browse-bin/27957763031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_nineteen_browse-bin%3A27957763031&s=review-rank&dc&qid=1677030103&rnid=27957760031&ref=sr_nr_p_n_feature_nineteen_browse-bin_3&ds=v1%3ASexnxv%2FIEJC5yNrPjEinpf4HjaAdx5PMrtTB3Kj1F3s",
+                "refinement_display_name": "Auriculares Control de ruidos"
+            },
+            {
+                "name": "Cancelación de ruido para llamada de voz",
+                "value": "n:934056031||p_n_feature_nineteen_browse-bin/27957761031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_nineteen_browse-bin%3A27957761031&s=review-rank&dc&qid=1677030103&rnid=27957760031&ref=sr_nr_p_n_feature_nineteen_browse-bin_4&ds=v1%3APeJzM7wabVENw3N1%2B2I7mlI8Pc%2F5ELfXNd%2BfyOfNfsM",
+                "refinement_display_name": "Auriculares Control de ruidos"
+            }
+        ],
+        "material_de_auriculares": [
+            {
+                "name": "Acero inoxidable",
+                "value": "n:934056031||p_n_feature_fourteen_browse-bin/27270393031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_fourteen_browse-bin%3A27270393031&s=review-rank&dc&qid=1677030103&rnid=27270380031&ref=sr_nr_p_n_feature_fourteen_browse-bin_1&ds=v1%3ATGGvDANmuvpZb2pWG9k3FrWSMKzyDKNv4YACfHnvD2U",
+                "refinement_display_name": "Material de auriculares"
+            },
+            {
+                "name": "Acrilonitrilo butadieno estireno (ABS)",
+                "value": "n:934056031||p_n_feature_fourteen_browse-bin/65951505031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_fourteen_browse-bin%3A65951505031&s=review-rank&dc&qid=1677030103&rnid=27270380031&ref=sr_nr_p_n_feature_fourteen_browse-bin_2&ds=v1%3ArNcxmf16LYDwLNlToBkUMHEPvWyrzlNzldNZp1AstSk",
+                "refinement_display_name": "Material de auriculares"
+            },
+            {
+                "name": "Aluminio",
+                "value": "n:934056031||p_n_feature_fourteen_browse-bin/27270389031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_fourteen_browse-bin%3A27270389031&s=review-rank&dc&qid=1677030103&rnid=27270380031&ref=sr_nr_p_n_feature_fourteen_browse-bin_3&ds=v1%3AI6VeN6nLrkKNpnmsRwFZlIWBhV%2FVnDjle9H8CzVHTfY",
+                "refinement_display_name": "Material de auriculares"
+            },
+            {
+                "name": "Caucho",
+                "value": "n:934056031||p_n_feature_fourteen_browse-bin/27270387031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_fourteen_browse-bin%3A27270387031&s=review-rank&dc&qid=1677030103&rnid=27270380031&ref=sr_nr_p_n_feature_fourteen_browse-bin_4&ds=v1%3AivwcASItCNbqyPtjZSvuj3t3KJloZcepq0Qyc5hihRQ",
+                "refinement_display_name": "Material de auriculares"
+            },
+            {
+                "name": "Cuero",
+                "value": "n:934056031||p_n_feature_fourteen_browse-bin/27270391031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_fourteen_browse-bin%3A27270391031&s=review-rank&dc&qid=1677030103&rnid=27270380031&ref=sr_nr_p_n_feature_fourteen_browse-bin_5&ds=v1%3AaGop%2FDKdAWxytjsh74314MlLxjF4yEre9Ei9W%2Fx4KhU",
+                "refinement_display_name": "Material de auriculares"
+            },
+            {
+                "name": "Cuero sintético",
+                "value": "n:934056031||p_n_feature_fourteen_browse-bin/27270390031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_fourteen_browse-bin%3A27270390031&s=review-rank&dc&qid=1677030103&rnid=27270380031&ref=sr_nr_p_n_feature_fourteen_browse-bin_6&ds=v1%3ABmupAaQoqu8%2BygUcx8toank%2FNwaunTyI82Znltd0L74",
+                "refinement_display_name": "Material de auriculares"
+            },
+            {
+                "name": "Madera",
+                "value": "n:934056031||p_n_feature_fourteen_browse-bin/27270388031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_fourteen_browse-bin%3A27270388031&s=review-rank&dc&qid=1677030103&rnid=27270380031&ref=sr_nr_p_n_feature_fourteen_browse-bin_7&ds=v1%3Ad7oYxZUYcbZt78FReUsTlEqWWjTwkAT2QjjDYg6gz3U",
+                "refinement_display_name": "Material de auriculares"
+            },
+            {
+                "name": "Metal",
+                "value": "n:934056031||p_n_feature_fourteen_browse-bin/65951509031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_fourteen_browse-bin%3A65951509031&s=review-rank&dc&qid=1677030103&rnid=27270380031&ref=sr_nr_p_n_feature_fourteen_browse-bin_8&ds=v1%3AZK1B7ygTCPDSRUoR6XoYEJvK%2BU8r5oOKT0CUSOPhSYE",
+                "refinement_display_name": "Material de auriculares"
+            },
+            {
+                "name": "Plástico",
+                "value": "n:934056031||p_n_feature_fourteen_browse-bin/27270392031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_fourteen_browse-bin%3A27270392031&s=review-rank&dc&qid=1677030103&rnid=27270380031&ref=sr_nr_p_n_feature_fourteen_browse-bin_9&ds=v1%3AOJrNSI9WXwcm3RgRDLz%2FLq2xbj3h3BrKwG0HByKVEjE",
+                "refinement_display_name": "Material de auriculares"
+            },
+            {
+                "name": "Policarbonato (PC)",
+                "value": "n:934056031||p_n_feature_fourteen_browse-bin/65951508031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_fourteen_browse-bin%3A65951508031&s=review-rank&dc&qid=1677030103&rnid=27270380031&ref=sr_nr_p_n_feature_fourteen_browse-bin_10&ds=v1%3ADuVhcJiI0k%2FLBYETDGu2%2F8VyvJKSfunw8A7mBzAFHk8",
+                "refinement_display_name": "Material de auriculares"
+            },
+            {
+                "name": "Silicona",
+                "value": "n:934056031||p_n_feature_fourteen_browse-bin/65951506031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_fourteen_browse-bin%3A65951506031&s=review-rank&dc&qid=1677030103&rnid=27270380031&ref=sr_nr_p_n_feature_fourteen_browse-bin_11&ds=v1%3APHuH2Hskyuvl1AKSjZjsnK3DAVFbPmCD4MC6SOe8Ch0",
+                "refinement_display_name": "Material de auriculares"
+            }
+        ],
+        "funcion_del_cable_de_los_auriculares": [
+            {
+                "name": "Desmontable",
+                "value": "n:934056031||p_n_feature_nine_browse-bin/28233741031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_nine_browse-bin%3A28233741031&s=review-rank&dc&qid=1677030103&rnid=28233724031&ref=sr_nr_p_n_feature_nine_browse-bin_1&ds=v1%3A0OdVSGjG4k2Zxj3OcGZ8CTcbzXTsHK5sWqSaatrFsoE",
+                "refinement_display_name": "Función del cable de los auriculares"
+            },
+            {
+                "name": "Retráctil",
+                "value": "n:934056031||p_n_feature_nine_browse-bin/28233743031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_nine_browse-bin%3A28233743031&s=review-rank&dc&qid=1677030103&rnid=28233724031&ref=sr_nr_p_n_feature_nine_browse-bin_2&ds=v1%3A5ybcubUwRDYb3AyZpcRW%2FYBY2LmhTmWJ25yS0rR%2BYIY",
+                "refinement_display_name": "Función del cable de los auriculares"
+            },
+            {
+                "name": "Sin cable",
+                "value": "n:934056031||p_n_feature_nine_browse-bin/28233744031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_nine_browse-bin%3A28233744031&s=review-rank&dc&qid=1677030103&rnid=28233724031&ref=sr_nr_p_n_feature_nine_browse-bin_3&ds=v1%3Al653lrcOBlaLzTQLvf9UDfDa5jrfCugaYtBFs0o%2BZMs",
+                "refinement_display_name": "Función del cable de los auriculares"
+            },
+            {
+                "name": "Sin enredos",
+                "value": "n:934056031||p_n_feature_nine_browse-bin/28233742031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_nine_browse-bin%3A28233742031&s=review-rank&dc&qid=1677030103&rnid=28233724031&ref=sr_nr_p_n_feature_nine_browse-bin_4&ds=v1%3ACQuPCZ17Ndq0YoImh823qiydQZFR0Ryiv2ArjaiC%2BAU",
+                "refinement_display_name": "Función del cable de los auriculares"
+            }
+        ],
+        "metodo_de_control_de_auriculares": [
+            {
+                "name": "App",
+                "value": "n:934056031||p_n_feature_browse-bin/27088348031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_browse-bin%3A27088348031&s=review-rank&dc&qid=1677030103&rnid=27088346031&ref=sr_nr_p_n_feature_browse-bin_1&ds=v1%3A6VxBTSu21nXQz67jAbMZUIo60um%2BWtgqLPHBYC%2Bigmo",
+                "refinement_display_name": "Método de control de auriculares"
+            },
+            {
+                "name": "Remoto",
+                "value": "n:934056031||p_n_feature_browse-bin/27088349031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_browse-bin%3A27088349031&s=review-rank&dc&qid=1677030103&rnid=27088346031&ref=sr_nr_p_n_feature_browse-bin_2&ds=v1%3AqlgXCc5v5H5M5cad7N1gPMiLXmFmB5UuxodVfl45dMM",
+                "refinement_display_name": "Método de control de auriculares"
+            },
+            {
+                "name": "Tocar",
+                "value": "n:934056031||p_n_feature_browse-bin/27088351031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_browse-bin%3A27088351031&s=review-rank&dc&qid=1677030103&rnid=27088346031&ref=sr_nr_p_n_feature_browse-bin_3&ds=v1%3AQOMiKUA%2F3AT%2FMZ85HCowX9oRTN7JSs%2B%2FyDdJui6ybEY",
+                "refinement_display_name": "Método de control de auriculares"
+            },
+            {
+                "name": "Voz",
+                "value": "n:934056031||p_n_feature_browse-bin/27088350031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_browse-bin%3A27088350031&s=review-rank&dc&qid=1677030103&rnid=27088346031&ref=sr_nr_p_n_feature_browse-bin_4&ds=v1%3AOMCEEhrz7TMH0BWIX%2FRmgYLEkvlIFJyDghhYk9%2FkiQk",
+                "refinement_display_name": "Método de control de auriculares"
+            }
+        ],
+        "descripcion_del_rango_de_edad_de_los_auriculares": [
+            {
+                "name": "Niños",
+                "value": "n:934056031||p_n_feature_eighteen_browse-bin/27387641031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_eighteen_browse-bin%3A27387641031&s=review-rank&dc&qid=1677030103&rnid=27387624031&ref=sr_nr_p_n_feature_eighteen_browse-bin_1&ds=v1%3Azb0usou10rahA%2BWN6APl7eGbEscUckqkF21Eefu87gg",
+                "refinement_display_name": "Descripción del rango de edad de los auriculares"
+            },
+            {
+                "name": "Adultos",
+                "value": "n:934056031||p_n_feature_eighteen_browse-bin/27387642031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_eighteen_browse-bin%3A27387642031&s=review-rank&dc&qid=1677030103&rnid=27387624031&ref=sr_nr_p_n_feature_eighteen_browse-bin_2&ds=v1%3AHNJe9IH94186CuKt8g3RsPw0tT881xnA5HwyDu6qYmQ",
+                "refinement_display_name": "Descripción del rango de edad de los auriculares"
+            }
+        ],
+        "numero_de_unidades_de_auriculares": [
+            {
+                "name": "Hasta 1,9",
+                "value": "n:934056031||p_n_feature_twenty-two_browse-bin/42600004031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_twenty-two_browse-bin%3A42600004031&s=review-rank&dc&qid=1677030103&rnid=42599984031&ref=sr_nr_p_n_feature_twenty-two_browse-bin_1&ds=v1%3A7cyToiayuJ3N8Euc1DyupONUrqvoi0%2FNYNdKWnyJvJw",
+                "refinement_display_name": "Número de unidades de auriculares"
+            },
+            {
+                "name": "6 en adelante",
+                "value": "n:934056031||p_n_feature_twenty-two_browse-bin/42600002031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_twenty-two_browse-bin%3A42600002031&s=review-rank&dc&qid=1677030103&rnid=42599984031&ref=sr_nr_p_n_feature_twenty-two_browse-bin_2&ds=v1%3AZ4z6Gm5QP2NmI7sRVdtPjD9YsYXzJJ5T0sqX2EZml0s",
+                "refinement_display_name": "Número de unidades de auriculares"
+            }
+        ],
+        "uso_recomendado_de_auriculares": [
+            {
+                "name": "Ciclismo",
+                "value": "n:934056031||p_n_feature_seventeen_browse-bin/27387636031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_seventeen_browse-bin%3A27387636031&s=review-rank&dc&qid=1677030103&rnid=27387623031&ref=sr_nr_p_n_feature_seventeen_browse-bin_1&ds=v1%3Ad4Aiua1dZLrelMYkf1AAAGPXqOCFm17n78w9IekjEns",
+                "refinement_display_name": "Uso recomendado de auriculares"
+            },
+            {
+                "name": "Correr",
+                "value": "n:934056031||p_n_feature_seventeen_browse-bin/27387639031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_seventeen_browse-bin%3A27387639031&s=review-rank&dc&qid=1677030103&rnid=27387623031&ref=sr_nr_p_n_feature_seventeen_browse-bin_2&ds=v1%3Aup5vDxQeYOGZR22MTSnY5%2FvItfR70cl42ITf0XGB4ks",
+                "refinement_display_name": "Uso recomendado de auriculares"
+            },
+            {
+                "name": "Grabación",
+                "value": "n:934056031||p_n_feature_seventeen_browse-bin/27387635031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_seventeen_browse-bin%3A27387635031&s=review-rank&dc&qid=1677030103&rnid=27387623031&ref=sr_nr_p_n_feature_seventeen_browse-bin_3&ds=v1%3AjqsXSGNkaMzgqfwujT%2F%2BaZxJdGXONIRbjXjKz%2FTtsas",
+                "refinement_display_name": "Uso recomendado de auriculares"
+            },
+            {
+                "name": "Hacer ejercicio",
+                "value": "n:934056031||p_n_feature_seventeen_browse-bin/27387632031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_seventeen_browse-bin%3A27387632031&s=review-rank&dc&qid=1677030103&rnid=27387623031&ref=sr_nr_p_n_feature_seventeen_browse-bin_4&ds=v1%3AjFSGdITP%2BdClO09p9OQ%2BMZIEOAIGspWrZMzh3q6hquc",
+                "refinement_display_name": "Uso recomendado de auriculares"
+            },
+            {
+                "name": "Juegos",
+                "value": "n:934056031||p_n_feature_seventeen_browse-bin/27387634031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_seventeen_browse-bin%3A27387634031&s=review-rank&dc&qid=1677030103&rnid=27387623031&ref=sr_nr_p_n_feature_seventeen_browse-bin_5&ds=v1%3AdamZiweA%2FnYBzQbYQ%2FUJxoPRg8zfxZ4zFEt85hLJTWY",
+                "refinement_display_name": "Uso recomendado de auriculares"
+            },
+            {
+                "name": "Llamadas",
+                "value": "n:934056031||p_n_feature_seventeen_browse-bin/27387640031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_seventeen_browse-bin%3A27387640031&s=review-rank&dc&qid=1677030103&rnid=27387623031&ref=sr_nr_p_n_feature_seventeen_browse-bin_6&ds=v1%3AMCuYz4IjmCnq0I6g6T2wH8kn70FS0J55vq1IzcvSLc0",
+                "refinement_display_name": "Uso recomendado de auriculares"
+            },
+            {
+                "name": "Monitorización de audio",
+                "value": "n:934056031||p_n_feature_seventeen_browse-bin/27387629031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_seventeen_browse-bin%3A27387629031&s=review-rank&dc&qid=1677030103&rnid=27387623031&ref=sr_nr_p_n_feature_seventeen_browse-bin_7&ds=v1%3AZraWs3yVc8KVG8pWNHkMJCbK5kc%2FTlYrSBC64m0HxyU",
+                "refinement_display_name": "Uso recomendado de auriculares"
+            },
+            {
+                "name": "Snowboard",
+                "value": "n:934056031||p_n_feature_seventeen_browse-bin/27387630031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_seventeen_browse-bin%3A27387630031&s=review-rank&dc&qid=1677030103&rnid=27387623031&ref=sr_nr_p_n_feature_seventeen_browse-bin_8&ds=v1%3AtGNwn80XNjE5LlpXwWcl5xOPpN6poNDbKa6%2BD4jqnJg",
+                "refinement_display_name": "Uso recomendado de auriculares"
+            },
+            {
+                "name": "Uso como disc jockey",
+                "value": "n:934056031||p_n_feature_seventeen_browse-bin/27387638031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_seventeen_browse-bin%3A27387638031&s=review-rank&dc&qid=1677030103&rnid=27387623031&ref=sr_nr_p_n_feature_seventeen_browse-bin_9&ds=v1%3Ag0A724d5JsaDhyYyJENBroFZNYqVoJ9KoS7HBkSIizw",
+                "refinement_display_name": "Uso recomendado de auriculares"
+            }
+        ],
+        "tecnologia_de_conectividad_de_auriculares": [
+            {
+                "name": "Alámbrico",
+                "value": "n:934056031||p_n_feature_sixteen_browse-bin/27316004031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_sixteen_browse-bin%3A27316004031&s=review-rank&dc&qid=1677030103&rnid=27316002031&ref=sr_nr_p_n_feature_sixteen_browse-bin_1&ds=v1%3AJQvDI%2Flmqz3sgCHEYNfFjW3I5v1szZpGGjqzzwlyIqw",
+                "refinement_display_name": "Tecnología de conectividad de auriculares"
+            },
+            {
+                "name": "Inalámbrico",
+                "value": "n:934056031||p_n_feature_sixteen_browse-bin/27316003031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A934056031%2Cp_n_feature_sixteen_browse-bin%3A27316003031&s=review-rank&dc&qid=1677030103&rnid=27316002031&ref=sr_nr_p_n_feature_sixteen_browse-bin_2&ds=v1%3AgrQPen2cX6sNTI8qWC1JWVxEhdayAmF3tjkw7039rPA",
+                "refinement_display_name": "Tecnología de conectividad de auriculares"
+            }
+        ],
+        "estado": [
+            {
+                "name": "Nuevo",
+                "value": "p_n_condition-type/15144009031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=p_n_condition-type%3A15144009031&s=review-rank&dc&qid=1677030103&rnid=15144007031&ref=sr_nr_p_n_condition-type_1&ds=v1%3AIoOM1hWyj1H87y%2FgG2OiLfBRqf68%2F8JU8Yj9TqNk8MQ",
+                "refinement_display_name": "Estado"
+            },
+            {
+                "name": "Usado",
+                "value": "p_n_condition-type/15144010031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=p_n_condition-type%3A15144010031&s=review-rank&dc&qid=1677030103&rnid=15144007031&ref=sr_nr_p_n_condition-type_2&ds=v1%3AHZ4uTjk3jx6dsJWM7TpKqYnceD%2FwFAFUpPz58E%2BMTUM",
+                "refinement_display_name": "Estado"
+            }
+        ],
+        "novedades": [
+            {
+                "name": "Últimos 30 días",
+                "value": "n:599370031||p_n_date_first_available_absolute/831288031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A599370031%2Cp_n_date_first_available_absolute%3A831288031&s=review-rank&dc&qid=1677030103&rnid=831273031&ref=sr_nr_p_n_date_first_available_absolute_1&ds=v1%3AstKFuol%2BXlnyeRPETB%2FK%2BDtnv25IznrBFPWrYZgr1kI",
+                "refinement_display_name": "Novedades"
+            },
+            {
+                "name": "Últimos 90 días",
+                "value": "n:599370031||p_n_date_first_available_absolute/831289031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=n%3A599370031%2Cp_n_date_first_available_absolute%3A831289031&s=review-rank&dc&qid=1677030103&rnid=831273031&ref=sr_nr_p_n_date_first_available_absolute_2&ds=v1%3A8TMMU6tv4v9LxkqTxVe2IjdddCgCjqb2BKtoFfyLuog",
+                "refinement_display_name": "Novedades"
+            }
+        ],
+        "envio_internacional": [
+            {
+                "name": "Envío internacional elegible",
+                "value": "p_n_shipping_option-bin/2019494031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=p_n_shipping_option-bin%3A2019494031&s=review-rank&dc&qid=1677030103&rnid=2019493031&ref=sr_nr_p_n_shipping_option-bin_1&ds=v1%3AUymorPT5rGPqELktgIlqfr6j1pu0RsXpA7ryFEjic%2FY",
+                "refinement_display_name": "Envio Internacional"
+            }
+        ],
+        "disponibilidad": [
+            {
+                "name": "Incluir no disponibles",
+                "value": "p_n_availability/831279031",
+                "link": "https://www.amazon.es/s?k=auriculares&rh=p_n_availability%3A831279031&s=review-rank&dc&qid=1677030103&rnid=831270031&ref=sr_nr_p_n_availability_2&ds=v1%3A5%2BanJefsMqC%2BAQCfCSnYBrdKwNXNaryc1MPbywuuDw8",
+                "refinement_display_name": "Disponibilidad"
+            }
+        ]
+    },
+    "ad_blocks": [
+        {
+            "campaign_id": "20018261092398",
+            "brand_logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/4b9aa682-7df7-4120-953d-f6e61723d954._CR0,0,800,752_AC_SX130_SY60_QL70_.png",
+            "background_image": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/be1d2779-1d2f-4035-83a3-4105ab595f8e._CR0,92,1280,670_SX507_QL70_.jpg",
+            "advertiser_id": "20092680955198",
+            "ad_id": "20092680955198",
+            "link": "https://aax-eu.amazon.es/x/c/RMrhlBud15_029dbsNMn_yUAAAGGdsiaIwMAAAH2AQBOL0EgICAgICAgICAgICBOL0EgICAgICAgICAgICBdPoGq/https://www.amazon.es/stores/page/57180E5B-C163-46A4-814B-228D19373FEB/?_encoding=UTF8&store_ref=SB_A0030762VT2BFPD5I6XI&pd_rd_plhdr=t&aaxitk=51496e95147aef344460937136e77e05&hsa_cr_id=0&lp_asins=B0B1SQ3VTQ%2CB0B1SQNMCD%2CB0B1SQQF9H&lp_query=auriculares&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_lsi4d_bkgd&pd_rd_w=Fctw9&content-id=amzn1.sym.d56bd7dc-0da8-417d-b629-bd80c703eb1c%3Aamzn1.sym.d56bd7dc-0da8-417d-b629-bd80c703eb1c&pf_rd_p=d56bd7dc-0da8-417d-b629-bd80c703eb1c&pf_rd_r=K9Z3SXD6RTSY89F60CK2&pd_rd_wg=QLEBL&pd_rd_r=34004932-3e20-4fc8-acca-6e6cece3c96b",
+            "title": "El sonido que se adapta a ti",
+            "store_link": "https://www.amazon.es/stores/page/57180E5B-C163-46A4-814B-228D19373FEB/?_encoding=UTF8&store_ref=SB_A0030762VT2BFPD5I6XI&pd_rd_plhdr=t&aaxitk=51496e95147aef344460937136e77e05&hsa_cr_id=0&lp_asins=B0B1SQ3VTQ%2CB0B1SQNMCD%2CB0B1SQQF9H&lp_query=auriculares&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_lsi4d_cta&pd_rd_w=Fctw9&content-id=amzn1.sym.d56bd7dc-0da8-417d-b629-bd80c703eb1c%3Aamzn1.sym.d56bd7dc-0da8-417d-b629-bd80c703eb1c&pf_rd_p=d56bd7dc-0da8-417d-b629-bd80c703eb1c&pf_rd_r=K9Z3SXD6RTSY89F60CK2&pd_rd_wg=QLEBL&pd_rd_r=34004932-3e20-4fc8-acca-6e6cece3c96b",
+            "store_id": "57180E5B-C163-46A4-814B-228D19373FEB",
+            "store_name": "Descúbrelo JBL ES",
+            "products": [
+                {
+                    "asin": "B0B1SQ3VTQ",
+                    "link": "https://www.amazon.es/dp/B0B1SQ3VTQ",
+                    "image": "https://m.media-amazon.com/images/I/61fUWn3K1RL._AC_SR160,134_QL70_.jpg",
+                    "title": "Auriculares JBL Live Pro 2 TWS, auriculares In Ear Bluetooth con cancelación de ruido, 40h de batería, 6 micrófonos, control táctil, resistentes al agua IPX5, Dual Connect & Sync, color azul",
+                    "is_prime": true,
+                    "rating": 4.5,
+                    "ratings_total": 154
+                },
+                {
+                    "asin": "B0B1SQNMCD",
+                    "link": "https://www.amazon.es/dp/B0B1SQNMCD",
+                    "image": "https://m.media-amazon.com/images/I/51mbxnpXVVL._AC_SR160,134_QL70_.jpg",
+                    "title": "Auriculares JBL Live Pro 2 TWS, auriculares In Ear Bluetooth con cancelación de ruido, 40h de batería, 6 micrófonos, control táctil, resistentes al agua IPX5, Dual Connect & Sync, color plata",
+                    "is_prime": true,
+                    "rating": 4.5,
+                    "ratings_total": 135
+                },
+                {
+                    "asin": "B0B1SQQF9H",
+                    "link": "https://www.amazon.es/dp/B0B1SQQF9H",
+                    "image": "https://m.media-amazon.com/images/I/51dahaSMMDL._AC_SR160,134_QL70_.jpg",
+                    "title": "Auriculares JBL Live Pro 2 TWS, auriculares In Ear Bluetooth con cancelación de ruido, 40h de batería, 6 micrófonos, control táctil, resistentes al agua IPX5, Dual Connect & Sync, color rosa",
+                    "is_prime": true,
+                    "rating": 4.5,
+                    "ratings_total": 62
+                }
+            ]
+        }
+    ]
+}

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang='es'>
+
 <head>
     <meta charset='UTF-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
@@ -9,12 +10,17 @@
 
     <?php foreach ($styles as $style) {
         print_r($style);
-    }?>
+    } ?>
 
 </head>
-<body>
 
-    <?php cabecera(); ?>
+<body>
+    <audio src='./public/audio/musica_tienda.mp3'>
+        Tu navegador no soporta el elemento <code>audio</code>.
+    </audio>
+    <button id='audio'><i class='fa-solid fa-play'></i></button>
+
+    <?php cabecera($buscador, $extras); ?>
 
     <?php mainContent($data); ?>
 
@@ -22,6 +28,7 @@
 
     <?php foreach ($scripts as $script) {
         print_r($script);
-    }?>    
+    } ?>
 </body>
+
 </html>

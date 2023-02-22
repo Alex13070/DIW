@@ -14,7 +14,7 @@ array_push(
     $scripts,
 );
 
-$data['productos'] = json_decode(file_get_contents('./busqueda.json'))->search_results;
+$data['productos'] = json_decode(file_get_contents('./telefonos.json'))->search_results;
 
 ?>
 
@@ -27,7 +27,7 @@ $data['productos'] = json_decode(file_get_contents('./busqueda.json'))->search_r
                         <div class='col'>
                             <div class='card shadow-sm'>
                                 <div class='card-img-top imagen'>
-                                    <img class='' src='<?= $element->image ?>' alt='Imagen de noticia'>
+                                    <img class='' src='<?= $element->image ?>' alt='<?= $element->title ?>'>
                                 </div>
                                 <div class='card-body'>
                                     <h4 class='card-title texto'><?= $element->title ?></h4>

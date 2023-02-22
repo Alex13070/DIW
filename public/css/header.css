@@ -9,7 +9,7 @@ body {
     background-color: #212529;
 }
 
-.topnav .nav-item {
+.topnav .item-navegador {
     display: block;
     color: #f2f2f2;
     text-align: center;
@@ -56,7 +56,7 @@ body {
         top: 0;
     }
 
-    .topnav.responsive .nav-item, .topnav.responsive .barra-buscadora{
+    .topnav.responsive .item-navegador, .topnav.responsive .barra-buscadora{
         float: none;
         display: block;
         text-align: left;
@@ -91,14 +91,14 @@ body {
     height: 50px;
 }
 
-.nav-item > div > a {
+.item-navegador > div > a {
     padding: 0px 15px 0px 15px;
     text-decoration: none;
     color: white;
 }
 
-.nav-item,
-.nav-item>a {
+.item-navegador,
+.item-navegador>a {
     justify-content: center;
     align-items: center;
     height: 60px;

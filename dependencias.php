@@ -1,6 +1,13 @@
 <?php 
 
+session_start();
+
+$_SESSION['iniciada'] = true;
+
 $titulo = "";
+
+$buscador = true;
+$extras = true;
 
 $tabLogo = "<link rel='website icon' type='png' href='./public/img/logo_final.png'>";
 
@@ -11,7 +18,8 @@ $styles = [
 
 $scripts = [
     "<script src='./public/js/fontAwesome.js'></script>",
-    "<script src='./public/js/bootstrap.min.js'></script>"
+    "<script src='./public/js/bootstrap.min.js'></script>",
+    "<script src='./public/js/audio.js'></script>",
 ];
 
 $data = [];

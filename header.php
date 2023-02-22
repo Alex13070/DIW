@@ -10,49 +10,64 @@ array_push(
     $scripts,
     "<script src='./public/js/script.js'></script>"
 );
-function cabecera() { ?>
+function cabecera(bool $buscador, bool $extras) { ?>
 <header>
     <nav class="topnav" id="myTopnav">
-        <div class="nav-item align-left">
+        <div class="item-navegador align-left">
             <div class="centrar-nav">
                 <a href="<?= index ?>"><img class="logo" src="./public/img/logo_final_sin_fondo.png" alt="logo"></a>
             </div>
         </div>
 
-        <div class="nav-item centro">
-            <div class="centrar-nav ">
-                <div class="caja-buscador">
-                    <form action="<?= buscar ?>" method="get" class="buscador">
-                        <input id="search" type="search" placeholder="Escriba el producto que quiere buscar" autofocus required name="busqueda"/>
-                        <button class="buscador-enviar" type="submit"><i class="fa fa-search text-white icono-buscar"></i></button>
-                    </form>
+        <?php if ($buscador) { ?>
+            <div class="item-navegador centro">
+                <div class="centrar-nav ">
+                    <div class="caja-buscador">
+                        <form action="<?= buscar ?>" method="get" class="buscador">
+                            <input id="search" type="search" placeholder="Escriba el producto que quiere buscar" autofocus required name="busqueda"/>
+                            <button class="buscador-enviar" type="submit"><i class="fa fa-search text-white icono-buscar"></i></button>
+                        </form>
+                    </div>
                 </div>
             </div>
-        </div>
+        <?php } ?>
 
-        <div class="nav-item align-left">
-            <div class="centrar-nav">
-                <a href="<?= carrito ?>"><i class="fas fa-shopping-cart"></i></a>
-            </div>
-        </div>
+        <?php if ($extras) { ?>
 
-        <div class="nav-item align-right">
-            <div class="centrar-nav">
-                <a href="<?= registro ?>">Registrate</a>
-            </div>
-        </div>
+            <?php if ($_SESSION['iniciada']) { ?>
+                <div class="item-navegador align-right">
+                    <div class="centrar-nav">
+                        <a href="<?= carrito ?>">Cerrar sesión</i></a>
+                    </div>
+                </div>
 
-        <div class="nav-item align-right">
-            <div class="centrar-nav">
-                <a href="<?= login ?>">Inicia sesión</a>
-            </div>
-        </div>
+                <div class="item-navegador align-right">
+                    <div class="centrar-nav">
+                        <a href="<?= carrito ?>"><i class="fas fa-shopping-cart"></i></a>
+                    </div>
+                </div>
+            <?php } else { ?>
+                <div class="item-navegador align-right">
+                    <div class="centrar-nav">
+                        <a href="<?= registro ?>">Registrate</a>
+                    </div>
+                </div>
 
-        <div class="icon nav-item">
-            <div class="centrar-nav">
-                <button class="boton-menu-responsive" onclick="javascript:responsiveHeader()"><i class="fa fa-bars"></i></button>
+                <div class="item-navegador align-right">
+                    <div class="centrar-nav">
+                        <a href="<?= login ?>">Inicia sesión</a>
+                    </div>
+                </div>
+            <?php }?>
+        <?php } ?>
+
+        <?php if ($extras || $buscador) { ?>
+            <div class="icon item-navegador">
+                <div class="centrar-nav">
+                    <button class="boton-menu-responsive" onclick="javascript:responsiveHeader()"><i class="fa fa-bars"></i></button>
+                </div>
             </div>
-        </div>
+        <?php } ?>
     </nav>
 </header>
 <?php }?>

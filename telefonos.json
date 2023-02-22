@@ -34,6 +34,50 @@
     "search_results": [
         {
             "position": 1,
+            "title": "Apple iPhone 14 (128 GB) - Negro Noche 128GB Negro Noche",
+            "asin": "B0B8HG8W8Y",
+            "link": "https://m.media-amazon.com/images/I/61cwywLZR-L._AC_SL1500_.jpg",
+            "categories": [
+                {
+                    "name": "Todos los departamentos",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61cwywLZR-L._AC_SL1500_.jpg",
+            "is_prime": true,
+            "rating": 5,
+            "ratings_total": 19,
+            "prices": [
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 679,
+                    "raw": "€679,00",
+                    "name": "679,00 €",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "€",
+                    "currency": "EUR",
+                    "value": 799,
+                    "raw": "€799,00",
+                    "name": "679,00 €",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "€",
+                "currency": "EUR",
+                "value": 899,
+                "raw": "€899,00",
+                "name": "899,00 €",
+                "is_primary": true
+            },
+            "page": "1",
+            "position_overall": 1
+        },
+        {
+            "position": 1,
             "title": "OPPO Reno8 Pro 5G - Teléfono Móvil Libre, 8GB+256GB, Cámara 50+8+2+32MP, Smartphone Android, Batería 4500mAh, Carga Rápida 80W, Dual SIM - Verde",
             "asin": "B0B8HG8W8Y",
             "link": "https://www.amazon.es/OPPO-Reno8-Pro-5G-Smartphone/dp/B0B8HG8W8Y/ref=sr_1_1?keywords=telefono+movil&qid=1676847136&sr=8-1",
@@ -1591,50 +1635,6 @@
             "ratings_total": 1066,
             "page": "1",
             "position_overall": 47
-        },
-        {
-            "position": 48,
-            "title": "Panasonic KX-TU446EXR Teléfono Móvil Para Personas Mayores (Resistente a Golpes, Cámara, Incluye Auriculares y Cargador, Indicador LED) - Granate",
-            "asin": "B08457Z9Q7",
-            "link": "https://www.amazon.es/Panasonic-KX-TU446EXR-Resistente-Auriculares-Indicador/dp/B08457Z9Q7/ref=sr_1_48?keywords=telefono+movil&qid=1676847136&sr=8-48",
-            "categories": [
-                {
-                    "name": "Todos los departamentos",
-                    "id": "aps"
-                }
-            ],
-            "image": "https://m.media-amazon.com/images/I/61l-Tff9C9L._AC_UL320_.jpg",
-            "is_prime": true,
-            "rating": 4.4,
-            "ratings_total": 1011,
-            "prices": [
-                {
-                    "symbol": "€",
-                    "currency": "EUR",
-                    "value": 64.9,
-                    "raw": "€64,90",
-                    "name": "64,90 €",
-                    "is_primary": true
-                },
-                {
-                    "symbol": "€",
-                    "currency": "EUR",
-                    "value": 69.9,
-                    "raw": "€69,90",
-                    "name": "64,90 €",
-                    "is_rrp": true
-                }
-            ],
-            "price": {
-                "symbol": "€",
-                "currency": "EUR",
-                "value": 64.9,
-                "raw": "€64,90",
-                "name": "64,90 €",
-                "is_primary": true
-            },
-            "page": "1",
-            "position_overall": 48
         }
     ],
     "category_information": {
